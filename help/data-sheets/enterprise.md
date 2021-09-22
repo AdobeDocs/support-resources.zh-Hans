@@ -2,9 +2,9 @@
 title: 企业支持
 description: Adobe Experience Cloud 企业支持服务增强了支持服务水平目标 (SLT)，提供的权益包括技术专业知识以及配备指定的支持工程师作为布道师。
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
+source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1199'
 ht-degree: 95%
 
 ---
@@ -344,7 +344,6 @@ Launch Advisory 将通过常见里程碑（启动、定义、设计、上线和�
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>语言支持只有英语和日语版本。</i></p>
-      <p><i>Adobe Commerce 不包括日语支持。</i></p>
       <p><i>P2、P3、P4案例仅限在日本工作时间。</i></p>
     </td>
   </tr>
