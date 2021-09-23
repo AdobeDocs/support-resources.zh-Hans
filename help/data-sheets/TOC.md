@@ -1,10 +1,10 @@
 ---
 user-guide-title: 支持资源
-user-guide-description: 支持Adobe Experience Cloud和Adobe Experience Platform。
+user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的支持资源。
 source-git-commit: 423424dc139e162d1abd71b91e3c579fc14ea1d4
 workflow-type: tm+mt
 source-wordcount: '32'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
@@ -12,12 +12,12 @@ ht-degree: 9%
 # 支持资源 {#data-sheets}
 
 + [概述](overview.md)
-+ 支持服务{#data-sheets}
-   + [联机](online.md)
++ 支持服务 {#data-sheets}
+   + [在线](online.md)
    + [商业](business.md)
    + [企业](enterprise.md)
-   + [精英](elite.md)
-+ [“条款和条件”页](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
+   + [高级](elite.md)
++ [“条款和条件”页面](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
 <!--
 

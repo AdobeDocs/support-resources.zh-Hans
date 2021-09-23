@@ -1,30 +1,30 @@
 ---
 title: 支持服务概述
-description: 本文概述了Adobe Experience Cloud的客户支持选项。 这些选项包括“在线”、“商业”、“企业”和“精英”。
+description: 本文概述了 Adobe Experience Cloud 的客户支持选项。这些选项包括在线、商业、企业和高级。
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
 source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 # 支持服务概述
 
-Adobe Experience Cloud客户支持组织致力于助您取得成功。 所有订购都包括一个支持级别，以便轻松获得我们高技能的技术援助资源。
+Adobe Experience Cloud 客户支持部门致力于帮助您获得成功。所有订阅都包含某个级别的支持，可让您轻松联系我们娴熟精湛的技术人员以获得技术援助。
 
-为了满足更全面的需求，我们提供Adobe支持服务，包括访问指定的支持专业人员、加快服务级别响应目标，以及主动指导和服务审查会议。 无论您的支持需求多么复杂，Adobe都会提供所需的技术和操作专业知识，帮助您从Adobe解决方案中实现最佳性能和最佳价值。
+为了满足更全面的需求，我们提供了 Adobe 支持服务，包括联系指定的支持专业人员、了解加速服务级别响应目标以及参加有关主动指导和服务审查的研讨会。无论您的支持需求有多么复杂，Adobe 都能提供所需的技术和运营专业知识，帮助您利用 Adobe 解决方案实现最高绩效和最大价值。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="online.md">
-    <img alt="联机" src="assets/OnlineSupportThumbnail.png"/>
+    <img alt="在线" src="assets/OnlineSupportThumbnail.png"/>
     </a>
     <div>
-    <a href="online.md"><strong>在线支持</strong></a> (查 <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">看PDF</a>)
+    <a href="online.md"><strong>在线支持</strong></a>（查看 <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a>）
     </div>
-    <p>对电话支持的访问有限</p>
+    <p>有限的电话支持</p>
     <br>
   </td>
   <td>
@@ -32,9 +32,9 @@ Adobe Experience Cloud客户支持组织致力于助您取得成功。 所有订
       <img alt="商业" src="assets/BusinessSupportThumbnail.png">
     </a>
     <div>
-    <a href="business.md"><strong>业务支持</strong></a> (查 <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">看PDF</a>)
+    <a href="business.md"><strong>商业支持</strong></a>（查看 <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a>）
     </div>
-    <p>完全访问Adobe的技术支持团队和客户支持主管以进行帐户管理</p>
+    <p>全方位联系 Adobe 技术支持团队和帐户支持主管，以便进行帐户管理</p>
     <br>
   </td>
 </tr>
@@ -44,19 +44,19 @@ Adobe Experience Cloud客户支持组织致力于助您取得成功。 所有订
     <img alt="企业" src="assets/EnterpriseSupportThumbnail.png"/>
     </a>
     <div>
-    <a href="enterprise.md"><strong>企业支持</strong></a> (查 <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">看PDF</a>)
+    <a href="enterprise.md"><strong>企业支持</strong></a>（查看 <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a>）
     </div>
-    <p>增强的支持服务级别目标(SLT)、技术专业知识的好处，以及以指定支持工程师的形式的倡导者</p>
+    <p>增强的支持服务水平目标 (SLT)，提供的权益包括技术专业知识以及配备指定支持工程师作为布道师</p>
     <br>
   </td>
   <td>
     <a href="elite.md">
-      <img alt="精英" src="assets/EliteSupportThumbnail.png">
+      <img alt="高级" src="assets/EliteSupportThumbnail.png">
     </a>
     <div>
-    <a href="elite.md"><strong>精英支持</strong></a> (查 <a href="assets/EliteSupportDatasheet.pdf" target="_blank">看PDF</a>)
+    <a href="elite.md"><strong>高级支持</strong></a>（查看 <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>）
     </div>
-    <p>一流的服务级别目标(SLT)、主动预防性支持以及与技术客户经理和指定支持工程师的合作</p>
+    <p>同类最佳的服务水平目标 (SLT)、主动支持以及与技术客户经理和指定支持工程师开展合作</p>
     <br>
   </td>
 </tr>
