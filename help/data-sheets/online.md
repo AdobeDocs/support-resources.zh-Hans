@@ -2,9 +2,9 @@
 title: 在线支持
 description: Adobe Experience Cloud 在线支持服务提供有限的电话支持。
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
-workflow-type: ht
-source-wordcount: '758'
+source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
+workflow-type: tm+mt
+source-wordcount: '757'
 ht-degree: 100%
 
 ---
@@ -31,7 +31,7 @@ Adobe Experience Cloud 在线支持服务提供有限的电话支持。
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">Adobe 支持级别 ($)</td>
+    <td colspan="3">付费支持 ($)</td>
   </tr>
   <tr>
     <td rowspan="3">分配的专家<br></td>

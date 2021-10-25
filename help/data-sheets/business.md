@@ -2,8 +2,8 @@
 title: 商业支持
 description: 通过 Adobe Experience Cloud 商业支持服务，可以联系 Adobe 技术支持团队和帐户支持主管，以便进行帐户管理。
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
-workflow-type: ht
+source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
+workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ ht-degree: 100%
     <td></td>
     <td></td>
     <td></td>
-    <td>Adobe 支持 ($)</td>
+    <td>付费支持 ($)</td>
   </tr>
   <tr>
     <td rowspan="3">分配的专家<br></td>
