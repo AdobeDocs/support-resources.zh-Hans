@@ -1,10 +1,10 @@
 ---
 title: Experience Cloud 客户支持指南
 description: 本客户支持指南可帮助您熟悉我们的 Experience Cloud 支持产品、计划、服务、程序，并告诉您如何在全球范围内联系我们。
-source-git-commit: a61b2a003aba811899ff7d28da91f0f955384e30
-workflow-type: ht
-source-wordcount: '134'
-ht-degree: 100%
+source-git-commit: cfaa968064b814ebb41d433e79c0217d605fd612
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -14,4 +14,4 @@ ht-degree: 100%
 
 我们致力于通过提供行业领先的世界一流的服务和支持，来确保您取得成功。我们的理念很简单：我们是客户代言人。我们的支持团队由来自不同行业和技术背景的专业人士组成；他们在技术管理方面经验丰富，并且对我们广泛的软件组合具备全面的了解。创建本支持指南的初衷是，帮助您熟悉我们的支持产品、计划、服务、程序，并告诉您如何在全球范围内联系我们。
 
-[查看支持指南 PDF](assets/Experience-Cloud-Customer-Support-Guide.pdf)
+[查看支持指南 PDF](assets/ExperienceCloudCustomerSupportGuide.pdf)
