@@ -3,7 +3,7 @@ title: 企业支持
 description: Adobe Experience Cloud 企业支持服务增强了支持服务水平目标 (SLT)，提供的权益包括技术专业知识以及配备指定的支持工程师作为布道师。
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
 source-git-commit: 1fd2098e2065def561147cd99dbed18c3d94cde8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1192'
 ht-degree: 100%
 
