@@ -1,25 +1,25 @@
 ---
-title: 在线支持
+title: 标准支持
 description: Adobe Experience Cloud 在线支持服务提供有限的电话支持。
-source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
+source-git-commit: 98f2b1e3bbfa2ad2f1177f5ddd5131ef907407b2
 workflow-type: tm+mt
-source-wordcount: '757'
-ht-degree: 100%
+source-wordcount: '846'
+ht-degree: 86%
 
 ---
 
-# 在线支持
+# 标准支持
 
 ![图标](assets/OnlineBanner.png)
 
-Adobe Experience Cloud 在线支持服务提供有限的电话支持。
+Adobe提供了全面的技术资源，以帮助支持作为Adobe企业订阅一部分的您的业务。 标准支持包括全天候访问我们的自助支持资源，包括有关HelpX的文章以及与Adobe社区的其他客户的接触。 您可以利用我们在http://www.adobe.com上发布的详细且深入的产品技术文档和最新发行说明。 我们的标准支持还包括通过聊天或电话向技术支持团队提供全天候授权用户（管理员）访问权限，以及通过我们的支持网站门户记录寻求帮助的请求。
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>在线支持</th>
+    <th>标准支持</th>
     <th>商业支持</th>
     <th>企业支持</th>
     <th>高级支持</th>
@@ -30,7 +30,7 @@ Adobe Experience Cloud 在线支持服务提供有限的电话支持。
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">付费支持 ($)</td>
+    <td colspan="3">付费支持级别($)</td>
   </tr>
   <tr>
     <td rowspan="3">分配的专家<br></td>
@@ -56,7 +56,7 @@ Adobe Experience Cloud 在线支持服务提供有限的电话支持。
   </tr>
   <tr>
     <td rowspan="12">支持服务</td>
-    <td>在线支持</td>
+    <td>标准支持</td>
     <td>营业时间</td>
     <td>营业时间</td>
     <td>24x5</td>
