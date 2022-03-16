@@ -1,15 +1,15 @@
 ---
-title: Experience Cloud支持服务概述
-description: 本文概述了 Adobe Experience Cloud 的客户支持选项。这些选项包括在线、商业、企业和高级。
+title: Experience Cloud 支持服务概述
+description: 本文概述了 Adobe Experience Cloud 的客户支持选项。这些选项包括在线、商业、企业和 Elite。
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
 source-git-commit: 98e65227b9a988b32bdfb32a8c371f2474ea4ac5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '200'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
-# Experience Cloud支持服务概述
+# Experience Cloud 支持服务概述
 
 Adobe Experience Cloud 客户支持部门致力于帮助您获得成功。所有订阅都包含某个级别的支持，可让您轻松联系我们娴熟精湛的技术人员以获得技术援助。
 
@@ -51,10 +51,10 @@ Adobe Experience Cloud 客户支持部门致力于帮助您获得成功。所有
   </td>
   <td>
     <a href="elite.md">
-      <img alt="高级" src="assets/EliteSupportThumbnail.png">
+      <img alt="Elite" src="assets/EliteSupportThumbnail.png">
     </a>
     <div>
-    <a href="elite.md"><strong>高级支持</strong></a>（查看 <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>）
+    <a href="elite.md"><strong>Elite 支持</strong></a>（查看 <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>）
     </div>
     <p>同类最佳的服务水平目标 (SLT)、主动支持以及与技术客户经理和指定支持工程师开展合作</p>
     <br>
