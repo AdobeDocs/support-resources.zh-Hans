@@ -2,7 +2,7 @@
 title: 高级支持
 description: Adobe Experience Cloud 高级支持服务提供同类最佳的服务水平目标 (SLT) 和主动支持，并且让客户能够与技术客户经理和指定支持工程师开展合作。
 source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1362'
 ht-degree: 100%
 
