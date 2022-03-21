@@ -2,9 +2,9 @@
 title: 标准支持
 description: Adobe Experience Cloud 在线支持服务提供有限的电话支持。
 source-git-commit: 98f2b1e3bbfa2ad2f1177f5ddd5131ef907407b2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '846'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -12,7 +12,7 @@ ht-degree: 86%
 
 ![图标](assets/OnlineBanner.png)
 
-Adobe提供了全面的技术资源，以帮助支持作为Adobe企业订阅一部分的您的业务。 标准支持包括全天候访问我们的自助支持资源，包括有关HelpX的文章以及与Adobe社区的其他客户的接触。 您可以利用我们在http://www.adobe.com上发布的详细且深入的产品技术文档和最新发行说明。 我们的标准支持还包括通过聊天或电话向技术支持团队提供全天候授权用户（管理员）访问权限，以及通过我们的支持网站门户记录寻求帮助的请求。
+Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。标准支持包括全天均可访问我们的自助支持资源（包括 HelpX 上的文章）以及在 Adobe 社区上与其他客户交流。可充分利用我们在 http://www.adobe.com 上发布的详细而深入的技术产品文档和当前版本发行说明。我们的标准支持还包括授权用户（管理员）全天均可通过聊天或电话联系我们的技术支持团队，并可通过我们的支持门户网站记录对协助的申请。
 
 <table>
 <thead>
@@ -30,7 +30,7 @@ Adobe提供了全面的技术资源，以帮助支持作为Adobe企业订阅一�
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">付费支持级别($)</td>
+    <td colspan="3">付费支持级别 ($)</td>
   </tr>
   <tr>
     <td rowspan="3">分配的专家<br></td>
