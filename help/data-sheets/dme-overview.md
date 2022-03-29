@@ -3,13 +3,13 @@ title: Creative Enterprise 和 Document Cloud 支持服务概述
 description: 本文概述 Adobe Creative Cloud 和 Document Cloud 的客户支持选项。这些选项包括标准、商业、企业和 Elite。
 exl-id: e3c762b9-d4b3-4248-b1c1-8212a763b4c5
 source-git-commit: 6e3accaab1360993295e9ee4ab88d55d3e7b744e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '285'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Creative Cloud企业和Document Cloud支持服务
+# Creative Cloud Enterprise 和 Document Cloud 支持服务
 
 Adobe Creative Cloud 和 Document Cloud 客户支持组织致力于帮助您获得成功。所有应用程序都包括某个级别的支持，可让您轻松联系我们娴熟精湛的技术人员以获得技术援助。
 
@@ -22,7 +22,7 @@ Adobe Creative Cloud 和 Document Cloud 客户支持组织致力于帮助您获�
     <img alt="标准" src="assets/STANDARDSupportThumbnailCC.png"/>
     </a>
     <div>
-    <a href="dme-standard.md"><strong>标准支持</strong></a> (查看 <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
+    <a href="dme-standard.md"><strong>标准支持</strong></a>（查看 <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>）
     </div>
     <p>授权用户（管理员）全天均可通过聊天或电话联系我们的技术支持团队，并可通过我们的支持门户网站记录对协助的申请。 </p>
     <br>
@@ -56,7 +56,7 @@ Adobe Creative Cloud 和 Document Cloud 客户支持组织致力于帮助您获�
     <div>
     <a href="dme-elite.md"><strong>Elite 支持</strong></a>（查看 <a href="assets/DMeEliteSupportDatasheet_2022.pdf" target="_blank">PDF</a>）
     </div>
-    <p>Adobe 支持团队中指定的技术联系人以及技术客户经理与您通力合作以提供一流的主动支持，以确保您的投资发挥最大作用并帮助您在发生问题之前避免这些问题。</p>
+    <p>Adobe 支持团队中指定的技术联系人以及技术客户经理与您通力合作以提供同类最佳的主动支持，以确保您的投资发挥最大作用并帮助您在发生问题之前避免这些问题。</p>
     <br>
   </td>
 </tr>
