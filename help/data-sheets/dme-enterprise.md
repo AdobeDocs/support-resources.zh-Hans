@@ -1,22 +1,22 @@
 ---
-title: 企业支持Creative Cloud和Adobe Document Cloud
-description: Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。这在企业支持计划中得到了增强。
+title: 对 Creative Cloud 和 Adobe Document Cloud 的企业支持
+description: Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。企业支持计划强化了此种支持。
 source-git-commit: 39439be547c3359739857f540e38203d938d72cb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '933'
-ht-degree: 44%
+ht-degree: 100%
 
 ---
 
-# 企业支持Creative Cloud和Adobe Document Cloud
+# 对 Creative Cloud 和 Adobe Document Cloud 的企业支持
 
 ![图标](assets/EnterpriseBanner.png)
 
-Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。这在企业支持计划中得到了增强。 企业客户将从我们的指定支持工程师服务中受益，在该服务中，Adobe支持团队中具有深入解决方案经验的指定技术联系人将与您和您的技术团队合作，确保及时解决所有支持请求。
+Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。企业支持计划强化了此种支持。企业客户将得益于我们的指定支持工程师服务，在该服务中，Adobe 支持团队中对您的解决方案拥有丰富经验的指定技术联系人将与您和您的技术团队通力合作以确保及时解决所有支持请求。
 
-您的支持团队还可以帮助协调和安排提供额外的企业优势，确保在最关键时间将业务中断降至最低。 企业支持计划客户还可以利用我们详细和深入的产品技术文档和最新发行说明。
+您的支持团队还可以帮助协调和安排其他企业权益的交付，确保在最关键的时刻对业务造成的干扰最小。企业支持计划客户还可以使用我们详细而深入的技术产品文档和最新发行说明。
 
-[查看PDF版本](assets/DMeEnterpriseSupportDatasheet_2022.pdf)
+[查看 PDF 版本](assets/DMeEnterpriseSupportDatasheet_2022.pdf)
 
 <table>
 <thead>
@@ -57,12 +57,12 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
     <td>✔</td>
   </tr>
   <tr>
-    <td>通过聊天/电话全天候支持</td>
+    <td>全天候会话/电话支持</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Web案例提交</td>
+    <td>网络案例提交</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
@@ -72,7 +72,7 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
     <td>✔</td>
   </tr>
   <tr>
-    <td>加速确定问题优先级</td>
+    <td>已加快问题优先处理</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -87,14 +87,14 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
     <td>✔</td>
   </tr>
   <tr>
-    <td>地区内支持访问</td>
+    <td>区域内支持访问</td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
     <td>服务审查</td>
     <td></td>
-    <td>2年</td>
+    <td>2/年</td>
   </tr>
   <tr>
     <td>案例审查</td>
@@ -112,7 +112,7 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
     <td></td>
   </tr>
   <tr>
-    <td>其他指定支持联系人</td>
+    <td>其他指定的支持联系人</td>
     <td></td>
     <td></td>
   </tr>
@@ -122,12 +122,12 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
     <td></td>
   </tr>
   <tr>
-    <td>发行准备和规划</td>
+    <td>发布准备和规划</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>执行赞助商</td>
+    <td>执行发起人</td>
     <td></td>
     <td></td>
   </tr>
@@ -150,7 +150,7 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
   <tr>
     <td><strong>优先级 1</strong><br>客户的生产业务功能中断或发生重大数据丢失或服务降级，需要立即关注以恢复功能和可用性。</td>
     <td>全天候/<br>30 分钟</td>
-    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>为适用的Adobe产品和服务购买支持计划的客户将收到优先案例传送，以便快速跟踪Adobe支持工程师的案例。</td>
+    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>为适用的 Adobe 产品和服务购买支持计划的客户将获得优先级案例路由，可快速跟踪案例，并将其发送给 Adobe 的支持工程师。</td>
   </tr>
   <tr>
     <td><strong>优先级 2</strong><br>客户的业务功能发生重大服务降级或潜在数据丢失，或主要功能受到影响。</td>
@@ -158,7 +158,7 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
   </tr>
   <tr>
     <td><strong>优先级 3</strong><br>客户的业务功能发生轻微的服务降级，但有解决方案/解决方法可让业务功能继续正常工作。</td>
-    <td>工作日/<br>4小时</td>
+    <td>工作日/<br>4 小时</td>
   </tr>
   <tr>
     <td><strong>优先级 4</strong><br>有关当前产品功能或增强请求的常见问题。</td>
@@ -182,7 +182,7 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
     <img alt="优先级案例路由" src="assets/dmeprioritycaserouting.png"/>
     <div>
     <p><b>优先级案例路由</b></p>
-    <p>接收优先路由，以确保在已提交的案例中更快地连接到更高级的支持资源。</p>
+    <p>接收优先级路由，确保更快地连接到已提交案例的更高级支持资源。</p>
     </div>
   </td>
   <td>
@@ -195,24 +195,24 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
 </tr>
 <tr>
   <td>
-    <img alt="加速确定问题优先级" src="assets/dmeacceleratedissue.png"/>
+    <img alt="已加快问题优先处理" src="assets/dmeacceleratedissue.png"/>
     <div>
-    <p><b>加速确定问题优先级</b></p>
-    <p>通过与工程部门的协作，在支持案例工作上获得更高的优先次序。</p>
+    <p><b>已加快问题优先处理</b></p>
+    <p>通过促进与工程部门的合作，在支持案例工作上获得更高的优先级。</p>
     </div>
   </td>
   <td>
     <img alt="主动案例监控" src="assets/dmeproactivecasemonitoring.png"/>
     <div>
     <p><b>主动案例监控</b></p>
-    <p>Adobe内的指定联络点将积极监控未决案件，并采取主动预防性行动，确保及时解决。</p>
+    <p>Adobe 内的指定联系人会积极监控公开案列，并采取主动预防措施，确保及时解决问题。</p>
     </div>
   </td>
   <td>
     <img alt="案例审查" src="assets/dmecasereviews.png"/>
     <div>
     <p><b>案例审查</b></p>
-    <p>定期安排对开放式支持请求的审查，确保客户在案例描述、业务影响、状态、优先级和就确保及时解决所需的后续步骤达成一致。</p>
+    <p>定期审查开放支持请求，确保客户在案例描述、业务影响、状态、优先级以及确保及时解决所需的后续步骤方面达成一致。</p>
     </div>
   </td>
 </tr>
@@ -221,14 +221,14 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
     <img alt="服务审查" src="assets/dmeservicereviews.png"/>
     <div>
     <p><b>服务审查</b></p>
-    <p>对企业方案服务、好处和支持绩效进行全面的双年审查。 可与与Adobe一起进行的其他战略性业务审查相结合。</p>
+    <p>对企业计划服务、权益和支持表现进行一年两次的全面审查。可能与 Adobe 举办的其他战略性业务审查相结合。</p>
     </div>
   </td>
   <td>
-    <img alt="地区内支持访问" src="assets/dmeinregionsupportaccess.png"/>
+    <img alt="区域内支持访问" src="assets/dmeinregionsupportaccess.png"/>
     <div>
-    <p><b>地区内支持访问</b></p>
-    <p>获得您全球所在地区的Adobe支持团队成员的支持。 这可能包括在国家/地区和/或语言支持中。</p>
+    <p><b>区域内支持访问</b></p>
+    <p>从您所在的全球区域内 Adobe 支持团队成员处获得支持。这可能包括国内和/或语言支持。</p>
     </div>
   </td>
 </tr>
@@ -256,8 +256,8 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
     <img alt="实时聊天支持" src="assets/dmechat.png"/>
     <div>
     <p><b>聊天支持</b></p>
-    <p>授权用户（管理员）可以与Adobe支持部门一起启动聊天会话，以获取案例提交的答案和帮助</p>
-    <p><i>受当地时间限制。</i></p>
+    <p>授权用户（管理员）可以通过 Adobe 支持启动聊天会话以获取答案并帮助提交案例。</p>
+    <p><i>以当地时间为准。</i></p>
     </div>
   </td>
 </tr>
@@ -266,15 +266,15 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
     <img alt="电话支持" src="assets/dmephone.png"/>
     <div>
     <p><b>电话支持</b></p>
-    <p>授权用户（管理员）可通过电话致电Adobe支持，以获取案例提交的答案和帮助。</p>
-    <p><i>受当地时间限制。</i></p>
+    <p>授权用户（管理员）可以通过电话调用 Adobe 支持以获取答案并帮助提交案例。</p>
+    <p><i>以当地时间为准。</i></p>
     </div>
   </td>
   <td>
-    <img alt="Web Case" src="assets/dmewebcase.png"/>
+    <img alt="网络案例" src="assets/dmewebcase.png"/>
     <div>
-    <p><b>Web案例提交</b></p>
-    <p>授权用户（管理员）可以随时提交无限量的Web案例，以解决支持问题，以供我们的技术支持团队审核。</p>
+    <p><b>网络案例提交</b></p>
+    <p>授权用户（管理员）可以随时提交不限数量的网络案例，供技术支持团队审查支持问题。</p>
     </div>
   </td>
 </tr>
@@ -284,8 +284,8 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
 
 | 资源 | 描述 |
 |--- |--- |
-| [企业学习与支持](https://helpx.adobe.com/enterprise.html) | 企业学习与支持是Adobe客户可以找到自助教程、产品文档、讲师指导的培训、社区以及对选定Adobe Creative Cloud和文档产品的支持的地方。 |
-| [Adobe支持社区](https://community.adobe.com/) | Adobe支持社区是提问、寻找答案、向专家学习和分享您知识的场所。 |
+| [企业学习和支持](https://helpx.adobe.com/cn/enterprise.html) | 企业学习和支持为 Adobe 客户提供针对精选 Adobe Creative Cloud 和文档产品的自助教程、产品文档、讲师指导的培训、社区和技术支持。 |
+| [Adobe 支持社区](https://community.adobe.com/) | Adobe 支持社区是提出问题、找到答案、向专家学习和分享知识的场所。 |
 | [生产问题和系统中断](https://status.adobe.com/) | Status.adobe.com 传达在多租户环境中部署的所有 Adobe 产品和服务的运行状况信息。客户可以选择他们的订阅偏好设置，以便在 Adobe 创建、更新或处理产品事件时收到电子邮件通知。这可能包括严重性不同的定期维护或服务问题。 |
 | [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html) | 详细说明支持服务产品的条款和条件。 |
 
@@ -293,7 +293,7 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
 
 ## Adobe 支持的区域范围、当地营业时间和语言支持
 
-Adobe的当地工作时间与客户的账单区域保持一致。
+Adobe 的本地营业时间与客户的计费区域一致。
 
 <table>
 <thead>
@@ -313,7 +313,7 @@ Adobe的当地工作时间与客户的账单区域保持一致。
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup>美洲语言支持仅提供英语。</p>
+      <p><sup>1</sup>美洲语言支持仅提供英语版本。</p>
     </td>
   </tr>
 </tbody>
@@ -321,4 +321,4 @@ Adobe的当地工作时间与客户的账单区域保持一致。
 
 ![图标](assets/bottom-banner.png)
 
-*要进一步了解Adobe支持产品和适合您的级别，请联系您的指定客户经理(NAM)或客户成功经理(CSM)。*
+*要详细了解 Adobe 支持产品/服务和您的适当级别，请联系指定客户经理 (NAM) 或客户成功经理 (CSM)。*
