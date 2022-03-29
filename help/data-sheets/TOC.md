@@ -2,7 +2,7 @@
 user-guide-title: 支持资源
 user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的支持资源。
 source-git-commit: 3c8e4deceb51829b6224048c7618853c3d2b61fc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
    + [标准](dme-standard.md)
    + [商业](dme-business.md)
    + [企业](dme-enterprise.md)
-   + [精英](dme-elite.md)
+   + [Elite](dme-elite.md)
 + [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
 <!--
