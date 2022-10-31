@@ -1,41 +1,204 @@
 ---
-title: Adobe 支持概述
+title: Adobe支持计划概述
 description: 本文概述 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客户支持选项。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 98e65227b9a988b32bdfb32a8c371f2474ea4ac5
+source-git-commit: 9ca2588c66115a7bfb0a7749dac1782dfc767100
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 100%
+source-wordcount: '1990'
+ht-degree: 3%
 
 ---
 
-# Adobe 支持概述
+# Adobe支持计划概述
 
-Adobe 支持组织致力于助您成功。所有订阅都包含某个级别的支持，可让您轻松联系我们娴熟精湛的技术人员以获得技术援助。
-
-为了满足更全面的需求，我们提供 Adobe 支持服务，其中包括联系指定的支持专业人员以及用于主动指导和服务评价的会议。无论您的支持需求有多么复杂，Adobe 都能提供帮助您从 Adobe 解决方案取得佳绩和创造价值所需的技术和运营专业知识。
+Adobe支持计划不仅限于被动解决问题，还可为您提供新的个性化体验，使您的业务步骤领先于任何问题。 利用我们的深层技术专业知识和创新的支持模型，将提高您的技术性能，并帮助您实现Adobe解决方案的潜力。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="dx-overview.md">
-    <img alt="DX 支持" src="assets/ECthumbnail.png"/>
-    </a>
-    <div>
-    <a href="dx-overview.md"><strong>Experience Cloud 支持</strong></a>
-    </div>
-    <p>Experience Cloud 和 Experience Platform 产品的支持选项</p>
-    <br>
+    <p><strong>专家支持</strong></p>
   </td>
   <td>
-    <a href="dme-overview.md">
-      <img alt="商业" src="assets/CCDCThumbnail.png">
-    </a>
-    <div>
-    <a href="dme-overview.md"><strong>Creative Cloud 企业和文档支持</strong></a>
-    </div>
-    <p>Creative Cloud 和 Document Cloud 产品的支持选项</p>
-    <br>
+    <p><strong>最终支持</strong></p>
+  </td>
+</tr>
+<tr>
+  <td>
+    <p>借助专家支持计划，您可以全天候获得专家关怀，以获取关键业务问题的技术疑难解答和指导。 或者，您也可以通过利用我们的自我指导资源、独家的最佳实践，以及由Adobe专家和同行组成的在线社区，快速找到解决方案。</p><br>
+    <p><em>包含在所有Adobe Experience Cloud许可证中。</em></p>
+  </td>
+  <td>
+    <p>在最终支持计划中，您将体验到通过个性化、主动预防性专家关怀和指导提供的高度接触支持。 您的Adobe应用程序将由熟悉您的环境并专注于您的业务目标和解决方案运行状况的专家小组安全、一致地进行监控。</p>
   </td>
 </tr>
 </table>
+
+## 需要支持的目标初始响应时间
+
+| 优先级 | 定义 | 目标响应时间 — 专家支持 | 目标响应时间 — 最终支持 | 客户承诺 |
+|---|---|---|---|---|
+| P1 | **关键业务影响：** <br>客户的生产业务功能已停机或出现重大数据丢失或服务降级，恢复功能和可用性需要立即得到关注。 | 1 小时 | 15 分钟 | 客户承诺与Adobe客户支持部门持续、全天候地开展合作，直到得到缓解。 如果Adobe客户支持无法从指定支持联系人获取管理支持响应的关键信息，Adobe可能会将P1服务请求降低到较低的优先级级别。 |
+| P2 | **主要业务影响：** <br>客户的业务功能会导致重大服务降级或潜在数据丢失，或者主要功能受到影响。 | Adobe正常工作时间2小时 | Adobe地区工作时间为30分钟 | Adobe支持团队仅在Adobe的工作时间内与指定支持联系人联系。 如果Adobe客户支持无法从指定支持联系人获取管理支持响应的关键信息，Adobe可能会将P2服务请求降低到较低的优先级级别。 |
+| P3 | **业务影响最小：** <br>客户的业务功能会出现轻微的服务降级，但存在一个解决方案/解决方法，使业务功能能够正常继续。 | Adobe正常工作时间的4小时 | Adobe地区工作时间为1小时 | Adobe客户支持团队仅在Adobe的工作时间内联系指定支持联系人。 |
+| P4 | **没有业务影响：** <br>有关当前产品功能或增强请求的一般问题。 | 1个工作日 | 1个工作日 | Adobe客户支持团队仅在Adobe的工作时间内联系指定支持联系人。 |
+
+{style=&quot;table-layout:auto&quot;}
+
+## 主要功能
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <p><strong>专家支持</strong></p>
+  </td>
+  <td>
+    <p><strong>最终支持</strong></p>
+  </td>
+</tr>
+<tr>
+  <td>
+    <ul>
+      <li><strong>即时在线支持</strong> -(24x7)通过聊天或网站门户 </li>
+      <li><strong>电话支持</strong>  — 全天候支持P1紧急情况，为P2/P3/P4提供工作时间支持 </li>
+      <li><strong>指导式学习资源</strong>  — 通过产品文档、潜在案例解决方案、故障诊断视频和最佳实践，探索我们的知识中心、Experience League并扩展您的知识。 </li>
+      <li><strong>经验丰富的团队和群方法</strong>  — 全球团队采用“Pod”结构，来自不同背景的专家聚集在一起，以最快速地解决任何特定问题。 </li>
+      <li><strong>无限制的支持请求</strong>  — 与专家联系，获取无限数量的问题，使用主动警报管理中断，并通过优先级案例升级管理更快地解决问题。</li>
+      <li><strong>事件规划（可选附加组件）</strong>  — 专家对您的环境进行审查和报告，为准备重要的高流量事件提供指导和支持</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li><strong>指定的技术客户经理和支持服务经理</strong>  — 指派的专家跨解决方案编排整体的个性化支持体验，支持反馈和问题，协调常规服务审查，并对关键服务中断提供个性化分析。 </li>
+      <li><strong>主动的技术和运营服务 </strong>  — 获得主动指导，如服务提供规划、运行状况检查、维护和最佳实践、升级/迁移规划和用例建议。 </li>
+      <li><strong>Launch建议</strong>  — 通过针对新实施的最佳实践启动和支持咨询服务，帮助您采用和推出解决方案设计。 </li>
+      <li><strong>发行准备和审阅</strong>  — 查看新增功能并确定必要的维护和故障诊断活动，以便为最新版本和平台做好准备。 </li>
+      <li><strong>知识传递 </strong>  — 技术客户经理在解决方案中就特定功能分享指导和最佳实践 </li>
+      <li><strong>通过优先技术支持最大限度地延长正常运行时间</strong>  — 通过更短的响应时间获得快速支持，以解决无限数量的问题、对P1和P2问题的根本原因分析以及个性化的上报管理 </li>
+      <li><strong>路线图审查</strong>  — 审查Adobe解决方案的未来路线图，比较您的路线图并与我们的路线图保持一致，以降低风险并规划重大更改。 </li>
+      <li><strong>事件规划（附加组件）</strong>  — 专家对您的环境进行审查和报告，为准备重要的高流量事件提供指导和支持</li>
+    </ul>
+  </td>
+</tr>
+</table>
+
+## 支持附加组件
+
+| 事件管理 | 技术帐户Director（仅限Ultimate） | 高级云支持 |
+|---|---|---|
+| **事件规划**  — 规划、准备、指导、沟通 <br>**事件执行**  — 配置、实施、测试、审核、审核 <br>**事件监控**  — 实时监测、系统监测、情况室 | **监督** 参与和执行，确保获得最高级别的性能。 <br>**管理执行关系** 报告、审查和未来规划讨论。 <br>**引领技术环境** 审查、风险缓解和预测洞察以提高技术商数。 <br>**一致并提倡** 与技术团队一起加速任务执行和问题解决。 <br>**拥有活动和支持计划** 确保顺利交付并实现价值最大化。 <br>**沟通和指导** 价值驱动因素和参与策略的内部和外部利益相关方 | 面向Adobe Experience Manager as a Cloud Service客户的顶级关怀和价值保证。  <br>通过主动优化、强制实施的最佳实践，以及确保提供出众的上线体验，帮助导航复杂的云技术场景，从而加快您过渡到云的速度 <br> **实施：** 迁移准备、每月和上线前的签入呼叫 <br>**参与度：** 启动、入门、测试最佳实践 <br>**上线：** 事件支持、域监控、生产切换 <br>**运行和操作：** 主动优化外联和解决方案分析/报告 <br> |
+| **事件管理方案示例：** <ul><li>黑色星期五+网络星期一 </li><li>大型体育赛事（即超级碗、奥运会、国际足联世界杯） </li><li>特殊购物活动或主要年度促销活动 </li></ul> | **如果满足以下一种或多种情况，技术帐户Director可以带来巨大价值。** <ul><li>您拥有多个Adobe Experience Cloud应用程序。 </li><li>您需要跨多个地区、品牌或业务部门提供支持。 </li><li>您拥有具有Adobe技术的复杂用例，并且需要具有战略领导力。</li></ul> | **您何时需要高级云支持？** <ul><li>如果你拥有Adobe Experience Manager as a Cloud Service。 </li><li>如果您正在迁移到Experience Manageras a Cloud Service。 </li><li>如果您的截止时间很紧，或者使用Experience Manageras a Cloud Service的复杂用例。 </li></ul> |
+
+## Adobe 数字学习服务
+
+***通过学习订阅增强最终支持***
+
+**构建Adobe熟练的劳动力** 为个人和团队提供个性化学习历程
+
+**最大化绩效和投资** 通过快速的技能开发和持续的产品和解决方案知识
+
+**通过端到端学习策略实现业务目标** 使您能够将数字成熟度从采用提升到优化
+
+## 支持服务 — 地区、小时和语言
+
+<table style="table-layout:auto">
+<tr>
+  <td>
+    <p><strong>现场电话和在线技术支持</strong></p>
+  </td>
+  <td>
+    <ul><li>优先事件1:全天候通过电话或在线支持案例</li><li>优先2-4起事件：在地区工作时间，可通过聊天或在线支持案例提供支持。</li></ul>
+  </td>
+</tr>
+<tr>
+  <td>
+    <p><strong>地区工作时间</strong></p>
+  </td>
+  <td>
+    <ul><li>适用的地区工作时间基于销售订单或采购单据中的帐单地址。</li><li>如果指定的指定支持联系人以外的人联系Adobe寻求支持，则Adobe可请求指定支持联系人重新提交支持案例。</li></ul>
+  </td>
+</tr>
+<tr>
+  <td>
+    <p><strong>语言</strong></p>
+  </td>
+  <td>
+    <ul><li>除节假日或Adobe假期外，在日本地区工作时间内提供日语支持。 日语支持不适用于Adobe Commerce。</li><li>除上述例外，所有支持将仅以英语提供。</li></ul>
+  </td>
+</tr>
+<tr>
+  <td>
+    <p><strong>支持访问</strong></p>
+  </td>
+  <td>
+    <ul><li>客户将通过由Adobe控制的远程支持工具授予对适用客户系统的Adobe支持访问权限，以便进行故障排除和提供支持服务。</li></ul>
+  </td>
+</tr>
+</table>
+
+## 地区工作时间支持
+
+| 美洲 | 欧洲、中东和非洲 | 亚太地区 | 日本 |
+|---|---|---|---|
+| 上午 6:00 - 下午 5:30 | 上午 9:00 - 下午 5:00 | 上午 9:00 - 下午 5:00 | 上午 9:00 - 下午 5:00 |
+
+## 适用于Managed Services上的Adobe Commerce(以前称为Magento CommercePro:Managed Services
+
+对Adobe Commerce的标准支持：客户在2021年9月20日或之后以许可条款开始日期许可或续订的Managed Services产品将受下表中指定的目标响应时间限制，该时间将取代上表所示的目标支持响应时间。 除下表中指定外，Adobe Commerce的所有其他“支持”条款：Managed Services没有改变。 为清楚起见，以下目标响应时间将仅适用于与Adobe Commerce相关的服务请求：Managed Services，而不是任何其他AEC产品。
+
+| 优先级 | 定义 | 目标初始响应时间 | 客户承诺 |
+|---|---|---|---|
+| P1 | **关键业务影响：** <br>客户的生产业务功能已停机或出现重大数据丢失或服务降级，恢复功能和可用性需要立即得到关注。 | 30 分钟 | 客户承诺与Adobe客户支持部门持续、全天候地开展合作，直到得到缓解。 如果Adobe客户支持无法从指定支持联系人获取管理支持响应的关键信息，Adobe可能会将P1服务请求降低到较低的优先级级别。 |
+| P2 | **主要业务影响：** <br>客户的业务功能会导致重大服务降级或潜在数据丢失，或者主要功能受到影响。 | Adobe正常工作时间为1小时 | Adobe支持团队仅在Adobe的工作时间内与指定支持联系人联系。 如果Adobe客户支持无法从指定支持联系人获取管理支持响应的关键信息，Adobe可能会将P2服务请求降低到较低的优先级级别。 |
+| P3 | **业务影响最小：** <br>客户的业务功能会出现轻微的服务降级，但存在一个解决方案/解决方法，使业务功能能够正常继续。 | Adobe正常工作时间2小时 | Adobe客户支持团队仅在Adobe的工作时间内联系指定支持联系人。 |
+| P4 | **没有业务影响：** <br>有关当前产品功能或增强请求的一般问题。 | 1个工作日 | Adobe客户支持团队仅在Adobe的工作时间内联系指定支持联系人。 |
+
+{style=&quot;table-layout:auto&quot;}
+
+## 启动咨询服务 — 分阶段主动活动
+
+<table>
+<tbody>
+  <tr>
+    <td>启动 </td>
+    <td>项目启动、调整目标和时间表、项目协作计划、确定资源、利益相关方并设置项目频度 </td>
+    <td>包括项目协作计划的启动文档 </td>
+  </tr>
+  <tr>
+    <td>定义 </td>
+    <td>业务需求、KPI、用例 — 特定于解决方案或多解决方案（如果适用）、客户准备策略、评估和建议。 为成功的新实施奠定坚实的基础  </td>
+    <td>评估和Recommendations文档 </td>
+  </tr>
+  <tr>
+    <td>设计 </td>
+    <td>解决方案设计的最佳实践建议、技术规范和架构审查，以及如果需要的多解决方案审查。 验证是否以最佳方式实施 </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>上线 </td>
+    <td>最佳实践建议、验证解决方案实施、功能和集成以“适合使用”，以及启动就绪状态的准确性。 可能包括性能/负载测试，具体取决于解决方案 </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>启动后 </td>
+    <td>支持、成熟度用例建议、参与度摘要和转交给支持和/或现场服务 </td>
+    <td>参与度摘要 </td>
+  </tr>
+</tbody>
+</table>
+
+## 外勤事务活动：菜单
+
+| 活动类型 | 解决方案 | 描述 |
+|---|---|---|
+| 健康评估 | Analytics，Audience Manager, Target，促销活动，Experience Manager，商务，Marketo Engage | 对具体应用的实施状况进行重点评估 |
+| 功能实施和集成支持 | Analytics，Audience Manager, Target，促销活动，Experience Manager | 对单个简单解决方案实施或集成的设置和配置的基线支持 |
+| 解决方案疑难解答（自定义） | Analytics，Audience Manager, Target，促销活动，Experience Manager，商务 | 针对某段自定义代码或非标准配置的技术故障诊断和问题解决方法，其中确认该问题不是核心产品错误或配置问题 |
+| AEMas a Cloud Service采用建议 | Experience Manager | 与升级/迁移可行性、架构和现代化相关的指导和建议 |
+| 基本用例开发与支持 | Analytics，Audience Manager, Target，促销活动，Experience Manager，商务，Marketo Engage | 针对特定的小型/基本营销活动、测试、个性化或其他解决方案活动的单用例开发和有限执行支持 |
+| 解决方案报告与分析 | Analytics，Audience Manager, Target | 评估新的报告和分析机会，并提供一个或多个报告和/或功能板的基本设置或配置 |
+| 成熟度路线图 | Analytics，Audience Manager, Target，促销活动，Experience Manager，商务，Marketo Engage | 为持续成熟和增长制定用例路线图 |
+| 桌面培训 | Analytics，Audience Manager, Target，促销活动，Experience Manager，商务 | 为一个或多个解决方案启用特定功能或最佳实践 |
+
+>[!NOTE]
+>
+>Field Services不能取代Adobe咨询工作。 外勤服务部门支持客户在LAS后实施，并补充任何更大的咨询项目。
