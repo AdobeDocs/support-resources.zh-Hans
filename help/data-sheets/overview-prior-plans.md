@@ -1,18 +1,18 @@
 ---
-title: 以前的Adobe支持计划概述
+title: 先前的 Adobe 支持计划概述
 description: 本文概述 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客户支持选项。
 source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
-# 以前的Adobe支持计划概述
+# 先前的 Adobe 支持计划概述
 
 >[!NOTE]
 >
->此计划是指2022年6月16日之前的Adobe支持计划。 有关当前支持计划，请参阅 [Adobe支持服务概述](overview.md).
+>此计划是指 2022 年 6 月 16 日之前的 Adobe 支持计划。 有关当前支持计划，请参阅 [Adobe 支持产品概述](overview.md)。
 
 Adobe 支持组织致力于助您成功。所有订阅都包含某个级别的支持，可让您轻松联系我们娴熟精湛的技术人员以获得技术援助。
 
