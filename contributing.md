@@ -1,7 +1,7 @@
 ---
-source-git-commit: 23611374158ef3785d6040ead2e42f36131fd8c0
+source-git-commit: 13e17b77946de3270c46bd7c40160c8400c330d2
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '294'
 ht-degree: 100%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## 参与者指南文档
 
-请参阅[投稿人指南](https://docs.adobe.com/content/help/zh-Hans/contributor/contributor-guide/introduction.html)。
+请参阅[投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans)。
 
 ## 有疑问吗？
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 ## 参与者许可协议
 
-所有参与到该项目的第三方稿件都必须附有签署的参与者许可协议。这将允许 Adobe 重新分配您在项目中的稿件。[签署我们的 CLA](http://opensource.adobe.com/cla.html)。您只需提交一次 Adobe CLA 即可，因此如果您之前已提交了一次，那么无需重新提交！
+所有对本项目的第三方贡献都必须附有签署的参与者许可协议。这将允许 Adobe 重新分配您在项目中的稿件。[签署我们的 CLA](http://opensource.adobe.com/cla.html)。您只需提交一次 Adobe CLA 即可，因此如果您之前已提交了一次，那么无需重新提交！
 
 ## 代码审阅
 
