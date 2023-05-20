@@ -3,8 +3,8 @@ title: Adobe 支持计划概述
 description: 本文概述 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客户支持选项。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 9ca2588c66115a7bfb0a7749dac1782dfc767100
-workflow-type: ht
-source-wordcount: '1990'
+workflow-type: tm+mt
+source-wordcount: '1984'
 ht-degree: 100%
 
 ---
@@ -42,7 +42,7 @@ Adobe 支持计划摒弃了被动式问题解决方案，为您带来全新的�
 | P3 | **最小的业务影响：**<br>客户的业务功能发生轻微的服务降级，但有解决方案/解决方法可让业务功能继续正常工作。 | Adobe 正常工作时间内的 4 小时 | Adobe 区域工作时间内的 1 小时 | Adobe 客户支持部门将仅在 Adobe 的工作时间内联系指定支持联系人。 |
 | P4 | **无业务影响：**<br>有关当前产品功能或增强请求的常见问题。 | 1 个工作日 | 1 个工作日 | Adobe 客户支持部门将仅在 Adobe 的工作时间内联系指定支持联系人。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 主要功能
 
@@ -152,7 +152,7 @@ Adobe Commerce 的标准支持：由客户许可或续订且许可期限开始�
 | P3 | **最小的业务影响：**<br>客户的业务功能发生轻微的服务降级，但有解决方案/解决方法可让业务功能继续正常工作。 | Adobe 正常工作时间内的 2 小时 | Adobe 客户支持部门将仅在 Adobe 的工作时间内联系指定支持联系人。 |
 | P4 | **无业务影响：**<br>有关当前产品功能或增强请求的常见问题。 | 1 个工作日 | Adobe 客户支持部门将仅在 Adobe 的工作时间内联系指定支持联系人。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 启动咨询服务 – 分阶段主动活动
 

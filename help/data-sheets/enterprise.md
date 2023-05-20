@@ -3,8 +3,8 @@ title: 企业支持
 description: Adobe Experience Cloud 企业支持服务增强了支持服务水平目标 (SLT)，提供的权益包括技术专业知识以及配备指定的支持工程师作为布道师。
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
 source-git-commit: 1fd2098e2065def561147cd99dbed18c3d94cde8
-workflow-type: ht
-source-wordcount: '1192'
+workflow-type: tm+mt
+source-wordcount: '1189'
 ht-degree: 100%
 
 ---
@@ -131,7 +131,7 @@ Adobe Experience Cloud 企业支持服务增强了支持服务水平目标 (SLT)
 | <b>优先级 3</b><br>客户的业务功能发生轻微的服务降级，但有解决方案/解决方法可让业务功能继续正常工作。 | 营业时间/<br>6 小时 | 营业时间/<br>2 小时 |
 | <b>优先级 4</b><br>有关当前产品功能或增强请求的常见问题。 | 工作日/<br>3 天 | 工作日/<br>1 天 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 企业支持功能
 

@@ -3,8 +3,8 @@ title: 在线支持
 description: Adobe Experience Cloud 在线支持服务提供有限的电话支持。
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: ht
-source-wordcount: '757'
+workflow-type: tm+mt
+source-wordcount: '754'
 ht-degree: 100%
 
 ---
@@ -167,7 +167,7 @@ Adobe Experience Cloud 在线支持服务提供有限的电话支持。
 | <b>优先级 3</b><br>客户的业务功能发生轻微的服务降级，但有解决方案/解决方法可让业务功能继续正常工作。 | 营业时间/<br>6 小时 | 营业时间/<br>4 小时 | 营业时间/<br>2 小时 | 工作日全天候/<br>1 小时 |
 | <b>优先级 4</b><br>有关当前产品功能或增强请求的常见问题。 | 工作日/<br>3 天 | 工作日/<br>1 天 | 工作日/<br>1 天 | 工作日/<br>1 天 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 在线支持 {#online-support-1}
 

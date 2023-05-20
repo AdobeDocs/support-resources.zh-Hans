@@ -3,8 +3,8 @@ title: 高级支持
 description: Adobe Experience Cloud 高级支持服务提供同类最佳的服务水平目标 (SLT) 和主动支持，并且让客户能够与技术客户经理和指定支持工程师开展合作。
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
 source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
-workflow-type: ht
-source-wordcount: '1362'
+workflow-type: tm+mt
+source-wordcount: '1359'
 ht-degree: 100%
 
 ---
@@ -131,7 +131,7 @@ Adobe Experience Cloud 高级支持服务提供同类最佳的服务水平目标
 | <b>优先级 3</b><br>客户的业务功能发生轻微的服务降级或未发生服务降级，但有解决方案/解决方法可让业务功能继续正常工作。 | 营业时间/<br>6 小时 | 工作日全天候/<br>1 小时 |
 | <b>优先级 4</b><br>有关当前产品功能或增强请求的常见问题。 | 工作日/<br>3 天 | 工作日/<br>1 天 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 高级支持功能
 

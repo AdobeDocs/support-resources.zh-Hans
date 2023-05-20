@@ -3,8 +3,8 @@ title: 商业支持
 description: 通过 Adobe Experience Cloud 商业支持服务，可以联系 Adobe 技术支持团队和帐户支持主管，以便进行帐户管理。
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: ht
-source-wordcount: '872'
+workflow-type: tm+mt
+source-wordcount: '869'
 ht-degree: 100%
 
 ---
@@ -131,7 +131,7 @@ ht-degree: 100%
 | <b>优先级 3</b><br>客户的业务功能发生轻微的服务降级，但有解决方案/解决方法可让业务功能继续正常工作。 | 营业时间/<br>6 小时 | 营业时间/<br>4 小时 |
 | <b>优先级 4</b><br>有关当前产品功能或增强请求的常见问题。 | 工作日/<br>3 天 | 工作日/<br>1 天 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 商业支持功能
 

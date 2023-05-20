@@ -1,9 +1,10 @@
 ---
 title: 对 Creative Cloud 和 Adobe Document Cloud 的企业支持
 description: Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。企业支持计划强化了此种支持。
-source-git-commit: 39439be547c3359739857f540e38203d938d72cb
-workflow-type: ht
-source-wordcount: '933'
+exl-id: 38467d5a-02b8-496f-ac2b-4d54ac3c5ffc
+source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+workflow-type: tm+mt
+source-wordcount: '930'
 ht-degree: 100%
 
 ---
@@ -289,7 +290,7 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
 | [生产问题和系统中断](https://status.adobe.com/) | Status.adobe.com 传达在多租户环境中部署的所有 Adobe 产品和服务的运行状况信息。客户可以选择他们的订阅偏好设置，以便在 Adobe 创建、更新或处理产品事件时收到电子邮件通知。这可能包括严重性不同的定期维护或服务问题。 |
 | [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html) | 详细说明支持服务产品的条款和条件。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Adobe 支持的区域范围、当地营业时间和语言支持
 
