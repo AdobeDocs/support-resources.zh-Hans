@@ -3,9 +3,9 @@ title: Adobe 支持计划概述
 description: 本文概述 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客户支持选项。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: bf812bac574f3ffef78ec87724b510d495d8d34b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1729'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -13,27 +13,27 @@ ht-degree: 75%
 
 Adobe 支持计划摒弃了被动式问题解决方案，为您带来全新的个性化体验，让您的业务无论遇到任何问题都能保持领先。利用我们深厚的技术专长和创新的支持模式，提高您的技术性能并帮助您发挥 Adobe 解决方案的潜力。
 
-## Expert和Ultimate支持计划的比较
+## Expert 和 Ultimate 支持计划的比较
 
-|  | 专家支持计划 | Ultimate Support计划 |
+|  | Expert 支持计划 | Ultimate 支持计划 |
 |--- |--- |--- |
-| 两个级别的参与 — **专家级与终极版** — 确保每个客户都获得所需的适当级别的支持、专业技能和指导。 | 通过专家支持计划，您可以访问 **全天候专家关怀** 获得关键业务问题的技术故障排除和指导。 或者，您可以通过我们的自助资源、独家最佳实践以及 Adobe 专家和同行的网络社区找到快速解决方案。*包含在所有 Adobe Experience Cloud 许可证中。* | 通过Ultimate Support计划，您将体验 **通过个性化、主动的专家关怀和指导提供高接触支持**. 您的Adobe应用程序将由一组熟悉您的环境并专注于您的业务目标和解决方案运行状况的专家进行安全一致的监控。 |
-| **支持渠道** | 在线、聊天、电话、Experience League、论坛、自助视频 | 个性化的在线/聊天、按优先顺序排列的电话、Experience League、个性化的Ultimate论坛 |
-| **支持团队** | 汇集专家团队 | 指定的技术客户经理、支持服务经理和汇集的技术专家团队 |
-| **技术支持** | <ul><li>标准中断管理 </li><li>P1 24 x 7问题支持</li><li>P2/P3/P4工作时间支持</li><li>集中上报管理</li></ul> | <ul><li>优先的停机管理</li><li>P1 24 x 7问题支持</li><li>P2/P3 24x5问题支持</li><li>P4工作时间支持</li><li>指定的专家上报管理</li></ul> |
-| **积极的技术和运营支持** | ![“未包含”图标](assets/Cross_red_circle.svg){width="20"} 未包含 | <ul><li>路线图审查、服务交付计划 </li><li>维护和监控</li><li> 升级和迁移审查</li><li>发布准备和审查 </li><li>知识传授、解决方案故障排除 </li><li> 活动策划（有限，请参阅活动管理加载项）</li><li> 启动咨询</li></ul> |
+| **Expert 和 Ultimate** 两种程度的参与确保每位客户都获得所需适当水平的支持、专业知识和指导。 | 通过 Expert 支持计划，您可获得&#x200B;**全年无休专家服务**，针对您的关键业务问题在技术层面进行故障排除并提供指导。或者，通过充分利用我们的自助资源、独家最佳实践以及由 Adobe 专家和同行组成的网上社区也可找到快捷的解决方案。*所有 Adobe Experience Cloud 许可证都附带该计划。* | 通过 Ultimate 支持计划，您将体验到&#x200B;**具有个性化、主动式专家服务和指导的周到支持**。整整一个团队的专家将安全而持续地监控您的 Adobe 应用程序，这些专家熟悉您的环境并专注于您的业务目标和解决方案运行状况。 |
+| **支持渠道** | 在线、聊天、电话、Experience League、论坛、自助视频 | 个性化在线/聊天、优先电话、Experience League、个性化 Ultimate 论坛 |
+| **支持团队** | 共用的专家团队 | 指定的技术客户经理、支持服务经理和共用的技术专家团队 |
+| **技术支持** | <ul><li>标准停机管理 </li><li>P1 全年无休问题支持</li><li>P2/P3/P4 工作时间支持</li><li>共用的上报管理</li></ul> | <ul><li>优先停机管理</li><li>P1 全年无休问题支持</li><li>P2/P3 每周五天每天 24 小时问题支持</li><li>P4 工作时间支持</li><li>指定的专家上报管理</li></ul> |
+| **主动的技术和运营支持** | ![不包括图标](assets/Cross_red_circle.svg){width="20"}不包括 | <ul><li>路线图审查、服务交付规划 </li><li>维护和监控</li><li> 升级和迁移审查</li><li>发布准备和审查 </li><li>知识转移、解决方案故障排除 </li><li> 活动策划（有限，请参阅活动管理附加功能）</li><li> 发布咨询</li></ul> |
 
 {style="table-layout:fixed"}
 
-## 支持插件
+## 支持附加功能
 
-| 加载项 | 专家支持计划 | Ultimate Support计划 |
+| 附加功能 | Expert 支持计划 | Ultimate 支持计划 |
 |--- |--- |--- |
-| **事件管理加载项**<br>&#x200B;提供管理关键事件的整个生命周期所需的端到端领导和支持 | ![可用图标](assets/Plus_blue.svg){width="20"} 可用 | ![可用图标](assets/Plus_blue.svg){width="20"} 可用 |
-| **技术帐户Director加载项**<br>&#x200B;您的主要技术资源提供领导力监督、负责执行接洽并确保管理以实现最大的业务成果 | ![“未包含”图标](assets/Cross_red_circle.svg){width="20"} 未包含 | ![可用图标](assets/Plus_blue.svg){width="20"} 可用 |
-| **高级云支持加载项**<br>&#x200B;对Adobe Experience Manager as a Cloud Service客户的顶级关怀和价值保证 | ![可用图标](assets/Plus_blue.svg){width="20"} 可用 | ![可用图标](assets/Plus_blue.svg){width="20"} 可用 |
-| **Mentor Sessions加载项**<br>&#x200B;以即时培训方法提供基于技能的学习 | ![可用图标](assets/Plus_blue.svg){width="20"} 可用 | ![可用图标](assets/green_checkmark.svg){width="20"} 已包含 |
-| **Developer Boost附加组件**<br>&#x200B;提供对现场工程专家的访问权限，这些专家可帮助进行中断修复工作 | ![可用图标](assets/Plus_blue.svg){width="20"} 可用 | ![已包含图标](assets/green_checkmark.svg){width="20"} 已包含 |
+| **事件管理附加功能**<br>&#x200B;提供管理关键事件的整个生命周期所需的端到端领导和支持 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 |
+| **技术客户总监附加功能**<br>&#x200B;您的首席技术资源，负责提供领导监督和高管参与事宜，并确保有效治理，以使您的业务成果最大化 | ![不包括图标](assets/Cross_red_circle.svg){width="20"}不包括 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 |
+| **高级云支持附加功能**<br>&#x200B;针对 Adobe Experience Manager as a Cloud Service 客户的顶级服务和价值保证 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 |
+| **导师答疑附加功能**<br>&#x200B;通过适时培训方法提供技能型学习 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 | ![可用图标](assets/green_checkmark.svg){width="20"}包括 |
+| **开发者提升附加功能**<br>&#x200B;提供与可协助进行维修工作的现场工程专家沟通的渠道 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 | ![包括图标](assets/green_checkmark.svg){width="20"}包括 |
 
 {style="table-layout:fixed"}
 
@@ -46,11 +46,11 @@ Adobe 支持计划摒弃了被动式问题解决方案，为您带来全新的�
 | P3 | **最小的业务影响：**<br>客户的业务功能发生轻微的服务降级，但有解决方案/解决方法可让业务功能继续正常工作。 | Adobe 正常工作时间内的 4 小时 | Adobe 区域工作时间内的 1 小时 | Adobe 客户支持部门将仅在 Adobe 的工作时间内联系指定支持联系人。 |
 | P4 | **无业务影响：**<br>有关当前产品功能或增强请求的常见问题。 | 1 个工作日 | 1 个工作日 | Adobe 客户支持部门将仅在 Adobe 的工作时间内联系指定支持联系人。 |
 
-## Ultimate Support：指定的支持联系人
+## Ultimate 支持：任命的支持联系人
 
-在Ultimate Support下，客户有权获得扩展容量，每个AEC产品最多可有十五(15)个指定的支持联系人(从所有AEC产品中的四(4)个专家支持增加到最多)。
+根据 Ultimate 支持，客户有权扩充容量，（从 Expert 支持的所有 AEC 产品间共四 (4) 名任命的支持联系人增加）到每个 AEC 产品最多十五 (15) 名任命的支持联系人。
 
-指定的支持联系人可以通过所有可用渠道提交问题，并根据需要代表客户与Adobe的技术支持团队互动。 一(1)个此类指定支持联系人也可以指定为客户的帐户管理员，允许通过Adobe提供的支持门户对指定支持联系人列表进行自助更新，以及进行有限的权限设置。
+任命的支持联系人可通过所有可用的渠道提交问题，并代表客户根据需要与 Adobe 的技术支持团队交流。还可委派一 (1) 名此类任命的支持联系人作为客户的帐户管理员，从而可通过 Adobe 提供的支持门户自助更新任命的支持联系人的列表并作出有限的权限设置。
 
 ## Adobe 数字学习服务
 
@@ -105,7 +105,7 @@ Adobe 支持计划摒弃了被动式问题解决方案，为您带来全新的�
 |---|---|---|---|
 | 上午 6:00 - 下午 5:30 | 上午 9:00 - 下午 5:00 | 上午 9:00 - 下午 5:00 | 上午 9:00 - 下午 5:00 |
 
-## 适用于 Adobe Commerce 在 Managed Services 的附加条款（以前的 Magento Commerce Pro：Managed Services）)
+## 适用于 Adobe Commerce on Managed Services（前身为 Magento Commerce Pro：Managed Services）的附加条款
 
 Adobe Commerce 的标准支持：由客户许可或续订且许可期限开始日期为 2021 年 9 月 20 日或之后的 Managed Services 产品将遵守下表中指定的目标响应时间，该时间将取代上表中所示的支持目标响应时间。除下表中指定的情况外，Adobe Commerce：Managed Services 的所有其他剩余支持条款保持不变。 为清楚起见，以下目标响应时间仅适用于与 Adobe Commerce：Managed Services 相关的服务请求，不适用于任何其他 AEC 产品。
 
