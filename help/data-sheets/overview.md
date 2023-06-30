@@ -2,10 +2,10 @@
 title: Adobe 支持计划概述
 description: 本文概述 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客户支持选项。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: fa2fa132b7285eff3368b173897a2dee02133d42
+source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
 workflow-type: tm+mt
-source-wordcount: '1748'
-ht-degree: 97%
+source-wordcount: '1727'
+ht-degree: 98%
 
 ---
 
@@ -47,8 +47,6 @@ Adobe 支持计划摒弃了被动式问题解决方案，为您带来全新的�
 | P4 | **无业务影响：**<br>有关当前产品功能或增强请求的常见问题。 | 1 个工作日 | 1 个工作日 | Adobe 客户支持部门将仅在 Adobe 的工作时间内联系指定支持联系人。 |
 
 ## Ultimate 支持：任命的支持联系人
-
-抱歉，又来了。 现在，我认为我们需要更正https://experienceleague.adobe.com/docs/support-resources/data-sheets/overview.html?lang=en中的以下描述：
 
 在Ultimate Support下，客户有权获得扩展容量，每个AEC产品最多可有15个指定的支持联系人(从每个AEC产品四(4)个专家支持增加到每个AEC产品)。
 
