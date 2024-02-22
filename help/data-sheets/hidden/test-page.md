@@ -3,10 +3,10 @@ title: 测试页面（隐藏）
 description: 用于内部测试目的的测试页面
 hide: true
 hidefromtoc: true
-source-git-commit: 83eb9c3b531134e221b183ef20837ee82276b9b5
+source-git-commit: 26b2032221c1e17ed0a71e556d6acc3f8914dd22
 workflow-type: tm+mt
 source-wordcount: '1015'
-ht-degree: 73%
+ht-degree: 74%
 
 ---
 
@@ -254,6 +254,7 @@ ht-degree: 73%
     <a href="/help/data-sheets/business.md">
       <img alt="发行信息" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>发行信息</strong></a>
     <p>查看Adobe Commerce修补程序和服务的所有发行信息。</p>
   </td>
@@ -261,6 +262,7 @@ ht-degree: 73%
     <a href="/help/data-sheets/business.md">
       <img alt="安装" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>安装</strong></a>
     <p>了解如何安装Adobe Commerce以进行内部部署。</p>
   </td>
@@ -268,13 +270,15 @@ ht-degree: 73%
     <a href="/help/data-sheets/business.md">
       <img alt="配置" src="assets/package.png" width="40" height="40"/>
     </a>
-    <a href="/help/data-sheets/business.md"><strong>配置</strong></a>
+    <p></p>
+    <a href="/help/data-sheets/business.md"><strong> 配置</strong></a>
     <p>为Adobe Commerce应用程序配置功能和服务。</p>
   </td>
   <td valign="top">
     <a href="/help/data-sheets/business.md">
       <img alt="数据迁移" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>数据迁移</strong></a>
     <p>了解Magento1和Magento2之间的数据迁移过程。</p>
   </td>
@@ -284,6 +288,7 @@ ht-degree: 73%
     <a href="/help/data-sheets/business.md">
       <img alt="Upgrade" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>升级</strong></a>
     <p>了解如何升级您的Adobe Commerce项目以确保店面安全和高效运行。</p>
   </td>
@@ -291,6 +296,7 @@ ht-degree: 73%
     <a href="/help/data-sheets/business.md">
        <img alt="命令行工具引用" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>命令行工具参考</strong></a>
     <p>了解Adobe Commerce命令行工具的命令、参数和选项。</p>
   </td>
@@ -298,6 +304,7 @@ ht-degree: 73%
     <a href="/help/data-sheets/business.md">
        <img alt="性能" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>性能最佳实践</strong></a>
     <p>使用这些建议可优化Adobe Commerce部署的性能。</p>
   </td>
@@ -305,6 +312,7 @@ ht-degree: 73%
     <a href="/help/data-sheets/business.md">
        <img alt="工具" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>工具</strong></a>
     <p>了解可与Adobe Commerce一起使用的工具。</p>
   </td>
@@ -314,6 +322,7 @@ ht-degree: 73%
     <a href="/help/data-sheets/business.md">
       <img alt="实施" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>实施行动手册</strong></a>
     <p>了解规划和实施成功的 Adobe Commerce 网站的策略。</p>
   </td>
@@ -321,6 +330,7 @@ ht-degree: 73%
     <a href="/help/data-sheets/business.md">
        <img alt="操作" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>运营行动手册</strong></a>
     <p>了解如何让您的企业做好运营准备以便运营成功的电子商务网站。</p>
   </td>
@@ -328,6 +338,7 @@ ht-degree: 73%
     <a href="/help/data-sheets/business.md">
        <img alt="企业" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>大规模商务</strong></a>
     <p>了解如何结合使用 Adobe Commerce 和 Adobe Experience Manager 大规模交付体验。</p>
   </td>
@@ -335,6 +346,7 @@ ht-degree: 73%
     <a href="/help/data-sheets/business.md">
        <img alt="企业" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>安全性和合规性</strong></a>
     <p>了解Adobe Commerce商家如何负责维护安全环境。</p>
   </td>
