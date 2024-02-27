@@ -4,9 +4,9 @@ description: Markdown样式设置的基本简介
 mini-toc-levels: 1
 hide: true
 hidefromtoc: true
-source-git-commit: e2513757c4d126e0ab954b05002392aaa4ed46c8
+source-git-commit: 77a5127250ffbc9d490579188e8469d4c3dac4c3
 workflow-type: tm+mt
-source-wordcount: '4237'
+source-wordcount: '4238'
 ht-degree: 13%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 13%
 # Markdown语法样式指南
 
 本页说明了用于使用Markdown (.md)格式创作数字体验技术文档的Markdown组件。 此页包括Adobe员工的详细信息。
+
+EDS
 
 请参阅此处： [Adobe.com](https://www.adobe.com/cn){rel=nofollow}
 
