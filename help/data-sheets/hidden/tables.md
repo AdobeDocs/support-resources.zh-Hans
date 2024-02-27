@@ -3,16 +3,18 @@ title: 表格
 description: 使用Markdown表和HTML表。
 hide: true
 hidefromtoc: true
-source-git-commit: cd9f841a3f720ee366b33f3a78f7ca731c0b865a
+source-git-commit: 3779d588f21da83928bf0c71357afa90fd5f7179
 workflow-type: tm+mt
-source-wordcount: '1420'
+source-wordcount: '1421'
 ht-degree: 3%
 
 ---
 
 # 表格
 
-马特一次又一次地来到这里
+马特一次又一次地来到这里。
+
+EDS
 
 标准Markdown仅支持基本表。 对于AdobeDocs Markdown，您可以选择以下选项：
 
