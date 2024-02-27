@@ -1,20 +1,20 @@
 ---
 title: 测试页面（隐藏）
-description: 用于内部测试目的的测试页面
+description: 作内部测试用途的测试页面
 hide: true
 hidefromtoc: true
-source-git-commit: 438daab643e13e14484ab1ced6c25a6c0e9f74cb
+source-git-commit: 4b4743b36b5e7bcf7735f91d8bb6825e7efda1c2
 workflow-type: tm+mt
-source-wordcount: '1015'
+source-wordcount: '1016'
 ht-degree: 73%
 
 ---
 
 # 测试页面（隐藏）
 
-隐藏测试页面
+隐藏的测试页面 — EDS
 
-## 图像（EXLM-412）
+## 图像 (EXLM-412)
 
 ### 带有悬停文本的图像
 
@@ -26,39 +26,39 @@ ht-degree: 73%
 
 <center>已居中对齐</center>
 
-### 可缩放图像
+### 可缩放的图像
 
 `![Dive image](assets/maui-dive.jpg "Diving in Maui"){width=100 zoomable}`
 
-**纯**
+**普通**
 
-![潜水图像](assets/maui-dive.jpg "毛伊岛潜水"){width=100 Zoomable}
+![跳水图像](assets/maui-dive.jpg "在毛伊岛跳水"){width=100 Zoomable}
 
 **注释**
 
 >[!NOTE]
 >
->点击下图查看潜水员：
+>单击以下图像以查看一名跳水者：
 >
->![潜水图像](assets/maui-dive.jpg "毛伊岛潜水"){width=100 Zoomable}
+>![跳水图像](assets/maui-dive.jpg "在毛伊岛跳水"){width=100 Zoomable}
 
 **表格**
 
 |  | 数值 | 颜色 |
 |---|---|---|
-| Juanya | 17 | 绿色<br>红色<br>蓝色 |
-| Maria | 23 | 黄色<br>棕色 |
-| Bob | 60 | 查看图像<br>![潜水图像](assets/maui-dive.jpg "毛伊岛潜水"){width=100 Zoomable} |
+| Juanya | 17 | 绿<br>红<br>蓝 |
+| Maria | 23 | 黄<br>棕 |
+| Bob | 60 | 查看图像<br>![跳水图像](assets/maui-dive.jpg "在毛伊岛跳水"){width=100 Zoomable} |
 
 {style="table-layout:fixed"}
 
 ### 基本图像测试
 
-宽度=200（与下表比较）
+width=200（与下表相比）
 
 ![替代文本](assets/maui-dive.jpg "宽度 = 200"){width=200}
 
-宽度=50%（与下表比较）
+width=50%（与下表相比）
 
 ![替代文本](assets/maui-flip.jpg "宽度 = 50%"){width=50%}
 
@@ -66,21 +66,21 @@ ht-degree: 73%
 
 **不对齐**
 
-![替换文本](assets/maui-dive.jpg "宽度 = 100"){width=100} 毛伊岛的悬崖跳水运动并不像人们想象的那么困难。潜水实际上有四个步骤，安全潜水有五个步骤。首先，用力跳离悬崖，并立即伸出双臂并指向脚趾。这是值得拍照的姿势。其次，将身体调整到合理的入水位置。这可能看起来像是恐慌的动作，但这只是一种基于情绪的调整。第三，以不伤害身体的方式入水。第四，冷不防冒出水面，好像你已经这样做了无数次，并且有点无聊。
+![替换文本](assets/maui-dive.jpg "宽度 = 100"){width=100} 在毛伊岛的悬崖跳水不像人们想的那么困难。跳水有四个步骤，而安全地跳水有五个步骤。首先，用力从悬崖上跳下去，然后立即伸展双臂并绷紧脚尖。这是相机捕捉到的姿势。其次，将身体调整到合理的入水姿势。这看起来可能像是有点惊慌，但这只是一种情绪上的调整。第三，用一种不会伤到身体的方式入水。第四，如同做过无数次以至于有些无聊的那样冒出水面。
 
 **右对齐**
 
-毛伊岛的悬崖跳水运动并不像人们想象的那么困难。潜水实际上有四个步骤，安全潜水有五个步骤。首先，用力跳离悬崖，并立即伸出双臂并指向脚趾。这是值得拍照的姿势。其次，将身体调整到合理的入水位置。这可能看起来像是恐慌的动作，但这只是一种基于情绪的调整。第三，以不伤害身体的方式入水。第四，冷不防冒出水面，好像你已经这样做了无数次，并且有点无聊。![替代文本](assets/maui-dive.jpg "100 宽度右对齐"){width="100" align="right"}
+在毛伊岛的悬崖跳水不像人们想的那么困难。跳水有四个步骤，而安全地跳水有五个步骤。首先，用力从悬崖上跳下去，然后立即伸展双臂并绷紧脚尖。这是相机捕捉到的姿势。其次，将身体调整到合理的入水姿势。这看起来可能像是有点惊慌，但这只是一种情绪上的调整。第三，用一种不会伤到身体的方式入水。第四，如同做过无数次以至于有些无聊的那样冒出水面。![替代文本](assets/maui-dive.jpg "100 宽度右对齐"){width="100" align="right"}
 
 **左对齐**
 
-![替换文本](assets/maui-dive.jpg "100 宽度左对齐"){width="100" align="left"} 毛伊岛的悬崖跳水运动并不像人们想象的那么困难。潜水实际上有四个步骤，安全潜水有五个步骤。首先，用力跳离悬崖，并立即伸出双臂并指向脚趾。这是值得拍照的姿势。其次，将身体调整到合理的入水位置。这可能看起来像是恐慌的动作，但这只是一种基于情绪的调整。第三，以不伤害身体的方式入水。第四，冷不防冒出水面，好像你已经这样做了无数次，并且有点无聊。
+![替换文本](assets/maui-dive.jpg "100 宽度左对齐"){width="100" align="left"} 在毛伊岛的悬崖跳水不像人们想的那么困难。跳水有四个步骤，而安全地跳水有五个步骤。首先，用力从悬崖上跳下去，然后立即伸展双臂并绷紧脚尖。这是相机捕捉到的姿势。其次，将身体调整到合理的入水姿势。这看起来可能像是有点惊慌，但这只是一种情绪上的调整。第三，用一种不会伤到身体的方式入水。第四，如同做过无数次以至于有些无聊的那样冒出水面。
 
 **伪右对齐**
 
-在毛伊岛悬崖跳水并不困难。![替代文本](assets/maui-dive.jpg "100 宽度右对齐"){width="100" align="right"}
+在毛伊岛的悬崖跳水不难。![替代文本](assets/maui-dive.jpg "100 宽度右对齐"){width="100" align="right"}
 
-潜水实际上有四个步骤，安全潜水有五个步骤。首先，用力跳离悬崖，并立即伸出双臂并指向脚趾。这是值得拍照的姿势。其次，将身体调整到合理的入水位置。这可能看起来像是恐慌的动作，但这只是一种基于情绪的调整。第三，以不伤害身体的方式入水。第四，冷不防冒出水面，好像你已经这样做了无数次，并且有点无聊。
+跳水有四个步骤，而安全地跳水有五个步骤。首先，用力从悬崖上跳下去，然后立即伸展双臂并绷紧脚尖。这是相机捕捉到的姿势。其次，将身体调整到合理的入水姿势。这看起来可能像是有点惊慌，但这只是一种情绪上的调整。第三，用一种不会伤到身体的方式入水。第四，如同做过无数次以至于有些无聊的那样冒出水面。
 
 
 ### 图像对齐
@@ -89,29 +89,29 @@ ht-degree: 73%
 
 ![替代文本](assets/package.png "图标的悬停文本")
 
-直接在下方对齐
+下方为右对齐
 
-![替代文本](assets/package.png "对齐=右"){align="right"}
+![替代文本](assets/package.png "align=right"){align="right"}
 
-右内对齐 ![替代文本](assets/package.png "对齐=右"){align="right"}
+行内右对齐 ![替代文本](assets/package.png "align=right"){align="right"}
 
-中心宽度 = 250
+居中宽度 = 250
 
-![替代文本](assets/maui-dive.jpg "对其=中心"){align=&quot;center&quot; width=250}
+![替代文本](assets/maui-dive.jpg "align=center"){align=&quot;center&quot; width=250}
 
 ### 标题对齐
 
-**粗体标题** ![替代文本](assets/package.png "对齐=右"){align="right"}
+**粗体标题** ![替代文本](assets/package.png "align=right"){align="right"}
 
 请参阅上面的粗体标题。
 
 ### 表格中的图像
 
-图标右对齐，潜水图像居中 200 像素，翻转图像向右 50%。
+图标右对齐，跳水图像居中，宽度为 200 像素，翻身跳图像右对齐，宽度为 50%。
 
-| <center>左 | 中间 | 右</center> |
+| <center>左 | 中 | 右</center> |
 |---|---|---|
-| ![替代文本](assets/package.png "对齐=右"){align=right} | ![替代文本](assets/maui-dive.jpg "对齐=中间宽度=200"){align="center" width="200"} | ![替代文本](assets/maui-flip.jpg "对齐=右侧宽度=50%"){align="right" width="50%"} |
+| ![替代文本](assets/package.png "align=right"){align=right} | ![替代文本](assets/maui-dive.jpg "align=center width=200"){align="center" width="200"} | ![替代文本](assets/maui-flip.jpg "align=right width=50%"){align="right" width="50%"} |
 
 ## 文件附件 (EXLM-1124)
 
