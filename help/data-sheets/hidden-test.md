@@ -5,16 +5,26 @@ hide: true
 hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="下载 Premium"
 badgeExam: label="考试 ADO-E903" type="neutral"
-source-git-commit: 75bb972a5ada66343dfb8a406b1cf63a1071df31
-workflow-type: ht
-source-wordcount: '804'
-ht-degree: 100%
+source-git-commit: 0e4881c62b518866bd39d5c3f8eef0dc6063441b
+workflow-type: tm+mt
+source-wordcount: '830'
+ht-degree: 94%
 
 ---
 
 # 隐藏测试页面
 
 激活？下午 3:10 左右重新检查提交。是否将在下午 3:30 上线？
+
+## 按钮
+
+[按钮默认值](https://www.adobe.com/)
+
+**[主要按钮](https://www.adobe.com/)**
+
+_[按钮次要](https://www.adobe.com/)_
+
+**_[第三按钮](https://www.adobe.com/)_**
 
 ## 预览问题
 
@@ -118,10 +128,10 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 | 类型 | 徽章 |
 |---|---|
 | 信息性（默认） | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 正面 | [!BADGE 新增功能]{type=Positive url="https://www.example.com" tooltip="转到 example.com"} |
-| 负面 | [!BADGE 已停用]{type=negative tooltip="此功能现已停止使用"} |
-| 中性 | [!BADGE 可能]{type=Neutral tooltip="一位骑手摔下马..."} |
-| 提醒 | [!BADGE 注意]{type=Caution tooltip="黄色状态"} |
+| 正面 | [!BADGE 新功能]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;转到example.com&quot;} |
+| 负面 | [!BADGE 已终止]{type=negative tooltip=&quot;此功能现已终止&quot;} |
+| 中性 | [!BADGE 也许]{type=Neutral tooltip=&quot;一名骑手从马背上掉了下来……&quot;} |
+| 提醒 | [!BADGE 注意]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 语法示例
 
