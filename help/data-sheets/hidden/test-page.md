@@ -3,9 +3,9 @@ title: 测试页面（隐藏）
 description: 作内部测试用途的测试页面
 hide: true
 hidefromtoc: true
-source-git-commit: 0612850ae6eba4e72f23840f60a8868b5cdb1558
+source-git-commit: fe970dd4e97668695a8e55f6156cb6edb1f44510
 workflow-type: tm+mt
-source-wordcount: '1015'
+source-wordcount: '1028'
 ht-degree: 73%
 
 ---
@@ -13,6 +13,16 @@ ht-degree: 73%
 # 测试页面（隐藏）
 
 隐藏测试页面
+
+## 按钮
+
+[按钮默认值](https://www.adobe.com/)
+
+**[主要按钮](https://www.adobe.com/)**
+
+_[按钮次要](https://www.adobe.com/)_
+
+**_[第三按钮](https://www.adobe.com/)_**
 
 ## 图像 (EXLM-412)
 
