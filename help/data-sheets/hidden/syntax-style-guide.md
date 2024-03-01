@@ -314,7 +314,7 @@ You can't see me (unless you're editing in Git).
 >
 在TOC.md文件中，不要注释掉TOC列表中间位置的行。 这可能会破坏目录列表并导致验证错误。 相反，将目录中的注释移动到文件末尾。
 
-## CONTEXT帮助
+## CONTEXTUALHELP
 
 作者可以与产品团队合作，在Experience Cloud或Experience Platform产品UI中添加帮助弹出框。 示例：
 
