@@ -3,16 +3,26 @@ title: 测试页面（隐藏）
 description: 作内部测试用途的测试页面
 hide: true
 hidefromtoc: true
-source-git-commit: fe970dd4e97668695a8e55f6156cb6edb1f44510
+source-git-commit: 12c7800a061cd9ed0013ed26641c24ef4256f7f0
 workflow-type: tm+mt
-source-wordcount: '1028'
-ht-degree: 73%
+source-wordcount: '1039'
+ht-degree: 72%
 
 ---
 
 # 测试页面（隐藏）
 
 隐藏测试页面
+
+## 结肠镜检查
+
+**表情符号**
+
+似乎已忽略此项。
+
+真好笑！ :joy:
+
+:smiley:
 
 ## 按钮
 
