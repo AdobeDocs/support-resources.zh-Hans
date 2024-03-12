@@ -6,9 +6,9 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="下载 Premium"
 badgeExam: label="考试 ADO-E903" type="neutral"
 source-git-commit: 0e4881c62b518866bd39d5c3f8eef0dc6063441b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '830'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -18,13 +18,13 @@ ht-degree: 94%
 
 ## 按钮
 
-[按钮默认值](https://www.adobe.com/)
+[默认按钮](https://www.adobe.com/)
 
 **[主要按钮](https://www.adobe.com/)**
 
-_[按钮次要](https://www.adobe.com/)_
+_[辅助按钮](https://www.adobe.com/)_
 
-**_[第三按钮](https://www.adobe.com/)_**
+**_[三级按钮](https://www.adobe.com/)_**
 
 ## 预览问题
 
@@ -128,10 +128,10 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 | 类型 | 徽章 |
 |---|---|
 | 信息性（默认） | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 正面 | [!BADGE 新功能]{type=Positive url="https://www.example.com" tooltip="转到example.com"} |
-| 负面 | [!BADGE 已终止]{type=negative tooltip="此功能现已终止"} |
-| 中性 | [!BADGE 也许]{type=Neutral tooltip="一名骑手从马背上掉了下来……"} |
-| 提醒 | [!BADGE 注意]{type=Caution tooltip="Yellow status"} |
+| 正面 | [!BADGE 新功能]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| 负面 | [!BADGE 已停用]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
+| 中性 | [!BADGE 也许]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
+| 提醒 | [!BADGE 注意]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 语法示例
 
