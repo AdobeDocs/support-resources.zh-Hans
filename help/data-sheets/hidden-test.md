@@ -128,10 +128,10 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 | 类型 | 徽章 |
 |---|---|
 | 信息性（默认） | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 正面 | [!BADGE 新功能]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
-| 负面 | [!BADGE 已停用]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
-| 中性 | [!BADGE 也许]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
-| 提醒 | [!BADGE 注意]{type=Caution tooltip=&quot;Yellow status&quot;} |
+| 正面 | [!BADGE 新功能]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
+| 负面 | [!BADGE 已停用]{type=negative tooltip="This feature is now end of life"} |
+| 中性 | [!BADGE 也许]{type=Neutral tooltip="A rider fell off the horse..."} |
+| 提醒 | [!BADGE 注意]{type=Caution tooltip="Yellow status"} |
 
 语法示例
 
