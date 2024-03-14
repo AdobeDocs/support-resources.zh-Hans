@@ -3,9 +3,9 @@ title: 测试页面（隐藏）
 description: 作内部测试用途的测试页面
 hide: true
 hidefromtoc: true
-source-git-commit: 60c81e7956a92e9a9c8e651c2c3c48a5baf0e4f3
+source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1026'
 ht-degree: 73%
 
 ---
@@ -17,14 +17,6 @@ ht-degree: 73%
 ## 欢迎使用AEM EDS！
 
 发布测试
-
-**表情符号**
-
-似乎已忽略此项。
-
-真好笑！ :joy:
-
-:smiley:
 
 ## 按钮
 
@@ -41,12 +33,6 @@ _[辅助按钮](https://www.adobe.com/)_
 ### 带有悬停文本的图像
 
 ![替代文本 - package.png](assets/package.png "悬停文本 - 这是 package.png")
-
-### 居中对齐文本
-
-<p align="center">已居中对齐</p>
-
-<center>已居中对齐</center>
 
 ### 可缩放的图像
 
@@ -131,7 +117,7 @@ width=50%（与下表相比）
 
 图标右对齐，跳水图像居中，宽度为 200 像素，翻身跳图像右对齐，宽度为 50%。
 
-| <center>左 | 中 | 右</center> |
+| 左 | 中 | 右 |
 |---|---|---|
 | ![替代文本](assets/package.png "align=right"){align=right} | ![替代文本](assets/maui-dive.jpg "align=center width=200"){align="center" width="200"} | ![替代文本](assets/maui-flip.jpg "align=right width=50%"){align="right" width="50%"} |
 
