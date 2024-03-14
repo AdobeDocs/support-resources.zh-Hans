@@ -3,10 +3,10 @@ title: 测试页面（隐藏）
 description: 作内部测试用途的测试页面
 hide: true
 hidefromtoc: true
-source-git-commit: 12c7800a061cd9ed0013ed26641c24ef4256f7f0
+source-git-commit: 60c81e7956a92e9a9c8e651c2c3c48a5baf0e4f3
 workflow-type: tm+mt
-source-wordcount: '1039'
-ht-degree: 72%
+source-wordcount: '1044'
+ht-degree: 73%
 
 ---
 
@@ -14,7 +14,9 @@ ht-degree: 72%
 
 隐藏测试页面
 
-## 结肠镜检查
+## 欢迎使用AEM EDS！
+
+发布测试
 
 **表情符号**
 
@@ -26,13 +28,13 @@ ht-degree: 72%
 
 ## 按钮
 
-[按钮默认值](https://www.adobe.com/)
+[默认按钮](https://www.adobe.com/)
 
 **[主要按钮](https://www.adobe.com/)**
 
-_[按钮次要](https://www.adobe.com/)_
+_[辅助按钮](https://www.adobe.com/)_
 
-**_[第三按钮](https://www.adobe.com/)_**
+**_[三级按钮](https://www.adobe.com/)_**
 
 ## 图像 (EXLM-412)
 
