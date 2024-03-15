@@ -3,14 +3,20 @@ title: 错误修复（隐藏）
 description: 作内部测试用途的测试页面
 hide: true
 hidefromtoc: true
-source-git-commit: 0279a8985376d587b470bf81fbe8958a5679afb5
+source-git-commit: fb50626581ad72f1b44e322506ddb769299ef83c
 workflow-type: tm+mt
-source-wordcount: '1337'
+source-wordcount: '1346'
 ht-degree: 4%
 
 ---
 
 # 错误修复
+
+## 内联徽章不起作用
+
+- [[!DNL Mixpanel]](note-test.md) [!BADGE 注释]{type=Informative}
+- [[!DNL Pendo]](tables.md) [!BADGE 表]{type=Positive}
+- [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE 语法样式指南]{type=Positive}
 
 ## UGP-10560 — 可折叠部分中的徽章
 
