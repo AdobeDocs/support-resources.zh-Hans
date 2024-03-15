@@ -3,7 +3,7 @@ title: 错误修复（隐藏）
 description: 作内部测试用途的测试页面
 hide: true
 hidefromtoc: true
-source-git-commit: fb50626581ad72f1b44e322506ddb769299ef83c
+source-git-commit: cf5843a15cc036e6d87f969830b81118258da090
 workflow-type: tm+mt
 source-wordcount: '1346'
 ht-degree: 4%
@@ -14,9 +14,9 @@ ht-degree: 4%
 
 ## 内联徽章不起作用
 
-- [[!DNL Mixpanel]](note-test.md) [!BADGE 注释]{type=Informative}
-- [[!DNL Pendo]](tables.md) [!BADGE 表]{type=Positive}
-- [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE 语法样式指南]{type=Positive}
+* [[!DNL Mixpanel]](note-test.md) [!BADGE 注释]{type=Informative}
+* [[!DNL Pendo]](tables.md) [!BADGE 表]{type=Positive}
+* [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE 语法样式指南]{type=Positive}
 
 ## UGP-10560 — 可折叠部分中的徽章
 
