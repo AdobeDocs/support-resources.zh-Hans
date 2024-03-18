@@ -3,16 +3,16 @@ title: 错误修复（隐藏）
 description: 作内部测试用途的测试页面
 hide: true
 hidefromtoc: true
-source-git-commit: 3c5839d71d68232c631fb9ff5bebfa5ea864d250
+source-git-commit: 59f471542bb715bb2aa4abe9f30e7a1450a350a5
 workflow-type: tm+mt
-source-wordcount: '1358'
+source-wordcount: '1360'
 ht-degree: 4%
 
 ---
 
 # 错误修复
 
-## 内联徽章不起作用
+## UGP-10584内联徽章不起作用
 
 这些徽章应与项目符号位于同一行。
 
