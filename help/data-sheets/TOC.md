@@ -4,9 +4,9 @@ user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 96%
       + [Elite](dme-elite.md)
 + [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [隐藏测试文件](hidden-test.md)
-+ [隐藏的错误修复](hidden/bug-fixes.md)
++ [隐藏错误修复](hidden/bug-fixes.md)
 + [隐藏 EDS 测试文件](hidden/test-page.md)
 + [隐藏重定向测试](hidden/test-redirection.md)
 + [隐藏语法指南](hidden/syntax-style-guide.md)
