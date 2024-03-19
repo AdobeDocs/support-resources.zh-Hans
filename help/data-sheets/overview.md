@@ -2,9 +2,9 @@
 title: Adobe 成功计划概述
 description: 本文概述 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客户支持选项。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 68f0ede27cb2c3b8ce45fdc524101f59b68d01fc
+source-git-commit: b99d72ff9fc1628021c3b7ada056136000326f4d
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1799'
 ht-degree: 99%
 
 ---
@@ -33,6 +33,7 @@ Adobe 成功计划超越了被动解决问题，为您带来一种新的个性�
 ![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![included icon](assets/green_checkmark.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![available icon](assets/green_checkmark.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
@@ -46,7 +47,7 @@ Adobe 成功计划超越了被动解决问题，为您带来一种新的个性�
 
 | 附加功能 | Expert 成功计划 | Ultimate 成功计划 |
 |--- |--- |--- |
-| **事件管理附加功能**<br>&#x200B;提供管理关键事件的整个生命周期所需的端到端领导和支持 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 | 可用 |
+| **事件管理附加功能**<br>&#x200B;提供管理关键事件的整个生命周期所需的端到端领导和支持 | 可用 | 可用 |
 | **技术客户总监附加功能**<br>&#x200B;您的首席技术资源，负责提供领导监督和高管参与事宜，并确保有效治理，以使您的业务成果最大化 | 不可用 | 可用 |
 | **高级云支持附加功能**<br>&#x200B;针对 Adobe Experience Manager as a Cloud Service 客户的顶级服务和价值保证 | 可用 | 可用 |
 | **导师答疑附加功能**<br>&#x200B;通过适时培训方法提供技能型学习 | 可用 | 已包含 |
