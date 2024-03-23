@@ -3,9 +3,9 @@ title: 错误修复（隐藏）
 description: 作内部测试用途的测试页面
 hide: true
 hidefromtoc: true
-source-git-commit: c31246781e212041bf0555cd2db71c4d0c555410
+source-git-commit: d6b478e07ca1c0525cda103f3b65bec459911508
 workflow-type: tm+mt
-source-wordcount: '1827'
+source-wordcount: '1841'
 ht-degree: 27%
 
 ---
@@ -180,6 +180,10 @@ _2022 年 9 月 9 日_
 ## [!BADGE 已弃用]{type=negative}
 
 请参阅以上标题。 还有下一个。
+
+## 测试自动激活
+
+我已在星期五下午添加了此内容，但未单击“立即发布”。
 
 ### [!BADGE Beta]{type=Informative}
 
