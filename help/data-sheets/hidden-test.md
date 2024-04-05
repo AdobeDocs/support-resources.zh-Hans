@@ -5,8 +5,9 @@ hide: true
 hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="下载 Premium"
 badgeExam: label="考试 ADO-E903" type="neutral"
-source-git-commit: e2ff0701c82f3e34f81b0653af2ce564c5c62f3a
-workflow-type: ht
+exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
+source-git-commit: cc4ccfeda4a83694d34723b1b9d8844fc14b79a0
+workflow-type: tm+mt
 source-wordcount: '1276'
 ht-degree: 100%
 
@@ -17,7 +18,6 @@ ht-degree: 100%
 激活？下午 3:10 左右重新检查提交。是否将在下午 3:30 上线？
 
 ## 带图像的问题表
-
 
 ## 比较 Expert 与 Ultimate 成功计划
 
@@ -158,10 +158,10 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 | 类型 | 徽章 |
 |---|---|
 | 信息性（默认） | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 正面 | [!BADGE 新功能]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| 负面 | [!BADGE 已停用]{type=negative tooltip="This feature is now end of life"} |
-| 中性 | [!BADGE 也许]{type=Neutral tooltip="A rider fell off the horse..."} |
-| 提醒 | [!BADGE 注意]{type=Caution tooltip="Yellow status"} |
+| 正面 | [!BADGE 新功能]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| 负面 | [!BADGE 已停用]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
+| 中性 | [!BADGE 也许]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
+| 提醒 | [!BADGE 注意]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 语法示例
 
