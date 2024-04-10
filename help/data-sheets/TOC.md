@@ -3,10 +3,10 @@ user-guide-title: 成功计划资源
 user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的成功计划和支持资源。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 712d5425375a8437116a729c271c0fafcad98b0f
-workflow-type: ht
-source-wordcount: '93'
-ht-degree: 100%
+source-git-commit: 73c5614e3eea119358550892a3d6cc9a9c2f9b02
+workflow-type: tm+mt
+source-wordcount: '97'
+ht-degree: 95%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 100%
 + [隐藏表格测试](hidden/tables.md)
 + [隐藏表格分隔符](hidden/table-breaks.md)
 + [隐藏笔记测试](hidden/note-test.md)
++ [仅隐藏新的自动激活](hidden/autoactivate.md)
 
 <!--
 + [Hidden table breaks](hidden/table-breaks.md)
