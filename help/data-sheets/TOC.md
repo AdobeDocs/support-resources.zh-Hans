@@ -23,14 +23,14 @@ ht-degree: 94%
       + [在线](online.md)
       + [商业](business.md)
       + [企业](enterprise.md)
-      + [Elite](elite.md)
+      + [精英](elite.md)
       + [客户支持指南](support-guide.md)
    + Creative Cloud 和 Document Cloud 服务 {#dme-data-sheets}
       + [Creative Cloud 和 Document Cloud 服务](dme-overview.md)
       + [标准](dme-standard.md)
       + [商业](dme-business.md)
       + [企业](dme-enterprise.md)
-      + [Elite](dme-elite.md)
+      + [精英](dme-elite.md)
 + [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [隐藏概述](hidden-overview.md)
 + [隐藏测试文件](hidden-test.md)
