@@ -6,7 +6,7 @@ feature: Success Plans
 source-git-commit: 56883da531bf00a4d36c667bc7b153a9a047a770
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 94%
 + [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [隐藏概述](hidden-overview.md)
 + [隐藏的新测试](hidden-new-test.md)
-+ [隐藏的新测试2](hidden-new-test-2.md)
++ [隐藏的新测试 2](hidden-new-test-2.md)
 + [隐藏测试文件](hidden-test.md)
 + [隐藏错误修复](hidden/bug-fixes.md)
 + [隐藏 EDS 测试文件](hidden/test-page.md)
