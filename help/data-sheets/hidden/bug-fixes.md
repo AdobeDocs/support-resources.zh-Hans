@@ -4,9 +4,9 @@ description: 作内部测试用途的测试页面
 hide: true
 hidefromtoc: true
 exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
-source-git-commit: 45d7df912c336c9275545612e625869c005eb448
+source-git-commit: 0cefcf5bb4a021593a6bbe44eed0ad83e8bd259f
 workflow-type: tm+mt
-source-wordcount: '1849'
+source-wordcount: '1926'
 ht-degree: 27%
 
 ---
@@ -16,6 +16,31 @@ ht-degree: 27%
 ## 自动激活测试
 
 这些错误都应修复。
+
+## UGP-10866链接在阴影框中不粗体
+
+>[!BEGINSHADEBOX]
+
+**目录**
+
+* [AI 助手入门](note-test.md)
+* **[使用AI助手生成电子邮件](syntax-style-guide.md)**
+* [使用 AI 助手生成短信](test-page.md)
+* [使用AI助手生成推送](tables.md)
+* [使用AI助手进行内容试验](test-redirection.md)
+
+>[!ENDSHADEBOX]
+
+无阴影框
+
+**目录**
+
+* [AI 助手入门](note-test.md)
+* **[使用AI助手生成电子邮件](syntax-style-guide.md)**
+* [使用 AI 助手生成短信](test-page.md)
+* [使用AI助手生成推送](tables.md)
+* [使用AI助手进行内容试验](test-redirection.md)
+
 
 ## UGP-10584内联徽章不起作用
 
