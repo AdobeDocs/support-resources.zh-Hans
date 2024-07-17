@@ -3,10 +3,11 @@ title: 换表符
 description: 测试不同的表分隔符
 hide: true
 hidefromtoc: true
-source-git-commit: 9ad23090cb13f36d6d015b23122736048fe2230c
+exl-id: a769fcb7-f8d3-419b-bdd4-98b71bdf3b5d
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '270'
-ht-degree: 28%
+ht-degree: 25%
 
 ---
 
@@ -14,9 +15,9 @@ ht-degree: 28%
 
 这里没什么可看的。
 
-## 带有以下内容的标准Markdown表 `<br>`
+## 带有`<br>`的标准Markdown表
 
-**固定`Green<br>Red<br>Blue`**
+**已修复`Green<br>Red<br>Blue`**
 
 |  | 数值 | 颜色 |
 |---|---|---|
@@ -34,9 +35,9 @@ ht-degree: 28%
 
 {style="table-layout:auto"}
 
-## 带双精度的Markdown表 `<br>`s
+## 带双精度型`<br>`的Markdown表
 
-**固定`Green<br><br>Red<br><br>Blue`**
+**已修复`Green<br><br>Red<br><br>Blue`**
 
 |  | 数值 | 颜色 |
 |---|---|---|
@@ -54,9 +55,9 @@ ht-degree: 28%
 
 {style="table-layout:auto"}
 
-## Markdown表格与 `<p>`
+## 带有`<p>`的Markdown表
 
-**固定`Green<p>Red<p>Blue`**
+**已修复`Green<p>Red<p>Blue`**
 
 |  | 数值 | 颜色 |
 |---|---|---|
@@ -76,14 +77,14 @@ ht-degree: 28%
 
 |  | 数值 | 颜色 |
 |---|---|---|
-| Juanya | 17 | 这是颜色 **绿色** 并且它旨在作为事件和测试上述段落分隔符的方法换行。 <p>这是颜色 **红色** 并且它旨在作为事件和测试上述段落分隔符的方法换行。 <p>这是颜色 **蓝色** 并且它旨在作为事件和测试上述段落分隔符的方法换行。 |
+| Juanya | 17 | 这是颜色&#x200B;**绿色**，它用于作为事项换行，并且是测试上述段落分隔的手段。 <p>这是颜色&#x200B;**红色**，它用于作为事项换行，并且是测试上述段落分隔的手段。 <p>这是颜色&#x200B;**蓝色**，它用于作为事项换行，并且是测试上述段落分隔的手段。 |
 | Maria | 23 | 黄色<p>棕色 |
 
 {style="table-layout:fixed"}
 
 |  | 数值 | 颜色 |
 |---|---|---|
-| Juanya | 17 | 这是颜色 **绿色** 并且它旨在作为事件和测试上述段落分隔符的方法换行。 <p>这是颜色 **红色** 并且它旨在作为事件和测试上述段落分隔符的方法换行。 <p>这是颜色 **蓝色** 并且它旨在作为事件和测试上述段落分隔符的方法换行。 |
+| Juanya | 17 | 这是颜色&#x200B;**绿色**，它用于作为事项换行，并且是测试上述段落分隔的手段。 <p>这是颜色&#x200B;**红色**，它用于作为事项换行，并且是测试上述段落分隔的手段。 <p>这是颜色&#x200B;**蓝色**，它用于作为事项换行，并且是测试上述段落分隔的手段。 |
 | Maria | 23 | 黄色<p>棕色 |
 
 {style="table-layout:auto"}

@@ -4,7 +4,7 @@ description: Adobe 提供多种多样的技术资源以帮助支持您的业务�
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
 workflow-type: tm+mt
-source-wordcount: '1094'
+source-wordcount: '1123'
 ht-degree: 100%
 
 ---

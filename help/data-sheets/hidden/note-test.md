@@ -3,7 +3,8 @@ description: 连接到构件Data Warehouse — 产品文档
 title: 连接到WidgetData Warehouse
 hide: true
 hidefromtoc: true
-source-git-commit: fcf5fb8f9728dd27a81de21241a71ce49dd015f8
+exl-id: d6a7cff5-08f9-4c93-8765-46e692feaa0d
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 0%
@@ -14,13 +15,13 @@ ht-degree: 0%
 
 ## 新建测试
 
-<ol><li>使用'{{name}}'变量。</li></ol>
+<ol><li>使用“{{name}}”变量。</li></ol>
 
-<ol><li>使用&amp;lbrace；&amp;lbrace；<code>name</code>&amp;rbrace；&amp;rbrace；变量。</li></ol>
+<ol><li>使用&amp;amp；大括号；&amp;amp；大括号；<code>name</code>&amp;amp；大括号；&amp;amp；大括号；变量。</li></ol>
 
 ## 嵌套测试
 
-**第一**
+**第一个**
 
 >[!NOTE]
 >
@@ -45,11 +46,11 @@ ht-degree: 0%
 
 要访问您的Widget数据仓库，您需要导航到您的Widget帐户的特定URL。  您可以通过登录Marketo Measure并按照以下步骤导航到Data Warehouse信息页面来找到此访问链接。
 
-1. 在Marketo Measure中，单击页面顶部的 **我的帐户** > **设置**.
+1. 在Marketo Measure页面顶部，单击&#x200B;**我的帐户** > **设置**。
 
    ![](assets/adobe-logo-old.png)
 
-1. 在左侧菜单的“安全”下，单击 **Data Warehouse**.
+1. 在左侧菜单的“安全”下，单击&#x200B;**Data Warehouse**。
 
    ![](assets/adobe-logo-old.png)
 
@@ -61,11 +62,11 @@ ht-degree: 0%
    >
    >这是一个只读帐户，可供贵组织使用，而不仅仅限于个人用户。 贵公司内有权访问Marketo Measure的任何用户都可以使用此帐户登录WidgetData Warehouse读取器帐户。
 
-1. 单击构件URL中提供的链接，这会将您带到构件登录页面，您将在其中输入用户名和密码。 _如果您没有密码，请参阅以下步骤重置密码_.
+1. 单击构件URL中提供的链接，这会将您带到构件登录页面，您将在其中输入用户名和密码。 _如果没有密码，请参阅以下步骤重置密码_。
 
    ![](assets/adobe-logo-old.png)
 
-1. 登录后，单击 **工作表** 页面顶部的。
+1. 登录后，单击页面顶部的&#x200B;**工作表**。
 
    ![](assets/adobe-logo-old.png)
 
@@ -119,11 +120,11 @@ Marketo Measure无权访问您的Widget登录密码。  如果需要重置密码
 
 **限制**
 
-为了让Marketo Measure设置直接共享，请求访问的帐户必须位于Azure East US 2。 我们知道Widget提供了跨区域的数据复制解决方案，但我们不支持从这一端进行此功能，因为我们仅在Azure East US 2区域托管数据。 您可以通过在Azure East US 2中设置自己的实例来利用此功能，并且 [跨区域复制数据](https://docs.widget.com/en/user-guide/secure-data-sharing-across-regions-plaforms.html){target="_blank"} 到您的现有实例。 但是，Widget的数据复制功能仅在表中可用，因此要使用此功能，您需要先将数据从我们的视图复制到您自己的表中。
+为了让Marketo Measure设置直接共享，请求访问的帐户必须位于Azure East US 2。 我们知道Widget提供了跨区域的数据复制解决方案，但我们不支持从这一端进行此功能，因为我们仅在Azure East US 2区域托管数据。 你可以通过在Azure East US 2中设置自己的实例并[跨区域](https://docs.widget.com/en/user-guide/secure-data-sharing-across-regions-plaforms.html){target="_blank"}将数据复制到现有实例来利用此功能。 但是，Widget的数据复制功能仅在表中可用，因此要使用此功能，您需要先将数据从我们的视图复制到您自己的表中。
 
 **访问共享**
 
-为提供的帐户ID创建共享后，您必须完成 [设置步骤](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"} 以访问数据。
+为提供的帐户ID创建共享后，您必须完成Widget实例中的[设置步骤](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}才能访问数据。
 
 >[!NOTE]
 >
@@ -154,4 +155,4 @@ GRANT IMPORTED PRIVILEGES ON DATABASE <database_name> TO ROLE <role_name>
 GRANT IMPORTED PRIVILEGES ON ALL SCHEMAS IN DATABASE <database_name> TO ROLE <role_name>
 ```
 
-有关从构件UI完成这些步骤的更多详细说明和步骤，请参阅 [直接查看构件的文档](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}.
+有关从构件UI完成这些步骤的更多详细说明和步骤，请直接参考[构件的文档](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}。

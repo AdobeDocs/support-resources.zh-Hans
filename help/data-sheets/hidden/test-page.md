@@ -3,7 +3,8 @@ title: 测试页面（隐藏）
 description: 作内部测试用途的测试页面
 hide: true
 hidefromtoc: true
-source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
+exl-id: 40a9a186-54c4-409e-8afb-35e8e3c8503f
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '1026'
 ht-degree: 73%
@@ -16,17 +17,17 @@ ht-degree: 73%
 
 ## 欢迎使用AEM EDS！
 
-发布测试
+Publish测试
 
 ## 按钮
 
-[默认按钮](https://www.adobe.com/)
+[默认按钮](https://www.adobe.com/cn)
 
-**[主要按钮](https://www.adobe.com/)**
+**[主要按钮](https://www.adobe.com/cn)**
 
-_[辅助按钮](https://www.adobe.com/)_
+_[辅助按钮](https://www.adobe.com/cn)_
 
-**_[三级按钮](https://www.adobe.com/)_**
+**_[三级按钮](https://www.adobe.com/cn)_**
 
 ## 图像 (EXLM-412)
 
@@ -162,7 +163,7 @@ width=50%（与下表相比）
       <img alt="配置" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong> 配置</strong></a>
+      <a href="/help/data-sheets/business.md"><strong>配置</strong></a>
       <p>为Adobe Commerce应用程序配置功能和服务。</p>
     </div>
   </td>
@@ -191,13 +192,13 @@ width=50%（与下表相比）
        <img alt="命令行工具引用" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>命令行工具参考</strong></a>
+      <a href="/help/data-sheets/business.md"><strong>命令行工具引用</strong></a>
       <p>了解Adobe Commerce命令行工具的命令、参数和选项。</p>
     </div>
   </td>
   <td valign="top">
     <a href="/help/data-sheets/business.md">
-       <img alt="性能" src="assets/package.png" width="40" height="40"/>
+       <img alt="绩效" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
       <a href="/help/data-sheets/business.md"><strong>性能最佳实践</strong></a>
@@ -238,7 +239,7 @@ width=50%（与下表相比）
        <img alt="企业" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>大规模商务</strong></a>
+      <a href="/help/data-sheets/business.md"><strong>Commerce规模</strong></a>
       <p>了解如何结合使用 Adobe Commerce 和 Adobe Experience Manager 大规模交付体验。</p>
     </div>
   </td>
@@ -263,7 +264,7 @@ width=50%（与下表相比）
       <img alt="发行信息" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>发行信息</strong></a>
+    <a href="/help/data-sheets/business.md"><strong>版本信息</strong></a>
     <p>查看Adobe Commerce修补程序和服务的所有发行信息。</p>
   </td>
   <td valign="top">
@@ -305,12 +306,12 @@ width=50%（与下表相比）
        <img alt="命令行工具引用" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>命令行工具参考</strong></a>
+    <a href="/help/data-sheets/business.md"><strong>命令行工具引用</strong></a>
     <p>了解Adobe Commerce命令行工具的命令、参数和选项。</p>
   </td>
   <td valign="top">
     <a href="/help/data-sheets/business.md">
-       <img alt="性能" src="assets/package.png" width="40" height="40"/>
+       <img alt="绩效" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
     <a href="/help/data-sheets/business.md"><strong>性能最佳实践</strong></a>
@@ -347,7 +348,7 @@ width=50%（与下表相比）
        <img alt="企业" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>大规模商务</strong></a>
+    <a href="/help/data-sheets/business.md"><strong>按比例增减Commerce</strong></a>
     <p>了解如何结合使用 Adobe Commerce 和 Adobe Experience Manager 大规模交付体验。</p>
   </td>
   <td valign="top">

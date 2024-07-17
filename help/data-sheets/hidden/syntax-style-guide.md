@@ -4,7 +4,8 @@ description: Markdown样式设置的基本简介
 mini-toc-levels: 1
 hide: true
 hidefromtoc: true
-source-git-commit: 77a5127250ffbc9d490579188e8469d4c3dac4c3
+exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '4238'
 ht-degree: 13%
@@ -17,7 +18,7 @@ ht-degree: 13%
 
 EDS
 
-请参阅此处： [Adobe.com](https://www.adobe.com/cn){rel=nofollow}
+请参阅此处：[Adobe.com](https://www.adobe.com/cn){rel=nofollow}
 
 <!--
 * You can [view a basic sample file](sample.md) or [view a sample file with advanced syntax examples](sample-full.md)
@@ -25,7 +26,7 @@ EDS
 
 >[!TIP]
 >
->观看此内容 [AdobeDocs Markdown视频](https://video.tv.adobe.com/v/26165).
+>观看此[AdobeDocs Markdown视频](https://video.tv.adobe.com/v/26165)。
 
 在大多数情况下，我们遵循标准的Git-Flavored Markdown (GFM)语法来设置文本格式。 但是，某些语法（例如水平线）不受支持，并且我们通过多种方式扩展了Markdown以满足我们的文档需求。
 
@@ -33,7 +34,7 @@ EDS
 
 Markdown中的段落不需要特殊语法。 在每个段落之间添加一个空白行。
 
-要将文本格式设置为 **粗体**，则用两个星号括住它：
+要将文本格式设置为&#x200B;**bold**，请用两个星号将文本括起来：
 
 ```
 This text is **bold**.
@@ -45,13 +46,13 @@ This text is **bold**.
 This text is *italic*.
 ```
 
-要将文本设置为两种格式，请执行以下操作： ***粗体和斜体***，则需用三个星号括住模板：
+要将文本格式同时设置为&#x200B;***粗体和斜体***，请用三个星号括住文本：
 
 ```
 This is text is both ***bold and italic***.
 ```
 
-要忽略Markdown格式字符，请使用 `\` 在字符之前：
+要忽略Markdown格式字符，请在该字符前使用`\`：
 
 `This is not \*italicized\* type.`
 
@@ -117,7 +118,7 @@ There are two ways to create badges:
 
 ## 块引号
 
-我们的创作系统使用blockquotes语法(`>` （位于行的开头）以识别用于获取提示、注释和视频的自定义Markdown扩展。 您可以通过添加 `>` 段落前面的字符。
+我们的创作系统使用区块引号语法（行首为`>`）来识别用于获取提示、注释和视频的自定义Markdown扩展。 通过在段落前添加`>`字符，可以创建实际的方括号。
 
 >这是块引号。
 
@@ -127,13 +128,13 @@ There are two ways to create badges:
 
 ## 代码块（嵌入式）{#code-block}
 
-**使用时间**
+**何时使用**
 
 用于呈现句子中的内联代码。 非常适合调用不需要全屏代码块的Cookie名称、文件名、值或命令。
 
-代码块中的内容按原样呈现且未本地化。 (这条规则的唯一例外是 `!UICONTROL` 和 `!DNL` 语法，在打包以供发布期间剥离出来。)
+代码块中的内容按原样呈现且未本地化。 （此规则的唯一例外是`!UICONTROL`和`!DNL`语法，在打包发布时剥离这些语法。）
 
-此外，对于不应验证的示例URL，也应使用代码块： `https://www.example.com`
+对于不应验证的示例URL，也使用代码块： `https://www.example.com`
 
 **语法**
 
@@ -149,13 +150,13 @@ This is `inline code` within a paragraph of text.
 
 >[!TIP]
 >
->您还可以使用三个反撇号(&amp;grave；&amp;grave；&amp;grave；)将文本换行，以创建内联代码块。 当需要引用内联代码块中的反撇号字符时，此功能特别有用。 示例：
+>您还可以使用三个反撇号(&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；)将文本换行，以创建内联代码块。 当需要引用内联代码块中的反撇号字符时，此功能特别有用。 示例：
 >
-&amp;grave；&amp;grave；&amp;grave；`Use a back tick (`抑音符(&amp;G)；`) for formatting`&amp;grave；&amp;grave；&amp;grave；
+&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；`Use a back tick (`&amp;amp；grave；`) for formatting`&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；
 
 ## 代码块（受保护）
 
-**使用时间**
+**何时使用**
 
 使用代码块显示代码语法。 受防护的代码块使用三个反撇号来封装要高亮显示的代码元素。 在受防护的代码块上方和下方添加空白行。
 
@@ -163,13 +164,13 @@ This is `inline code` within a paragraph of text.
 
 >[!TIP]
 >
-在创建受防护的代码块时指定语言。 指定语言时，可突出显示特定于该语言的语法，并显示 **复制** 按钮。 如果您指定语言，也可以显示行号。
+在创建受防护的代码块时指定语言。 指定语言时，允许特定于该语言的语法突出显示，并为用户显示&#x200B;**复制**&#x200B;按钮。 如果您指定语言，也可以显示行号。
 
 **语法**
 
-在代码行前后使用三个反撇号( &amp;grave；&amp;grave；&amp;grave； )。 确保打开和关闭的背面刻度缩进的空格数相同。 要获得最佳渲染，请指定代码语言。
+在代码行前后使用三个反撇号(&amp;amp；grave；&amp;amp；grave；&amp;amp；grave； )。 确保打开和关闭的背面刻度缩进的空格数相同。 要获得最佳渲染，请指定代码语言。
 
-&amp;grave；&amp;grave；&amp;grave；`javascript`
+&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；`javascript`
 
 **示例**
 
@@ -247,11 +248,11 @@ Experience League 支持代码块的语法突出显示。确保在开始的那�
 
 ### 代码块中的变量格式
 
-变量语法，例如 `<i>italic</i>` 在代码块中不受支持。 要指示可变文本，一个选项是使用尖括号 `< >`.
+代码块中不支持变量语法，如`<i>italic</i>`。 要指示可变文本，一个选项是使用尖括号`< >`。
 
 ## 可折叠部分
 
-您可以创建可折叠部分(有时称为 **可折叠项**)，默认情况下处于隐藏状态。 用户可以单击标题以展开或折叠部分。
+您可以创建默认隐藏的可折叠部分（有时称为&#x200B;**可折叠项**）。 用户可以单击标题以展开或折叠部分。
 
 可折叠文本可用于简化复杂内容，例如简化常见问题解答页面或使用嵌套列表去除复杂过程的杂凑。 例如，您可以将子步骤折叠到“查看详细信息”部分中，而不是显示一组子步骤。
 
@@ -270,7 +271,8 @@ This is text inside a collapsible section.
 
 **示例**
 
-+++查看详细信息这是可折叠部分中的文本。
++++查看详细信息
+这是可折叠部分中的文本。
 
 * 项目符号1
 * 项目符号2
@@ -280,12 +282,12 @@ This is text inside a collapsible section.
 
 **注释**
 
-* 请勿在可折叠部分内嵌套可折叠部分。 嵌套的可折叠部分无法正确呈现。 但是，它们不会导致验证失败，因此用户将会看到 `+++` 嵌套部分的语法。
+* 请勿在可折叠部分内嵌套可折叠部分。 嵌套的可折叠部分无法正确呈现。 但是，它们不会导致验证失败，因此用户将看到嵌套节的`+++`语法。
 * 请确保在可折叠部分中添加项目符号列表和代码块等项目上方和下方的空白行，否则会出现验证错误。
 * 可以在可折叠部分中添加标题，但不建议这样做。
-* [可折叠项并不总是桌面上复杂内容的答案](https://www.nngroup.com/articles/accordions-complex-content/)
-* 可折叠部分的一个历史缺点是 **在页面中查找** (Ctrl/Cmd+F)忽略折叠文本。 虽然在Safari中仍然如此，但在Chrome中不再如此；在页面中查找可检测Chrome中折叠的文本。
-* 示例 [维护更新](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) 使用可折叠节的页面。
+* [折叠并不总是桌面上复杂内容的答案](https://www.nngroup.com/articles/accordions-complex-content/)
+* 可折叠部分的一个历史缺点是&#x200B;**在页面**&#x200B;中查找(Ctrl/Cmd+F)会忽略折叠文本。 虽然在Safari中仍然如此，但在Chrome中不再如此；在页面中查找可检测Chrome中的折叠文本。
+* 使用可折叠部分的[维护更新](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en)页面的示例。
 
 ## 注释和备注
 
@@ -306,7 +308,7 @@ DO NOT USE the following:
 You can't see me (unless you're editing in Git).
 -->
 
-**提醒：** 注释（备注）不会出现在面向公众的帮助文章中。 但是，它会出现在用户可以查看和编辑的面向公众的 Markdown 文件中。
+**提醒：**&#x200B;评论（备注）未出现在面向公众的帮助文章中。 但是，它会出现在用户可以查看和编辑的面向公众的 Markdown 文件中。
 
 >[!IMPORTANT]
 >
@@ -336,7 +338,7 @@ You can't see me (unless you're editing in Git).
 
 呈现效果：
 
-**青蛙**  — 两栖绿色生物。 喜欢苍蝇。
+**青蛙** — 两栖绿色生物。 喜欢苍蝇。
 
 <!--
 A definition list is a Markdown extension that supports the Definition List component in AEM. A definition list consists of a term and its definition.
@@ -368,11 +370,11 @@ Cat
 
 将.zip或其他可下载文件上传到assets目录，然后链接到它。 如果它是.zip文件，则单击该链接将下载该文件。 如果文件类型(如PDF或PNG)可以在浏览器中打开，则单击该链接将打开一个新选项卡。 对于此类文件，请考虑压缩它们或提供右键单击链接和下载的说明。
 
-`Download` 分段(&amp;L)；`download-test.zip`&amp;rbrack；`(assets/download-test.zip)`
+`Download` &amp;amp；lbrack；`download-test.zip`&amp;amp；rbrack；`(assets/download-test.zip)`
 
 呈现效果：
 
-下载 [download-test.zip](assets/download-test.zip)
+下载[download-test.zip](assets/download-test.zip)
 
 >[!NOTE]
 >
@@ -380,7 +382,7 @@ Cat
 
 ## 标题 {#headings}
 
-在Markdown中，你使用英镑符号(`#`)以标识标题级别。 第一级(`#`)是文章标题，该标题也在元数据标题中指定 — 请保持这些相同。 第二级(`##`)表示将包含在mini-TOC中的页面上的主标题。 如果您习惯使用AEM (chl-author)进行编写，则需填写第2级标题(`##`)映射到AEM中的“标题1”组件。
+在Markdown中，使用井号(`#`)标识标题级别。 第一级(`#`)是文章标题，该标题也在元数据标题中指定 — 请保持这些相同。 第二级(`##`)表示将包含在mini-TOC中的页面上的主标题。 如果您习惯使用AEM (chl-author)进行编写，则2级标题(`##`)将映射到AEM中的“标题1”组件。
 
 标题的最大字符数：69个字符（英语）/120个字符(LOC)。
 
@@ -394,16 +396,16 @@ Cat
 
 **标题最佳实践**
 
-* 确保1级标题(`#`)在每篇文章中的元数据后跟一个空白行。
-* 请勿跳过级别，例如从2级跳转(`##`)到级别4 (`####`)。
-* 包含空白行 *早于* 和 *之后* 每个标题。
-* 如果标题包含数字，请指定不以数字开头的显式标题ID，例如 `## Release notes for 2016 {#release-notes-2016}`.
+* 确保每篇文章中的元数据后面都有一行空白的1级标题(`#`)。
+* 请勿跳过级别，例如从级别2 (`##`)跳到级别4 (`####`)。
+* 每个标题在&#x200B;*之前*&#x200B;和&#x200B;*之后*&#x200B;均包括空白行。
+* 如果标题包含数字，请指定不以数字开头的显式标题ID，如`## Release notes for 2016 {#release-notes-2016}`。
 * 我们建议仅使用3个标题级别。 级别4及更高级别当前未正确呈现。
-* 标题显示在右侧导航中，以便用户可以单击跳转到部分。 默认情况下，右侧导航中显示两个级别的标题。 如果要更改级别数，请使用 `mini-toc-levels` 元数据，例如 `mini-toc-levels: 3`.
+* 标题显示在右侧导航中，以便用户可以单击跳转到部分。 默认情况下，右侧导航中显示两个级别的标题。 如果要更改级别数，请使用`mini-toc-levels`元数据，如`mini-toc-levels: 3`。
 
-**标题Id**
+**标题ID**
 
-标题ID(也称为 *锚点ID*)用于创建指向文章中各个部分的自定义深层链接。 要指定标题ID，请使用此格式：
+标题ID（也称为&#x200B;*锚点ID*）用于创建指向文章中分区的自定义深层链接。 要指定标题ID，请使用此格式：
 
 ```
 ## Creating processing rules {#processing-rules}
@@ -411,7 +413,7 @@ Cat
 
 标题ID应小写并使用连字符。
 
-如果没有为标题指定标题ID，则默认标题ID为“简写”（小写并连字）标题。 例如， `## Creating widgets and Such` 标题将具有 `#creating-widgets-and-such` 锚点。
+如果没有为标题指定标题ID，则默认标题ID为“简写”（小写并连字）标题。 例如，`## Creating widgets and Such`标题将具有`#creating-widgets-and-such`锚点。
 
 ## HTML语法 {#html}
 
@@ -458,7 +460,7 @@ Bob: Check above no space char. (ignore the space; I can't add a codeblock insid
 
 ## 图像 {#images}
 
-使用 `![]()` 图像的语法。 括号 `[ ]` 包括替换文本和圆括号 `( )` 包括图像位置和可选的悬停文本（工具提示）。 感叹号将图像与链接区分开来。
+对图像使用`![]()`语法。 括号`[ ]`包含替换文本，括号`( )`包含图像位置和可选悬停文本（工具提示）。 感叹号将图像与链接区分开来。
 
 ```
 ![alt text](assets/logo.png "Hover text")
@@ -474,7 +476,7 @@ Bob: Check above no space char. (ignore the space; I can't add a codeblock insid
 
 ### 调整图像大小和对齐
 
-**图像属性（使用右对齐的图像）** ![替换文本](assets/premium.png "Premium悬停文本"){align="right"}
+**图像属性（使用右对齐的图像）** ![替换文本](assets/premium.png "高级悬停文本"){align="right"}
 
 使用如下语法更改页面视图或表格单元格中的默认图像宽度或居中或右对齐图像。
 
@@ -484,12 +486,12 @@ Bob: Check above no space char. (ignore the space; I can't add a codeblock insid
 
 呈现效果：
 
-![潜水图像替换文本](assets/maui-dive.jpg "悬停文本 — Maui驱动宽度为300像素且居中"){width="300" align="center"}
+![潜水图像替换文本](assets/maui-dive.jpg "悬停文本 — Maui潜水宽度为300像素且居中"){width="300" align="center"}
 
 * 对于大图像，我们建议您创建足够大的图像以适合页面宽度（至少640像素宽）进行缩放。 建议的宽度为1500像素。 无需创建大于2500像素或500 KB的图像。 图像的最大文件大小为100 MB。
-* 对于小图像，请使用所需的宽度（以像素为单位）创建图像，或者使用width参数，例如 `{width="250"}` （像素）或 `{width="50%"}` （查看区域的百分比，而非原始图像大小）。 图像按比例缩放。 请注意，图像可以放大或缩小，因此请注意像素化。
+* 对于小图像，请使用所需的宽度（以像素为单位）创建图像，或者使用width参数，如`{width="250"}` （像素）或`{width="50%"}` （查看区域的百分比，而不是原始图像大小）。 图像按比例缩放。 请注意，图像可以放大或缩小，因此请注意像素化。
 * 在某些情况下，来自同一界面的图像在页面上看起来会不成比例，因为较宽的图像（例如工具栏）会按比例缩小，而较窄的图像（例如面板）则不会按比例缩小。 在这种情况下，请考虑缩小较宽的图像以提高视觉一致性。
-* 您可以更改视图区域中图像的对齐方式。 使用 `{align="center"}` 或 `{align="right"}`. 此 `valign` 不支持该参数。
+* 您可以更改视图区域中图像的对齐方式。 使用`{align="center"}`或`{align="right"}`。 不支持`valign`参数。
 
 >[!NOTE]
 >
@@ -540,7 +542,7 @@ Use the `zoomable` parameter to allow users to click an image to view an enlarge
 
 [Adobe](https://www.adobe.com/cn)
 
-如果将URL直接添加到文本，则不会自动将其转换为链接。 如果您希望URL显示为链接，请添加 `< >` 语法。 示例：
+如果将URL直接添加到文本，则不会自动将其转换为链接。 如果您希望URL显示为链接，请添加`< >`语法。 示例：
 
 ```
 https://www.adobe.com
@@ -564,7 +566,7 @@ https://www.adobe.com/cn
 See [Overview example article](collaborative-doc-instructions/overview.md)
 ```
 
-路径名需要同时考虑源文件和目标文件的位置。 您可以使用所有相对链接操作数，例如 `./` （当前目录）， `../` （返回一个目录），和 `../../` （前两个目录）。
+路径名需要同时考虑源文件和目标文件的位置。 您可以使用所有相对链接操作数，如`./` （当前目录）、`../` （上一个目录）和`../../` （上一个目录）。
 
 **选项2：根相对链接**
 
@@ -590,7 +592,7 @@ See [Overview example article](collaborative-doc-instructions/overview.md)
 
 **在新标签页中打开**
 
-如果您希望链接打开新选项卡，例如跳转到其他指南时，请使用 `{target="_blank"}` 属性。
+如果您希望链接打开新选项卡，例如当您跳转到其他指南时，请使用链接中的`{target="_blank"}`属性。
 
 示例：
 
@@ -619,7 +621,7 @@ description: This is the article description used for search optimization. Use c
 
 **语法**
 
-![更多与此语法类似的内容](assets/morelikethis.png)
+![更多与此语法相似的内容](assets/morelikethis.png)
 
 **示例**
 
@@ -734,9 +736,9 @@ description: This is the article description used for search optimization. Use c
 
 ## 编号列表和项目符号列表 {#lists}
 
-要创建编号列表，请在行首使用 `1.` 或 `1)`，但请选择一种方法并在文章中始终使用。 您无需指定编号。GitHub 会为您完成此操作。
+要创建编号列表，请在行首使用`1.`或`1)`，但选择一种方法并在文章中一致地使用它。 您无需指定编号。GitHub 会为您完成此操作。
 
-使用编号 `1` 编号列表中的每一步。
+编号列表中的每一步都使用编号`1`。
 
 在列表之前和之后添加空白行。
 
@@ -766,9 +768,9 @@ description: This is the article description used for search optimization. Use c
 
 1. This is yet another step, the third.
 
-要创建项目符号列表，请在行首使用 `*` 或 `-` 或 `+`，但请选择一种方法并在文章中始终使用。 (如果混合使用不同格式，例如 `*` 和 `+`，则在签入文件时将收到Markdown验证错误。)
+要创建项目符号列表，请在行首使用`*`、`-`或`+`，但选择一种方法并在文章中一致地使用它。 （如果混合使用`*`和`+`等格式，则在签入文件时将会出现Markdown验证错误。）
 
-**最佳实践：** 使用 `*` 用于子弹。 Visual Studio Code为项目符号应用星号，因此使用星号更容易自动创建无序列表。 (您可能已经注意到TOC.md文件使用了加号 `+` 用于列表。 这是移民留下的烂摊子。 任何有效的项目符号字符只要在文章中一致即可。)
+**最佳实践：**&#x200B;将`*`用于项目符号。 Visual Studio Code为项目符号应用星号，因此使用星号更容易自动创建无序列表。 (您可能已经注意到TOC.md文件对列表使用了加号`+`。 这是移民留下的烂摊子。 任何有效的项目符号字符只要在文章中一致即可。)
 
 **语法**
 
@@ -838,13 +840,13 @@ description: This is the article description used for search optimization. Use c
 
 阴影框可用于从页面的其余部分设置内容的区域。 例如，Workfront团队喜欢添加包含文本、图像和代码示例的“示例”框来实现特定目的。 对于“自助”或“用例”部分，或者对于扩展的注释或提示，阴影框可能也很有用。
 
-要创建着色框，请添加 `>[!BEGINSHADEBOX]` 在和部分的开头处 `>[!ENDSHADEBOX]` 在结尾处。 这些开始和结束标记之间的所有内容都将具有灰色背景。 将标签添加到 `BEGINSHADEBOX` (例如 `>[!BEGINSHADEBOX "Use Case]` 是创建粗体阴影框标题的可选方法。 您还可以在下一行添加粗体文本或标题。
+要创建阴影框，请在部分的开头添加`>[!BEGINSHADEBOX]`，在结尾添加`>[!ENDSHADEBOX]`。 这些开始和结束标记之间的所有内容都将具有灰色背景。 将标签添加到`BEGINSHADEBOX`(如`>[!BEGINSHADEBOX "Use Case]`是创建粗体阴影框标题的可选方式。 您还可以在下一行添加粗体文本或标题。
 
 示例：
 
 >[!BEGINSHADEBOX]
 
-**删除HTML表中的边框**
+**正在删除HTML表中的边框**
 
 在某些情况下，您可以使用HTML表来创建平衡设计，但不希望内容看起来像表格。 要关闭单行HTML表的边框，请使用以下语法：
 
@@ -857,9 +859,9 @@ description: This is the article description used for search optimization. Use c
 >
 不要过度使用。 对于普通表格，我们希望跨内容保持一致的设计。
 
-![表格提示](assets/table-no-border.png)
+![表提示](assets/table-no-border.png)
 
-在三列表格中，您还可以添加 `<td align="center">` 和 `<td align="right">` 将单元格内容均匀地分布到视图区域中。 如果不是这样，我早就告诉你了。
+在三列表格中，您还可以添加`<td align="center">`和`<td align="right">`以平均将单元格内容分布到视图区域。 如果不是这样，我早就告诉你了。
 
 这是阴影框的最后一行。
 
@@ -867,9 +869,9 @@ description: This is the article description used for search optimization. Use c
 
 ## 代码片段和
 
-要在存储库中的文章之间共享文本，您需要创建 `_includes` 中的文件夹 `help` 文件夹。 此 `_includes` 文件夹可以包含可从存储库中的其他文件引用（包含）的.md文件。 此外， `snippets.md` 此存储库中的文件可以包含可从存储库中的任何文件引用的Head2锚点。
+要在存储库中的文章之间共享文本，请在`help`文件夹中创建一个`_includes`文件夹。 此`_includes`文件夹可以包含可从存储库中的其他文件引用（包括）的.md文件。 此外，此存储库中的`snippets.md`文件可以包含可从存储库中的任何文件引用的Head2锚点。
 
-对snippets.md文件中H2的引用： `{{id-name}}`
+在snippets.md文件中引用H2： `{{id-name}}`
 
 引用包含文件： `{{$include /help/_includes/filename.md}}`
 
@@ -879,11 +881,11 @@ description: This is the article description used for search optimization. Use c
 
 >[!TIP]
 >
-观看 [Markdown表格视频](https://video.tv.adobe.com/v/26220)
+观看[Markdown表格视频](https://video.tv.adobe.com/v/26220)
 
 在Markdown中，原生表通常看起来更好。 将根据列的内容调整其大小。 HTML表使用等宽列呈现。
 
-默认情况下，Markdown不支持在单元格中使用多个行或列表。 但是，我们已扩展Markdown表格，允许在单元格中使用多个行(使用 `<p>` 或 `<br>`)或基本列表(使用 `<ul><li>` 等等)。
+默认情况下，Markdown不支持在单元格中使用多个行或列表。 但是，我们扩展了Markdown表，以允许单元格中的多行（使用`<p>`或`<br>`）或基本列表（使用`<ul><li>`等）。
 
 >[!IMPORTANT]
 >
@@ -893,7 +895,7 @@ description: This is the article description used for search optimization. Use c
 
 不允许在本地Markdown表格中使用：嵌套列表或复杂列表。
 
-请参阅 [表](tables.md)
+查看[表](tables.md)
 
 **语法**
 
@@ -926,7 +928,7 @@ Markdown 中可轻松处理简单的表格。但是，如果表格单元格中�
 
 | Header | Another header | Yet another header |
 |------------|----------|----------------|
-| row 1 | 单元格中的第一段<p>单元格中的第二段(`<p>`)<br>换行符(`br`) | row 1 column 3 |
+| row 1 | 单元格中的第一段<p>单元格(`<p>`)<br>换行符(`br`)中的第二段落 | row 1 column 3 |
 | row 2 | 项目符号列表<ul><li>项目1</li><li>项目2</li><li>项目3</li></ul> | row 2 column 3 |
 
 **带有换行符和伪列表的Markdown表**
@@ -944,8 +946,8 @@ Markdown 中可轻松处理简单的表格。但是，如果表格单元格中�
 
 | 颜色 | 待办事项 |
 |--- |--- |
-| 红色 | *读取 <br> *写入 <br> *学习 |
-| 蓝色 | *游泳 <br> *运行 <br> *提升 <br> **注意**：请记住训练要聪明。 |
+| 红色 | *读取<br> *写入<br> *研究 |
+| 蓝色 | *游泳<br> *运行<br> *提升<br> **注意**：请记住训练智能型。 |
 .32
 
 
@@ -953,9 +955,9 @@ Markdown 中可轻松处理简单的表格。但是，如果表格单元格中�
 
 选项卡是位于区域顶部的可单击区域，可显示不同的内容。 单击某个选项卡时，将显示该选项卡的内容，并隐藏其他选项卡的内容。
 
-要创建选项卡集，请添加 `>[!BEGINTABS]` 选项卡集开头和 `>[!ENDTABS]` 在最后一个选项卡之后。 添加 `>[!TAB <tab title>]` 标记每个选项卡部分，并将每个选项卡的内容添加到其下方。
+要创建选项卡集，请在选项卡集的开头添加`>[!BEGINTABS]`，并在最后一个选项卡之后添加`>[!ENDTABS]`。 为每个选项卡部分添加`>[!TAB <tab title>]`标记，并将每个选项卡的内容添加到其下方。
 
-**选项卡语法**
+**Tab语法**
 
 ```
 >[!BEGINTABS]
@@ -993,13 +995,13 @@ This content appears in the Linux tab.
 
 >[!TAB Android]
 
-此内容显示在Android选项卡中。
+此内容显示在“Android”选项卡中。
 
 >[!TAB Windows]
 
 此内容显示在Windows选项卡中。
 
->[!TAB macOS]
+>[!TAB MacOS]
 
 此内容显示在“MacOS”选项卡中。
 
@@ -1009,11 +1011,11 @@ This content appears in the Linux tab.
 
 >[!ENDTABS]
 
-**选项卡注释**
+**制表符备注**
 
 * 用户无法使用页面内搜索(Ctrl+F/Cmd+F)在未显示的选项卡中查找内容。
 * 如果选项卡标题超出用户浏览器中的页面视图宽度，则会显示水平滚动条。
-* 不能设置选项卡标题的格式。 您添加的任何语法都将作为标题的一部分传递。 例如， `>[!TAB **iOS**]` 将显示为 `**iOS**`.
+* 不能设置选项卡标题的格式。 您添加的任何语法都将作为标题的一部分传递。 例如，`>[!TAB **iOS**]`将显示为`**iOS**`。
 * 可以在一个页面上创建多个选项卡集，但不能在另一个选项卡集中嵌套一个选项卡集。
 * 着色背景将应用于选项卡集，以便用户能够看到将选项卡内容与其他内容区分开。
 
@@ -1031,7 +1033,7 @@ This entire paragraph should NOT be highlighted. <span class="preview"> This wor
 
 不应突出显示整个此段落。<span class="preview">突出显示的句子中的这个词为&#x200B;**粗体**。</span>而这就是最后一个句子。
 
-作为一般规则，请使用 `<span class="preview">` 突出显示段落中的段落或文本，并使用 `<div class="preview">` 用于多个段落和组件。
+作为一般规则，使用`<span class="preview">`突出显示段落中的段落或文本，并为多个段落和组件使用`<div class="preview">`。
 
 >[!NOTE]
 >
@@ -1041,7 +1043,7 @@ VSC预览尚不支持高亮显示。
 
 ## 视频
 
-视频不会在Markdown中以本机方式呈现。 要显示内联视频，请使用组件指示器 `[!VIDEO]` 然后是url。
+视频不会在Markdown中以本机方式呈现。 要显示内联视频，请使用组件指示器`[!VIDEO]`，然后使用URL。
 
 **语法**
 
@@ -1076,15 +1078,15 @@ VSC预览尚不支持高亮显示。
 * 文本突出显示
 * 页面选项卡
 
-使用Markdown块引用( `>` )将基于段落的组件（如注释）绑定在一起。 要改善预览，请在部分开头后立即添加一个仅具有块引号符号的行(`>`)。 要结束部分，请添加一个空白行。
+在每行的开头使用Markdown块引用( `>` )可将基于段落的组件（如注释）绑定在一起。 要改善预览，请在节的开头后立即添加一个仅具有块引号(`>`)的行。 要结束部分，请添加一个空白行。
 
-如果需要在组件中使用子组件，请添加额外级别的块引号(`>  >`)。 例如，DONOTLOCALIZE部分中的“注释”应以 `>  >`.
+如果需要在组件中使用子组件，请为该子组件部分添加额外级别的块引用(`>  >`)。 例如，DONOTLOCALIZE部分中的NOTE应以`>  >`开头。
 
-在某些情况下，我们需要支持Markdown元素的特定设置，例如标题。 如果需要更改默认设置，请将参数添加到大括号中 `{# }` 在组件之后。
+在某些情况下，我们需要支持Markdown元素的特定设置，例如标题。 如果需要更改默认设置，请将参数添加到组件后面的大括号`{# }`中。
 
 ### 空白行
 
-您可以将一些喘息空间添加到带有空白行的文本墙上。 使用 `<br>&nbsp;` 作为解决方法，可添加空白行。
+您可以将一些喘息空间添加到带有空白行的文本墙上。 使用`<br>&nbsp;`作为解决方法以添加空白行。
 
 示例：这是可能非常长的文本的第一句。 让我在此段落和下一段落之间插入一个空白行。
 
@@ -1094,7 +1096,7 @@ VSC预览尚不支持高亮显示。
 
 ### 用于“转义”的字符 {#characters-to-escape}
 
-几个字符(`# { } [ ] < > * + - . !`)在Markdown或HTML中具有特殊意义，可用于创建标题、图像、列表和其他组件。 使用这些字符时，渲染引擎认为您正在添加代码。 但是，在某些情况下，您希望在文本中显示这些字符。 要实现此目的，您需要“转义”字符。 最简单的转义方法是在字符前面加上反斜杠(`\`)。 例如，如果您要以 `#` 字符，这样它就不会被解释为标题，您可以键入 `\#`：
+多个字符(`# { } [ ] < > * + - . !`)在Markdown或HTML中具有特殊的含义，可用于创建标题、图像、列表和其他组件。 使用这些字符时，渲染引擎认为您正在添加代码。 但是，在某些情况下，您希望在文本中显示这些字符。 要实现此目的，您需要“转义”字符。 最简单的转义方法是在字符前面加上反斜杠(`\`)。 例如，如果要以`#`字符作为行首以便不将其解释为标题，则应键入`\#`：
 
 `\# This is not a heading`
 
@@ -1102,7 +1104,7 @@ VSC预览尚不支持高亮显示。
 
 \#这不是标题
 
-反斜杠仅适用于以下字符： `# { } [ ] * + - . !`. 如果您需要转义字符，例如尖括号(如 `<yourname>`)，您可以用反撇号将文本括起来以应用内联代码块，或者使用HTML实体代码而不是字符。 常见HTML代码示例：
+反斜杠仅适用于以下字符： `# { } [ ] * + - . !`。 如果需要转义字符(如尖括号（如`<yourname>`）)，您可以用反撇号将文本括起来以应用内联代码块，或者使用HTML实体代码而不是字符。 常见HTML代码示例：
 
 * `&lt;` (&lt;)
 * `&gt;` (>)
@@ -1111,15 +1113,15 @@ VSC预览尚不支持高亮显示。
 * `&mdash;` (—)
 * `&ndash;` (-)
 
-HTML实体的完整列表可在 [Freeformatter网站](https://www.freeformatter.com/html-entities.html). 这将允许您查找所有特殊字符。
+[Freeformatter网站](https://www.freeformatter.com/html-entities.html)上提供了HTML实体的完整列表。 这将允许您查找所有特殊字符。
 
 >[!NOTE]
 >
-对于链接步骤，例如“选择文件”>“另存为”，您无需转义 `>` 字符，因为它不在其他字符旁边。 对于变量，例如 `<filename>` 您需要使用任一代码块来转义尖括号 `backticks` 或字符代码(`&lt;filename&gt;`)。
+对于链步骤，例如“选择文件>另存为”，您无需转义`>`字符，因为它不位于其他字符旁边。 对于变量（如`<filename>`），您需要使用代码块`backticks`或字符代码(`&lt;filename&gt;`)来转义尖括号。
 
-如果在代码块中使用HTML实体，则实体文本不会转换为特殊字符。 例如， `&gt;` 在代码块中显示为&quot; `&gt;` ”而非“ > ”。
+如果在代码块中使用HTML实体，则实体文本不会转换为特殊字符。 例如，`&gt;`在代码块中显示为“ `&gt;`”而不是“ > ”。
 
-要跳回刻度( &amp;grave； )，请使用 `&grave;` 或者，在包含内联代码块的三重反撇号中插入反撇号。
+要跳转反撇号(&amp;amp；grave； )，请使用`&grave;`或将反撇号插入三反撇号中，以包裹内联代码块。
 
 ### 不支持的项目
 
@@ -1144,7 +1146,7 @@ HTML实体的完整列表可在 [Freeformatter网站](https://www.freeformatter.
 :bowtie:
 ```
 
-**水平标尺**
+**水平线**
 
 不支持
 
@@ -1154,7 +1156,7 @@ HTML实体的完整列表可在 [Freeformatter网站](https://www.freeformatter.
 
 **块引号**
 
-我们使用块引号(`>` （例如，注释和视频）来指示扩展的Markdown语法，如下所述。 但您也可以使用 `>` 创建块引用部分的语法。
+我们使用块引号（`>`位于行的开头）来指示扩展Markdown语法，例如注释和视频，如下所述。 但您也可以使用`>`语法来创建块引用部分。
 
 >[!NOTE]
 >
