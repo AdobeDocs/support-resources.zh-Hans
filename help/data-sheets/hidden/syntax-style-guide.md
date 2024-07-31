@@ -5,9 +5,9 @@ mini-toc-levels: 1
 hide: true
 hidefromtoc: true
 exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
-source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
+source-git-commit: 3c1298d5ea119d7afb530a98efec4a46a8dc0ea6
 workflow-type: tm+mt
-source-wordcount: '4238'
+source-wordcount: '4237'
 ht-degree: 13%
 
 ---
@@ -948,7 +948,6 @@ Markdown 中可轻松处理简单的表格。但是，如果表格单元格中�
 |--- |--- |
 | 红色 | *读取<br> *写入<br> *研究 |
 | 蓝色 | *游泳<br> *运行<br> *提升<br> **注意**：请记住训练智能型。 |
-.32
 
 
 ## 选项卡
