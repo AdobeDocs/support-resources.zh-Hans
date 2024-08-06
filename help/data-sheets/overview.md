@@ -2,10 +2,10 @@
 title: Adobe 成功计划概述
 description: 本文概述 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客户支持选项。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 2823ae203ecf04f69135b2af9af817ef19a55ee3
+source-git-commit: ce457445cf12559cccbf80b06d390d01c40281d7
 workflow-type: tm+mt
-source-wordcount: '2201'
-ht-degree: 100%
+source-wordcount: '2199'
+ht-degree: 99%
 
 ---
 
@@ -36,7 +36,7 @@ Adobe 成功计划超越了被动解决问题，为您带来一种新的个性�
 | **高级云支持附加功能**<br>&#x200B;针对 Adobe Experience Manager as a Cloud Service 客户的顶级服务和价值保证 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 |
 | **导师答疑附加功能**<br>&#x200B;通过适时培训方法提供技能型学习 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 | ![可用图标](assets/green_checkmark.svg){width="20"}包括 |
 | **开发者提升附加功能**<br>&#x200B;提供与可协助进行维修工作的现场工程专家沟通的渠道 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 | ![包括图标](assets/green_checkmark.svg){width="20"}包括 |
-| **优先级队列捆绑插件**<br>&#x200B;免排队优先处理您的票据，并获得“导师会议”和“开发者加速”的额外访问权限 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 | ![包括图标](assets/green_checkmark.svg){width="20"}包括 |
+| **优先级队列包附加组件**<br>&#x200B;提供更快的响应时间、支持活动的单点联系以及访问成功加速器的权限。 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 | ![包括图标](assets/green_checkmark.svg){width="20"}包括 |
 
 {style="table-layout:fixed"}
 
