@@ -5,9 +5,9 @@ mini-toc-levels: 1
 hide: true
 hidefromtoc: true
 exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
-source-git-commit: 33707c7c1492ac85d1d634e752418b42c9f0aa55
+source-git-commit: 637c13cb347add1da3a37aac5ce333b4926e074f
 workflow-type: tm+mt
-source-wordcount: '4239'
+source-wordcount: '4300'
 ht-degree: 13%
 
 ---
@@ -513,22 +513,19 @@ Bob: Check above no space char. (ignore the space; I can't add a codeblock insid
 
 [![图像](assets/core-services_96.png)](https://www.adobe.com/cn)
 
-<!--
-### Click-to-zoom images
+### 单击以缩放图像
 
-Use the `zoomable` parameter to allow users to click an image to view an enlarged version of the image. When the user mouses over a zoomable image, the pointer becomes a magnifying glass. When clicked, the image expands to the full width of the browser. It can be dismissed with a close button.
+使用`zoomable`参数允许用户单击图像以查看图像的放大版。 当用户将鼠标悬停在可缩放图像上时，指针将变为放大镜。 单击时，图像将展开到浏览器的整个宽度。 可以使用关闭按钮将其取消。
 
-**Example**
+**示例**
 
-![Diving image](/help/test-guide/assets/maui-dive.jpg "Diving in Maui"){width="100" zoomable="yes"}
+![潜水图像](/help/data-sheets/hidden/assets/maui-dive.jpg "在Maui中潜水"){width="100" zoomable="yes"}
 
-**Syntax**
+**语法**
 
 ```
-![Diving image](/help/test-guide/assets/maui-dive.jpg "Diving in Maui"){width="100" zoomable="yes"}
+![Diving image](/help/data-sheets/hidden/assets/maui-dive.jpg "Diving in Maui"){width="100" zoomable="yes"}
 ```
-
--->
 
 ## 链接和交叉引用 {#links-and-cross-references}
 
