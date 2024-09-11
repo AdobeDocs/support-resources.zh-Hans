@@ -2,9 +2,9 @@
 title: Adobe 成功计划概述
 description: 本文概述 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客户支持选项。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: ce457445cf12559cccbf80b06d390d01c40281d7
-workflow-type: ht
-source-wordcount: '2199'
+source-git-commit: d00bb0543704d5e1d662eba11bc9fa3bb0ad51e5
+workflow-type: tm+mt
+source-wordcount: '2203'
 ht-degree: 100%
 
 ---
@@ -34,8 +34,8 @@ Adobe 成功计划超越了被动解决问题，为您带来一种新的个性�
 | **事件管理附加功能**<br>&#x200B;提供管理关键事件的整个生命周期所需的端到端领导和支持 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 |
 | **技术客户总监附加功能**<br>&#x200B;您的首席技术资源，负责提供领导监督和高管参与事宜，并确保有效治理，以使您的业务成果最大化 | ![不可用图标](assets/Cross_red_circle.svg){width="20"}不可用 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 |
 | **高级云支持附加功能**<br>&#x200B;针对 Adobe Experience Manager as a Cloud Service 客户的顶级服务和价值保证 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 |
-| **导师答疑附加功能**<br>&#x200B;通过适时培训方法提供技能型学习 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 | ![可用图标](assets/green_checkmark.svg){width="20"}包括 |
-| **开发者提升附加功能**<br>&#x200B;提供与可协助进行维修工作的现场工程专家沟通的渠道 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 | ![包括图标](assets/green_checkmark.svg){width="20"}包括 |
+| **导师答疑附加功能**<br>&#x200B;通过适时培训方法提供技能型学习 | ![不可用图标](assets/Cross_red_circle.svg){width="20"}不可用 | ![可用图标](assets/green_checkmark.svg){width="20"}包括 |
+| **开发者提升附加功能**<br>&#x200B;提供与可协助进行维修工作的现场工程专家沟通的渠道 | ![不可用图标](assets/Cross_red_circle.svg){width="20"}不可用 | ![包括图标](assets/green_checkmark.svg){width="20"}包括 |
 | **Priority Queue Bundle 附加组件**<br>&#x200B;提供更快的响应时间、支持活动的单一联系点以及 Success Accelerators 的访问权限。 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 | ![包括图标](assets/green_checkmark.svg){width="20"}包括 |
 
 {style="table-layout:fixed"}
