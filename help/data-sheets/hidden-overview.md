@@ -4,10 +4,10 @@ description: 从搜索和目录中隐藏此页面
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 6315dae3fe82b4db81fbb8d964e4e72f7e395465
+source-git-commit: 17bd60901117bdfc68e3cfceb5fd3efa2a74949a
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 43%
+source-wordcount: '60'
+ht-degree: 41%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 43%
 + [重定向测试](hidden/test-redirection.md)
 + [自动激活测试](hidden/autoactivate.md)
 
-## 新增Akamai部分
+## 新章节11月19日
 
-测试以查看更改是否在AEM Live中生效。
+测试SCCM是否仍在正常运行。 颠倒问题？
