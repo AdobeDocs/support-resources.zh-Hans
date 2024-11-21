@@ -5,9 +5,9 @@ mini-toc-levels: 1
 hide: true
 hidefromtoc: true
 exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
-source-git-commit: 637c13cb347add1da3a37aac5ce333b4926e074f
+source-git-commit: 0c01084577891a2869a2f5538381ca952514ff9c
 workflow-type: tm+mt
-source-wordcount: '4300'
+source-wordcount: '4305'
 ht-degree: 13%
 
 ---
@@ -485,6 +485,8 @@ Bob: Check above no space char. (ignore the space; I can't add a codeblock insid
 ```
 
 呈现效果：
+
+Bob — 宽度=下方300像素
 
 ![潜水图像替换文本](assets/maui-dive.jpg "悬停文本 — Maui潜水宽度为300像素且居中"){width="300" align="center"}
 
