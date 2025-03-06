@@ -4,14 +4,14 @@ description: 从搜索和目录中隐藏此页面
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 25c91d469f48d36c02a43c6f02ff18469e538811
+source-git-commit: fd0ca6121b13a39bd3375dfbf0c3d90e2101aa5a
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 40%
+source-wordcount: '65'
+ht-degree: 33%
 
 ---
 
-# 隐藏测试页面
+# 隐藏测试页面 — Bob 3月6日
 
 + [错误修复](hidden/bug-fixes.md)
 + [隐藏的新测试](hidden-new-test.md)
