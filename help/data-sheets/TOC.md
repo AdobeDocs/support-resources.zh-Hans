@@ -6,7 +6,7 @@ feature: Success Plans
 source-git-commit: af88f8e75bcc3a5402c8b81ea2cf2a219e06e6fe
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 98%
 + [Adobe 成功计划概述](overview.md)
 + The Crux Podcast{#crux-podcast}
    + [第 1 集：Billy Georgaros](episode1.md)
-     [第 2 集 - Karrie Benjamin](episode2.md)
-     [第 3 集——George Kotsinis](episode3.md)
-     [第 4 集 - Jessica Ouellette](episode4.md)
+     [第 2 集：Karrie Benjamin](episode2.md)
+     [第 3 集：George Kotsinis](episode3.md)
+     [第 4 集：Jessica Ouellette](episode4.md)
      [第 5 集：Corey Blackburn](episode5.md)
-     [第 6 集 - Kelly Oja](episode6.md)
-     [第 7 集 - Chris Diaz](episode7.md)
-     [第 8 集 - Vincent Lee](episode8.md)
+     [第 6 集：Kelly Oja](episode6.md)
+     [第 7 集：Chris Diaz](episode7.md)
+     [第 8 集：Vincent Lee](episode8.md)
      [第 9 集：Ren Wightman](episode9.md)
 + 2022 年 6 月 16 日之前的 Adobe 支持计划{#prior-plans}
    + [先前的 Adobe 支持计划概述](overview-prior-plans.md)
@@ -53,7 +53,7 @@ ht-degree: 98%
 + [隐藏表格测试](hidden/tables.md)
 + [隐藏表格分隔符](hidden/table-breaks.md)
 + [隐藏笔记测试](hidden/note-test.md)
-+ 测试分区{#test-section}
++ 测试部分 {#test-section}
    + [仅隐藏新自动激活](hidden/autoactivate.md)
 
 <!--
