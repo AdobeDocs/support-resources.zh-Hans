@@ -3,9 +3,9 @@ description: 一系列外部重定向
 title: 重定向测试
 hide: true
 hidefromtoc: true
-source-git-commit: 624d941f1a77ad3ddf0d4954d9f05224f792c979
+source-git-commit: 28328922d7213abc4bb115b85686d74e10fcaefe
 workflow-type: tm+mt
-source-wordcount: '21'
+source-wordcount: '27'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,9 @@ ht-degree: 0%
 
 <https://docs.adobe.com/content/help/en/experience-platform/profile/api/getting-started.html>
 
+<!--
 <https://marketing.adobe.com/resources/help/en_US/reference/regional-data-collection.html>
+-->
 
 <https://experiencleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decisioning/introduction-to-decisioning>
 
@@ -45,6 +47,18 @@ ht-degree: 0%
 重定向该404s
 
 <https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-management/nonsense>
+
+## 在注释和代码块中重定向
+
+<!--
+<https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/content-accelerator>
+-->
+
+```
+code block
+<https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/content-accelerator>
+end code block
+```
 
 ## 其他页面
 
