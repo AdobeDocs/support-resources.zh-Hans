@@ -3,10 +3,10 @@ user-guide-title: 成功计划资源
 user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的成功计划和支持资源。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: ea4cabf5fcd757e768c363327ddc06d98ec67a91
+source-git-commit: a03302829e6f88ba15e94a37a45fd33ce0cd0b6a
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 98%
+source-wordcount: '148'
+ht-degree: 96%
 
 ---
 
@@ -42,6 +42,7 @@ ht-degree: 98%
 + [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [隐藏概述](hidden-overview.md)
 + [隐藏故障排除](hidden-trouble.md)
++ [隐藏的Lakshay测试](hidden-lakshay-test.md)
 + [隐藏 - 代码块中的斜杠](hidden/slashes-in-code-blocks.md)
 + [隐藏的新测试](hidden-new-test.md)
 + [隐藏的新测试 2](hidden-new-test-2.md)
