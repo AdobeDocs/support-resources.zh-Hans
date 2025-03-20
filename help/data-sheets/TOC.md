@@ -6,7 +6,7 @@ feature: Success Plans
 source-git-commit: a03302829e6f88ba15e94a37a45fd33ce0cd0b6a
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 96%
 + [隐藏表格测试](hidden/tables.md)
 + [隐藏表格分隔符](hidden/table-breaks.md)
 + [隐藏笔记测试](hidden/note-test.md)
-+ [隐藏的重定向](hidden/redirect-tests.md)
++ [隐藏重定向](hidden/redirect-tests.md)
 + 测试部分 {#test-section}
    + [仅隐藏新自动激活](hidden/autoactivate.md)
 
