@@ -4,10 +4,10 @@ description: 从搜索和目录中隐藏此页面
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: e366d6c1e2dbeba4d81f837afa8e2d289f0db08a
+source-git-commit: 1aa822339d54cb585fe9d9024862d38043a6048d
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 33%
+source-wordcount: '67'
+ht-degree: 32%
 
 ---
 
@@ -29,4 +29,4 @@ ht-degree: 33%
 
 测试SCCM是否仍在正常运行。
 
-Bob的新系列
+Bob的新系列 — Hi Mukul
