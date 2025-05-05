@@ -132,7 +132,7 @@ There are two ways to create badges:
 
 用于呈现句子中的内联代码。 非常适合调用不需要全屏代码块的Cookie名称、文件名、值或命令。
 
-代码块中的内容按原样呈现且未本地化。 （此规则的唯一例外是`!UICONTROL`和`!DNL`语法，在打包发布时剥离这些语法。）
+代码块中的内容按原样呈现且未本地化。 （此规则的唯一例外是``和``语法，在打包发布时剥离这些语法。）
 
 对于不应验证的示例URL，也使用代码块： `https://www.example.com`
 
@@ -152,7 +152,7 @@ This is `inline code` within a paragraph of text.
 >
 >您还可以使用三个反撇号(&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；)将文本换行，以创建内联代码块。 当需要引用内联代码块中的反撇号字符时，此功能特别有用。 示例：
 >
-&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；`Use a back tick (`&amp;amp；grave；`) for formatting`&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；
+>&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；`Use a back tick (`&amp;amp；grave；`) for formatting`&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；
 
 ## 代码块（受保护）
 
@@ -164,7 +164,7 @@ This is `inline code` within a paragraph of text.
 
 >[!TIP]
 >
-在创建受防护的代码块时指定语言。 指定语言时，允许特定于该语言的语法突出显示，并为用户显示&#x200B;**复制**&#x200B;按钮。 如果您指定语言，也可以显示行号。
+>在创建受防护的代码块时指定语言。 指定语言时，允许特定于该语言的语法突出显示，并为用户显示&#x200B;**复制**&#x200B;按钮。 如果您指定语言，也可以显示行号。
 
 **语法**
 
@@ -282,7 +282,7 @@ This is text inside a collapsible section.
 
 **注释**
 
-* 请勿在可折叠部分内嵌套可折叠部分。 嵌套的可折叠部分无法正确呈现。 但是，它们不会导致验证失败，因此用户将看到嵌套节的`+++`语法。
++++* 请勿在可折叠部分内嵌套可折叠部分。 嵌套的可折叠部分无法正确呈现。 但是，它们不会导致验证失败，因此用户将看到嵌套节的``语法。
 * 请确保在可折叠部分中添加项目符号列表和代码块等项目上方和下方的空白行，否则会出现验证错误。
 * 可以在可折叠部分中添加标题，但不建议这样做。
 * [折叠并不总是桌面上复杂内容的答案](https://www.nngroup.com/articles/accordions-complex-content/)
@@ -312,9 +312,9 @@ You can't see me (unless you're editing in Git).
 
 >[!IMPORTANT]
 >
-避免在块组件（如项目符号列表）中添加注释，尤其是嵌套的项目符号列表。 注释可以更改项目符号列表的呈现方式。
+>避免在块组件（如项目符号列表）中添加注释，尤其是嵌套的项目符号列表。 注释可以更改项目符号列表的呈现方式。
 >
-在TOC.md文件中，不要注释掉TOC列表中间位置的行。 这可能会破坏目录列表并导致验证错误。 相反，将目录中的注释移动到文件末尾。
+>在TOC.md文件中，不要注释掉TOC列表中间位置的行。 这可能会破坏目录列表并导致验证错误。 相反，将目录中的注释移动到文件末尾。
 
 ## CONTEXTUALHELP
 
@@ -378,7 +378,7 @@ Cat
 
 >[!NOTE]
 >
-下载文件和图像的最大文件大小为100 MB。 这就是github.com的限制。 git.corp.adobe.com限制更高(250 MB)，但我们需要能够将文件复制到github.com镜像。
+>下载文件和图像的最大文件大小为100 MB。 这就是github.com的限制。 git.corp.adobe.com限制更高(250 MB)，但我们需要能够将文件复制到github.com镜像。
 
 ## 标题 {#headings}
 
@@ -497,7 +497,7 @@ Bob — 宽度=下方300像素
 
 >[!NOTE]
 >
-图像的最大文件大小为100 MB。 这就是github.com的限制。 git.corp.adobe.com限制更高(250 MB)，但我们需要能够将文件复制到github.com镜像。
+>图像的最大文件大小为100 MB。 这就是github.com的限制。 git.corp.adobe.com限制更高(250 MB)，但我们需要能够将文件复制到github.com镜像。
 
 ### 图像链接
 
@@ -626,8 +626,8 @@ description: This is the article description used for search optimization. Use c
 
 >[!MORELIKETHIS]
 >
-* [Article 1](https://helpx.adobe.com/cn/support/analytics.html)
-* [Article 2](https://helpx.adobe.com/cn/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/cn/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/cn/support/audience-manager.html)
 
 ## 注释/告诫
 
@@ -645,7 +645,7 @@ description: This is the article description used for search optimization. Use c
 
 >[!NOTE]
 >
-这是标准 NOTE 块。
+>这是标准 NOTE 块。
 
 **语法**
 
@@ -659,7 +659,7 @@ description: This is the article description used for search optimization. Use c
 
 >[!TIP]
 >
-这是标准提示。
+>这是标准提示。
 
 **语法**
 
@@ -673,7 +673,7 @@ description: This is the article description used for search optimization. Use c
 
 >[!WARNING]
 >
-这是一个标准的警告块。
+>这是一个标准的警告块。
 
 **语法**
 
@@ -687,7 +687,7 @@ description: This is the article description used for search optimization. Use c
 
 >[!IMPORTANT]
 >
-这是一个标准的重要区块。
+>这是一个标准的重要区块。
 
 **语法**
 
@@ -703,35 +703,35 @@ description: This is the article description used for search optimization. Use c
 
 >[!NOTE]
 >
-这是标准 NOTE 块。
+>这是标准 NOTE 块。
 >
-它包括多个段落。
+>它包括多个段落。
 
 新的支持的注释类型：
 
 >[!ADMIN]
 >
-这是管理员注释。 仅限 EXL。
+>这是管理员注释。 仅限 EXL。
 
 >[!AVAILABILITY]
 >
-这是可用性注释。仅限 EXL。
+>这是可用性注释。仅限 EXL。
 
 >[!PREREQUISITES]
 >
-这是先决条件注释。仅限 EXL。
+>这是先决条件注释。仅限 EXL。
 
 >[!INFO]
 >
-这是信息注释。仅限 EXL。
+>这是信息注释。仅限 EXL。
 
 >[!ERROR]
 >
-这是错误注释。仅限 EXL。
+>这是错误注释。仅限 EXL。
 
 >[!SUCCESS]
 >
-这是成功注释。仅限 EXL。
+>这是成功注释。仅限 EXL。
 
 ## 编号列表和项目符号列表 {#lists}
 
@@ -827,7 +827,7 @@ description: This is the article description used for search optimization. Use c
 
    >[!NOTE]
    >
-   This is note text.
+   >This is note text.
 
 1. Do another step.
 
@@ -856,7 +856,7 @@ description: This is the article description used for search optimization. Use c
 
 >[!NOTE]
 >
-不要过度使用。 对于普通表格，我们希望跨内容保持一致的设计。
+>不要过度使用。 对于普通表格，我们希望跨内容保持一致的设计。
 
 ![表提示](assets/table-no-border.png)
 
@@ -880,7 +880,7 @@ description: This is the article description used for search optimization. Use c
 
 >[!TIP]
 >
-观看[Markdown表格视频](https://video.tv.adobe.com/v/26220)
+>观看[Markdown表格视频](https://video.tv.adobe.com/v/26220)
 
 在Markdown中，原生表通常看起来更好。 将根据列的内容调整其大小。 HTML表使用等宽列呈现。
 
@@ -888,7 +888,7 @@ description: This is the article description used for search optimization. Use c
 
 >[!IMPORTANT]
 >
-将这些HTML代码添加到Markdown表中时要小心。 如果语法不正确，您会收到一个令人困惑的验证错误，该错误无法准确描述问题。 检查您的HTML语法以确保其格式正确。
+>将这些HTML代码添加到Markdown表中时要小心。 如果语法不正确，您会收到一个令人困惑的验证错误，该错误无法准确描述问题。 检查您的HTML语法以确保其格式正确。
 
 不允许在任何表中使用：iframe、单元格范围、嵌入表。
 
@@ -1035,9 +1035,9 @@ This entire paragraph should NOT be highlighted. <span class="preview"> This wor
 
 >[!NOTE]
 >
-我们仍在努力改进某些页面元素（如注释和表格）的突出显示显示。 如果您看到不正确的渲染，请随时记录JIRA错误。 进行中。
+>我们仍在努力改进某些页面元素（如注释和表格）的突出显示显示。 如果您看到不正确的渲染，请随时记录JIRA错误。 进行中。
 >
-VSC预览尚不支持高亮显示。
+>VSC预览尚不支持高亮显示。
 
 ## 视频
 
@@ -1115,7 +1115,7 @@ VSC预览尚不支持高亮显示。
 
 >[!NOTE]
 >
-对于链步骤，例如“选择文件>另存为”，您无需转义`>`字符，因为它不位于其他字符旁边。 对于变量（如`<filename>`），您需要使用代码块`backticks`或字符代码(`&lt;filename&gt;`)来转义尖括号。
+>对于链步骤，例如“选择文件>另存为”，您无需转义`>`字符，因为它不位于其他字符旁边。 对于变量（如`<filename>`），您需要使用代码块`backticks`或字符代码(`&lt;filename&gt;`)来转义尖括号。
 
 如果在代码块中使用HTML实体，则实体文本不会转换为特殊字符。 例如，`&gt;`在代码块中显示为“ `&gt;`”而不是“ > ”。
 
@@ -1158,4 +1158,4 @@ VSC预览尚不支持高亮显示。
 
 >[!NOTE]
 >
-如果缩进得过深（如六个空格而不是三个空格），则内容将呈现为块引号。 使用适当的缩进量，以避免将内容错误地呈现为块引用。
+>如果缩进得过深（如六个空格而不是三个空格），则内容将呈现为块引号。 使用适当的缩进量，以避免将内容错误地呈现为块引用。
