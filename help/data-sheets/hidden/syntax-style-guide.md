@@ -287,7 +287,7 @@ This is text inside a collapsible section.
 * 可以在可折叠部分中添加标题，但不建议这样做。
 * [折叠并不总是桌面上复杂内容的答案](https://www.nngroup.com/articles/accordions-complex-content/)
 * 可折叠部分的一个历史缺点是&#x200B;**在页面**&#x200B;中查找(Ctrl/Cmd+F)会忽略折叠文本。 虽然在Safari中仍然如此，但在Chrome中不再如此；在页面中查找可检测Chrome中的折叠文本。
-* 使用可折叠部分的[维护更新](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en)页面的示例。
+* 使用可折叠部分的[维护更新](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=zh-Hans)页面的示例。
 
 ## 注释和备注
 

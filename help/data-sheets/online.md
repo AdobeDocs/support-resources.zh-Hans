@@ -235,7 +235,7 @@ Adobe 客户支持提供对各种在线资源的访问，让客户能够获取�
 
 | 资源 | 描述 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/) | Experience League 是 Adobe 帮助企业实现预期的 Adobe 投资回报的方式。这是一个集中式位置，提供自助教程、产品文档、讲师指导的培训、社区和技术支持，客户可以在这里学习、建立联系和取得进步，并沿着个性化的路径迈向成功。 |
+| [Experience League](https://experienceleague.adobe.com/zh-hans) | Experience League 是 Adobe 帮助企业实现预期的 Adobe 投资回报的方式。这是一个集中式位置，提供自助教程、产品文档、讲师指导的培训、社区和技术支持，客户可以在这里学习、建立联系和取得进步，并沿着个性化的路径迈向成功。 |
 | [培训](https://training.adobe.com/training/) | 可以从 Experience League 访问 Adobe Digital Learning Services 课程。学习课程同时包括按需课程和讲师指导的课程。在这里，您可以掌握具有公认市场价值的技能，并在组织中利用这些技能获得成功。 |
 | [生产问题和系统中断](https://status.adobe.com/) | Status.adobe.com 传达在多租户环境中部署的所有 Adobe 产品和服务的运行状况信息。客户可以选择他们的订阅偏好设置，以便在 Adobe 创建、更新或处理产品事件时收到电子邮件通知。这可能包括严重性不同的定期维护或服务问题。 |
 | [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html) | 详细说明支持服务产品的条款和条件。 |
