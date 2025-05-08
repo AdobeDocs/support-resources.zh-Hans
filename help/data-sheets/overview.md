@@ -1,24 +1,24 @@
 ---
-title: Adobe 成功计划概述
+title: Adobe Success Plan 概述
 description: 本文概述 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客户支持选项。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: d00bb0543704d5e1d662eba11bc9fa3bb0ad51e5
+source-git-commit: 9532b81aed538e93dce9cf894a2b56bb22d109ef
 workflow-type: ht
 source-wordcount: '2203'
 ht-degree: 100%
 
 ---
 
-# Adobe 成功计划概述
+# Adobe Success Plan 概述
 
-Adobe 成功计划超越了被动解决问题，为您带来一种新的个性化体验，这种体验让您的业务无论遇到任何问题都能顺利解决。您的 Adobe 团队运用深厚的技术专业技能、多样化的能力和一种先进的方法，为您提供所需适当水平的支持、专业技能以及技术和策略指导。
+Adobe Success Plan 超越了被动解决问题的模式，为您带来一种全新个性化体验，让业务时刻准备好面临任何问题。您的 Adobe 团队运用深厚的技术专业技能、多样化的能力和一种先进的方法，为您提供所需适当水平的支持、专业技能以及技术和策略指导。
 
 
-## 比较 Expert 与 Ultimate 成功计划
+## 比较 Expert 与 Ultimate Success Plan
 
-|  | Expert 成功计划 | Ultimate 成功计划 |
+|  | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
-|  | 加入 Expert 成功计划，即可获得有关针对关键业务问题的技术故障排除和指导的&#x200B;**全天候专家服务**。或者，可利用我们的自助资源、独家最佳实践以及 Adobe 专家和同行的网络社区找到快捷的解决方案。 <p> *所有 Adobe Experience Cloud 许可证都附带该计划。* | 加入 Ultimate 成功计划，即可体验&#x200B;**策略指导和主动监测技术运行状况以营造高效的数字体验**。将有一个专家团队支持您的 Adobe 环境，这些专家熟悉您的业务，并集中精力实施一个与您在业务影响方面的目标和优先级相符的路线图。 |
+|  | 加入 Expert Success Plan，即可获得有关针对关键业务问题的技术故障排除和指导的&#x200B;**全天候专家服务**。或者，可利用我们的自助资源、独家最佳实践以及 Adobe 专家和同行的网络社区找到快捷的解决方案。 <p> *所有 Adobe Experience Cloud 许可证都附带该计划。* | 加入 Ultimate Success Plan，即可体验&#x200B;**策略指导和主动监测技术运行状况以营造高效的数字体验**。将有一个专家团队支持您的 Adobe 环境，这些专家熟悉您的业务，并集中精力实施一个与您在业务影响方面的目标和优先级相符的路线图。 |
 | **成功团队** | 支持工程师的联合团队 | 包括： <ul><li> 指定的技术客户经理 </li><li> 指定的客户成功经理 </li><li> 指定的支持服务经理</li><li> 提供各种成功加速器的技术工程师和策略专家的联合团队 </li><li> 支持工程师的联合团队 </li></ul> |
 | **主动的技术和运营支持** | ![不包括图标](assets/Cross_red_circle.svg){width="20"}不包括 | 包括： <ul><li>升级和迁移审查、发布准备 </li><li>产品路线图审查</li><li> 协调一致的技术和策略路线图</li><li>关键事件准备和规划</li><li>规划相关且及时的赋能活动</li><li>技术方面的最佳实践和行业指导</li><li>支持产品团队/与产品团队保持一致</li><li>实现关键业务目标的统一计划 - 共同行动计划 (MAP)</li></ul> |
 | **技术支持** | 包括： <ul><li>**P1**：全天候问题支持</li><li>**P2、P3、P4**：工作时间支持</li><li>标准停机管理</li><li>集中上报管理</li></ul> | 包括： <ul><li>**P1**：全天候问题支持</li><li>**P2/P3**：每周五天全天问题支持</li><li>**P4**：工作时间支持</li><li>优先停机管理</li><li>指定的专家上报管理</li></ul> |
@@ -29,7 +29,7 @@ Adobe 成功计划超越了被动解决问题，为您带来一种新的个性�
 
 ## 支持附加功能
 
-| 附加功能 | Expert 成功计划 | Ultimate 成功计划 |
+| 附加功能 | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
 | **事件管理附加功能**<br>&#x200B;提供管理关键事件的整个生命周期所需的端到端领导和支持 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 |
 | **技术客户总监附加功能**<br>&#x200B;您的首席技术资源，负责提供领导监督和高管参与事宜，并确保有效治理，以使您的业务成果最大化 | ![不可用图标](assets/Cross_red_circle.svg){width="20"}不可用 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 |
@@ -204,3 +204,4 @@ Adobe Commerce 的标准支持：由客户许可或续订且许可期限开始�
 >[!NOTE]
 >
 >现场服务并不意味着取代 Adobe 咨询服务。 现场服务支持客户在 LAS 后实施并补充任何更大的咨询参与。
+
