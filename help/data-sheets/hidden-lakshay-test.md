@@ -4,107 +4,57 @@ description: 在搜索和目录中隐藏
 hide: true
 hidefromtoc: true
 exl-id: 2bb2b88e-10bf-4e26-afbd-c11f82e76f7f
-source-git-commit: 1c34d1819f49009aa815b7a34092c149babe7527
+source-git-commit: 9431a8c5d971e2fac37b7048d0ec9482aa2b4a52
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# 隐藏的 Lakshay 测试
+# Adobe [!DNL Journey Optimizer] 文档 {#cjm-documentation}
 
-## 容器
-
-：：：：： landing-cards-container
-：：：
-![替换文本](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
-
-标题1
-
-这是卡片描述。
-这是卡片正文内容。
-[了解详情](https://experienceleague.adobe.com/zh-hans)
-：：：
-：：：
-![替代文本](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
-
-标题1
-
-这是卡片描述。
-这是卡片正文内容。
-[了解详情](https://experienceleague.adobe.com/zh-hans)
-：：：
-：：：
-![替代文本](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
-
-标题1
-
-这是卡片描述。
-这是卡片正文内容。
-[了解详情](https://experienceleague.adobe.com/zh-hans)
-：：：
-：：：
-![替代文本](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
-
-标题1
-
-这是卡片描述。
-这是卡片正文内容。
-[了解详情](https://experienceleague.adobe.com/zh-hans)
-：：：
-：：：
-![替代文本](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
-
-标题1
-
-这是卡片描述。
-这是卡片正文内容。
-[了解详情](https://experienceleague.adobe.com/zh-hans)
-：：：
-：：：：
-
-## 容器2
+## 从基础知识开始
 
 ：：：：： landing-cards-container
 ：：：
+![替换文本](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_1d834c9bcc356413ce8f04590143dc85613d5851c.png?width=2000&amp;format=webply&amp;optimize=medium)
 
-标题1
+![图标](https://cdn.experienceleague.adobe.com/icons/gears.svg)
 
-这是卡片描述。
-这是卡片正文内容。
-[了解详情](https://experienceleague.adobe.com/zh-hans)
+快速入门指南
+
+了解如何在Journey Optimizer中通过基于角色的个性化方法更快地实现目标。
+[了解详情](/en/docs/journey-optimizer-v2/using/get-started/quick-start/quick-start)
 ：：：
 ：：：
+![替代文本](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_151105955ede1eb92ba5369c11699448b5da6e0a0.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-标题1
+![图标](https://cdn.experienceleague.adobe.com/icons/gears.svg)
 
-这是卡片描述。
-这是卡片正文内容。
-[了解详情](https://experienceleague.adobe.com/zh-hans)
+用户界面
+
+了解如何在Journey Optimizer中导航和优化您的体验。
+[了解详情](/en/docs/journey-optimizer-v2/using/get-started/user-interface)
 ：：：
 ：：：
+![替代文本](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_1c064a7a4145c59b81d3cbbaf300d9655a7c7c552.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-标题1
+![图标](https://cdn.experienceleague.adobe.com/icons/gears.svg)
 
-这是卡片描述。
-这是卡片正文内容。
-[了解详情](https://experienceleague.adobe.com/zh-hans)
+创建您的第一个历程
+
+设计和编排个性化的全渠道历程，以协调营销外联与一对一客户参与。
+[了解详情](/en/docs/journey-optimizer-v2/using/journey-management/orchestrate-journeys/create-journey/journey-gs)
 ：：：
 ：：：
+![替代文本](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_183fe7a108b5121b3795cb3310c5cfaa2a16b737e.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-标题1
+![图标](https://cdn.experienceleague.adobe.com/icons/gears.svg)
 
-这是卡片描述。
-这是卡片正文内容。
-[了解详情](https://experienceleague.adobe.com/zh-hans)
-：：：
-：：：
+启动您的第一个营销活动
 
-标题1
-
-这是卡片描述。
-这是卡片正文内容。
-[了解详情](https://experienceleague.adobe.com/zh-hans)
+在Journey Optimizer中创建并启动您的第一个营销活动，向特定受众提供定向的一次性内容。
+[了解详情](/en/docs/journey-optimizer-v2/using/journey-management/campaigns/standard-campaigns/create-campaign)
 ：：：
 ：：：：
