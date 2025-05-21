@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ：：：：： landing-cards-container
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/book.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/book.svg?lang=zh-Hans)
 
 历程活动简介
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=zh-Hans)
 
 使用常规事件
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=zh-Hans)
 
 反应事件
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/bullseye.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/bullseye.svg?lang=zh-Hans)
 
 受众资格事件
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/code-branch.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/code-branch.svg?lang=zh-Hans)
 
 条件活动
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/clock.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/clock.svg?lang=zh-Hans)
 
 等待活动
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
 ：：：：： landing-cards-container
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg?lang=zh-Hans)
 
 使用电子邮件Designer内容组件
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg?lang=zh-Hans)
 
 将可视化片段用于电子邮件设计
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/link.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/link.svg?lang=zh-Hans)
 
 添加链接和跟踪消息
 
@@ -113,7 +113,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/bullseye.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/bullseye.svg?lang=zh-Hans)
 
 向电子邮件添加个性化优惠
 
@@ -123,7 +123,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/file-lines.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/file-lines.svg?lang=zh-Hans)
 
 创建和自定义电子邮件的文本版本
 
@@ -133,7 +133,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=zh-Hans)
 
 将元数据添加到电子邮件内容
 
@@ -148,7 +148,7 @@ ht-degree: 0%
 
 ：：：：： landing-cards-container
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=zh-Hans)
 
 审批入门
 
@@ -158,7 +158,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=zh-Hans)
 
 创建和管理审批策略
 
@@ -168,7 +168,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=zh-Hans)
 
 请求审批历程和营销活动
 
@@ -178,7 +178,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/shield-halved.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/shield-halved.svg?lang=zh-Hans)
 
 审阅和批准请求
 
@@ -193,7 +193,7 @@ ht-degree: 0%
 
 ：：：：： landing-cards-container
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=zh-Hans)
 
 增强报告功能入门
 
@@ -203,7 +203,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=zh-Hans)
 
 量度的完整列表
 
@@ -213,7 +213,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=zh-Hans)
 
 管理您的报告
 
@@ -223,7 +223,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=zh-Hans)
 
 营销活动报表概述
 
@@ -233,7 +233,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=zh-Hans)
 
 历程报表概述
 
@@ -243,7 +243,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=zh-Hans)
 
 促销活动和历程的概述报表
 
@@ -258,7 +258,7 @@ ht-degree: 0%
 
 ：：：：： landing-cards-container
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=zh-Hans)
 
 如何创建和管理决策
 
@@ -268,7 +268,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=zh-Hans)
 
 如何配置选件选择
 
@@ -278,7 +278,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![图标](https://cdn.experienceleague.adobe.com/icons/code-branch.svg)
+![图标](https://cdn.experienceleague.adobe.com/icons/code-branch.svg?lang=zh-Hans)
 
 模拟优惠决策
 
