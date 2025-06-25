@@ -6,26 +6,24 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="下载 Premium"
 badgeExam: label="考试 ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: fea913bab4f42341a7714a4a1ddbdb7cadb924bc
+source-git-commit: 9f7f12030fb9be9beca5ad145f80ff4ac46821ca
 workflow-type: tm+mt
-source-wordcount: '1274'
-ht-degree: 99%
+source-wordcount: '1258'
+ht-degree: 97%
 
 ---
 
 # 隐藏测试页面
 
-预览重试？ 应该通过詹金斯来。 3月31日。
-
-下午3:02
+发布测试。 2025年6月25日上午10点20分。
 
 ## 带图像的问题表
 
-## 比较 Expert 与 Ultimate 成功计划
+## 比较 Expert 与 Ultimate Success Plan
 
-|  | Expert 成功计划 | Ultimate 成功计划 |
+|  | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
-|  | 加入 Expert 成功计划，即可获得有关针对关键业务问题的技术故障排除和指导的&#x200B;**全天候专家服务**。或者，可利用我们的自助资源、独家最佳实践以及 Adobe 专家和同行的网络社区找到快捷的解决方案。 <p> *所有 Adobe Experience Cloud 许可证都附带该计划。* | 加入 Ultimate 成功计划，即可体验&#x200B;**策略指导和主动监测技术运行状况以营造高效的数字体验**。将有一个专家团队支持您的 Adobe 环境，这些专家熟悉您的业务，并集中精力实施一个与您在业务影响方面的目标和优先级相符的路线图。 |
+|  | 加入 Expert Success Plan，即可获得有关针对关键业务问题的技术故障排除和指导的&#x200B;**全天候专家服务**。或者，可利用我们的自助资源、独家最佳实践以及 Adobe 专家和同行的网络社区找到快捷的解决方案。 <p> *所有 Adobe Experience Cloud 许可证都附带该计划。* | 加入 Ultimate Success Plan，即可体验&#x200B;**策略指导和主动监测技术运行状况以营造高效的数字体验**。将有一个专家团队支持您的 Adobe 环境，这些专家熟悉您的业务，并集中精力实施一个与您在业务影响方面的目标和优先级相符的路线图。 |
 | **成功团队** | 支持工程师的联合团队 | 包括： <ul><li> 指定的技术客户经理 </li><li> 指定的客户成功经理 </li><li> 指定的支持服务经理</li><li> 提供各种成功加速器的技术工程师和策略专家的联合团队 </li><li> 支持工程师的联合团队 </li></ul> |
 | **主动的技术和运营支持** | ![不包括图标](assets/Cross_red_circle.svg){width="20"}不包括 | 包括： <ul><li>升级和迁移审查、发布准备 </li><li>产品路线图审查</li><li> 协调一致的技术和策略路线图</li><li>关键事件准备和规划</li><li>规划相关且及时的赋能活动</li><li>技术方面的最佳实践和行业指导</li><li>支持产品团队/与产品团队保持一致</li><li>实现关键业务目标的统一计划 - 共同行动计划 (MAP)</li></ul> |
 | **技术支持** | 包括： <ul><li>**P1**：全天候问题支持</li><li>**P2、P3、P4**：工作时间支持</li><li>标准停机管理</li><li>集中上报管理</li></ul> | 包括： <ul><li>**P1**：全天候问题支持</li><li>**P2/P3**：每周五天全天问题支持</li><li>**P4**：工作时间支持</li><li>优先停机管理</li><li>指定的专家上报管理</li></ul> |
@@ -36,7 +34,7 @@ ht-degree: 99%
 
 ## 支持附加功能
 
-| 附加功能 | Expert 成功计划 | Ultimate 成功计划 |
+| 附加功能 | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
 | **事件管理附加功能**<br>&#x200B;提供管理关键事件的整个生命周期所需的端到端领导和支持 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 |
 | **技术客户总监附加功能**<br>&#x200B;您的首席技术资源，负责提供领导监督和高管参与事宜，并确保有效治理，以使您的业务成果最大化 | ![不可用图标](assets/Cross_red_circle.svg){width="20"}不可用 | ![可用图标](assets/Plus_blue.svg){width="20"}可用 |
@@ -62,7 +60,7 @@ _[辅助按钮](https://www.adobe.com/cn)_
 
 以下段落无法在 VSC 预览中正确呈现。我不清楚为什么。
 
-如果 [!DNL Adobe] 管理您的密码，则您可[在您的 Adobe 帐户中更改密码](https://helpx.adobe.com/cn/manage-account/using/change-or-reset-password.html){target="_blank"}。
+如果您的密码由[!DNL Adobe]管理，您可以[在您的Adobe帐户中更改密码](https://helpx.adobe.com/cn/manage-account/using/change-or-reset-password.html){target="_blank"}。
 
 ## 注释类型
 
@@ -123,7 +121,7 @@ _[辅助按钮](https://www.adobe.com/cn)_
 
 [!BADGE 徽章示例]
 
-有两种类型 of 徽章，其中每个徽章的语法不尽相同：
+有两种类型的徽章，每种徽章的语法不同：
 
 * **元数据** - 在页面顶部附近显示徽章
 * **内联** - 在语法所在的地方现实徽章
@@ -160,10 +158,10 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 | 类型 | 徽章 |
 |---|---|
 | 信息性（默认） | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 正面 | [!BADGE 新功能]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| 负面 | [!BADGE 已停用]{type=negative tooltip="This feature is now end of life"} |
-| 中性 | [!BADGE 也许]{type=Neutral tooltip="A rider fell off the horse..."} |
-| 提醒 | [!BADGE 注意]{type=Caution tooltip="Yellow status"} |
+| 正面 | [!BADGE 新增功能]{type=Positive url="https://www.example.com" tooltip="转到 example.com"} |
+| 负面 | [!BADGE 已停用]{type=negative tooltip="此功能现已停止使用"} |
+| 中性 | [!BADGE 可能]{type=Neutral tooltip="一位骑手摔下马..."} |
+| 提醒 | [!BADGE 注意]{type=Caution tooltip="黄色状态"} |
 
 语法示例
 
