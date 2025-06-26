@@ -4,9 +4,9 @@ user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: f9095f0a6215d5c7654a356056deb905cdb633fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -14,9 +14,8 @@ ht-degree: 92%
 # Success Plan 资源 {#data-sheets}
 
 + [Adobe Success Plan 概述](overview.md)
-+ Crux播客{#crux-podcast}
++ The Crux Podcast{#crux-podcast}
    + [第 1 集：Billy Georgaros](episode1.md)
-
      [第 2 集：Karrie Benjamin](episode2.md)
      [第 3 集：George Kotsinis](episode3.md)
      [第 4 集：Jessica Ouellette](episode4.md)
@@ -25,7 +24,7 @@ ht-degree: 92%
      [第 7 集：Chris Diaz](episode7.md)
      [第 8 集：Vincent Lee](episode8.md)
      [第 9 集：Ren Wightman](episode9.md)
-+ 2022年6月16日之前的Adobe支持计划{#prior-plans}
++ 2022 年 6 月 16 日之前的 Adobe 支持计划{#prior-plans}
    + [先前的 Adobe 支持计划概述](overview-prior-plans.md)
    + Experience Cloud Services {#data-sheets}
       + [Adobe 支持概述](dx-overview.md)
@@ -55,8 +54,8 @@ ht-degree: 92%
 + [隐藏表格分隔符](hidden/table-breaks.md)
 + [隐藏笔记测试](hidden/note-test.md)
 + [隐藏重定向](hidden/redirect-tests.md)
-+ 测试部分 {#test-section}
-   + [仅隐藏新自动激活](hidden/autoactivate.md)
++ 测试部分  {#test-section}
+   + [仅限隐藏的新自动激活项](hidden/autoactivate.md)
 
 <!--
 + [Hidden Lakshay test](hidden-lakshay-test.md)
