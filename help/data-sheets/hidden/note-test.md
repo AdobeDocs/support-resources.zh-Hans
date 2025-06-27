@@ -1,19 +1,21 @@
 ---
-description: 连接到构件Data Warehouse — 产品文档
-title: 连接到WidgetData Warehouse
+description: 连接到小组件Data Warehouse — 产品文档
+title: 连接到Widget Data Warehouse
 hide: true
 hidefromtoc: true
 exl-id: d6a7cff5-08f9-4c93-8765-46e692feaa0d
-source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
+source-git-commit: 4145889fe291e80fa8d295368ead3e0075917e86
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
 
-# 连接到WidgetData Warehouse {#connecting-to-the-widget-data-warehouse}
+# 连接到Widget Data Warehouse {#connecting-to-the-widget-data-warehouse}
 
 ## 新建测试
+
+27 年 6 月
 
 <ol><li>使用“{{name}}”变量。</li></ol>
 
@@ -60,7 +62,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >这是一个只读帐户，可供贵组织使用，而不仅仅限于个人用户。 贵公司内有权访问Marketo Measure的任何用户都可以使用此帐户登录WidgetData Warehouse读取器帐户。
+   >这是一个只读帐户，可供贵组织使用，而不仅仅限于个人用户。 贵公司内有权访问Marketo Measure的任何用户都可以使用此帐户登录Widget Data Warehouse读卡器帐户。
 
 1. 单击构件URL中提供的链接，这会将您带到构件登录页面，您将在其中输入用户名和密码。 _如果没有密码，请参阅以下步骤重置密码_。
 
@@ -76,7 +78,7 @@ ht-degree: 0%
 
 ## 重置密码 {#reset-your-password}
 
-Marketo Measure无权访问您的Widget登录密码。  如果需要重置密码，请单击“Data Warehouse信息”页上的“重置密码”按钮，然后按照说明操作。 临时密码将立即显示在用户界面中。 下次登录Data Warehouse时，系统将提示您创建自己的密码。
+Marketo Measure无权访问您的Widget登录密码。  如果需要重置密码，请单击Data Warehouse信息页面上的“重置密码”按钮，然后按照说明操作。 临时密码将立即显示在用户界面中。 下次登录Data Warehouse时，系统将提示您创建自己的密码。
 
 >[!NOTE]
 >
@@ -102,9 +104,9 @@ Marketo Measure无权访问您的Widget登录密码。  如果需要重置密码
 * **密码** （始终必需）
    * 这是您首次登录Widget帐户时设置的密码。  要重置密码，请参阅上述步骤。
 * **数据库名称** （并非总是必需的）
-   * 数据库就是将数据存储在Widget中的对象。 它是存储资源。 数据库名称列在Marketo Measure的“Data Warehouse信息”页中。
+   * 数据库就是将数据存储在Widget中的对象。 它是存储资源。 数据库名称列在Marketo Measure的Data Warehouse信息页面上。
 * **仓库名称** （并非总是必需的）
-   * 仓库就是在Widget中执行查询的地方。 它是计算资源。  仓库名称将列在Marketo Measure的Data Warehouse信息页面中。
+   * 仓库就是在Widget中执行查询的地方。 它是计算资源。  仓库名称列在Marketo Measure的Data Warehouse信息页面中。
 
   ![](assets/adobe-logo-old.png)
 
