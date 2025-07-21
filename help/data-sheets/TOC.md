@@ -4,9 +4,9 @@ user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 8ee3995aa158a545de25ce0fb7506c3e453a9ce4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,6 @@ ht-degree: 97%
 + [Adobe Success Plan 概述](overview.md)
 + The Crux Podcast{#crux-podcast}
    + [第 1 集：Billy Georgaros](episode1.md)
-
      [第 2 集：Karrie Benjamin](episode2.md)
      [第 3 集：George Kotsinis](episode3.md)
      [第 4 集：Jessica Ouellette](episode4.md)
@@ -43,7 +42,7 @@ ht-degree: 97%
 + [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [隐藏概述](hidden-overview.md)
 + [隐藏故障排除](hidden-trouble.md)
-+ [时髦标题UGP-13342](hidden-funky-headings.md)
++ [异常标题格式 UGP-13342](hidden-funky-headings.md)
 + [隐藏 - 代码块中的斜杠](hidden/slashes-in-code-blocks.md)
 + [隐藏的新测试](hidden-new-test.md)
 + [隐藏的新测试 2](hidden-new-test-2.md)
