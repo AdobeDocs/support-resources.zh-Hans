@@ -3,10 +3,10 @@ user-guide-title: Success Plan 资源
 user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的 Success Plan 和支持资源。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 8ee3995aa158a545de25ce0fb7506c3e453a9ce4
-workflow-type: ht
-source-wordcount: '149'
-ht-degree: 100%
+source-git-commit: f2d8eb9125df5f542c1ed075348586965f4adaad
+workflow-type: tm+mt
+source-wordcount: '151'
+ht-degree: 98%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 100%
       + [精英](dme-elite.md)
 + [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [隐藏概述](hidden-overview.md)
++ [隐藏折叠](hidden-collapse.md)
 + [隐藏故障排除](hidden-trouble.md)
 + [异常标题格式 UGP-13342](hidden-funky-headings.md)
 + [隐藏 - 代码块中的斜杠](hidden/slashes-in-code-blocks.md)
