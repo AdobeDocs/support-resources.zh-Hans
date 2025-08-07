@@ -4,10 +4,10 @@ description: 从搜索和目录中隐藏此页面
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 1aa822339d54cb585fe9d9024862d38043a6048d
+source-git-commit: 37213356a84428d3104f772c21c22daa8b42ecfd
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 32%
+source-wordcount: '70'
+ht-degree: 31%
 
 ---
 
@@ -24,6 +24,10 @@ ht-degree: 32%
 + [测试文件2](hidden-test.md)
 + [重定向测试](hidden/test-redirection.md)
 + [自动激活测试](hidden/autoactivate.md)
+
+## 幻灯片测试
+
+>[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 ## 新章节1月30日
 
