@@ -4,10 +4,10 @@ description: 从搜索和目录中隐藏此页面
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 613d796f8184ae31903b5ed71b3d397f5158177e
+source-git-commit: a08c39e8321f18d40c6e8d95033c498fafc34654
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 28%
+source-wordcount: '79'
+ht-degree: 27%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 28%
 
 已呈现：
 
->[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 
 语法二：
@@ -43,14 +43,15 @@ ht-degree: 28%
 ```
 >[!FRAGMENT]
 >
->(https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[analyze project](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 ```
 
 已呈现：
 
->[ !FRAGMENT]
+>[!FRAGMENT]
 >
->(https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[分析项目](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+
 
 
 ## 新章节1月30日
