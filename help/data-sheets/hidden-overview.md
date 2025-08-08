@@ -35,7 +35,7 @@ ht-degree: 27%
 
 已呈现：
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 
 语法二：
@@ -48,7 +48,7 @@ ht-degree: 27%
 
 已呈现：
 
->[!FRAGMENT]
+>[ !FRAGMENT]
 >
 >[分析项目](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
