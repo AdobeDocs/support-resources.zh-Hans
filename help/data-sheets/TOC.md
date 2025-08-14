@@ -3,9 +3,9 @@ user-guide-title: Success Plan 资源
 user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的 Success Plan 和支持资源。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: f2d8eb9125df5f542c1ed075348586965f4adaad
-workflow-type: ht
-source-wordcount: '151'
+source-git-commit: 67c030d28d7715cbf51910b61a6ba3d3aee29c7d
+workflow-type: tm+mt
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
@@ -40,24 +40,6 @@ ht-degree: 100%
       + [企业](dme-enterprise.md)
       + [精英](dme-elite.md)
 + [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html){target="_blank"}
-+ [隐藏概述](hidden-overview.md)
-+ [隐藏折叠](hidden-collapse.md)
-+ [隐藏故障排除](hidden-trouble.md)
-+ [异常标题格式 UGP-13342](hidden-funky-headings.md)
-+ [隐藏 - 代码块中的斜杠](hidden/slashes-in-code-blocks.md)
-+ [隐藏的新测试](hidden-new-test.md)
-+ [隐藏的新测试 2](hidden-new-test-2.md)
-+ [隐藏测试文件](hidden-test.md)
-+ [隐藏错误修复](hidden/bug-fixes.md)
-+ [隐藏 EDS 测试文件](hidden/test-page.md)
-+ [隐藏重定向测试](hidden/test-redirection.md)
-+ [隐藏语法指南](hidden/syntax-style-guide.md)
-+ [隐藏表格测试](hidden/tables.md)
-+ [隐藏表格分隔符](hidden/table-breaks.md)
-+ [隐藏笔记测试](hidden/note-test.md)
-+ [隐藏重定向](hidden/redirect-tests.md)
-+ 测试部分  {#test-section}
-   + [仅限隐藏的新自动激活项](hidden/autoactivate.md)
 
 <!--
 + [Hidden Lakshay test](hidden-lakshay-test.md)
