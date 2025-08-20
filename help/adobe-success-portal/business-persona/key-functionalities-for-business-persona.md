@@ -1,22 +1,22 @@
 ---
-title: 业务角色的关键功能
-description: Adobe Success Portal为商业角色提供的功能支持跨关键业务目标进行价值衡量，跟踪进度并以易于访问的视图提供见解。
+title: 业务角色的主要功能
+description: /[!DNL Adobe Success/]门户的业务角色功能支持跨关键业务目标的价值测量，跟踪进度并以易于访问的视图提供见解。
 exl-id: 374c3809-a982-464e-b417-1b0ae4191628
-source-git-commit: 37437897b5bd9572972c70280793891a1bad7a08
+source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 0%
+source-wordcount: '131'
+ht-degree: 62%
 
 ---
 
-# 业务角色的关键功能
+# 业务角色的主要功能
 
-Adobe成功门户的业务角色关键功能支持跨[关键业务目标] (KBO)进行价值测量，以易于访问的视图跟踪进度和提供见解。
+针对业务角色的[!DNL Adobe Success]门户的功能支持跨[[!UICONTROL 关键业务目标]](/help/adobe-success-portal/business-persona/key-business-objectives.md) (KBO)进行价值测量，以易于访问的视图跟踪进度和提供见解。
 
 ![adobe-success-portal-for-business-persona-overview](/help/adobe-success-portal/assets/overview-and-business-persona-overview.png)
 
-* 在主页的顶部，您可以找到您的KBO列表及其关联的活动、加速器和状态。
-* 左侧导航面板提供对关键功能的快速访问，如[行动计划]、[值跟踪器]、[参与计划]和[支持和见解](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md)。
-* 门户主页上的&#x200B;**[!UICONTROL 活动和事件]**&#x200B;部分提供了有关即将举办的Adobe托管事件和特定于客户的活动的信息，例如季度业务回顾(QBR)、支持会议和客户历程研讨会。
+* 在首页顶部，您可以看到您的 KBO 列表，以及其相关的活动、加速器和状态。
+* 左侧导航面板可快速访问主要功能，例如[[!UICONTROL 行动计划]](/help/adobe-success-portal/business-persona/action-plan.md)、[[!UICONTROL 价值跟踪器]](/help/adobe-success-portal/business-persona/value-tracker.md)、[[!UICONTROL 参与计划]](/help/adobe-success-portal/business-persona/engagement-plan.md)和[[!UICONTROL 支持与洞察]](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md)。
+* 门户首页的&#x200B;**[!UICONTROL 活动于事件]**&#x200B;部分展示了即将举行的 Adobe 主办活动和客户专属活动，例如季度业务回顾（QBR）、能力培养课程和客户历程研讨会。
 
-  ![活动和事件](/help/adobe-success-portal/assets/activities-and-events.png)
+  ![activities-and-events](/help/adobe-success-portal/assets/activities-and-events.png)
