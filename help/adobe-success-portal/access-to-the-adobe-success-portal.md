@@ -1,10 +1,11 @@
 ---
 title: 访问 [!DNL Adobe Success] 门户
 description: 了解如何在 [!DNL Adobe Success] 门户中管理案例。
-source-git-commit: fd8552d22f38e354e6620bbbdf135fb770cca3e2
+exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
+source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 1%
 
 ---
 
@@ -14,9 +15,9 @@ ht-degree: 0%
 
 您将会收到&#x200B;**[!UICONTROL 成功]**&#x200B;门户团队确认您访问的通知。 此消息将包含登录详细信息。
 
-1. 转到https://experience.adobe.com/ 。
+1. 转到[https://experience.adobe.com/](https://experience.adobe.com/)。
 1. 使用您的Adobe ID登录。
-1. 选择[!DNL Adobe Success]门户(Alpha)图标。
+1. 选择&#x200B;**[!UICONTROL 成功门户(Alpha)]**&#x200B;图标。
 
    ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
 
@@ -44,5 +45,3 @@ ht-degree: 0%
 >反馈工具不是专门的支持渠道。 它不适用于紧急登录问题。
 
 ![adobe-success-portal-home](assets/adobe-success-portal-home.png)
-
-
