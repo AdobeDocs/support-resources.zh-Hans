@@ -12,6 +12,7 @@ ht-degree: 0%
 # [!DNL Adobe Success]门户：客户常见问题解答
 
  
+
 ## [!DNL Adobe Success]门户的范围是多少？
 
 [!DNL Adobe Success]门户是Adobe新的集中式、面向客户的平台，旨在整合各种支持、成功和参与方面的售后体验。 Alpha发行版本重点提供了可整合先前跨多个平台(例如，支持门户、手动Ultimate Success工件)的工具和工作流的凝聚式体验。 目标是简化客户在其整个生命周期（从上线到续订）中与Adobe互动的方式，同时提高透明度、自助服务和价值实现。
