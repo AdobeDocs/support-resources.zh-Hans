@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Success]门户：客户常见问题解答'
 description: 此常见问题解答文章回答了有关 [!DNL Adobe Success] 门户的常见问题。
 exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
-source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
+source-git-commit: 8f0527bbd009aeb4b3e524f18576180722f23993
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '594'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,6 @@ ht-degree: 0%
 # [!DNL Adobe Success]门户：客户常见问题解答
 
  
-
 ## [!DNL Adobe Success]门户的范围是多少？
 
 [!DNL Adobe Success]门户是Adobe新的集中式、面向客户的平台，旨在整合各种支持、成功和参与方面的售后体验。 Alpha发行版本重点提供了可整合先前跨多个平台(例如，支持门户、手动Ultimate Success工件)的工具和工作流的凝聚式体验。 目标是简化客户在其整个生命周期（从上线到续订）中与Adobe互动的方式，同时提高透明度、自助服务和价值实现。
@@ -35,7 +34,7 @@ Alpha范围包括一组针对Ultimate客户精心设计的功能，主要有两�
 
 ## 如何访问门户？
 
-[!DNL Adobe Success]门户托管在Adobe Experience Cloud上。 需要访问Experience Cloud才能访问在IMS组织级别设置的[!DNL Adobe Success]门户。 有关如何访问门户的步骤，请参阅[本指南](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)。
+[!DNL Adobe Success]门户托管在Adobe Experience Cloud上。 需要访问Experience Cloud才能访问在IMS组织级别设置的[!DNL Adobe Success]门户。 有关如何访问门户的步骤，请参阅[访问 [!DNL Adobe Success] 门户](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)。
 
 Alpha的门户访问仅限于已确定参与Alpha计划的预定义用户列表。 要了解有关您组织中谁具有访问权限的更多信息，并请求向其他用户提供访问权限，请使用[Alpha团队渠道](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)联系产品团队。
 
