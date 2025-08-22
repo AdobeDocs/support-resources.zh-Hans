@@ -3,9 +3,9 @@ title: Adobe Success Plan 概述
 description: 本文概述 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客户支持选项。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 598a5e58107314e3315090304b258573fdd5d729
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2221'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -18,9 +18,9 @@ Adobe Success Plan 超越了被动解决问题的模式，为您带来一种全�
 
 |  | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
-|  | 加入 Expert Success Plan，即可获得有关针对关键业务问题的技术故障排除和指导的&#x200B;**全天候专家服务**。或者，可利用我们的自助资源、独家最佳实践以及 Adobe 专家和同行的网络社区找到快捷的解决方案。 <p> *所有 Adobe Experience Cloud 许可证都附带该计划。* | 加入 Ultimate Success Plan，即可体验&#x200B;**策略指导和主动监测技术运行状况以营造高效的数字体验**。将有一个专家团队支持您的 Adobe 环境，这些专家熟悉您的业务，并集中精力实施一个与您在业务影响方面的目标和优先级相符的路线图。 |
+|  | 加入 Expert Success Plan，即可获得有关针对关键业务问题的技术故障排除和指导的&#x200B;**全天候专家服务**。或者，可利用我们的自助资源、独家最佳做法以及 Adobe 专家和同行的网络社区找到快捷的解决方案。 <p> *所有 Adobe Experience Cloud 许可证都附带该计划。* | 加入 Ultimate Success Plan，即可体验&#x200B;**策略指导和主动监测技术运行状况以营造高效的数字体验**。将有一个专家团队支持您的 Adobe 环境，这些专家熟悉您的业务，并集中精力实施一个与您在业务影响方面的目标和优先级相符的路线图。 |
 | **成功团队** | 支持工程师的联合团队 | 包括： <ul><li> 指定的技术客户经理 </li><li> 指定的客户成功经理 </li><li> 指定的支持服务经理</li><li> 提供各种成功加速器的技术工程师和策略专家的联合团队 </li><li> 支持工程师的联合团队 </li></ul> |
-| **主动的技术和运营支持** | ![不包括图标](assets/Cross_red_circle.svg){width="20"}不包括 | 包括： <ul><li>升级和迁移审查、发布准备 </li><li>产品路线图审查</li><li> 协调一致的技术和策略路线图</li><li>关键事件准备和规划</li><li>规划相关且及时的赋能活动</li><li>技术方面的最佳实践和行业指导</li><li>支持产品团队/与产品团队保持一致</li><li>实现关键业务目标的统一计划 - 共同行动计划 (MAP)</li></ul> |
+| **主动的技术和运营支持** | ![不包括图标](assets/Cross_red_circle.svg){width="20"}不包括 | 包括： <ul><li>升级和迁移审查、发布准备 </li><li>产品路线图审查</li><li> 协调一致的技术和策略路线图</li><li>关键事件准备和规划</li><li>规划相关且及时的赋能活动</li><li>技术方面的最佳做法和行业指导</li><li>支持产品团队/与产品团队保持一致</li><li>实现关键业务目标的统一计划 - 共同行动计划 (MAP)</li></ul> |
 | **技术支持** | 包括： <ul><li>**P1**：全天候问题支持</li><li>**P2、P3、P4**：工作时间支持</li><li>标准停机管理</li><li>集中上报管理</li></ul> | 包括： <ul><li>**P1**：全天候问题支持</li><li>**P2/P3**：每周五天全天问题支持</li><li>**P4**：工作时间支持</li><li>优先停机管理</li><li>指定的专家上报管理</li></ul> |
 | **成功加速器** | ![不包括图标](assets/Cross_red_circle.svg){width="20"}不包括 | TAM 和 CSM 定期安排成功加速器<p>*（有关更多信息，请参阅成功加速器目录）* |
 | **支持渠道** | 在线、电话、Experience League、论坛 | 个性化在线门户、优先电话、Experience League、论坛 |
@@ -106,7 +106,7 @@ Adobe Success Plan 超越了被动解决问题的模式，为您带来一种全�
 
 | 美洲 | 欧洲、中东和非洲 | 亚太地区 | 日本 |
 |---|---|---|---|
-| 上午6点 — 下午5:30 | 上午 9:00 - 下午 5:00 | 上午 9:00 - 下午 5:00 | 上午 9:00 - 下午 5:00 |
+| 上午 6:00 – 下午 5:00:30 | 上午 9:00 - 下午 5:00 | 上午 9:00 - 下午 5:00 | 上午 9:00 - 下午 5:00 |
 
 ## 支持案例生命周期 - 即将推出
 
@@ -131,7 +131,7 @@ Adobe Success Plan 超越了被动解决问题的模式，为您带来一种全�
 * 在案例状态设置为“等待回复”后的第 1、3 和 5 天，将向客户发送后续通知，要求提供更多信息。
 * 如果在状态设置为“等待回复”后 6 天内没有收到客户的回复，则该案例将被结案，并发送结案通知。
 
-客户可以在14天内在Experience League上重新打开已关闭的案例，以继续通信。 14天后，可打开新的支持案例以继续与之前已关闭的案例进行沟通。 请注意，回复有关已关闭票证的电子邮件将不会重新打开该票证。
+客户可在 14 天内在 Experience League 上重新打开已关闭的案例，以继续沟通。超过 14 天后，可以新建一个支持案例，以继续与先前已关闭案例相关的沟通。请注意，回复关于已关闭工单的电子邮件不会重新打开该工单。
 
 **工程师提供解决方案**
 
@@ -172,12 +172,12 @@ Adobe Commerce 的标准支持：由客户许可或续订且许可期限开始�
   </tr>
   <tr>
     <td>设计 </td>
-    <td>解决方案设计的最佳实践咨询、技术规范和架构审查，以及多解决方案审查（如果需要）。 验证实施是否会以最好的方式工作 </td>
+    <td>解决方案设计的最佳做法咨询、技术规范和架构审查，以及多解决方案审查（如果需要）。 验证实施是否会以最好的方式工作 </td>
     <td></td>
   </tr>
   <tr>
     <td>上线 </td>
-    <td>最佳实践咨询，验证解决方案实施、功能和“适合使用”的集成，以及启动准备状态的准确性。 可能包括性能/负载测试，具体取决于解决方案 </td>
+    <td>最佳做法咨询，验证解决方案实施、功能和“适合使用”的集成，以及启动准备状态的准确性。 可能包括性能/负载测试，具体取决于解决方案 </td>
     <td></td>
   </tr>
   <tr>
@@ -199,7 +199,7 @@ Adobe Commerce 的标准支持：由客户许可或续订且许可期限开始�
 | 基本用例开发和支持 | Analytics、Audience Manager、Target、Campaign、Experience Manager、Commerce、Marketo Engage | 针对特定小型/基本活动、测试、个性化或其他解决方案活动的单一用例开发和有限执行支持 |
 | 解决方案报告与分析 | Analytics、Audience Manager、Target | 评估新的报告和分析机会，并提供一个或多个报告和/或仪表板的基本设置或配置 |
 | 成熟度路线图 | Analytics、Audience Manager、Target、Campaign、Experience Manager、Commerce、Marketo Engage | 为持续成熟和增长制定用例路线图 |
-| 桌边辅导 | Analytics、Audience Manager、Target、Campaign、Experience Manager、Commerce | 为一个或多个解决方案启用特定功能或最佳实践 |
+| 桌边辅导 | Analytics、Audience Manager、Target、Campaign、Experience Manager、Commerce | 为一个或多个解决方案启用特定功能或最佳做法 |
 
 >[!NOTE]
 >
