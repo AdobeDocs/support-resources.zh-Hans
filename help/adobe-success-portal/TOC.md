@@ -1,15 +1,15 @@
 ---
-user-guide-title: Adobe Success 门户资源
-user-guide-description: 探索各种 Adobe Success 门户资源以获取更多详细信息。
+user-guide-title: Adobe Success 门户
+user-guide-description: 浏览与Adobe成功门户相关的各种资源，了解更多详细信息。
 feature-set: Experience Cloud
 feature: Adobe Success Portal
 type: Documentation
 hide: true
 role: User, Admin
-source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
+source-git-commit: fa00ad5094a6a85415c1f2033680eaedf05f5b07
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 55%
+source-wordcount: '70'
+ht-degree: 40%
 
 ---
 

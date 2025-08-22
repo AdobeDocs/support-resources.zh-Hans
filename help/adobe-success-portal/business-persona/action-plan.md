@@ -1,13 +1,13 @@
 ---
 title: '[!UICONTROL 行动计划]'
 description: /[!UICONTROL 行动计划/]提供了有关如何执行KBO的结构化视图。 它包括Adobe团队已经规划、完成或正在积极努力帮助您实现目标的相关加速器和活动。
-source-git-commit: e46c0e328728f8a44e36dac6c08a2c6fa855b1c0
+exl-id: 818b149c-91ee-43b6-a235-576f2810db1b
+source-git-commit: 4af12a2808ec6c20b84fdbbd0608e9603cc2647b
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
-
 
 # [!UICONTROL 行动计划]
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 该页面分为两个主要选项卡：
 
-## &#x200B;1. [!UICONTROL 关键业务目标]
+## [!UICONTROL 关键业务目标]
 
 此选项卡显示您的所有KBO及其相应的加速器和活动。
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ![action-plan-kbo-tab-about-activity](/help/adobe-success-portal/assets/action-plan-kbo-tab-about-activity.png)
 
-## &#x200B;2. [!UICONTROL 活动]
+## [!UICONTROL 活动]
 
 此选项卡显示未绑定到任何KBO的活动列表。 每个活动包括：
 
