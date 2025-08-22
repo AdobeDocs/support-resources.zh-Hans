@@ -15,8 +15,8 @@ ht-degree: 62%
 
 ![adobe-success-portal-for-business-persona-overview](/help/adobe-success-portal/assets/overview-and-business-persona-overview.png)
 
-* 在首页顶部，您可以看到您的 KBO 列表，以及其相关的活动、加速器和状态。
+* 在首页顶部，您可以看到您的 KBO 列表，以及与其相关的活动、加速器和状态。
 * 左侧导航面板可快速访问主要功能，例如[[!UICONTROL 行动计划]](/help/adobe-success-portal/business-persona/action-plan.md)、[[!UICONTROL 价值跟踪器]](/help/adobe-success-portal/business-persona/value-tracker.md)、[[!UICONTROL 参与计划]](/help/adobe-success-portal/business-persona/engagement-plan.md)和[[!UICONTROL 支持与洞察]](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md)。
-* 门户首页的&#x200B;**[!UICONTROL 活动于事件]**&#x200B;部分展示了即将举行的 Adobe 主办活动和客户专属活动，例如季度业务回顾（QBR）、能力培养课程和客户历程研讨会。
+* 门户首页的&#x200B;**[!UICONTROL 活动与事件]**&#x200B;部分展示了即将举行的 Adobe 主办活动和客户特定活动，例如季度业务回顾（QBR）、能力培养课程和客户历程研讨会。
 
   ![activities-and-events](/help/adobe-success-portal/assets/activities-and-events.png)

@@ -11,7 +11,7 @@ ht-degree: 53%
 
 # [!DNL Adobe Success]门户简介
 
-[!DNL Adobe Success]门户是您管理Adobe之旅的个性化中心。 它将支持、成功规划和进度跟踪集中在一个平台中，让您更轻松地找到答案、保持信息更新，并实现目标。
+[!DNL Adobe Success]门户是您管理Adobe之旅的个性化中心。 它将支持、成功规划和进度跟踪集中在一个平台中，让您更轻松地找到答案、了解最新信息，并实现目标。
 
 ![adobe-success-portal-homepage](/help/adobe-success-portal/assets/overview-and-business-persona-overview.png)
 
