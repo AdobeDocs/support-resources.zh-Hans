@@ -1,17 +1,17 @@
 ---
 title: 业务角色的主要功能
-description: /[!DNL Adobe Success/]门户的业务角色功能支持跨关键业务目标的价值测量，跟踪进度并以易于访问的视图提供见解。
+description: /[!DNL Adobe Success/] 门户为业务角色提供的功能可为各种不同关键业务目标进行价值衡量，可以跟踪进度，并通过一个易于访问的视图提供洞察。
 exl-id: 374c3809-a982-464e-b417-1b0ae4191628
 source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
 # 业务角色的主要功能
 
-针对业务角色的[!DNL Adobe Success]门户的功能支持跨[[!UICONTROL 关键业务目标]](/help/adobe-success-portal/business-persona/key-business-objectives.md) (KBO)进行价值测量，以易于访问的视图跟踪进度和提供见解。
+[!DNL Adobe Success] 门户为业务角色提供的功能可为各种不同的[[!UICONTROL 关键业务目标]](/help/adobe-success-portal/business-persona/key-business-objectives.md)（KBO）进行价值衡量，可以跟踪进度，并通过一个易于访问的视图提供洞察。
 
 ![adobe-success-portal-for-business-persona-overview](/help/adobe-success-portal/assets/overview-and-business-persona-overview.png)
 

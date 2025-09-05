@@ -1,51 +1,51 @@
 ---
 title: 支持与洞察概述
-description: /[!DNL Adobe Success/]门户的[!UICONTROL 支持和见解]仪表板提供对技术资源、环境扫描发现和案例管理工具的访问。
+description: 通过 [!DNL Adobe Success/] 门户的[!UICONTROL 支持与洞察]仪表板可以访问技术资源、环境扫描结果以及案例管理工具。
 exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
 source-git-commit: 7fffb0a2aae3afdd508a0ccbe0bafd3814c6b476
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '375'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
 # 支持与洞察概述
 
-**[!UICONTROL 门户的]**&#x200B;支持和见解[!DNL Adobe Success]仪表板提供对技术资源、环境扫描发现和案例管理工具的访问。 它以独立的产品图块形式显示您所有的 Adobe 解决方案。
+通过 [!DNL Adobe Success] 门户的&#x200B;**[!UICONTROL 支持与洞察]**&#x200B;仪表板可以访问技术资源、环境扫描结果以及案例管理工具。它以独立的产品图块形式显示您所有的 Adobe 解决方案。
 
-要访问此页面，请直接在门户主页的左侧导航面板中单击![support-and-insights-icon](/help/adobe-success-portal/assets/support-and-insight-icon.png)图标。
+要访问此页面，请直接从门户主页左侧导航面板点击 ![support-and-insights-icon](/help/adobe-success-portal/assets/support-and-insight-icon.png) 图标。
 
 ![support-and-insights-landing-page](/help/adobe-success-portal/assets/support-and-insights-landing-page.png)
 
-使用页面顶部的&#x200B;*过滤器*&#x200B;下拉菜单来关注特定产品。
+您可以使用页面顶部的&#x200B;*过滤器*&#x200B;下拉菜单关注某个特定产品。
 
 每个产品图块都显示关键量度，例如&#x200B;**[!UICONTROL 发现]**、**[!UICONTROL 未结和已关闭案例]**&#x200B;和&#x200B;**[!UICONTROL 主要问题]**。您可以点击任一量度，直接跳转到其专门的子分区，在那里深入查看与您的产品相关的详细支持洞察。
 
 ## [!UICONTROL 快照] {#snapshot}
 
-**[!UICONTROL 快照]**&#x200B;选项卡为您的案例、发现和警报提供可执行分析。要访问此选项卡，请单击任意图块上的&#x200B;*产品名称*。
+**[!UICONTROL 快照]**&#x200B;选项卡为您的案例、发现和警报提供可执行分析。要访问此选项卡，请点击任意图块上的&#x200B;*产品名称*。
 
-![从support-and-insights-card快照](/help/adobe-success-portal/assets/snapshot-from-support-insights-card.png)
+![snapshot-from-support-and-insights-card](/help/adobe-success-portal/assets/snapshot-from-support-insights-card.png)
 
 在每个分析中，您可通过&#x200B;**[!UICONTROL 查看全部]**&#x200B;按钮进入&#x200B;**[!UICONTROL 支持与洞察]**&#x200B;中的对应选项卡。
 
-![快照选项卡](/help/adobe-success-portal/assets/snapshot-tab-support-and-insights.png)
+![snapshot-tab](/help/adobe-success-portal/assets/snapshot-tab-support-and-insights.png)
 
-## [!UICONTROL 个调查结果] {#findings}
+## [!UICONTROL 发现] {#findings}
 
 **[!UICONTROL 发现]**&#x200B;选项卡突出显示检测到的性能、安全性和功能方面的问题。条目会根据风险等级、状态和上次扫描以来的时间进行标记。
 
-单击列表中的条目可查看其状态、风险级别、原因、症状以及我们的解决建议。 有关详细信息，请参阅我们有关[在 [!DNL Adobe Success] 门户](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)中管理发现结果的文档。
+点击此列表中的条目，可查看其状态、风险等级、原因、症状以及我们对该问题提出的处理建议。有关更多信息，请参阅文档[在  [!DNL Adobe Success] 门户中管理发现](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)。
 
-![个调查结果 — 选项卡](/help/adobe-success-portal/assets/findings-tab-support-and-insights.png)
+![findings-tab](/help/adobe-success-portal/assets/findings-tab-support-and-insights.png)
 
 您也可以在&#x200B;**[!UICONTROL 支持与洞察]**&#x200B;页面中点击产品图块上的&#x200B;**[!UICONTROL 发现]**，直接进入该页面。
 
-![发现 — 来自 — support-and-insights-card](/help/adobe-success-portal/assets/findings-from-support-and-insights-card.png)
+![findings-from-support-and-insights-card](/help/adobe-success-portal/assets/findings-from-support-and-insights-card.png)
 
 ## [!UICONTROL 案例管理] {#case-management}
 
-**[!UICONTROL 案例管理]**&#x200B;选项卡中显示未结案例和已关闭案例的列表。单击&#x200B;*[!UICONTROL 案例编号]*&#x200B;可查看有关此问题的其他详细信息，并直接管理与案例相关的操作。
+**[!UICONTROL 案例管理]**&#x200B;选项卡中显示未结案例和已关闭案例的列表。您可以点击任一&#x200B;*[!UICONTROL 案例编号]*，查看该问题的更多详细信息，并直接管理与案例相关的操作。
 
 ![case-management-tab](/help/adobe-success-portal/assets/case-management-tab-support-and-insights.png)
 
