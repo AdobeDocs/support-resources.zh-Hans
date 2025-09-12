@@ -3,9 +3,9 @@ title: '[!UICONTROL 行动计划]'
 description: /[!UICONTROL 行动计划/]提供了有关如何执行您的 KBO 的结构化视图。它包括 Adobe 团队为了帮助您实现目标已计划、已完成或正在积极开展的相关加速器和活动。
 exl-id: 818b149c-91ee-43b6-a235-576f2810db1b
 source-git-commit: 4af12a2808ec6c20b84fdbbd0608e9603cc2647b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '202'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
