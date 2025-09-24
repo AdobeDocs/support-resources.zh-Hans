@@ -2,10 +2,10 @@
 title: 访问  [!DNL Adobe Success] 门户
 description: 了解如何在  [!DNL Adobe Success] 门户中管理案例。
 exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
-source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
-workflow-type: ht
-source-wordcount: '141'
-ht-degree: 100%
+source-git-commit: cc2a327307321a77623e1a4a82f9227ef5a3949c
+workflow-type: tm+mt
+source-wordcount: '170'
+ht-degree: 81%
 
 ---
 
@@ -19,13 +19,13 @@ ht-degree: 100%
 1. 使用您的 Adobe ID 登录。
 1. 选择 **[!UICONTROL Success 门户 (Alpha)]** 图标。
 
-   ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
+   成功门户(Alpha)的![图标和标签](assets/alpha-success-portal-alpha.png "访问成功门户(Alpha)")
 
 
 
 1. 登录后，您会看到五个选项卡：
 
-   ![adobe-success-portal-tabs](assets/adobe-success-portal-tabs.png)
+   ![Adobe Success Portal界面的侧栏](assets/adobe-success-portal-tabs.png "侧栏选项卡")
 
 
    * 主页
@@ -44,4 +44,4 @@ ht-degree: 100%
 >
 >反馈工具不是专门用于支持的渠道。它不适合用于紧急的登录问题。
 
-![adobe-success-portal-home](assets/adobe-success-portal-home.png)
+门户上的![Alpha反馈按钮提交反馈](assets/adobe-success-portal-home.png "Alpha反馈按钮")

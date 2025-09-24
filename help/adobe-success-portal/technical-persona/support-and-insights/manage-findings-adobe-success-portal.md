@@ -2,10 +2,10 @@
 title: 管理  [!DNL Adobe Success] 门户中的发现
 description: 本指南介绍如何访问、理解  [!DNL Adobe Success] 门户中的发现并据此采取行动，以帮助您主动管理产品性能、安全性和功能风险。
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
-source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
-workflow-type: ht
-source-wordcount: '765'
-ht-degree: 100%
+source-git-commit: f23f0debcd6a0e2962524de321d436b854001495
+workflow-type: tm+mt
+source-wordcount: '864'
+ht-degree: 87%
 
 ---
 
@@ -39,23 +39,23 @@ Adobe 团队定期研究最常见的支持问题和趋势。根据这些认识�
 1. 导航至&#x200B;**[!UICONTROL 支持与洞察]**。
 1. 选择相关的产品卡。选择&#x200B;**[!UICONTROL 发现]**&#x200B;选项卡。
 
-   ![asp-support-inisghts-findings](../../assets/asp-support-inisghts-findings.png)
+   ![Adobe Success Portal突出显示AEM as Cloud Service下的调查结果 — 包含3个列出项的Assets](../../assets/asp-support-inisghts-findings.png "在Cloud Service中查看AEM Assets调查结果")
 
 
 1. 您会看到所选产品的所有发现的列表。
 
-   ![adobe-success-portal-findings](../../assets/adobe-success-portal-findings.png)
+   ![Adobe成功门户显示AEM Cloud Service的“调查结果”选项卡 — Assets中列出了缓存问题](../../assets/adobe-success-portal-findings.png "在Cloud Service中查看AEM Assets的与缓存相关的调查结果")
 
 1. 在那里，您可以：
 
-   ![adobe-success-portal-download](../../assets/adobe-success-portal-download.png)
+   ![Adobe Success Portal界面突出显示AEM Sites下的搜索栏、下载按钮和严重风险调查结果](../../assets/adobe-success-portal-download.png "在Cloud Service中搜索、下载或查看AEM Sites调查结果")
 
    * 搜索特定条目。
    * 选择&#x200B;**[!UICONTROL 下载发现]**，导出发现列表。要导出某项发现的报告，请在&#x200B;**[!UICONTROL 发现名称]**&#x200B;列中勾选相关发现旁边的复选框。如果您未选择任何发现，PDF 中会默认包含所有发现的列表。
    * 选择&#x200B;**[!UICONTROL 发现名称]**&#x200B;列中的某个发现，可查看此发现的详细信息，包括建议的解决方法发现详情页面中显示选定的发现、附加的上下文和建议。要查看此报告，请选择下载箭头。
 
 
-     ![findings-details](../../assets/findings-details.png)
+     在Adobe成功门户中导出发现结果详细信息的![下载按钮](../../assets/findings-details.png "下载此发现结果的报告")
 
 
 ## 关于发现的操作
@@ -72,7 +72,7 @@ Adobe 团队定期研究最常见的支持问题和趋势。根据这些认识�
 1. 选择&#x200B;**[!UICONTROL 发现名称]**&#x200B;中的一个条目。在发现详情页面上，您可以：
    * 选择&#x200B;**[!UICONTROL 验证]**，检查问题是否仍然存在（**[!UICONTROL 验证]**&#x200B;按钮的目的是确认问题已解决）：
 
-   ![adobe-success-portal-validate](../../assets/adobe-success-portal-validate.png)
+   “调查结果”面板中的![验证按钮，用于确认Adobe Success Portal中的问题解决方案](../../assets/adobe-success-portal-validate.png "验证按钮")
 
 
    * 如果问题仍然存在，就会显示以下消息：*[!UICONTROL 验证完成。仍然检测到发现问题]*。使用发现详情页面上的信息和建议调查并解决此问题。
