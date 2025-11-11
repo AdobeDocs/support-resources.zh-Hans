@@ -3,10 +3,10 @@ title: Adobe Success 门户发行说明
 description: ' [!DNL Adobe Success portal] 的最新发布信息。'
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-source-git-commit: 4a7f2142170b79b8024881144fa77ea4940c382c
+source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 36%
+source-wordcount: '595'
+ht-degree: 32%
 
 ---
 
@@ -18,9 +18,21 @@ ht-degree: 36%
 ![修复](../adobe-success-portal/assets/fix.svg) - 修复和改进
 ![错误](../adobe-success-portal/assets/bug.svg) - 已知问题
 
+## 4.0
+
+_2025 年 11 月 11 日_
+
+![修复](../adobe-success-portal/assets/fix.svg)已优化案例详细信息页面中的对话顺序以自动滚动到最新消息。
+
+![修复](../adobe-success-portal/assets/fix.svg)更新了案例详细信息，以便在使用&#x200B;**Ctrl+Click** / **Command+Click**&#x200B;在新选项卡中打开时，“返回”按钮将正确禁用，以防止导航错误。
+
+![错误](../adobe-success-portal/assets/bug.svg)修复了&#x200B;**[!UICONTROL 支持和见解]**&#x200B;中的&#x200B;**[!UICONTROL Adobe状态]**&#x200B;警报显示不正确的状态、区域或时区详细信息的问题。
+
+![错误](../adobe-success-portal/assets/bug.svg)解决了与&#x200B;**[!UICONTROL 战略合作伙伴]**&#x200B;关联的&#x200B;**[!UICONTROL 加速器]**&#x200B;和&#x200B;**[!UICONTROL 活动]**&#x200B;的显示问题。
+
 ## 3.0
 
-_2025年10月9日_
+_2025 年 10 月 09 日_
 
 ![新](../adobe-success-portal/assets/new.svg)已将日历视图添加到&#x200B;**[!UICONTROL 行动计划]**&#x200B;模块，该模块用于可视化链接到&#x200B;**[!UICONTROL 关键业务目标]** (KBO)的&#x200B;**[!UICONTROL 加速器]**&#x200B;和&#x200B;**[!UICONTROL 活动]**&#x200B;的时间线。
 * 从行动计划KBO页面或&#x200B;**[!UICONTROL KBO]**/**[!UICONTROL 加速器]**/**[!UICONTROL 活动]**&#x200B;详细信息页面访问日历（仅当它们链接到KBO时）。
