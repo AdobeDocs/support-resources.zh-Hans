@@ -280,7 +280,7 @@ Adobe设有预定的维护排除期，以确保在关键假日时段内服务不
 * Marketo提供了多种方法来测试电子邮件的外观，以确保其外观与您的预期完全相同。
    * 使用&#x200B;**[!UICONTROL 预览]**&#x200B;函数通过按区段或单个潜在客户进行预览来确保您的动态内容和令牌正确呈现。 请参阅[预览包含动态内容的电子邮件](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content)文章。
    * 快速轻松地向测试记录发送直接电子邮件，以了解您的电子邮件在不同客户端/设备上的显示方式。 请参阅[从智能列表中运行单流程步骤](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list)一文。
-   * 对于[!DNL Litmus]用户，现在可以比以往更轻松地集成您的帐户并直接从电子邮件编辑器启动渲染测试。 查看包含[ [!DNL Litmus]的](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering)测试电子邮件渲染文章。
+   * 对于[!DNL Litmus]用户，现在可以比以往更轻松地集成您的帐户并直接从电子邮件编辑器启动渲染测试。 查看包含[&#x200B; [!DNL Litmus]的](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering)测试电子邮件渲染文章。
 * 查看电子邮件垃圾邮件报告功能，该功能与[!DNL SpamAssassin]集成以审查您的电子邮件的内容，并为其分配一个分数，以表示其到达收件箱或标记为&#x200B;*垃圾邮件的可能性*。 请参阅[电子邮件垃圾邮件报告](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/spam-report)文章。
 * 请密切关注[!UICONTROL 营销活动队列]，以验证您的营销活动是否正在处理并正确优先处理紧急项目。 查看[我的营销活动是否正在运行？](https://nation.marketo.com/t5/knowledgebase/is-my-campaign-running/ta-p/248662)篇文章。
 
