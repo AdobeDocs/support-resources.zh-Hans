@@ -119,7 +119,7 @@ Adobe强调强大的安全和治理实践，尤其是在高流量季节中，此
    * 发送时间
    * 优惠类型
    * 渠道组合
-请参阅[AJO Experimentation Accelerator最佳实践](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices)。
+请参阅[AJO Experimentation Accelerator最佳实践](https://experienceleague.adobe.com/zh-hans/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices)。
 * 进行端到端历程验证：
    * 事件触发器
    * 分段条目
