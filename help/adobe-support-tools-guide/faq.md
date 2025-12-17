@@ -2,24 +2,24 @@
 keywords: 常见问题解答；常见问题解答
 title: Adobe商业平台和Admin Console常见问题解答
 description: Adobe Workfront常见问题解答
-source-git-commit: 21f2b42e3131fe0339e5de15824f48166409c7c1
+source-git-commit: dc05d9746bff375f5c29a164fbfdf4adb8d219d5
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '485'
 ht-degree: 11%
 
 ---
 
-# Adobe商业平台和Admin Console常见问题解答
+# [!DNL Adobe Business Platform]和Admin Console常见问题解答
 
 +++**什么是Adobe标识和Admin Console？**
 
-Adobe业务平台为管理员和功能领导提供了一流的控制控制台，用于管理他们自定义的Workfront软件版本。
+[!DNL Adobe Business Platform]为管理员和功能领导提供了一流的控制控制台来管理其自定义的Workfront软件版本。
 
 +++
 
 +++**为什么客户需要移至Adobe Identity和Admin Console (AAC)？**
 
-通过迁移到Adobe Business Platform，客户将体验到更加安全和直观的管理控制台。
+通过迁移到[!DNL Adobe Business Platform]，客户将体验到更加安全和直观的管理控制台。
 
 +++
 
@@ -57,7 +57,7 @@ Adobe Workfront支持团队将为客户提供实时帮助和指导，确保顺�
 
 +++**哪些培训资源可用于AAC？**
 
-&lt;https://helpx.adobe.com/cn/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 
@@ -81,7 +81,7 @@ Adobe Workfront支持团队将为客户提供实时帮助和指导，确保顺�
 
 +++**这是否会影响我在Adobe产品之外集成到Workfront解决方案中的其他技术？**
 
-只有在Fusion应用程序准备好进行此更改时，才会移动使用Fusion应用程序连接到其他服务的客户。
+只有在[!DNL Fusion]应用程序准备好进行此更改时，才会移动使用[!DNL Fusion]应用程序连接到其他服务的客户。
 
 +++
 
