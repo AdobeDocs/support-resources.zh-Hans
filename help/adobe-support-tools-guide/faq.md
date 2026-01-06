@@ -2,9 +2,9 @@
 keywords: 常见问题解答；常见问题解答
 title: Adobe商业平台和Admin Console常见问题解答
 description: Adobe Workfront常见问题解答
-source-git-commit: dc05d9746bff375f5c29a164fbfdf4adb8d219d5
+source-git-commit: 653e7ff37fefc20cb0d7c745a12d6f47038e8463
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '473'
 ht-degree: 11%
 
 ---
@@ -51,13 +51,13 @@ Adobe Workfront支持团队将为客户提供实时帮助和指导，确保顺�
 
 +++**AAC中有哪些新功能目前不适用于Workfront中的客户？**
 
-请参阅[本文档](overview.md)重点介绍了一些新增功能。
+
 
 +++
 
 +++**哪些培训资源可用于AAC？**
 
-&lt;https://helpx.adobe.com/cn/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 
