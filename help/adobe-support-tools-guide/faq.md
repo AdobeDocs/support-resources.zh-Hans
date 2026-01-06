@@ -57,7 +57,7 @@ Adobe Workfront支持团队将为客户提供实时帮助和指导，确保顺�
 
 +++**哪些培训资源可用于AAC？**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/cn/enterprise/using/admin-console.html >
 
 +++
 
