@@ -1,7 +1,8 @@
 ---
 title: 管理角色
 description: 通过使用Adobe Admin Console，组织可以定义灵活的管理层次结构，从而更精细地管理对Adobe产品的访问和使用。
-source-git-commit: 13e89a152d9387a8b23544e6b6c6e3cad5856666
+solution: Admin Console
+source-git-commit: a96f8be10d63d4f1f40738d533147c22de9b5482
 workflow-type: tm+mt
 source-wordcount: '1642'
 ht-degree: 0%
@@ -26,7 +27,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->管理层次结构不适用于团队客户。 团队客户具有单个&#x200B;**系统管理员**&#x200B;角色。 合同所有者（_以前称为&#x200B;**主要管理员**&#x200B;_）是系统管理员，有权访问合同详细信息和帐单历史记录。 如果您是当前合同所有者，则可以指定现有系统管理员（_&#x200B;以前称为&#x200B;**辅助管理员**&#x200B;_）作为合同所有者。
+>管理层次结构不适用于团队客户。 团队客户具有单个&#x200B;**系统管理员**&#x200B;角色。 合同所有者（_以前称为&#x200B;**主要管理员**_）是系统管理员，有权访问合同详细信息和帐单历史记录。 如果您是当前合同所有者，则可以指定现有系统管理员（_&#x200B;以前称为&#x200B;**辅助管理员**_）作为合同所有者。
 
 ![管理员映像](assets/storage_admin.png)
 
@@ -52,7 +53,7 @@ _管理员角色层次结构_
 
 添加或邀请管理员：
 
-1. 在&#x200B;**[[!UICONTROL Adobe Admin Console]](https://adminconsole.adobe.com/)**&#x200B;中，选择&#x200B;**[!UICONTROL 用户]** > **[!UICONTROL 管理员]**。
+1. 在&#x200B;**[!UICONTROL Adobe Admin Console](https://adminconsole.adobe.com/)**&#x200B;中，选择&#x200B;**[!UICONTROL 用户]** > **[!UICONTROL 管理员]**。
 
    或者，转到相关的产品、产品配置文件或用户组，然后导航到&#x200B;**[!UICONTROL 管理员]**&#x200B;选项卡。
 
