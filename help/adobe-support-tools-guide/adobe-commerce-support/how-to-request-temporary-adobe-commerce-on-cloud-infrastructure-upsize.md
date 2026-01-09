@@ -1,6 +1,6 @@
 ---
 title: 如何请求云基础架构扩展中的临时Adobe Commerce
-description: 如果贵组织正在计划一个在线活动，而您预期该活动将出现高流量，或者您突然发现您的站点将发生高流量活动，则可以提交[支持工单](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)以请求为云基础架构商店上的Adobe Commerce临时增加云容量。
+description: 如果贵组织正在计划一个在线活动，而您预期该活动将出现高流量，或者您突然发现您的站点将发生高流量活动，则可以提交[支持工单](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=zh-Hans#submit-ticket)以请求为云基础架构商店上的Adobe Commerce临时增加云容量。
 solution: Commerce
 source-git-commit: 070f069a083ff310da44ccca4cc4b0081eb106f2
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 如何请求云基础架构扩展中的临时Adobe Commerce
 
-如果贵组织正在计划一个您预计会有高流量的在线活动，或者您突然发现您的网站正在进行高流量活动，则可以提交[支持票证](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)，以请求为云基础架构存储上的Adobe Commerce临时添加额外的云容量。
+如果贵组织正在计划一个您预计会有高流量的在线活动，或者您突然发现您的网站正在进行高流量活动，则可以提交[支持票证](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=zh-Hans#submit-ticket)，以请求为云基础架构存储上的Adobe Commerce临时添加额外的云容量。
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 按照此链接了解有关New Relic [应用智能的异常检测](https://docs.newrelic.com/docs/alerts-applied-intelligence/applied-intelligence/anomaly-detection/anomaly-detection-applied-intelligence/)的更多信息。
 
-如果收到建议高流量事件的警报通知，您可能需要考虑[提交支持票证](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)以请求额外容量。 请按照以下步骤操作。
+如果收到建议高流量事件的警报通知，您可能需要考虑[提交支持票证](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=zh-Hans#submit-ticket)以请求额外容量。 请按照以下步骤操作。
 
 ## 如何监控站点的性能
 
@@ -50,7 +50,7 @@ Adobe为Adobe Commerce on cloud infrastructure提供一套New Relic警报策略�
 
 ## 请求临时扩展的步骤
 
-要请求临时性额外云容量，请在Adobe Commerce支持中心提交[支持票证](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)，并提供以下信息：
+要请求临时性额外云容量，请在Adobe Commerce支持中心提交[支持票证](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=zh-Hans#submit-ticket)，并提供以下信息：
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ Adobe为Adobe Commerce on cloud infrastructure提供一套New Relic警报策略�
 
 >[!NOTE]
 >
->一旦安排了扩展，自动化系统将调整云实例的大小。 过程完成后，您将不会收到任何票证通知。 您可以使用Adobe Commerce观察工具查看AWS或Azure实例类型，以[验证更改](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce)。
+>一旦安排了扩展，自动化系统将调整云实例的大小。 过程完成后，您将不会收到任何票证通知。 您可以使用Adobe Commerce观察工具查看AWS或Azure实例类型，以[验证更改](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce)。
 
 ## 查看您的升级历史记录
 
