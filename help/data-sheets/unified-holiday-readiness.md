@@ -136,7 +136,7 @@ Adobe强调强大的安全和治理实践，尤其是在高流量季节中，此
 * 使用全渠道编排。 请参阅博客[参与度和增长的基本全渠道客户历程](https://business.adobe.com/blog/essential-customer-journeys-for-omnichannel-engagement)文章，该文章展示了AJO的假日季节示例。
 * 在适当的时候优先考虑实时触发器。 例如：购物车放弃、浏览放弃和库存警报，因为节假日购物者更加被动反应。
 * 利用分段和个性化：定位意图强烈的区段，根据过去的购买行为和偏好定制优惠。
-* 对消息传送的疲劳程度最低：强制实施上限和静默时间，以避免过度招徕。 请参阅AJO中的[通过每日频率上限提升客户体验](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510)博客帖子。
+* 对消息传送的疲劳程度最低：强制实施上限和静默时间，以避免过度招徕。 请参阅AJO中的[通过每日频率上限提升客户体验](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510?profile.language=zh-Hans)博客帖子。
 * 计时问题：计划提前在假日时段（给定压缩的季节）发送，并使渠道与时区和本地受众行为保持一致。
 * 提供动态/限时优惠以创建紧迫感，并在各渠道之间协调以避免重复和冲突。
 * 使用隐藏逻辑：隐藏刚刚购买的受众，或应用购买后历程以避免冗余消息传递。
