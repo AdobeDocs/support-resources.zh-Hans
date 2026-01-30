@@ -1,24 +1,24 @@
 ---
 title: Adobe客户支持权利配置
-description: Adobe客户如何配置支持权利以启用案例提交。
+description: Adobe客户如何在Admin Console中设置和管理支持权利，以便用户能够访问支持资源、提交问题和管理案例活动。
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 009be3353a4bd690a7cf395e7e95540808058b39
+source-git-commit: 7f7a394874014fb5333ed9fb39f84b7137562726
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
 
 
-# Adobe客户支持权利
+# Adobe客户支持权利配置
 
 要为贵组织配置支持权利，请首先通过Admin Console添加或邀请用户。
 
 ## 将支持权利角色添加到组织
 
-支持管理员角色是一个非管理角色，有权访问与支持相关的信息。 支持管理员可以查看、创建和管理问题报告。
+**[!UICONTROL 支持管理员]**&#x200B;角色是有权访问支持相关信息的非管理角色。 **[!UICONTROL 支持管理员]**&#x200B;可以查看、创建和管理问题报告。
 
 添加或邀请管理员：
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 1. 单击&#x200B;**[!UICONTROL 下一步]**。 此时将显示管理员角色列表。
 
-要为用户分配支持管理员角色（使用户能够联系支持人员），请执行以下操作：
+要将&#x200B;**[!UICONTROL 支持管理员]**&#x200B;角色分配给用户（使用户能够联系支持人员），请执行以下操作：
 
 1. 选择&#x200B;**[!UICONTROL 支持管理员]**&#x200B;选项。
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 
 ![管理员权限确认](assets/admin-rights-confirmation.png)
 
-有关更多详细信息，请参阅管理角色文档中的[编辑企业管理员角色](admin-roles.md#add-enterprise-role)说明。 请注意，只有组织的系统管理员才能分配此角色。 有关管理层次结构的详细信息，请访问[管理角色](admin-roles.md)文档。
+有关更多详细信息，请参阅管理角色文档中的[编辑企业管理员角色](admin-roles.md#edit-enterprise-admin-role)说明。 请注意，只有组织的系统管理员才能分配此角色。 有关管理层次结构的详细信息，请访问[管理角色](admin-roles.md)文档。
