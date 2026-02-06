@@ -6,7 +6,7 @@ exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
 source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
 workflow-type: tm+mt
 source-wordcount: '595'
-ht-degree: 32%
+ht-degree: 83%
 
 ---
 
@@ -32,41 +32,41 @@ _2025 年 11 月 11 日_
 
 ## 3.0
 
-_2025 年 10 月 09 日_
+_2025 年 10 月 9 日_
 
-![新](../adobe-success-portal/assets/new.svg)已将日历视图添加到&#x200B;**[!UICONTROL 行动计划]**&#x200B;模块，该模块用于可视化链接到&#x200B;**[!UICONTROL 关键业务目标]** (KBO)的&#x200B;**[!UICONTROL 加速器]**&#x200B;和&#x200B;**[!UICONTROL 活动]**&#x200B;的时间线。
-* 从行动计划KBO页面或&#x200B;**[!UICONTROL KBO]**/**[!UICONTROL 加速器]**/**[!UICONTROL 活动]**&#x200B;详细信息页面访问日历（仅当它们链接到KBO时）。
-* 在列表视图（默认）和日历视图之间切换。
-* 日历显示每个KBO的可折叠部分：
+![新](../adobe-success-portal/assets/new.svg)在&#x200B;**[!UICONTROL 行动计划]**&#x200B;模块中新增了日程表视图，用于可视化与&#x200B;**[!UICONTROL 关键业务目标]**（KBO）关联的&#x200B;**[!UICONTROL 加速器]**&#x200B;和&#x200B;**[!UICONTROL 活动]**&#x200B;的时间线。
+* 您可以从“行动计划”的 KBO 页面，或从 **[!UICONTROL KBO]**/**[!UICONTROL 加速器]**/**[!UICONTROL 活动]**&#x200B;的详情页面访问该日程表（仅当其已关联到某个 KBO 时）。
+* 可在列表视图（默认）与日程表视图之间切换。
+* 日程表会为每个 KBO 显示可折叠的分区：
    * 蓝色表示&#x200B;**[!UICONTROL 加速器]**
    * 绿色表示&#x200B;**[!UICONTROL 活动]**
-* 每个&#x200B;**[!UICONTROL 加速器]**/**[!UICONTROL 活动]**&#x200B;显示名称、状态和开始/结束日期（格式为&#x200B;*月XX*，*YYYY*）。
-* 单击事件卡会打开一个包含事件详细信息的页面。 单击“返回”按钮会返回。
-* 事件采用颜色编码：**[!UICONTROL 加速器]**&#x200B;为蓝色，**[!UICONTROL 活动]**&#x200B;为绿色。 按周或月垂直滚动浏览KBO和水平滚动。
-* 当文本被截断时，工具提示显示全名，滚动时时间轴保持可见。
-* 默认视图为当前周；使用导航箭头可在周之间移动。
-* “月”视图为正在进行的工作和计划的工作提供明确的时间表。
+* 每个&#x200B;**[!UICONTROL 加速器]**/**[!UICONTROL 活动]**&#x200B;都会显示名称、状态以及开始/结束日期（格式为&#x200B;*月份 XX*, *YYYY*）。
+* 点击事件卡片可打开包含事件详细信息的页面。点击“返回”按钮可返回到上一页面。
+* 事件采用颜色区分：蓝色表示&#x200B;**[!UICONTROL 加速器]**，绿色表示&#x200B;**[!UICONTROL 活动]**。可在 KBO 之间进行纵向滚动，并按周或按月进行横向滚动。
+* 当文本遭到截断时，工具提示会显示完整名称；滚动时，时间线会保持可见。
+* 默认视图为当前周；可通过导航箭头在不同周之间切换。
+* 月视图可清晰展示正在进行及计划中的工作的时间线。
 
-![修复](../adobe-success-portal/assets/fix.svg)增强了&#x200B;**[!UICONTROL 行动计划]**&#x200B;中的&#x200B;**[!UICONTROL 关键业务目标]**&#x200B;和&#x200B;**[!UICONTROL 活动]**&#x200B;页面，可在完成日期显示工具提示，从而提高时间线可见性。
+![修复](../adobe-success-portal/assets/fix.svg)增强了&#x200B;**[!UICONTROL 行动计划]**&#x200B;中的&#x200B;**[!UICONTROL 关键业务目标]**&#x200B;和&#x200B;**[!UICONTROL 活动]**&#x200B;页面，在完成日期上显示工具提示，从而提升时间线的可视性。
 
-![修复](../adobe-success-portal/assets/fix.svg)搜索已添加到&#x200B;**[!UICONTROL 行动计划]**&#x200B;和&#x200B;**[!UICONTROL 结果跟踪器]**&#x200B;的筛选器内，以便更快地导航。
+![修复](../adobe-success-portal/assets/fix.svg)在&#x200B;**[!UICONTROL 行动计划]**&#x200B;和&#x200B;**[!UICONTROL 成果跟踪器]**&#x200B;的过滤器中新增搜索功能，以加快导航速度。
 
 
-![修复](../adobe-success-portal/assets/fix.svg)为每个快速上下文查找结果添加了工具提示。
+![修复](../adobe-success-portal/assets/fix.svg)为每条发现项新增工具提示，以便快速了解上下文信息。
 
-![修复](../adobe-success-portal/assets/fix.svg)将Adobe品牌添加到从调查结果和案例下载的PDF中。
+![修复](../adobe-success-portal/assets/fix.svg)为从“发现”和“案例”中下载的 PDF 添加了 Adobe 品牌标识。
 
-![修复](../adobe-success-portal/assets/fix.svg)显示与帐户关联的所有&#x200B;**[!UICONTROL 战略合作伙伴]**，以及主要联系人的指标。
+![修复](../adobe-success-portal/assets/fix.svg)显示与帐户关联的所有&#x200B;**[!UICONTROL 战略合作伙伴]**，并标识主要联系人。
 
 ![修复](../adobe-success-portal/assets/fix.svg)修复了&#x200B;**[!UICONTROL 警报和Adobe状态]**&#x200B;中的时区未正确反映登录用户配置文件的问题。
 
-![修复](../adobe-success-portal/assets/fix.svg)修复了&#x200B;**[!UICONTROL 警报和Adobe状态]**&#x200B;中的过滤器未按预期一起工作的问题。
+![修复](../adobe-success-portal/assets/fix.svg)修复了&#x200B;**[!UICONTROL 警报和 Adobe 状态]**&#x200B;中过滤器无法按预期协同工作的问题。
 
-![修复](../adobe-success-portal/assets/fix.svg)修复了KBO详细信息和&#x200B;**[!UICONTROL 结果跟踪器]**&#x200B;页面上&#x200B;**[!UICONTROL 用例]**&#x200B;的排序不一致的问题。
+![修复](../adobe-success-portal/assets/fix.svg)修复了 KBO 详情页和&#x200B;**[!UICONTROL 成果跟踪器]**&#x200B;页面中&#x200B;**[!UICONTROL 用例]**&#x200B;排序不一致的问题。
 
-![修复](../adobe-success-portal/assets/fix.svg)修复了将鼠标悬停在案例标题上时，案例列表页面上的工具提示未显示完整案例名称的问题。
+![修复](../adobe-success-portal/assets/fix.svg)修复了在案例列表页面中，将鼠标悬停在案例标题上时，工具提示未能显示完整案例名称的问题。
 
-![修复](../adobe-success-portal/assets/fix.svg)修复了Safari浏览器中后箭头图标显示不正确的问题。
+![修复](../adobe-success-portal/assets/fix.svg)修复了在 Safari 浏览器中返回箭头图标显示异常的问题。
 
 ## 2.0
 
