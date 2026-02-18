@@ -266,7 +266,7 @@ Adobe 客户支持提供资源访问权限 以获取文档，并与其他专家�
 
 | 资源 | 描述 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/) | Experience League 为 Adobe 客户提供针对精选 Adobe Creative Cloud 和文档产品的自助教程、产品文档、讲师指导的培训、社区和技术支持。 |
+| [Experience League](https://experienceleague.adobe.com/zh-hans) | Experience League 为 Adobe 客户提供针对精选 Adobe Creative Cloud 和文档产品的自助教程、产品文档、讲师指导的培训、社区和技术支持。 |
 | [Adobe 支持社区](https://community.adobe.com/) | Adobe 支持社区是提出问题、找到答案、向专家学习和分享知识的场所。 |
 | [生产问题和系统中断](https://status.adobe.com/) | Status.adobe.com 传达在多租户环境中部署的所有 Adobe 产品和服务的运行状况信息。客户可以选择他们的订阅偏好设置，以便在 Adobe 创建、更新或处理产品事件时收到电子邮件通知。这可能包括严重性不同的定期维护或服务问题。 |
 | [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html) | 详细说明支持服务产品的条款和条件。 |
