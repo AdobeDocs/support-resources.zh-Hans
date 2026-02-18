@@ -2,7 +2,7 @@
 title: 对 Adobe Creative Cloud 和 Adobe Document Cloud 的标准支持
 description: Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。标准支持包括全天均可访问我们的自助支持资源（包括 HelpX 上的文章）以及在 Adobe 社区上与其他客户交流。
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+source-git-commit: ddaeba7f5e8c2e6d4c7fc2112425ee83ee7eccd3
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。标准支持包括全天均可访问我们的自助支持资源（包括 HelpX 上的文章）以及在 Adobe 社区上与其他客户交流。
 
-可充分利用我们在 <http://www.adobe.com> 上发布的详细而深入的技术产品文档和当前版本发行说明。我们的标准支持还包括授权用户（管理员）全天均可通过聊天或电话联系我们的技术支持团队，并可通过我们的支持门户网站记录对协助的申请。
+可充分利用我们在 <https://www.adobe.com> 上发布的详细而深入的技术产品文档和当前版本发行说明。我们的标准支持还包括授权用户（管理员）全天均可通过聊天或电话联系我们的技术支持团队，并可通过我们的支持门户网站记录对协助的申请。
 
 [查看 PDF 版本](assets/DMeStandardSupportDatasheet_2022.pdf)
 
@@ -266,7 +266,7 @@ Adobe 客户支持提供资源访问权限 以获取文档，并与其他专家�
 
 | 资源 | 描述 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/zh-hans) | Experience League 为 Adobe 客户提供针对精选 Adobe Creative Cloud 和文档产品的自助教程、产品文档、讲师指导的培训、社区和技术支持。 |
+| [Experience League](https://experienceleague.adobe.com/) | Experience League 为 Adobe 客户提供针对精选 Adobe Creative Cloud 和文档产品的自助教程、产品文档、讲师指导的培训、社区和技术支持。 |
 | [Adobe 支持社区](https://community.adobe.com/) | Adobe 支持社区是提出问题、找到答案、向专家学习和分享知识的场所。 |
 | [生产问题和系统中断](https://status.adobe.com/) | Status.adobe.com 传达在多租户环境中部署的所有 Adobe 产品和服务的运行状况信息。客户可以选择他们的订阅偏好设置，以便在 Adobe 创建、更新或处理产品事件时收到电子邮件通知。这可能包括严重性不同的定期维护或服务问题。 |
 | [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html) | 详细说明支持服务产品的条款和条件。 |
