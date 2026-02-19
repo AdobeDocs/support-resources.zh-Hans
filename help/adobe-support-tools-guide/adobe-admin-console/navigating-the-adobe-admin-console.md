@@ -14,4 +14,4 @@ Adobe Admin Console是一个中央位置，用于管理整个组织的Adobe授�
 
 **视频：** [浏览Adobe Admin Console](https://youtu.be/hDOhQL9xPRY)
 
-请参阅《企业管理指南》以了解有关[Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html)的更多信息。
+请参阅《企业管理指南》以了解有关[Adobe Admin Console](https://helpx.adobe.com/cn/enterprise/using/admin-console.html)的更多信息。
