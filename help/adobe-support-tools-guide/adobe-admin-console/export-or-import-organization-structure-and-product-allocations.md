@@ -43,7 +43,7 @@ ht-degree: 3%
 
 4. 选择&#x200B;**[!UICONTROL 导出]**。 生成导出文件可能需要几分钟时间。 完成后，要下载报表，请导航到&#x200B;**[!UICONTROL Global Admin Console]** > **[!UICONTROL 分析]** > **[!UICONTROL 导出报表]**。
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > JSON文件将以zip格式导出。 您可以使用zip实用程序或操作系统的zip功能来打开它们。
 
