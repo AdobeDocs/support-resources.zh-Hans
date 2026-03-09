@@ -30,4 +30,4 @@ ht-degree: 2%
 
 1. 查看&#x200B;**[!UICONTROL 身份验证级别]**&#x200B;并为您的用户选择最合适的身份验证级别： **[!UICONTROL 对用户来说最简单]**，**[!UICONTROL 更安全]**，**[!UICONTROL 最安全]**。
 
-访问[身份验证设置Helpx](https://helpx.adobe.com/enterprise/using/authentication-settings.html)，了解有关可用身份验证和安全策略的更多信息。
+访问[身份验证设置Helpx](https://helpx.adobe.com/cn/enterprise/using/authentication-settings.html)，了解有关可用身份验证和安全策略的更多信息。
