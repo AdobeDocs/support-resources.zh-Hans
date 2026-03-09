@@ -18,11 +18,11 @@ ht-degree: 3%
 
 了解全局管理员如何通过Global Admin Console中的导出和导入功能简化组织和产品管理。
 
-访问&#x200B;**[!UICONTROL Global Admin Console]**&#x200B;中的[组织](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)选项卡以导出或导入组织结构。 转到分配数据的&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡。 使用&#x200B;**[!UICONTROL 更多选项]** **⋮**&#x200B;图标选择导出或导入。 [登录到Global Admin Console](https://global-admin-console.adobe.com)。
+访问&#x200B;**[!UICONTROL Global Admin Console]**&#x200B;中的[组织](https://helpx.adobe.com/cn/enterprise/global-admin-console/adopt-global-administration.html)选项卡以导出或导入组织结构。 转到分配数据的&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡。 使用&#x200B;**[!UICONTROL 更多选项]** **⋮**&#x200B;图标选择导出或导入。 [登录到Global Admin Console](https://global-admin-console.adobe.com)。
 
 ## 导出组织结构
 
-作为[全局管理员](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)，您可以导出组织层次结构。 您可以下载整个组织层次结构或其子集的JSON、CSV或XLSX表示形式。 然后，您可以使用此数据进行分析或修改。
+作为[全局管理员](https://helpx.adobe.com/cn/enterprise/global-admin-console/manage-administrators.html)，您可以导出组织层次结构。 您可以下载整个组织层次结构或其子集的JSON、CSV或XLSX表示形式。 然后，您可以使用此数据进行分析或修改。
 
 选择的导出格式会影响导出数据的结构：
 
@@ -51,7 +51,7 @@ ht-degree: 3%
 
 ## 导入组织结构
 
-作为[全局管理员](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)，您可以导入可能修改的数据。 上传后，新数据与当前数据进行比较，所有更改都应用于组织层次结构。 所有导入操作均在组织层次结构的更新副本上执行。 如果您有任何挂起的更改，导入更改将添加到层次结构中挂起的更改之上。
+作为[全局管理员](https://helpx.adobe.com/cn/enterprise/global-admin-console/manage-administrators.html)，您可以导入可能修改的数据。 上传后，新数据与当前数据进行比较，所有更改都应用于组织层次结构。 所有导入操作均在组织层次结构的更新副本上执行。 如果您有任何挂起的更改，导入更改将添加到层次结构中挂起的更改之上。
 
 ### 导入步骤
 
@@ -59,7 +59,7 @@ ht-degree: 3%
 2. 选择&#x200B;**[!UICONTROL 更多选项]** **⋮**&#x200B;图标并选择&#x200B;**[!UICONTROL 导入]**。 根据导入文件的大小和复杂性，处理过程可能需要几秒钟到几分钟的时间。
 3. 选择&#x200B;**[!UICONTROL 选择一个文件]**，然后选择要上载的JSON、CSV或XLSX文件。 对于CSV，一次只能导入一个组织详细信息，并且不支持导入产品。 导入的更改看起来就像是手动编辑数据一样。
 4. 选择&#x200B;**[!UICONTROL 关闭]**。
-5. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 然后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。 在执行更改之前，挂起的操作将以与在Global Admin Console中手动编辑时相同的方式显示。
+5. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 然后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。 在执行更改之前，挂起的操作将以与在Global Admin Console中手动编辑时相同的方式显示。
 
 ## 导出和导入架构
 
@@ -617,7 +617,7 @@ XLSX的每个值有一行，其他字段的值相同。</td>
 
 ## 导入和导出产品分配数据
 
-作为[全局管理员](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)，您可以将产品分配数据导出为JSON或CSV文件。 然后，您可以处理此数据并将其上载回以导入更改。 上传可能修改的数据后，将新数据与当前数据进行比较，所有更改都应用于产品分配数据。 然后，您可以查看并提交待定更改以使它们生效。
+作为[全局管理员](https://helpx.adobe.com/cn/enterprise/global-admin-console/manage-administrators.html)，您可以将产品分配数据导出为JSON或CSV文件。 然后，您可以处理此数据并将其上载回以导入更改。 上传可能修改的数据后，将新数据与当前数据进行比较，所有更改都应用于产品分配数据。 然后，您可以查看并提交待定更改以使它们生效。
 
 ## 导出产品分配模型
 
@@ -633,7 +633,7 @@ XLSX的每个值有一行，其他字段的值相同。</td>
 1. 登录到[Global Admin Console](https://global-admin-console.adobe.com/)，然后导航到&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡。
 2. 选择&#x200B;**[!UICONTROL 更多选项]**⋮图标，然后选择&#x200B;**[!UICONTROL 导入]**。
 3. 选择要上载的JSON或CSV文件。
-4. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 查看更改后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。
+4. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 查看更改后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。
 
 ## 导出和导入产品分配的格式
 
