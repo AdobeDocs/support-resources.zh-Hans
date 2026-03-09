@@ -6,10 +6,10 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: dfb3e7ea8638755cdff16b0765125403f429ef2e
+source-git-commit: 387d1efa361aaba92196b09ca514605b568c0aa8
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 3%
+source-wordcount: '171'
+ht-degree: 2%
 
 ---
 
@@ -23,6 +23,8 @@ ht-degree: 3%
 - [管理员角色](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [浏览Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [导出或导入组织结构和产品分配](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
+   - [在Admin Console中强制实施密码过期](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
 - Adobe Workfront支持 {#workfront}
    - [常见问题](faq.md)
 - Adobe Commerce支持 {#adobe-commerce-support}
