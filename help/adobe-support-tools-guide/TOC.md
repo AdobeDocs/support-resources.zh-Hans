@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 387d1efa361aaba92196b09ca514605b568c0aa8
+source-git-commit: 73f0b891bad44fc0f55688d9fe8c881a5d519992
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '181'
 ht-degree: 2%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 2%
 
 # Adobe支持和工具指南 {#adobe-support-tools-guide}
 
+- [Adobe Commerce的MySQL支持终止通知和数据库兼容性指南](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
 - [Adobe支持和工具指南概述](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
 - [Adobe客户支持体验](adobe-customer-support-experience.md)
 - [Adobe客户支持权利配置](adobe-customer-support-entitlement-configuration.md)
