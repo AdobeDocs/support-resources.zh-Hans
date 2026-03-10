@@ -4,13 +4,13 @@ description: 了解全局管理员如何使用JSON、CSV或XLSX在Global Admin C
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: fe5b03e5886a43b55929a2bdba45da3c08ad0ab9
+exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
+source-git-commit: ee2da1708a19eb7871ffb03f2840c0b7d82bd159
 workflow-type: tm+mt
 source-wordcount: '4423'
 ht-degree: 3%
 
 ---
-
 
 # 导出或导入组织结构和产品分配
 
@@ -18,11 +18,11 @@ ht-degree: 3%
 
 了解全局管理员如何通过Global Admin Console中的导出和导入功能简化组织和产品管理。
 
-访问&#x200B;**[!UICONTROL Global Admin Console]**&#x200B;中的[组织](https://helpx.adobe.com/cn/enterprise/global-admin-console/adopt-global-administration.html)选项卡以导出或导入组织结构。 转到分配数据的&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡。 使用&#x200B;**[!UICONTROL 更多选项]** **⋮**&#x200B;图标选择导出或导入。 [登录到Global Admin Console](https://global-admin-console.adobe.com)。
+访问&#x200B;**[!UICONTROL Global Admin Console]**&#x200B;中的[组织](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)选项卡以导出或导入组织结构。 转到分配数据的&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡。 使用&#x200B;**[!UICONTROL 更多选项]** **⋮**&#x200B;图标选择导出或导入。 [登录到Global Admin Console](https://global-admin-console.adobe.com)。
 
 ## 导出组织结构
 
-作为[全局管理员](https://helpx.adobe.com/cn/enterprise/global-admin-console/manage-administrators.html)，您可以导出组织层次结构。 您可以下载整个组织层次结构或其子集的JSON、CSV或XLSX表示形式。 然后，您可以使用此数据进行分析或修改。
+作为[全局管理员](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)，您可以导出组织层次结构。 您可以下载整个组织层次结构或其子集的JSON、CSV或XLSX表示形式。 然后，您可以使用此数据进行分析或修改。
 
 选择的导出格式会影响导出数据的结构：
 
@@ -43,15 +43,15 @@ ht-degree: 3%
 
 4. 选择&#x200B;**[!UICONTROL 导出]**。 生成导出文件可能需要几分钟时间。 完成后，要下载报表，请导航到&#x200B;**[!UICONTROL Global Admin Console]** > **[!UICONTROL 分析]** > **[!UICONTROL 导出报表]**。
 
-&#x200B;> [!NOTE]
+>[!NOTE]
 >
-> JSON文件将以zip格式导出。 您可以使用zip实用程序或操作系统的zip功能来打开它们。
+>JSON文件将以zip格式导出。 您可以使用zip实用程序或操作系统的zip功能来打开它们。
 
 下载文件后，您可以处理数据，然后将其导入回。 导入的更新将显示在Global Admin Console中，就像您手动编辑数据一样。
 
 ## 导入组织结构
 
-作为[全局管理员](https://helpx.adobe.com/cn/enterprise/global-admin-console/manage-administrators.html)，您可以导入可能修改的数据。 上传后，新数据与当前数据进行比较，所有更改都应用于组织层次结构。 所有导入操作均在组织层次结构的更新副本上执行。 如果您有任何挂起的更改，导入更改将添加到层次结构中挂起的更改之上。
+作为[全局管理员](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)，您可以导入可能修改的数据。 上传后，新数据与当前数据进行比较，所有更改都应用于组织层次结构。 所有导入操作均在组织层次结构的更新副本上执行。 如果您有任何挂起的更改，导入更改将添加到层次结构中挂起的更改之上。
 
 ### 导入步骤
 
@@ -59,7 +59,7 @@ ht-degree: 3%
 2. 选择&#x200B;**[!UICONTROL 更多选项]** **⋮**&#x200B;图标并选择&#x200B;**[!UICONTROL 导入]**。 根据导入文件的大小和复杂性，处理过程可能需要几秒钟到几分钟的时间。
 3. 选择&#x200B;**[!UICONTROL 选择一个文件]**，然后选择要上载的JSON、CSV或XLSX文件。 对于CSV，一次只能导入一个组织详细信息，并且不支持导入产品。 导入的更改看起来就像是手动编辑数据一样。
 4. 选择&#x200B;**[!UICONTROL 关闭]**。
-5. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 然后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。 在执行更改之前，挂起的操作将以与在Global Admin Console中手动编辑时相同的方式显示。
+5. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 然后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。 在执行更改之前，挂起的操作将以与在Global Admin Console中手动编辑时相同的方式显示。
 
 ## 导出和导入架构
 
@@ -399,7 +399,6 @@ Adobe ID用户的名字和姓氏可在用户接受邀请时替换为用户提供
 
 ### 产品配置文件中的资源
 
-
 <table>
   <tr>
     <th>字段名称</th>
@@ -409,20 +408,14 @@ Adobe ID用户的名字和姓氏可在用户接受邀请时替换为用户提供
 
 <tr>
     <td>resourceName</td>
-    <td>
-     资源的名称
-    </td>
+    <td>资源的名称</td>
     <td>只读</td>
   </tr>
 
 <tr>
     <td>resourceId</td>
-    <td>
-   资源的标识符
-    </td>
-    <td>
-   只读
-    </td>
+    <td>资源的标识符</td>
+    <td>只读</td>
   </tr>
 
 <tr>
@@ -434,33 +427,48 @@ Adobe ID用户的名字和姓氏可在用户接受邀请时替换为用户提供
 <tr>
     <td>图标</td>
     <td>资源图像的URL</td>
-    <td> 只读</td>
+    <td>只读</td>
   </tr>
 
 <tr>
     <td>已选择</td>
-    <td>对于配置条目，是否启用该功能。 此字段仅在JSON中存在。</td>
-    <td rowspan ="2">当operation=create或operation=update时，可以分别设置或更新。</td>
+    <td>
+      对于配置条目，是否启用该功能。
+      此字段仅在JSON中存在。
+    </td>
+    <td rowspan="2">
+      当operation=create或operation=update时，可以分别设置或更新。
+    </td>
   </tr>
 
 <tr>
     <td>配额</td>
-    <td>可以通过此产品配置文件提供给用户的主要资源数量。 此字段仅在JSON中存在。</td>
-    <td></td>
+    <td>
+      可以通过此产品配置文件提供给用户的主要资源数量。
+      此字段仅在JSON中存在。
+    </td>
   </tr>
+
 
 <tr>
     <td>resourceType</td>
-    <td> 如果存在，则值为SERVICE。 它表示此资源表示可根据所选字段的值启用或禁用的服务。 此字段仅在JSON中存在。</td>
+    <td>
+      如果存在，则值为SERVICE。 它指示此资源表示服务可以
+      根据选定字段的值启用或禁用。
+      此字段仅在JSON中存在。
+    </td>
     <td>只读</td>
   </tr>
 
 <tr>
     <td>操作</td>
-    <td>“创建”、“更新”或“删除”之一。 导入数据时要执行的操作。</td>  
+    <td>
+      “创建”、“更新”或“删除”之一。 导入数据时要执行的操作。
+    </td>
     <td></td>
   </tr>
 </table>
+
 
 **导入要求：**
 
@@ -481,22 +489,23 @@ Adobe ID用户的名字和姓氏可在用户接受邀请时替换为用户提供
 <tr>
     <td>userGroupId</td>
     <td>
-用户组的标识符
-可以在创建时使用占位符值，以便其他对象可以引用新的用户组。
+      用户组的标识符。 可以在创建时使用占位符值，以便
+      其他对象可以引用新的用户组。
     </td>
     <td>当operation=create时，可设置为临时值</td>
   </tr>
 
 <tr>
     <td>userGroupName</td>
-    <td> 用户组的名称</td>
-    <td rowspan="2"> 可分别在operation=create或operation=update时设置或更新</td>
+    <td>用户组的名称</td>
+    <td rowspan="2">
+      当operation=create或operation=update时，可以分别设置或更新。
+    </td>
   </tr>
 
 <tr>
     <td>userGroupDescription</td>
     <td>用户组的文本描述</td>
-    <td></td>
   </tr>
 
 <tr>
@@ -507,25 +516,29 @@ Adobe ID用户的名字和姓氏可在用户接受邀请时替换为用户提供
 
 <tr>
     <td>轮廓</td>
-    <td>用户组关联的产品配置文件ID数组。
-XLSX的每个值有一行，其他字段的值相同。</td>
-    <td>可分别在operation=create或operation=update时设置或更新</td>
+    <td>
+      用户组关联的产品配置文件ID数组。
+      XLSX的每个值有一行，其他字段的值相同。
+    </td>
+    <td>
+      当operation=create或operation=update时，可以分别设置或更新。
+    </td>
   </tr>
 
 <tr>
     <td>orgId</td>
-    <td>包含用户组的组织。</td>
-    <td>用作查找包含或关联对象的引用。</td>
+    <td>包含用户组的组织</td>
+    <td>用作查找包含或关联对象的引用</td>
   </tr>
 
 <tr>
     <td>操作</td>
-    <td>“创建”、“更新”或“删除”之一。 导入数据时要执行的操作。</td>
+    <td>
+      “创建”、“更新”或“删除”之一。 导入数据时要执行的操作。
+    </td>
     <td></td>
   </tr>
 </table>
-
-
 
 **导入要求：**
 
@@ -617,7 +630,7 @@ XLSX的每个值有一行，其他字段的值相同。</td>
 
 ## 导入和导出产品分配数据
 
-作为[全局管理员](https://helpx.adobe.com/cn/enterprise/global-admin-console/manage-administrators.html)，您可以将产品分配数据导出为JSON或CSV文件。 然后，您可以处理此数据并将其上载回以导入更改。 上传可能修改的数据后，将新数据与当前数据进行比较，所有更改都应用于产品分配数据。 然后，您可以查看并提交待定更改以使它们生效。
+作为[全局管理员](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)，您可以将产品分配数据导出为JSON或CSV文件。 然后，您可以处理此数据并将其上载回以导入更改。 上传可能修改的数据后，将新数据与当前数据进行比较，所有更改都应用于产品分配数据。 然后，您可以查看并提交待定更改以使它们生效。
 
 ## 导出产品分配模型
 
@@ -633,7 +646,7 @@ XLSX的每个值有一行，其他字段的值相同。</td>
 1. 登录到[Global Admin Console](https://global-admin-console.adobe.com/)，然后导航到&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡。
 2. 选择&#x200B;**[!UICONTROL 更多选项]**⋮图标，然后选择&#x200B;**[!UICONTROL 导入]**。
 3. 选择要上载的JSON或CSV文件。
-4. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 查看更改后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。
+4. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 查看更改后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。
 
 ## 导出和导入产品分配的格式
 
@@ -701,4 +714,3 @@ XLSX的每个值有一行，其他字段的值相同。</td>
 - 必须存在与新产品关联的组织。
 - 正在创建的产品不得存在（licenseId相同的产品）。
 - 与正在创建的产品关联的资源必须具有与该产品匹配的相应productId。
-
