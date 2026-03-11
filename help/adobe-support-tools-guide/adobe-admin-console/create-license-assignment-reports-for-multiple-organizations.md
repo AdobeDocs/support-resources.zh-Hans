@@ -15,7 +15,7 @@ ht-degree: 1%
 
 了解全局管理员如何针对特定日期范围生成和下载多个组织和产品的详细许可证报告，以促进对许可证配置的精确跟踪。
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > 要创建、查看和导出许可证分配报告，请登录到[Global Admin Console](https://global-admin-console.adobe.com/)，然后转到&#x200B;**[!UICONTROL 分析]** > **[!UICONTROL 报告]** > **[!UICONTROL 许可证分配]**。
 
@@ -26,7 +26,7 @@ ht-degree: 1%
 1. 转到Global Admin Console中的&#x200B;**[[!UICONTROL Insights]](https://global-admin-console.adobe.com/insights)**&#x200B;选项卡。
 2. 在&#x200B;**[!UICONTROL 许可证分配]**&#x200B;页面上，选择&#x200B;**[!UICONTROL 创建报告]**。
 3. 选择组织，然后选择&#x200B;**[!UICONTROL 下一步]**。 您可以使用&#x200B;**[!UICONTROL 全选]**&#x200B;按钮分别选择每个组织或选择父组织内的所有子组织。
-   > [!NOTE]
+   &#x200B;> [!NOTE]
    >
    >**了解为什么不能选择某些组织**：
    >如果子组织没有合同，或者与父组织的产品具有单独的企业合同，则子组织将无法创建许可证分配报表。 例如，如果父组织的合同具有Adobe Acrobat，而子组织与其他合同的一部分具有相同，则产品分配受到限制。 因此，在Global Admin Console中创建报表时也会受到限制。 [了解如何使用此类组织各自的Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html)跟踪配置。
@@ -35,7 +35,7 @@ ht-degree: 1%
    >
    > 您只能为具有有效合同的组织创建分配报表。
 4. 选择要包含在报告中的产品，然后选择&#x200B;**[!UICONTROL 下一步]**。
-   > [!NOTE]
+   &#x200B;> [!NOTE]
    >
    >**了解为什么不能选择某些产品**：
    >在Global Admin Console中无法分配的产品不包括在报表创建中。 这目前包括一些数字体验产品，如[!DNL Workfront]、[!DNL Adobe Experience Manager]和[!DNL Adobe Experience Platform]，以及产品，如[!DNL Adobe Firefly Services]、[!DNL Acrobat Sign]和[!DNL Adobe Stock]。 [您使用Adobe Admin Console查找这些产品的许可证配置数据](https://helpx.adobe.com/enterprise/using/assignment-reports.html)。
