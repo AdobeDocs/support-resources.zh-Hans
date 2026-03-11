@@ -29,7 +29,7 @@ ht-degree: 1%
    &#x200B;> [!NOTE]
    >
    >**了解为什么不能选择某些组织**：
-   >如果子组织没有合同，或者与父组织的产品具有单独的企业合同，则子组织将无法创建许可证分配报表。 例如，如果父组织的合同具有Adobe Acrobat，而子组织与其他合同的一部分具有相同，则产品分配受到限制。 因此，在Global Admin Console中创建报表时也会受到限制。 [了解如何使用此类组织各自的Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html)跟踪配置。
+   >如果子组织没有合同，或者与父组织的产品具有单独的企业合同，则子组织将无法创建许可证分配报表。 例如，如果父组织的合同具有Adobe Acrobat，而子组织与其他合同的一部分具有相同，则产品分配受到限制。 因此，在Global Admin Console中创建报表时也会受到限制。 [了解如何使用此类组织各自的Admin Console](https://helpx.adobe.com/cn/enterprise/using/assignment-reports.html)跟踪配置。
    >
    > [!NOTE]
    >
@@ -38,7 +38,7 @@ ht-degree: 1%
    &#x200B;> [!NOTE]
    >
    >**了解为什么不能选择某些产品**：
-   >在Global Admin Console中无法分配的产品不包括在报表创建中。 这目前包括一些数字体验产品，如[!DNL Workfront]、[!DNL Adobe Experience Manager]和[!DNL Adobe Experience Platform]，以及产品，如[!DNL Adobe Firefly Services]、[!DNL Acrobat Sign]和[!DNL Adobe Stock]。 [您使用Adobe Admin Console查找这些产品的许可证配置数据](https://helpx.adobe.com/enterprise/using/assignment-reports.html)。
+   >在Global Admin Console中无法分配的产品不包括在报表创建中。 这目前包括一些数字体验产品，如[!DNL Workfront]、[!DNL Adobe Experience Manager]和[!DNL Adobe Experience Platform]，以及产品，如[!DNL Adobe Firefly Services]、[!DNL Acrobat Sign]和[!DNL Adobe Stock]。 [您使用Adobe Admin Console查找这些产品的许可证配置数据](https://helpx.adobe.com/cn/enterprise/using/assignment-reports.html)。
 5. 选择是按月还是按年汇总报表。
 6. 选择自定义日期范围或从预设选项中进行选择。 您可以选取从2020年6月18日开始一直到前一天的任何开始日期，只要该日期不早于合同开始日期。
 7. 选择&#x200B;**[!UICONTROL 下载]**&#x200B;以将报告导出为CSV文件。
