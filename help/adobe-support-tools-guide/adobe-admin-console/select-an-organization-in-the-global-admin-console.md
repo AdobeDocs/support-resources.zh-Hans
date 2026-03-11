@@ -18,7 +18,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->在访问[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html#request-access)后，您可以首先选择一个组织来查看和管理组织的名称、用户组、产品配置文件、管理员和组织策略。 要登录到Global Admin Console，[单击此处](https://global-admin-console.adobe.com/)。
+>在访问[Global Admin Console](https://helpx.adobe.com/cn/enterprise/global-admin-console/adopt-global-administration.html#request-access)后，您可以首先选择一个组织来查看和管理组织的名称、用户组、产品配置文件、管理员和组织策略。 要登录到Global Admin Console，[单击此处](https://global-admin-console.adobe.com/)。
 
 Global Admin Console是组织中管理Adobe资源的中心枢纽。 全局管理员可以：
 
@@ -79,6 +79,6 @@ Global Admin Console是组织中管理Adobe资源的中心枢纽。 全局管理
 
 - 组织路径名是唯一的，但简单名称在其同级中是唯一的。 在组织层次结构中的其他位置，可能会有具有相同简单名称的组织。
 
-- 您只能使用Global Admin Console查看链接到所选组织的域列表。 如果您是所选组织的系统管理员，请选择&#x200B;**[!UICONTROL 在Admin Console中打开]**&#x200B;以[管理域](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html)。 若要了解“域”选项卡中显示的信息，请参阅[导出和导入架构](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas)。
+- 您只能使用Global Admin Console查看链接到所选组织的域列表。 如果您是所选组织的系统管理员，请选择&#x200B;**[!UICONTROL 在Admin Console中打开]**&#x200B;以[管理域](https://helpx.adobe.com/cn/enterprise/using/manage-domains-directories.html)。 若要了解“域”选项卡中显示的信息，请参阅[导出和导入架构](https://helpx.adobe.com/cn/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas)。
 
 - 全局管理访问不支持IE 11。 使用其他浏览器或更新版本的IE浏览器。
