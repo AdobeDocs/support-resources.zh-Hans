@@ -6,7 +6,7 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 40e68cd0bf2212050ebf56b0dad01e9ad78fff5e
+source-git-commit: 4d8db3211486b770bf1ed477bd8d9edda54acce5
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 2%
@@ -15,7 +15,6 @@ ht-degree: 2%
 
 # Adobe支持和工具指南 {#adobe-support-tools-guide}
 
-- [Adobe Commerce的MySQL支持终止通知和数据库兼容性指南](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
 - [Adobe支持和工具指南概述](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
 - [Adobe客户支持体验](adobe-customer-support-experience.md)
 - [Adobe客户支持权利配置](adobe-customer-support-entitlement-configuration.md)
@@ -32,6 +31,7 @@ ht-degree: 2%
 - Adobe Workfront支持 {#workfront}
    - [常见问题](faq.md)
 - Adobe Commerce支持 {#adobe-commerce-support}
+   - [Adobe Commerce的MySQL支持终止通知和数据库兼容性指南](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
    - [如何获取和应用安全修补程序](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [如何请求云基础架构扩展中的临时Adobe Commerce](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Adobe Commerce P1通知热线](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
