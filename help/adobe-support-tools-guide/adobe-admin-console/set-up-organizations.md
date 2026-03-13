@@ -37,7 +37,7 @@ ht-degree: 0%
 - Sharing policy, password policy, and security contacts (controlled by **Inherit asset sharing settings when child organization is created** [policy](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)).
 
 1. 登录到[Global Admin Console](https://global-admin-console.adobe.com/)。 In the **[!UICONTROL Organizations]** tab, select the organization you want to add a child organization to.
-2. 选择&#x200B;**[!UICONTROL 添加+]**图标。
+2. 选择&#x200B;**[!UICONTROL 添加+]**&#x200B;图标。
    ![添加组织](/help/adobe-support-tools-guide/assets/add-an-organization-1.png)
 3. 指定组织的&#x200B;**名称**&#x200B;和&#x200B;**国家/地区**。\
    组织的简单名称必须介于4到100个字符之间；路径名的最大长度为255个字符。
@@ -80,13 +80,13 @@ ht-degree: 0%
 >[!TIP]
 >
 >使用最多255个字符的清晰、可识别的组织名称来帮助用户选择正确的配置文件。 避免使用特殊字符，并考虑包括地区、部门或权利。 此外，请避免在组织层次结构中使用不常见的首字母缩略词以及模糊或类似的名称。
-使用最多255个字符的清晰、可识别的组织名称来帮助用户选择正确的配置文件。 避免使用特殊字符，并考虑包括地区、部门或权利。 此外，请避免在组织层次结构中使用不常见的首字母缩略词以及模糊或类似的名称。
+>使用最多255个字符的清晰、可识别的组织名称来帮助用户选择正确的配置文件。 避免使用特殊字符，并考虑包括地区、部门或权利。 此外，请避免在组织层次结构中使用不常见的首字母缩略词以及模糊或类似的名称。
 
 更改会记录到审核日志中，所有用户都会收到电子邮件通知，并且名称在24小时内无法再次更新。 [了解如何查看和下载审核日志](https://helpx.adobe.com/enterprise/global-admin-console/insights.html)。
 
 ## 更改组织的父级
 
-作为[!DNL Global Administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)，您可以使用&#x200B;**[!UICONTROL 更改层次结构]**&#x200B;按钮重新父级组织层次结构中的组织。
+作为[[!DNL Global Administrator]](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)，您可以使用&#x200B;**[!UICONTROL 更改层次结构]**&#x200B;按钮重新父级组织层次结构中的组织。
 
 更改组织的父项会产生以下影响：
 
@@ -119,7 +119,7 @@ You can also add team organizations to the org hierarchy. Team orgs don&#39;t pa
 >[!WARNING]
 >
 > 您只能将子组织添加到基于同一存储模型的根组织中。 因此，基于用户存储模型的子组织只能添加到基于用户存储模型的根组织中。 而且，只能将基于企业存储模型的子组织添加到基于企业存储模型的根组织。
-您只能将子组织添加到基于同一存储模型的根组织。 因此，只能将基于用户存储模型的子组织添加到基于用户存储模型的根组织。 而且，只能将基于企业存储模型的子组织添加到基于企业存储模型的根组织。
+>您只能将子组织添加到基于同一存储模型的根组织。 因此，只能将基于用户存储模型的子组织添加到基于用户存储模型的根组织。 而且，只能将基于企业存储模型的子组织添加到基于企业存储模型的根组织。
 
 **[!UICONTROL 组织映射器]**&#x200B;选项卡显示以下内容：
 
