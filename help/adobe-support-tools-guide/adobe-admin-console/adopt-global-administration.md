@@ -1,0 +1,98 @@
+---
+title: 采用全球管理
+description: 了解什么是Global Admin Console以及如何请求访问权限。
+Feature-set: Experience Cloud Services
+Solution: Admin Console
+Feature: Admin Console
+source-git-commit: ae2a50b6ebab1ba46fdcad0e8aa2921b4728ed42
+workflow-type: tm+mt
+source-wordcount: '805'
+ht-degree: 0%
+
+---
+
+# 采用全球管理
+
+适用于企业。
+
+了解使用Global Admin Console的好处并了解如何获取访问权限。 [了解详情](#request-access-to-the-global-admin-console)
+
+在Adobe Admin Console中创建支持案例以请求访问Global Admin Console。
+登录到[Global Admin Console](https://adminconsole.adobe.com/support)。
+
+## 简介
+
+[Global Admin Console](https://adminconsole.adobe.com/support)适用于具有复杂组织结构的客户，这些客户可能拥有多个Admin Console或希望将其主Admin Console拆分为多个控制台。 例如，跨国公司、教育联合会、大型学区和大型政府机构。 它将现有的Admin Console嵌套到一个层次结构中（如组织结构图），以在分布式企业中提供透明度。
+
+Global Admin Console不会替换或更改现有Admin Console的功能。 它可作为一个层级结构使用，顶部有一个根组织，并且所有控制台都嵌套在该根组织下。 有一个选择标准，侧重于购买和创建层次结构，在该层次结构中，Admin Console作为根控制台运行。
+
+要了解有关Global Admin Console的功能和优势的更多信息，请参阅有关Global Admin Console的[白皮书](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625)。
+
+[!VIDEO](https://youtu.be/FLBWR78wpok)
+
+此视频的内容和配音目前仅提供英语版本。
+
+## 主要优势
+
+以下是[!DNL Global Admin Console]的一些主要优势：
+
+- 将Adobe产品使用和云存储的行政管理委派给各司、部门或外地办事处，从而减少集中管理的需要。
+- 为每个实体创建组织，并在层次结构中管理组织。 也可以删除组织。
+- 跨组织分发资源和产品许可证。
+- 限制组织之间的可见性，以便管理员只能查看其分配范围内的用户和资源。
+- 以符合您组织的目录结构的自助方式管理Admin Console组织结构。
+- 通过分配指定的管理员来管理特定组织或项目的Adobe资源来创建管理中心。
+- 在组织级别定义并应用策略。
+- 创建、编辑和删除产品配置文件和用户组。
+- 导出组织信息以供报告或用于其他流程。
+- 导入对组织的更新和对组织层次结构的更改。
+- 接收有关子组织中ETLA合同状态的通知，包括即将到期、已到期或无效的合同。 有关详细信息，请参阅[合同到期](https://helpx.adobe.com/enterprise/using/contract-expiry.html)文档。
+
+## 资格标准
+
+如果贵组织满足以下一个或多个标准，Adobe建议进行全局管理：
+
+- 您管理多个Admin Console并希望集中查看和控制内容。
+- 您希望分离Admin Console并独立管理它们。
+- 您管理多个合同。
+- 您需要跨子组织分发或集中身份配置。
+- 您需要将购买的资源分配给企业的不同部分，并分配单独的管理员。
+- 您拥有特定Adobe产品、地区或组织的管理员，并且希望防止重叠或干扰。
+
+## 请求访问Global Admin Console
+
+要请求访问[Global Admin Console](https://adminconsole.adobe.com/support/)，请在咨询您的Adobe代表后，按照以下步骤操作。
+
+1. 在[Admin Console](https://adminconsole.adobe.com/support/)中，导航到&#x200B;**[!UICONTROL 支持]** > **[!UICONTROL 支持摘要]**。
+
+   >[!NOTE]
+   >
+   > 通过作为全局管理层次结构中根组织的主要组织提交支持案例。
+
+1. 选择&#x200B;**[!UICONTROL 创建案例]**&#x200B;以打开&#x200B;**[!UICONTROL 创建案例]**&#x200B;窗口。
+
+1. 在表单中，指定以下详细信息：
+
+   - 问题的优先级： P4 — 次要
+   - 问题的影响：Medium
+   - 问题摘要： &lt;您组织的名称>正在请求访问Global Admin Console
+
+1. 在&#x200B;**[!UICONTROL 中描述您面临的问题的性质]**，说明您的组织正在请求访问Global Admin Console，并包含以下详细信息：
+
+   - **名称和控制台ID** （可在URL中找到，作为“@AdobeOrg”前的一系列数字和字母）指定为Admin Console的&#x200B;*根（顶部）*组织，或请求新控制台并指定所需的名称。
+ — 在某些情况下，新控制台是首选选项。 您的Adobe代表可以指导您。 请仔细选择*root*&#x200B;组织，因为以后很难对其进行更改。
+   - 至少将一个当前系统管理员分配给全局管理员角色。 您可以稍后添加其他管理员。
+   - Adobe代表或客户成功经理的姓名和电子邮件地址。
+
+   ![问题描述](/help/adobe-support-tools-guide/assets/describe.png)
+
+1. 选择&#x200B;**[!UICONTROL 下一步]**，并提供以下信息：
+
+   | 要填写的详细信息 | 描述 |
+   | ------------------ | ----------- |
+   | **列出要通知的人员** | 添加最多十个电子邮件地址，以从Adobe客户关怀接收案例更新。 |
+   | **时区** | 如果需要调用，Adobe客户关怀将使用您的时区。 此字段会根据您的系统设置自动填充。 |
+   | **工作时间** | 如果需要致电，Adobe客户关怀团队会考虑您的工作时间和正常工作时间。 使用时间滑块可指定联系您的最佳时间。 |
+   | **电话号码** | 提供联系电话，以便Adobe客户关怀工程师可以联系您进行故障排除或说明。 |
+
+1. 选择&#x200B;**[!UICONTROL 提交]**。
