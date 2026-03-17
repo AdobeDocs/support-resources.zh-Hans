@@ -50,7 +50,7 @@ Global Admin Console中的&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡
 1. 从下拉列表中选择产品，以查看如何将其分配给不同的组织。\
    如果组织当前没有该产品，则会显示&#x200B;**[!UICONTROL 添加+]**&#x200B;图标。
 
-   >[!N注意]
+   >[ !N注意]
    >
    >如果子组织已有采购合同，则父组织向该子组织的产品分配可能会受到限制。 [了解详情](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html#limited-product-allocation)。
 
@@ -100,7 +100,7 @@ Global Admin Console中的&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡
 
 ![产品分配](/help/adobe-support-tools-guide/assets/product-allocation.png)
 
->[!I重要信息]
+>[ !I重要信息]
 >
 >属于层次结构的ETLA合同一旦停用，产品就会从&#x200B;**[!UICONTROL 概述]**&#x200B;和&#x200B;**[!UICONTROL 产品分配]**&#x200B;页面中删除。
 
