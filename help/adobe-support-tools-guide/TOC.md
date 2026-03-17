@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: b0bfb6e5e0948b43a9db91ecc6a0e61780995e72
+source-git-commit: d7fafb6c94bf8d0002c2e01601cd6a29d6addeb2
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '227'
 ht-degree: 2%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 2%
 - [管理员角色](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [浏览Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [Adobe Admin Console中的辅助功能](adobe-admin-console/admin-console-accessibility.md)
    - [使用Global Admin Console将产品分配给子组织](adobe-admin-console/allocate-products.md)
    - [采用全球管理](adobe-admin-console/adopt-global-administration.md)
    - [管理组织层次结构](adobe-admin-console/set-up-organizations.md)
