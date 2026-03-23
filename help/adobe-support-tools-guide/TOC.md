@@ -6,10 +6,10 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 3d0f29ff680a75588333a9ea9f88c2fe9bd35640
+source-git-commit: 0bbba5e7afa83bb40b57e3d4d648d0713100ab6f
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 2%
+source-wordcount: '254'
+ht-degree: 1%
 
 ---
 
@@ -51,3 +51,4 @@ ht-degree: 2%
    - [如何在支持通知中包含团队成员](/help/adobe-support-tools-guide/adobe-commerce-support/how-to-include-a-team-member-in-support-notifications.md)
    - [在云基础架构沙盒请求上合作伙伴Adobe Commerce](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
    - [无法将用户添加到Adobe Commerce云项目](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
+   - [如何应用Adobe提供的编辑器修补程序](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
