@@ -37,7 +37,7 @@ ht-degree: 0%
 
 提交支持案例的过程现在直接与Experience League支持平台集成。 这是一个自助门户，最近进行了重新设计，以便为授权客户提供更多个性化和易用性。
 
-1. 要使用[Experience League](https://experienceleague.adobe.com/home#support)创建票证，请选择顶部导航中的&#x200B;**[!UICONTROL 支持]**选项卡。
+1. 要使用[Experience League](https://experienceleague.adobe.com/home#support)创建票证，请选择顶部导航中的&#x200B;**[!UICONTROL 支持]**&#x200B;选项卡。
    ![Experience League支持选项卡](./assets/experience-league-support-tab.png)
 1. 从支持主页中，您可以轻松导航到打开的支持案例、登记新案例、查看热门支持文章或访问其他学习来源。
    ![Experience League支持资源](./assets/experience-league-support-resources.png)
