@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: c9ea6b6110f6fbd75671ac9b21a5a3a95f73f7f5
+source-git-commit: f6cba0e6b34a4ff33004fdf9606f9c8b188d4e95
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '267'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 1%
 # Adobe支持和工具指南 {#adobe-support-tools-guide}
 
 - [Adobe支持和工具指南概述](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
+- [Experience League支持发行说明](/help/adobe-support-tools-guide/release-notes.md)
 - [Adobe客户支持体验](adobe-customer-support-experience.md)
 - [Adobe客户支持权利配置](adobe-customer-support-entitlement-configuration.md)
 - [支持电话号码更新](phone-numbers.md)
