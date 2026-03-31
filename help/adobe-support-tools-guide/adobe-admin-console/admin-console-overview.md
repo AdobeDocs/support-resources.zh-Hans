@@ -18,7 +18,7 @@ ht-degree: 2%
 
 Adobe Admin Console是一个中央位置，用于管理整个组织的Adobe授权。 您可以使用它来管理您的许可证、用户和付款。 转到此处[登录到Admin Console](https://adminconsole.adobe.com)。 请观看以下视频，了解有关浏览Adobe Admin Console的更多信息。
 
-[!V视频](https://helpx.adobe.com/enterprise/using/admin-console.html)
+[ !V视频](https://helpx.adobe.com/enterprise/using/admin-console.html)
 
 Admin Console上的每个选项卡都允许您执行各种任务。 选择下面的标题以了解更多信息。
 
@@ -157,8 +157,8 @@ Admin Console上的每个选项卡都允许您执行各种任务。 选择下面
 
 存储管理员只能访问[资源设置](https://helpx.adobe.com/enterprise/using/asset-settings.html)和[内容日志](https://helpx.adobe.com/enterprise/using/content-logs.html)。 系统管理员可以根据其计划查看或修改设置。
 
-[!N注意]
->>
+[ !N注意]
+&#x200B;>>
 Adobe不提供针对顶级管理员的本机功能，以便他们能够将当前Admin Console设置与Adobe推荐的安全默认值进行比较。 管理员可以参考Adobe推荐的配置指南，并使用其组织的身份提供程序、端点管理工具和内部审计流程来验证合规性。
 
 ## 隐私和安全联系人 {#privacy-and-security-contacts}
