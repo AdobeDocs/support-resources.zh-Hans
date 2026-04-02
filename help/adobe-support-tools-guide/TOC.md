@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 89ec9694aa6a5215959c0cf3897880a60239c551
+source-git-commit: 201356d2f86139f6f4230547ad946c3bb5190ace
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '294'
 ht-degree: 1%
 
 ---
@@ -20,10 +20,10 @@ ht-degree: 1%
 - [Adobe客户支持体验](adobe-customer-support-experience.md)
 - [Adobe客户支持权利配置](adobe-customer-support-entitlement-configuration.md)
 - [支持电话号码更新](phone-numbers.md)
-- [管理员角色](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [浏览Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
    - [Admin Console概述](adobe-admin-console/admin-console-overview.md)
+   - [管理员角色](adobe-admin-console/admin-roles.md)
    - [在Global Admin Console中管理用户组](adobe-admin-console/manage-user-groups.md)
    - [Adobe Admin Console中的辅助功能](adobe-admin-console/admin-console-accessibility.md)
    - [使用Global Admin Console将产品分配给子组织](adobe-admin-console/allocate-products.md)
@@ -33,6 +33,8 @@ ht-degree: 1%
    - [在Global Admin Console中选择组织](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [管理管理员](adobe-admin-console/manage-administrators.md)
    - [在Global Admin Console中管理产品配置文件](adobe-admin-console/manage-product-profiles.md)
+   - [在Global Admin Console中更新组织策略](adobe-admin-console/update-policies.md)
+   - [在Global Admin Console中管理策略模板](adobe-admin-console/manage-policy-templates.md)
    - [导出或导入组织结构和产品分配](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [在Admin Console中强制实施密码过期](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
    - [下载审核日志和导出报告](adobe-admin-console/download-audit-logs-and-export-reports.md)
