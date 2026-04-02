@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 1e20362a-0974-4b83-a083-9edaab04c255
-source-git-commit: 265c341935b3257e5731a129c42411151645ae89
+source-git-commit: 976bfc44cdae61376e2da89019f7758518c6fadc
 workflow-type: tm+mt
-source-wordcount: '1330'
+source-wordcount: '1333'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,13 @@ ht-degree: 0%
 
 在Global Admin Console中创建、管理和共享用户组，通过对具有相同权限的用户进行分组、节省时间和确保一致性，从而简化用户管理。
 
-在[Global Admin Console](https://helpx.adobe.com/cn/enterprise/global-admin-console/adopt-global-administration.html)中，选择一个组织，然后导航到&#x200B;**[!UICONTROL 用户组]**。 使用单个用户管理源跨多个组织共享组以同步用户和组。
-
-[登录到Global Admin Console](https://global-admin-console.adobe.com)
+在[Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)中，选择一个组织，然后导航到&#x200B;**[!UICONTROL 用户组]**。 使用单个用户管理源跨多个组织共享组以同步用户和组。 转到此处[登录到Global Admin Console](https://global-admin-console.adobe.com)。
 
 
 
 ## 创建用户组
 
-您可以[批量单独创建用户组](https://helpx.adobe.com/cn/enterprise/using/user-groups.html)，或将[用户组从已建立的Azure AD](https://helpx.adobe.com/cn/enterprise/using/add-azure-sync.html)直接同步到Adobe Admin Console中的联合目录。 在Global Admin Console中，您可以定义分配了相关产品配置文件的用户组，用户组管理员稍后可以使用Admin Console将用户添加到这些用户组。
+您可以[批量单独创建用户组](https://helpx.adobe.com/cn/enterprise/using/user-groups.html)，或将[用户组从已建立的Azure AD](https://helpx.adobe.com/enterprise/using/add-azure-sync.html)直接同步到Adobe Admin Console中的联合目录。 在Global Admin Console中，您可以定义分配了相关产品配置文件的用户组，用户组管理员稍后可以使用Admin Console将用户添加到这些用户组。
 
 1. 登录到[Global Admin Console](https://global-admin-console.adobe.com/)，选择要编辑的组织，然后导航到&#x200B;**[!UICONTROL 用户组]**&#x200B;选项卡。
 
@@ -36,14 +34,14 @@ ht-degree: 0%
 
 3. 在出现的&#x200B;**[!UICONTROL 添加用户组]**&#x200B;对话框中输入以下内容：
    - **[!UICONTROL 名称]**：指定用户组的名称。
-   - **[!UICONTROL 产品配置文件]**：如果要向用户组中当前或将来的成员授予产品访问权限，请单击下拉箭头以从列表中选择产品配置文件，或输入产品配置文件名称并从显示的下拉列表中选择该名称。 如果要添加尚未创建的产品配置文件，必须首先使用[产品配置文件](https://helpx.adobe.com/cn/enterprise/using/global-admin-edit-organizations.html#profiles)选项卡执行此操作。
+   - **[!UICONTROL 产品配置文件]**：如果要向用户组中当前或将来的成员授予产品访问权限，请单击下拉箭头以从列表中选择产品配置文件，或输入产品配置文件名称并从显示的下拉列表中选择该名称。 如果要添加尚未创建的产品配置文件，必须首先使用[产品配置文件](https://helpx.adobe.com/enterprise/using/global-admin-edit-organizations.html#profiles)选项卡执行此操作。
    - **[!UICONTROL 管理员]**：单击下拉箭头从列表中选择管理员，或输入管理员的电子邮件地址并从显示的下拉列表中选择该地址。 如果要添加尚未创建的新管理员，必须首先使用[管理员](#share-user-groups)选项卡创建该管理员。
 
    您指定的产品配置文件将分配给用户组，并且您指定的管理员将成为该组的用户组管理员。 用户组管理员可以使用相关组织的Adobe Admin Console来管理组。
 
 4. 选择&#x200B;**[!UICONTROL 保存]**。
 
-5. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**&#x200B;以审阅更新。 然后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/set-up-organizations.html#execute-jobs)。
+5. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**&#x200B;以审阅更新。 然后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations)。
 
    >[!NOTE]
    >
@@ -84,9 +82,9 @@ ht-degree: 0%
    - **[!UICONTROL 仅添加]**：通过将新用户添加到现有用户组而不删除任何用户来合并用户组。
    - **[!UICONTROL 镜像组]**：通过添加或删除用户，调整目标组织的组以匹配共享组。
 
-8. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**&#x200B;以审阅更新。 然后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/set-up-organizations.html#execute-jobs)。
+8. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**&#x200B;以审阅更新。 然后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations)。
 
-   将记录组预测事件以供您参考。 了解[查看和下载审核日志](https://helpx.adobe.com/cn/enterprise/global-admin-console/insights.html)。
+   将记录组预测事件以供您参考。 了解[查看和下载审核日志](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/download-audit-logs-and-export-reports)。
 
 
 共享用户组时，该组及其用户将添加到目标组织。 但是，*源用户组控制*&#x200B;共享用户组及其用户。 管理员和产品配置文件分配&#x200B;*未*&#x200B;在组织之间同步。
@@ -111,7 +109,7 @@ ht-degree: 0%
 
 6. 选择&#x200B;**[!UICONTROL 撤销访问权限]**。
 
-7. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**&#x200B;以审阅更新。 然后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/set-up-organizations.html#execute-jobs)。
+7. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**&#x200B;以审阅更新。 然后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations)。
 
 
 
@@ -133,9 +131,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在&#x200B;**[!UICONTROL 编辑用户组]**&#x200B;向导中，您只能将管理员角色分配给已在此组织中分配了管理员角色的用户。 了解如何[添加新管理员](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)。
+   >在&#x200B;**[!UICONTROL 编辑用户组]**&#x200B;向导中，您只能将管理员角色分配给已在此组织中分配了管理员角色的用户。 了解如何[添加新管理员](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)。
 
-4. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**&#x200B;以审阅更新。 然后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/using/global-admin-set-up-organizations.html#execute-jobs)。
+4. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**&#x200B;以审阅更新。 然后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations)。
 
    >[!NOTE]
    >
@@ -159,4 +157,4 @@ ht-degree: 0%
    >
    >删除用户组可能会影响您的用户。 确保删除用户组时没有访问权限或信息将丢失。
 
-4. 编辑组织后，选择&#x200B;**[!UICONTROL 审阅挂起的更改]**&#x200B;以审阅这些更改。 然后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/using/global-admin-set-up-organizations.html#execute-jobs)。
+4. 编辑组织后，选择&#x200B;**[!UICONTROL 审阅挂起的更改]**&#x200B;以审阅这些更改。 然后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations)。
