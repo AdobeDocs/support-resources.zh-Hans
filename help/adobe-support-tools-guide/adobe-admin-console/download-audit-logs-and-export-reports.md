@@ -24,12 +24,12 @@ ht-degree: 2%
 
 作为全局管理员，您可以完全了解在Global Admin Console中所做的更改。 您可以搜索所有组织中的审核日志，以查看过去90天内采取的操作，包括操作发生的时间以及操作的执行者。
 - 审核日志通过防止不适当的系统访问以及审核组织内的可疑行为，帮助确保持续合规。
-- Global Admin Console中可用的日志仅包括全局管理员可以访问的事件。 它们不包括用户分配或用户事件。 [了解更多](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)有关每个控制台提供的不同功能。
+- Global Admin Console中可用的日志仅包括全局管理员可以访问的事件。 它们不包括用户分配或用户事件。 [了解更多](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)有关每个控制台提供的不同功能。
 - 日志涵盖层次结构中所有组织的事件，允许您一次搜索所有组织的审核日志。
 
 >[!NOTE]
 >
-> 作为[Adobe Admin Console](https://adminconsole.adobe.com)组织中的系统管理员，您可以使用[审核日志](https://helpx.adobe.com/enterprise/using/audit-logs.html)来查看用户分配和用户事件。 审计日志中还包括所选组织的子组织中系统管理员执行的操作。 详细了解系统管理员如何[跟踪在Admin Console中所做的更改](https://helpx.adobe.com/enterprise/using/audit-logs.html)。
+> 作为[Adobe Admin Console](https://adminconsole.adobe.com)组织中的系统管理员，您可以使用[审核日志](https://helpx.adobe.com/cn/enterprise/using/audit-logs.html)来查看用户分配和用户事件。 审计日志中还包括所选组织的子组织中系统管理员执行的操作。 详细了解系统管理员如何[跟踪在Admin Console中所做的更改](https://helpx.adobe.com/cn/enterprise/using/audit-logs.html)。
 
 要查看或下载组织的审核日志，请执行以下操作：
 
@@ -106,7 +106,7 @@ ht-degree: 2%
 
 1. 登录到[Global Admin Console](https://global-admin-console.adobe.com/insights)，然后导航到&#x200B;**[!UICONTROL 分析]** > **[!UICONTROL 导出报表]**。
 
-   此时会显示过去90天内生成的报告。 90天后，您可以再次生成报表。 了解如何生成[组织结构](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure)的报告。
+   此时会显示过去90天内生成的报告。 90天后，您可以再次生成报表。 了解如何生成[组织结构](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure)的报告。
 
 
    | 字段 | 描述 |
