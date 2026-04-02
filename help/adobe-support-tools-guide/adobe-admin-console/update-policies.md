@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)中，从层次结构中选择一个组织，然后导航到&#x200B;**策略**&#x200B;选项卡以允许或禁止或锁定策略。
+>在[Global Admin Console](https://helpx.adobe.com/cn/enterprise/global-admin-console/adopt-global-administration.html)中，从层次结构中选择一个组织，然后导航到&#x200B;**策略**&#x200B;选项卡以允许或禁止或锁定策略。
 >
 > [登录到Global Admin Console](https://global-admin-console.adobe.com/)
 
@@ -38,14 +38,14 @@ ht-degree: 0%
 
 要修改组织的策略，请执行以下操作：
 
-1. 在Global Admin Console中，[选择要编辑的组织](https://helpx.adobe.com/enterprise/global-admin-console/overview.html)，然后导航到&#x200B;**[!UICONTROL 策略]**&#x200B;选项卡。
-1. 选择相关策略的切换开关以允许或不允许使用该策略。 您还可以锁定策略，这样[选定组织](https://helpx.adobe.com/enterprise/global-admin-console/overview.html)或其父组织的全局管理员以外的人便无法更改或解锁该策略。
+1. 在Global Admin Console中，[选择要编辑的组织](https://helpx.adobe.com/cn/enterprise/global-admin-console/overview.html)，然后导航到&#x200B;**[!UICONTROL 策略]**&#x200B;选项卡。
+1. 选择相关策略的切换开关以允许或不允许使用该策略。 您还可以锁定策略，这样[选定组织](https://helpx.adobe.com/cn/enterprise/global-admin-console/overview.html)或其父组织的全局管理员以外的人便无法更改或解锁该策略。
 1. 要锁定策略，请选择&#x200B;**[!UICONTROL 锁定]** ![锁定](./assets/lock.png)图标。 将鼠标悬停在锁定上会显示所选组织的名称。 了解有关[策略锁定](#policy-locks)的详细信息。
-1. 在编辑完组织后，选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。
+1. 在编辑完组织后，选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。
 
 ## 策略锁定 {#policy-locks}
 
-锁定策略后，在解锁该策略之前，无法更改其值。 Global Admin Console将组织选取器中的[选定组织](https://helpx.adobe.com/enterprise/global-admin-console/overview.html)记住为锁定策略的组织。 所选组织或树中更高层组织的任何全局管理员都有权解锁策略。 范围小于该组织的全局管理员无权解锁和更改策略值。
+锁定策略后，在解锁该策略之前，无法更改其值。 Global Admin Console将组织选取器中的[选定组织](https://helpx.adobe.com/cn/enterprise/global-admin-console/overview.html)记住为锁定策略的组织。 所选组织或树中更高层组织的任何全局管理员都有权解锁策略。 范围小于该组织的全局管理员无权解锁和更改策略值。
 
 要创建锁定的环境，请在子组织上设置所需的策略值，然后锁定它们。 这些子组织的全局管理员将无法编辑策略值。
 
