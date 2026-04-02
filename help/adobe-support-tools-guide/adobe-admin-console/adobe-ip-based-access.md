@@ -36,7 +36,7 @@ ht-degree: 0%
 
 ### 重要注意事项
 
->[!I重要注意事项]
+>[ !I重要注意事项]
 >
 >- 管理员必须首先添加自己的公共IP地址，然后才添加其他IP范围。 否则，您可能会遇到错误。
 >- 基于IP的访问不适用于私有IP地址。
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 请按照以下步骤在Adobe Admin Console中启用基于IP的访问：
 
-1. 转到&#x200B;**[!UICONTROL Adobe Admin Console设置](https://adminconsole.adobe.com/settings/identity)**&#x200B;部分。
+1. 转到&#x200B;**[[!UICONTROL Adobe Admin Console设置]](https://adminconsole.adobe.com/settings/identity)**&#x200B;部分。
 2. 在选择菜单中选择并展开&#x200B;**[!UICONTROL 隐私和安全性]**，然后选择&#x200B;**[!UICONTROL 身份验证设置]**。
 3. 在基于&#x200B;**[!UICONTROL IP的访问]**&#x200B;部分中，选择&#x200B;**[!UICONTROL 添加IP地址]**&#x200B;按钮。
 4. 在&#x200B;**[!UICONTROL 添加IP地址]**&#x200B;窗口中：
