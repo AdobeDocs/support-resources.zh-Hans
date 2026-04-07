@@ -19,7 +19,7 @@ ht-degree: 0%
    1. **编辑阶段**：对组织进行更改或分配产品。
    2. **执行阶段**：审阅并执行挂起的更改，以使它们生效。
 
-- 若要确保在[[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)中所做的所有更改均已实施并生效，请选择[[!UICONTROL 作业执行]]选项卡，然后继续执行挂起的更改。
+- 若要确保在[[!DNL Global Admin Console]](https://helpx.adobe.com/cn/enterprise/global-admin-console/adopt-global-administration.html)中所做的所有更改均已实施并生效，请选择[[!UICONTROL 作业执行]]选项卡，然后继续执行挂起的更改。
 
   登录到[[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)
 
