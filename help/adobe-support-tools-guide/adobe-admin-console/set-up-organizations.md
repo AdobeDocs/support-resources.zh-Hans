@@ -29,7 +29,7 @@ ht-degree: 0%
 创建新子组织时，系统会自动从直接父项继承以下内容：
 
 - 组织的[策略](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)设置（如果存在，则包括锁定）。
-- 系统管理员列表（由创建&#x200B;****&#x200B;策略[时继承系统管理员的](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)控制）。
+- 系统管理员列表（由创建&#x200B;**&#x200B;**&#x200B;策略[时继承系统管理员的](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)控制）。
 以下内容可能会阻止系统管理员被继承：
    - 缺少[域信任](https://helpx.adobe.com/enterprise/using/directory-trust.html)。
    - 用户类型限制（添加Adobe ID / Enterprise ID / Federated ID用户策略）。 了解[策略详细信息](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)。
@@ -37,7 +37,7 @@ ht-degree: 0%
 - 共享策略、密码策略和安全联系人（在创建子组织时由&#x200B;**继承资产共享设置** [策略](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)控制）。
 
 1. 登录到[Global Admin Console](https://global-admin-console.adobe.com/)。 在&#x200B;**[!UICONTROL 组织]**&#x200B;选项卡中，选择要为其添加子组织的组织。
-2. 选择&#x200B;**[!UICONTROL 添加+]**图标。
+2. 选择&#x200B;**[!UICONTROL 添加+]**&#x200B;图标。
    ![添加组织](/help/adobe-support-tools-guide/assets/add-an-organization-1.png)
 3. 指定组织的&#x200B;**名称**&#x200B;和&#x200B;**国家/地区**。\
    组织的简单名称必须介于4到100个字符之间；路径名的最大长度为255个字符。
@@ -61,7 +61,7 @@ ht-degree: 0%
 >删除组织会影响您的用户。 确保删除组织时没有访问权限或信息会丢失。
 
 1. 登录到[Global Admin Console](https://global-admin-console.adobe.com/)。 转到&#x200B;**[!UICONTROL 组织]**&#x200B;选项卡，然后选择要删除的组织。
-1. 选择&#x200B;**[!UICONTROL 删除]**图标。
+1. 选择&#x200B;**[!UICONTROL 删除]**&#x200B;图标。
    ![删除组织](/help/adobe-support-tools-guide/assets/delete-organization.png)
 1. 在&#x200B;**[!UICONTROL 删除组织]**&#x200B;对话框中，选择&#x200B;**[!UICONTROL 确定]**。
 1. 在编辑完组织后，选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。
@@ -73,7 +73,7 @@ ht-degree: 0%
 作为[全局管理员](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)，您可以编辑任何父或子组织的名称，以帮助用户在登录到Creative Cloud产品和服务时识别正确的配置文件。
 
 1. 登录到[Global Admin Console](https://global-admin-console.adobe.com/)。 在&#x200B;**[!UICONTROL 组织]**&#x200B;选项卡中，选择要重命名组织。
-1. 选择&#x200B;**[!UICONTROL 编辑]**图标。
+1. 选择&#x200B;**[!UICONTROL 编辑]**&#x200B;图标。
    ![重命名组织](/help/adobe-support-tools-guide/assets/rename-organization.png)
 1. 更新您的组织名称并选择&#x200B;**[!UICONTROL 保存]**。
 
