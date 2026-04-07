@@ -1,13 +1,13 @@
 ---
 title: 为多个组织和产品创建许可证分配报告
 description: 从Global Admin Console生成、查看和下载跨多个组织和产品的许可证分配报告。
-Feature-set: Experience Cloud Services
-Solution: Admin Console
-Feature: Admin Console
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
-source-git-commit: 74d2dd4eb999f91172eec4c3b5690e1e8b8bd293
+source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '725'
 ht-degree: 1%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 1%
    >[!NOTE]
    >
    >**了解为什么不能选择某些组织**：
-   >如果子组织没有合同，或者与父组织的产品具有单独的企业合同，则子组织将无法创建许可证分配报表。 例如，如果父组织的合同具有Adobe Acrobat，而子组织与其他合同的一部分具有相同，则产品分配受到限制。 因此，在Global Admin Console中创建报表时也会受到限制。 [了解如何使用此类组织各自的Admin Console](https://helpx.adobe.com/cn/enterprise/using/assignment-reports.html)跟踪配置。
+   >如果子组织没有合同，或者与父组织的产品具有单独的企业合同，则子组织将无法创建许可证分配报表。 例如，如果父组织的合同具有Adobe Acrobat，而子组织与其他合同的一部分具有相同，则产品分配受到限制。 因此，在Global Admin Console中创建报表时也会受到限制。 [了解如何使用此类组织各自的Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html)跟踪配置。
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ ht-degree: 1%
    >[!NOTE]
    >
    >**了解为什么不能选择某些产品**：
-   >在Global Admin Console中无法分配的产品不包括在报表创建中。 这目前包括一些数字体验产品，如[!DNL Workfront]、[!DNL Adobe Experience Manager]和[!DNL Adobe Experience Platform]，以及产品，如[!DNL Adobe Firefly Services]、[!DNL Acrobat Sign]和[!DNL Adobe Stock]。 [您使用Adobe Admin Console查找这些产品的许可证配置数据](https://helpx.adobe.com/cn/enterprise/using/assignment-reports.html)。
+   >在Global Admin Console中无法分配的产品不包括在报表创建中。 这目前包括一些数字体验产品，如Workfront、Adobe Experience Manager和Adobe Experience Platform，以及Adobe Firefly Services、Acrobat Sign和Adobe Stock等产品。 [您使用Adobe Admin Console查找这些产品的许可证配置数据](https://helpx.adobe.com/enterprise/using/assignment-reports.html)。
 
 1. 选择是按月还是按年汇总报表。
 1. 选择自定义日期范围或从预设选项中进行选择。 您可以选取从2020年6月18日开始一直到前一天的任何开始日期，只要该日期不早于合同开始日期。
