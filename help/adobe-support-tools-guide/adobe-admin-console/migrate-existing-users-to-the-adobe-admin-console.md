@@ -24,9 +24,9 @@ ht-degree: 0%
 
 要帮助避免最终用户产品访问中断，请在现有VIP订阅期限结束之前在Adobe Admin Console中分配许可证。
 
-* 对于ETLA客户，允许至少30天的产品重叠。 在周年日期之前完成迁移，以便用户保留对Adobe应用程序和服务的访问权限。 有关ETLA合同到期详细信息，请参阅[ETLA合同的自动到期阶段](https://helpx.adobe.com/enterprise/using/contract-expiry.html)。
+* 对于ETLA客户，允许至少30天的产品重叠。 在周年日期之前完成迁移，以便用户保留对Adobe应用程序和服务的访问权限。 有关ETLA合同到期详细信息，请参阅[ETLA合同的自动到期阶段](https://helpx.adobe.com/cn/enterprise/using/contract-expiry.html)。
 * 对于VIP客户，请在周年日期之前购买许可证，并在您当前VIP期限的续订窗口关闭之前分配许可证。
-* CLP或TLP客户可以使用[许可](https://helpx.adobe.com/enterprise/using/licensing.html)中的迁移说明从序列化Acrobat或Creative Suite迁移到命名用户许可证。
+* CLP或TLP客户可以使用[许可](https://helpx.adobe.com/cn/enterprise/using/licensing.html)中的迁移说明从序列化Acrobat或Creative Suite迁移到命名用户许可证。
 
 >[!NOTE]
 >
@@ -74,9 +74,9 @@ Adobe处理您的企业采购订单后，您会收到一封包含相关说明的
 
    ![许可证分配确认](assets/migrate-license-assignment.png)
 
-在Admin Console中下载[结果报告](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355)以确认已分配所有许可证。 如果您在确认电子邮件中的日期之前完成，最终用户将不会遇到服务中断。
+在Admin Console中下载[结果报告](https://helpx.adobe.com/cn/enterprise/using/users.html#main-pars_header_1346350355)以确认已分配所有许可证。 如果您在确认电子邮件中的日期之前完成，最终用户将不会遇到服务中断。
 
-安排Adobe入门培训专家（如果没有）的1:1入门培训通话，了解有关Admin Console的更多信息，包括[管理角色](https://helpx.adobe.com/enterprise/using/admin-roles.html)和[身份](https://helpx.adobe.com/cn/enterprise/using/identity.html)。
+安排Adobe入门培训专家（如果没有）的1:1入门培训通话，了解有关Admin Console的更多信息，包括[管理角色](https://helpx.adobe.com/cn/enterprise/using/admin-roles.html)和[身份](https://helpx.adobe.com/cn/enterprise/using/identity.html)。
 
 >[!NOTE]
 >
@@ -95,12 +95,12 @@ Adobe处理您的企业采购订单后，您会收到一封包含相关说明的
 
    ![通过CSV编辑用户](assets/migrate-edit-users-by-csv.png)
 
-   有关下载文件中的字段说明，请参阅[CSV文件格式](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header)。
+   有关下载文件中的字段说明，请参阅[CSV文件格式](https://helpx.adobe.com/cn/enterprise/using/users.html#main-pars_header)。
 4. 将许可证分配添加到CSV，然后将更新的文件拖到&#x200B;**[!UICONTROL 通过CSV编辑用户]**&#x200B;对话框中，然后单击&#x200B;**[!UICONTROL 上传]**。 操作完成后，您将收到一封电子邮件。
 
    ![用户编辑完成](assets/migrate-user-edit-complete.png)
 
-下载[结果报表](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355)以验证分配。 然后，安排与Adobe入门培训专家一起上线以了解[管理角色](https://helpx.adobe.com/enterprise/using/admin-roles.html)和[身份](https://helpx.adobe.com/cn/enterprise/using/identity.html)。
+下载[结果报表](https://helpx.adobe.com/cn/enterprise/using/users.html#main-pars_header_1346350355)以验证分配。 然后，安排与Adobe入门培训专家一起上线以了解[管理角色](https://helpx.adobe.com/cn/enterprise/using/admin-roles.html)和[身份](https://helpx.adobe.com/cn/enterprise/using/identity.html)。
 
 ## 批量许可证分配（VIP到ETLA）
 
@@ -119,9 +119,9 @@ Adobe处理您的企业采购订单后，您会收到一封包含相关说明的
 
 在VIP迁移到ETLA后添加了![个用户](assets/migrate-users-added-vip-etla.png)
 
-下载[结果报表](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355)以验证分配。 安排Adobe入门培训专家为[管理员角色](https://helpx.adobe.com/enterprise/using/admin-roles.html)和[身份](https://helpx.adobe.com/cn/enterprise/using/identity.html)上线。
+下载[结果报表](https://helpx.adobe.com/cn/enterprise/using/users.html#main-pars_header_1346350355)以验证分配。 安排Adobe入门培训专家为[管理员角色](https://helpx.adobe.com/cn/enterprise/using/admin-roles.html)和[身份](https://helpx.adobe.com/cn/enterprise/using/identity.html)上线。
 
-有关批量上传问题，请参阅[批量用户上传疑难解答](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html)。
+有关批量上传问题，请参阅[批量用户上传疑难解答](https://helpx.adobe.com/cn/enterprise/kb/troubleshoot-bulk-user-csv-upload.html)。
 
 ## 批量许可证分配（ETLA到VIP）
 
@@ -143,6 +143,6 @@ Adobe处理您的企业采购订单后，您会收到一封包含相关说明的
 
 在ETLA迁移到VIP后添加了![个用户](assets/migrate-users-added-etla-vip.png)
 
-下载[结果报表](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355)以验证分配。 安排Adobe入门培训专家为[管理员角色](https://helpx.adobe.com/enterprise/using/admin-roles.html)和[身份](https://helpx.adobe.com/cn/enterprise/using/identity.html)上线。
+下载[结果报表](https://helpx.adobe.com/cn/enterprise/using/users.html#main-pars_header_1346350355)以验证分配。 安排Adobe入门培训专家为[管理员角色](https://helpx.adobe.com/cn/enterprise/using/admin-roles.html)和[身份](https://helpx.adobe.com/cn/enterprise/using/identity.html)上线。
 
-有关批量上传问题，请参阅[批量用户上传疑难解答](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html)。
+有关批量上传问题，请参阅[批量用户上传疑难解答](https://helpx.adobe.com/cn/enterprise/kb/troubleshoot-bulk-user-csv-upload.html)。

@@ -27,7 +27,7 @@ ht-degree: 0%
 您可以将受信任的公共IP添加到&#x200B;**允许的IP地址**&#x200B;列表，以阻止用户：
 
 - 从位于允许的IP范围之外的公共IP访问产品
-- 从允许IP范围外的公共IP登录到Adobe [用户配置文件](https://helpx.adobe.com/enterprise/using/manage-adobe-profiles.html)
+- 从允许IP范围外的公共IP登录到Adobe [用户配置文件](https://helpx.adobe.com/cn/enterprise/using/manage-adobe-profiles.html)
 - 在允许的IP范围之外切换Web应用程序上的用户配置文件
 
   ![导出组织结构](./assets/ip-based-access.avif)
@@ -64,9 +64,9 @@ ht-degree: 0%
 >[!NOTE]
 >
 >- 启用基于IP的访问时，**不会发生强制注销**。 只有在用户登录或在Web上切换配置文件时尝试选择受限配置文件时，用户才会受到影响。
->- 如果您使用安全的Web网关，请确保所有流量都通过该网关路由。 查看[域列表，以便Adobe应用和服务能够正常工作](https://helpx.adobe.com/enterprise/kb/network-endpoints.html)。
->- 如果您由于输入的IP地址无效而被锁定在Admin Console之外，请联系[Adobe客户关怀团队](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)。
+>- 如果您使用安全的Web网关，请确保所有流量都通过该网关路由。 查看[域列表，以便Adobe应用和服务能够正常工作](https://helpx.adobe.com/cn/enterprise/kb/network-endpoints.html)。
+>- 如果您由于输入的IP地址无效而被锁定在Admin Console之外，请联系[Adobe客户关怀团队](https://helpx.adobe.com/cn/enterprise/using/support-for-enterprise.html)。
 
 ## 加入对话
 
-若要进行协作、提问并与其他管理员聊天，请访问我们的[企业和Teams社区](https://www.adobe.com/go/entcom)。
+若要进行协作、提问并与其他管理员聊天，请访问我们的[企业和Teams社区](https://www.adobe.com/go/entcom_cn)。
