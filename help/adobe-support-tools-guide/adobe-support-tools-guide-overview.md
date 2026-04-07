@@ -1,38 +1,22 @@
 ---
 title: Adobe支持和工具指南概述
-description: Adobe支持和工具指南 — 您关于Experience League中的案例管理、支持权利和支持工具的中心资源。
+description: Adobe支持和工具指南 — 您关于Experience League中的案例管理、支持权利、Adobe Admin Console任务和产品特定支持的中心资源。
 exl-id: 8a2832e8-d3c0-465c-b32e-52b3f0ac13d4
-source-git-commit: e6379bd22238091d6f6d26d2aa3e515ce7c61e5a
+source-git-commit: 79e4ed1377583719d547d262255a15becce730ba
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 6%
+source-wordcount: '215'
+ht-degree: 0%
 
 ---
 
 # Adobe支持和工具指南概述
 
-**Adobe支持和工具指南**&#x200B;是您用于浏览Adobe Digital Experience支持的中心资源。 它汇集了案例管理、支持权利和工具功能，可帮助您高效地解决问题。
+**Adobe支持和工具指南**&#x200B;可帮助您在一个位置使用Adobe Digital Experience支持。 它支持Adobe向&#x200B;**Experience League**&#x200B;的转变，让授权客户能够打开并跟踪案例，跨产品使用一致的历史记录，以及通过协议中包含的渠道访问Adobe。
 
-## 本指南包含哪些内容？
+本指南还介绍了&#x200B;**[!UICONTROL 支持管理员]**&#x200B;以及&#x200B;**Adobe Admin Console**&#x200B;中的相关设置如何影响可以联系支持人员的用户，以及在需要更深入的步骤或策略时如何影响以产品为中心的文章。 使用本指南的目录可打开指南级别的主题（例如，Experience League中的客户支持体验、支持权利配置、首选支持电话号码和Experience League支持发行说明）。
 
-| **文档** | **描述** | **上次更新时间** |
-|---------------------------|-----------------|------------------|
-| [Adobe客户支持体验](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience) | 大致了解客户如何在Adobe支持中导航、管理案例并从AI辅助推荐中受益。 | 2026年1月27日 |
-| [Adobe客户支持权利](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-entitlement-configuration) | 了解Adobe客户如何配置支持权利以启用案例提交。 | 2026年1月22日 |
-| [指定首选支持电话号码](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/phone-numbers) | 访问特定于区域的Adobe支持联系信息，以快速获得适当的帮助。 | 2025年12月21日 |
-| [管理角色](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-roles) | 查看与其他Adobe支持管理角色关联的权限和职责。 | 2026年1月6日 |
-| [Adobe商业平台和Admin Console常见问题解答](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/workfront/faq) | 查找与Workfront相关的常见支持和疑难解答问题的答案。 | 2026年1月5日 |
-| [如何请求云基础架构扩展上的临时Adobe Commerce](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize) | 了解如何请求临时增加Adobe Commerce的云基础架构容量。 | 2026年1月7日 |
-| [Adobe Commerce P1通知热线](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-p1-notification-hotline) | 了解P1事件在Adobe Commerce中的上报和通报紧急程度。 | 2026年1月7日 |
-| [Adobe支持客户数据访问和隐私](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-support-customer-data-access-and-privacy) | 探索Adobe如何管理客户数据访问、隐私控制和安全治理。 | 2026年1月12日 |
-| [Adobe Commerce支持票证生命周期策略更新](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/magento-support-ticket-lifecycle-policy-update) | 了解Adobe Commerce支持票证生命周期的不同方案。 | 2026年1月19日 |
-| [在Cloud Pro基础架构上监控Adobe Commerce的情况说明书](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/monitoring-whitepaper) | 了解Adobe Commerce基础架构监控和通知。 | 2026年1月27日 |
-| [Adobe Commerce软件终止支持常见问题解答](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-eos-policy-faq) | 了解Adobe Commerce已发布的终止支持(EOS)日期对受影响的Adobe Commerce版本的影响。 | 2026年1月25日 |
-| [Adobe Commerce支持票证&#x200B;**[!UICONTROL 问题原因]**&#x200B;描述](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions) | 了解在创建Adobe Commerce支持票证时&#x200B;**[!UICONTROL 问题原因]**&#x200B;字段的可用选项。 | 2026年1月27日 |
-| [Adobe Commerce支持工具概览](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/support-tools-overview) | 探索各种Adobe Commerce支持工具，帮助优化电子商务商店体验。 | 2026年1月26日 |
-| 适用于Adobe Commerce的[Experience League支持用户指南](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide) | Adobe Experience League支持Commerce指南：登录，打开和管理案例，选择组织/产品，跟踪和上报票证，添加关注者以及处理共享访问。 包括有关帮助中心迁移和计费/支持范围的说明。 | 2026年2月9日 |
-| [如何在支持通知中包含团队成员](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/how-to-include-a-team-member-in-support-notifications) | 解释如何让团队成员通过电子邮件通知自动接收支持更新。 | 2026年2月7日 |
-| [云基础架构沙盒请求上的Adobe Commerce合作伙伴](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests) | 包含指向云基础架构沙盒请求中Adobe Commerce的有用资源的链接。 | 2026年2月5日 |
-| [无法将用户添加到 Adobe Commerce 云项目](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project) | 包含用于解决将用户添加到Adobe Commerce on Cloud项目中的&#x200B;*用户不存在*&#x200B;错误的步骤和链接。 | 2026年3月2日 |
-| [Adobe Commerce的MySQL支持终止通知和数据库兼容性指南](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md) | 了解支持的Adobe Commerce版本的MySQL终止支持(EOS)和数据库兼容性。 | 2026年3月10日 |
-| [如何应用Adobe提供的编辑器修补程序](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md) | 本文指示如何对Adobe Commerce内部部署、Adobe Commerce on cloud infrastructure和Magento Open Source应用编辑器修补程序。 | 2026年3月20日 |
+本指南的主要部分：
+
+- **[Adobe Admin Console](adobe-admin-console/admin-console-overview.md)** — 组织和Global Admin Console的管理：角色、用户、产品、策略、报表和相关任务。
+- **[Adobe Commerce支持](adobe-commerce-support/adobe-commerce-support-overview.md)** — Experience League中的Commerce支持，以及有关工具、云操作、安全和修补、票证实践、隐私和平台生命周期的文章。
+- **[Adobe Workfront支持](faq.md)** — Workfront上下文中Adobe业务平台和Admin Console的常见问题解答。

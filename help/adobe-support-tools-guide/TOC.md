@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 495afde702c6c20c567ac812a2b17a02dbd58232
+source-git-commit: 00c7788ac17cf2de2f09867ae68c7cd351b80776
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '307'
 ht-degree: 1%
 
 ---
@@ -44,6 +44,7 @@ ht-degree: 1%
 - Adobe Workfront支持 {#workfront}
    - [常见问题](faq.md)
 - Adobe Commerce支持 {#adobe-commerce-support}
+   - [Adobe Commerce支持概述](adobe-commerce-support/adobe-commerce-support-overview.md)
    - [Adobe Commerce的MySQL支持终止通知和数据库兼容性指南](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
    - [如何获取和应用安全修补程序](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [如何请求云基础架构扩展中的临时Adobe Commerce](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
