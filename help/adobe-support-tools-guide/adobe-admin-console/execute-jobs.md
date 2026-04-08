@@ -1,8 +1,11 @@
 ---
 title: 执行挂起的作业
 description: 了解如何在Adobe Admin Console中执行待处理作业，以确保所有更改都应用于您的组织。
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
-source-git-commit: 9085108231aaa46d8417d346686c211ea48f6b81
+source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 0%
@@ -18,7 +21,7 @@ ht-degree: 0%
    1. **编辑阶段**：对组织进行更改或分配产品。
    2. **执行阶段**：审阅并执行挂起的更改，以使它们生效。
 
-- 若要确保在[[!DNL Global Admin Console]](https://helpx.adobe.com/cn/enterprise/global-admin-console/adopt-global-administration.html)中所做的所有更改均已实施并生效，请选择&#x200B;**[!UICONTROL 作业执行]**&#x200B;选项卡，然后继续执行挂起的更改。
+- 若要确保在[[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)中所做的所有更改均已实施并生效，请选择&#x200B;**[!UICONTROL 作业执行]**&#x200B;选项卡，然后继续执行挂起的更改。
 
   登录到[[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)。
 
@@ -31,7 +34,7 @@ ht-degree: 0%
    - 将在30天后丢弃。
    - 会话结束时（例如关闭浏览器选项卡或窗口）会被清除。
 
-&#x200B;> [!NOTE]
+> [!NOTE]
 >
 > 迅速执行重要更改以确保成功应用它们。
 
@@ -67,7 +70,7 @@ ht-degree: 0%
 - 作业运行时，状态为&#x200B;**[!UICONTROL 挂起]**。
 - Adobe建议一次只执行一个作业，以实现可预测性和更轻松的故障排除。
 
-&#x200B;> [!IMPORTANT]
+> [!IMPORTANT]
 >
 > 如果在执行过程中发生错误，则必须重新输入并重新提交任何未成功应用的更改。
 
@@ -96,7 +99,7 @@ ht-degree: 0%
 3. 某些步骤可能需要几分钟或几小时才能完成。
 4. 在此期间，作业可能处于&#x200B;**[!UICONTROL 正在取消]**&#x200B;状态。
 
-&#x200B;> [!NOTE]
+> [!NOTE]
 >
 > 计划取消，并了解当前步骤的完成可能会在作业停止时显着延迟。
 
@@ -113,6 +116,6 @@ ht-degree: 0%
    - 已提交&#x200B;**作业命令**。
    - 与执行关联的&#x200B;**错误**&#x200B;和&#x200B;**警告**。
 
-&#x200B;> [!NOTE]
+> [!NOTE]
 >
 > 后续重命名或删除相关对象&#x200B;**不会影响**&#x200B;命令在作业历史记录中的显示方式。 历史记录反映提交时的状态。
