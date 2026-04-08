@@ -2,13 +2,13 @@
 title: Experience League支持发行说明
 description: 有关Experience League支持的最新发行信息。
 feature: Release Notes
-source-git-commit: 25bfd2450594c3fbb361cb80fe16e1a438f73b89
+exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
+source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '489'
 ht-degree: 2%
 
 ---
-
 
 # Experience League支持发行说明
 
@@ -17,6 +17,10 @@ ht-degree: 2%
 ![新](../adobe-support-tools-guide/assets/new.svg)新功能
 ![修复](../adobe-support-tools-guide/assets/fix.svg)修复和改进
 ![错误](../adobe-support-tools-guide/assets/bug.svg)已知问题
+
+## 2026年4月9日 — 扩展“请求回调”功能
+
+Marketo产品用户现在可以使用“请求回调”功能。
 
 ## 2026年3月30日 — 增强型案例表单
 
@@ -78,6 +82,7 @@ ht-degree: 2%
 ## 2026年3月18日 — 扩展“请求回调”功能
 
 Experience League现在提供了一个“请求回调”选项，通过屏幕共享功能启用自助服务Web会议时间安排，以便更快地解决问题。
+
 - 此功能适用于Adobe Experience Manager、Campaign和Workfront。
 - 客户可以在方便的时候安排会议，并接收即时邀请。
 - 对于Adobe Experience Manager P1案例，即时回调确保在关键问题期间更快地参与，从而帮助将停机时间和对业务的影响降至最低。
