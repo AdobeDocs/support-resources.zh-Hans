@@ -5,7 +5,7 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 2dfe1f68-9b93-47cd-8030-ac9e113b66b2
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 427a4498448adc3e1160e3638076f62c99670a9b
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 键盘支持
 
-Admin Console上的大多数交互式内容仅使用键盘即可导航和操作。 例如，您可以将&#x200B;**[!UICONTROL Tab]**&#x200B;或&#x200B;**[!UICONTROL Shift]** + **[!UICONTROL Tab]**&#x200B;用于导航和控制。 导航到正确的链接或按钮后，按&#x200B;**[!UICONTROL Enter]**&#x200B;或&#x200B;**[!UICONTROL Return]**&#x200B;键将其选定。 仍可能会存在一些例外，如[无障碍合规性报告](https://www.adobe.com/accessibility/compliance.html)中所述（_仅英文_）。
+Admin Console上的大多数交互式内容仅使用键盘即可导航和操作。 例如，您可以将&#x200B;**[!UICONTROL Tab]**&#x200B;或&#x200B;**[!UICONTROL Shift]** + **[!UICONTROL Tab]**&#x200B;用于导航和控制。 导航到正确的链接或按钮后，按&#x200B;**[!UICONTROL Enter]**&#x200B;或&#x200B;**[!UICONTROL Return]**&#x200B;键将其选定。 仍可能会存在一些例外，如[无障碍合规性报告](https://www.adobe.com/accessibility/compliance.html)中所述（*仅英文*）。
 
 ## 辅助技术支持
 
