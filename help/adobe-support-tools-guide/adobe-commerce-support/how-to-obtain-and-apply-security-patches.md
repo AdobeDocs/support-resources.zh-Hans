@@ -1,9 +1,10 @@
 ---
 title: 如何获取和应用[!UICONTROL 安全修补程序]
 description: 本文提供了有关如何获取和应用已发布的[!UICONTROL 安全修补程序]的说明，但相关说明不可用。
-source-git-commit: 93ee9bd110930e244befca682fadd3edc24d138a
+exl-id: 6764d60e-5088-4a85-90fa-4372570b065b
+source-git-commit: eee15976f3dd402e84774ec5b769d952259c8dff
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -24,12 +25,18 @@ Adobe Commerce内部部署和云基础架构 — 所有受支持的版本
 
 发布的大多数[!UICONTROL 安全修补程序]没有应用任何隔离的修补程序或修补程序，因此需要升级到[!UICONTROL 安全修补程序]版本。
 
+对于Adobe Commerce安全公告，只有在公告版本中明确发布/提及Adobe时，它才会提供单独的物理修补程序/修补程序文件。 如果公告不包含（或引用）独立的修补程序/修补程序包，则无法在事后生成并提供一个修补程序/修补程序包。
+
+这是因为安全修复程序是作为受支持的安全版本（例如，补丁版本）的一部分一起开发、测试和提供的，并且它们不能完全分离/分离到单独的CVE补丁文件中，而不会冒覆盖范围不完整或回退的风险。
+
+支持的修正路径仍为版本行应用官方安全更新（或升级到包含修复的版本）。
+
 ## 解决方案
 
 
 ### 案例一：
 
-* 如果[发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/release-notes/cloud-tools-suite)中提到独立的修补程序文件/修补程序，请从[https://account.magento.com](https://account.magento.com/downloads/view/)的下载部分下载该文件。 共享访问用户必须首先由帐户所有者/许可证持有人授予下载权限。
+* 如果[发行说明](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/release-notes/cloud-tools-suite)中提到独立的修补程序文件/修补程序，请从[https://account.magento.com](https://account.magento.com/downloads/view/)的下载部分下载该文件。 共享访问用户必须首先由帐户所有者/许可证持有人授予下载权限。
 
 **注意事项：**
 
@@ -49,15 +56,15 @@ Adobe Commerce内部部署和云基础架构 — 所有受支持的版本
 
 * **云：**
 
-1. 某些[!UICONTROL 安全修补程序]可能包含在最新版本的Cloud Tools Suite (ECE Tools)中，发布在Commerce的Cloud Patches下 — 请查看[发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite)，如果发行版中提到安全修补程序，请将包升级到该版本。
+1. 某些[!UICONTROL 安全修补程序]可能包含在最新版本的Cloud Tools Suite (ECE Tools)中，发布在Commerce的Cloud Patches下 — 请查看[发行说明](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite)，如果发行版中提到安全修补程序，请将包升级到该版本。
 1. 如果发行说明未提及安全修复，请继续阅读。
 
 * **云基础架构或内部部署：**
 
-* 如果隔离的修补程序文件/修补程序不可用，请[将云基础架构上的Adobe Commerce版本](https://experienceleague.adobe.com/zh-hans/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version) 2.4.X升级到最新的修补程序版本2.4.X-pY。
-* 如果隔离的修补程序文件/修补程序不可用，请[将Adobe Commerce版本On-Premise](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/upgrade-guide/implementation/perform-upgrade) 2.4.X升级到最新的修补程序版本2.4.X-pY。
+* 如果隔离的修补程序文件/修补程序不可用，请[将云基础架构上的Adobe Commerce版本](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version) 2.4.X升级到最新的修补程序版本2.4.X-pY。
+* 如果隔离的修补程序文件/修补程序不可用，请[将Adobe Commerce版本On-Premise](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/implementation/perform-upgrade) 2.4.X升级到最新的修补程序版本2.4.X-pY。
 
 ## 相关阅读
 
-* 请参阅《Commerce Cloud基础架构上的Adobe Commerce指南》[中的](https://experienceleague.adobe.com/zh-hans/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite)Cloud Tools Suite *发行说明*。
-* 请参阅[Adobe Commerce Infrastructure指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version)中的&#x200B;*升级Adobe Commerce版本*。
+* 请参阅《Commerce Cloud基础架构上的Adobe Commerce指南》[中的](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite)Cloud Tools Suite *发行说明*。
+* 请参阅[Adobe Commerce Infrastructure指南](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version)中的&#x200B;*升级Adobe Commerce版本*。
