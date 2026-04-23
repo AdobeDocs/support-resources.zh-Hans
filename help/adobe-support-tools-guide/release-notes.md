@@ -3,9 +3,9 @@ title: Experience League支持发行说明
 description: 有关Experience League支持的最新发行信息。
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 7d0f54c6a5d43fc9155a7d17fca2eefa3238179e
+source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '514'
 ht-degree: 2%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 2%
 ![新](../adobe-support-tools-guide/assets/new.svg)新功能
 ![修复](../adobe-support-tools-guide/assets/fix.svg)修复和改进
 ![错误](../adobe-support-tools-guide/assets/bug.svg)已知问题
+
+## 2026年4月23日 — 扩展“请求回调”功能
+
+Analytics、Admin Console、Audience Manager和Target产品用户现在可以使用“请求回调”功能。
 
 ## 2026年4月8日 — 扩展“请求回调”功能
 

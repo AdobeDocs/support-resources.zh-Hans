@@ -4,9 +4,9 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: Adobe客户支持体验
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
+source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
 workflow-type: tm+mt
-source-wordcount: '1432'
+source-wordcount: '1438'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ Experience League是一个自助服务支持门户，旨在为授权客户提供
 
 1. 通过&#x200B;**[!UICONTROL 主页]**&#x200B;菜单，您可以&#x200B;**[!UICONTROL 打开支持票证]**、**[!UICONTROL 查看和管理您的案例]**、**[!UICONTROL 请求回调]**&#x200B;或访问其他学习资源。
 
-   通过&#x200B;**[!UICONTROL 请求回调]**&#x200B;选项，您可以安排使用屏幕共享的Web会议，从而更快更高效地解决问题。 它适用于Adobe Experience Manager、Campaign、Marketo和Workfront。 会议可以在客户方便时安排，并提供即时邀请。 对于Adobe Experience Manager P1案例，可以确保即时回调，以便在关键问题期间快速参与，从而帮助将停机时间和对业务的影响降至最低。
+   通过&#x200B;**[!UICONTROL 请求回调]**&#x200B;选项，您可以安排使用屏幕共享的Web会议，从而更快更高效地解决问题。 它适用于Adobe Experience Manager、Admin Console、Analytics、Audience Manager、Campaign、Marketo、Target和Workfront。 会议可以在客户方便时安排，并提供即时邀请。 对于Adobe Experience Manager P1案例，可以确保即时回调，以便在关键问题期间快速参与，从而帮助将停机时间和对业务的影响降至最低。
 
    ![Experience League主菜单](./assets/home-menu.png)
 
