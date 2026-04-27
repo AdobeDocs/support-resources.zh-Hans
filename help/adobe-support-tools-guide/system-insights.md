@@ -1,9 +1,9 @@
 ---
 title: 系统分析
 description: 系统分析可主动识别Adobe Commerce环境中的潜在问题。 在案例创建期间查看见解可减少解决时间，有助于防止中断，并支持稳定而安全的部署。
-source-git-commit: 4172c364c9bfffaae13759da882d03daa15d0754
+source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '738'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Adobe团队持续分析常见的支持问题和新趋势。 Adobe会根据这些
 
 系统分析当前仅适用于Adobe Commerce。 这些见解显示在Experience League支持的案例创建过程中，并可通过[站点范围分析工具(SWAT)](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/site-wide-analysis-tool/intro)获得。
 
-> [ !N注意]
+>[ !N注意]
 >
 >系统分析仅显示生产环境的数据。
 

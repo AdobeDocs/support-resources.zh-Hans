@@ -1,9 +1,9 @@
 ---
 title: 上报管理
 description: 上报管理在Experience League支持中提供了自助服务选项，用于查看案例摘要、请求回调、安排故障排除会话、更新案例紧急情况和管理支持上报。
-source-git-commit: aac3642cab7b1dc0bba8ba8fef28d6dff25398fb
+source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
 workflow-type: tm+mt
-source-wordcount: '1152'
+source-wordcount: '1148'
 ht-degree: 1%
 
 ---
@@ -144,13 +144,13 @@ ht-degree: 1%
 1. 此时将显示一个内联文本字段。 在现场，请清楚地说明哪些内容发生了变化，以及现在需要立即关注问题的原因。
 1. 单击&#x200B;**[!UICONTROL 更新问题紧急情况]**&#x200B;提交请求，或单击&#x200B;**[!UICONTROL 取消]**&#x200B;退出而不进行更改。
 
-提交请求后，将显示确认屏幕：
+   提交请求后，将显示确认屏幕：
 
-- 选定的产品
-- 优先级
-- 案例ID
+   - 选定的产品
+   - 优先级
+   - 案例ID
 
-单击&#x200B;**[!UICONTROL 返回表单]**&#x200B;以返回案例。
+1. 单击&#x200B;**[!UICONTROL 返回表单]**&#x200B;以返回案例。
 
 ### 我有一个问题未列出
 
@@ -170,10 +170,10 @@ ht-degree: 1%
 1. 在自由文本字段中，提供有关Escalation的其他上下文。
 1. 单击&#x200B;**[!UICONTROL 呈报案例]**&#x200B;提交呈报，或单击&#x200B;**[!UICONTROL 取消]**&#x200B;退出而不提交。
 
-提交Escalation后，将显示确认屏幕：
+   提交Escalation后，将显示确认屏幕：
 
-- 选定的产品
-- 优先级
-- 案例ID
+   - 选定的产品
+   - 优先级
+   - 案例ID
 
-单击&#x200B;**[!UICONTROL 返回表单]**&#x200B;以返回案例。
+1. 单击&#x200B;**[!UICONTROL 返回表单]**&#x200B;以返回案例。
