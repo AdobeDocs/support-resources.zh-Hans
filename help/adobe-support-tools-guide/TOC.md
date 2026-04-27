@@ -16,7 +16,7 @@ ht-degree: 2%
 # Adobe支持和工具指南 {#adobe-support-tools-guide}
 
 - [Adobe支持和工具指南概述](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
-- [Experience League支持发行说明](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/release-notes)
+- [Experience League支持发行说明](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/release-notes)
 - [Adobe客户支持体验](adobe-customer-support-experience.md)
 - [Adobe客户支持权利配置](adobe-customer-support-entitlement-configuration.md)
 - [支持电话号码更新](phone-numbers.md)
