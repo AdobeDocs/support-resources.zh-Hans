@@ -163,10 +163,10 @@ ht-degree: 1%
    - **[!UICONTROL 为什么要升级此案例？]**
    - **[!UICONTROL 我们可以更好地为您提供详细信息。]**
 1. 在下拉列表中，选择提升原因：
-   - [UICONTROL解决时间]
-   - [UICONTROL分辨率未达到预期]
-   - [UICONTROL代理通讯技能]
-   - [UICONTROL代理技术知识]
+   - [!UICONTROL 解决时间]
+   - [!UICONTROL 分辨率未达到预期]
+   - [!UICONTROL 代理通讯技能]
+   - [!UICONTROL 代理技术知识]
 1. 在自由文本字段中，提供有关Escalation的其他上下文。
 1. 单击&#x200B;**[!UICONTROL 呈报案例]**&#x200B;提交呈报，或单击&#x200B;**[!UICONTROL 取消]**&#x200B;退出而不提交。
 

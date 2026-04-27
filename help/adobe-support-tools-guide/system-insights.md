@@ -34,7 +34,7 @@ Adobe团队持续分析常见的支持问题和新趋势。 Adobe会根据这些
 
 系统分析当前仅适用于Adobe Commerce。 这些见解显示在Experience League支持的案例创建过程中，并可通过[站点范围分析工具(SWAT)](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro)获得。
 
-> [!N注意]
+> [ !N注意]
 >
 >系统分析仅显示生产环境的数据。
 
@@ -56,9 +56,9 @@ Adobe团队持续分析常见的支持问题和新趋势。 Adobe会根据这些
 - insight名称
 - 标记insight的Adobe产品
 - insight类型，分类为：
-   - [UICONTROL功能]
-   - [UICONTROL性能]
-   - [UICONTROL安全性]
+   - [!UICONTROL 功能]
+   - [!UICONTROL 性能]
+   - [!UICONTROL 安全性]
 - [!UICONTROL 风险级别]表示严重程度
 - [!UICONTROL 上次检查运行]指示何时检测到调查结果。
 - [!UICONTROL Insight Source]，由站点范围分析工具(SWAT)提供
