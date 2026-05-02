@@ -5,9 +5,9 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: 4f8b8e20e9edab31b2db3c90087acc4feccc3537
+source-git-commit: f0cf10d8d97b8e2c2925999061c115f6a5d3c81e
 workflow-type: tm+mt
-source-wordcount: '3310'
+source-wordcount: '3618'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    * [Adobe Experience League起始页](#experience-league-start-page)
    * [Adobe Commerce帐户页面](#submit-case-adobe-commerce-account-page)
-   * [*请验证您的电子邮件地址*](#verify-email-address-error)
+   * [*请在Adobe Commerce帐户页面上验证您的电子邮件地址*&#x200B;错误](#verify-email-address-error)
 
 * [跟踪您的支持案例](#track-support-cases)
 * [您案例中的备注](#comments-in-your-case)
@@ -104,8 +104,8 @@ Adobe Experience League支持案例管理允许通过案例与支持人员合作
 
 >[!INFO]
 >
->1. 要提交案例，您必须有权支持相应的产品(例如，Adobe Commerce、Adobe Commerce Intelligence、Adobe Commerce支付服务、Experience Platform等)。 如果您无权获得支持，页面顶部将显示一个栏，告知您您您不是组织中有权获得支持的用户。
->1. 如果您属于多个组织，或者有多个组织具有相似的名称(每个组织都表示该组织订阅的任何其他Adobe产品)，则需要首先从左列（以&#x200B;*[!DNL (Commerce)]*&#x200B;结尾）的下拉菜单中选择相应的组织。
+>1. 要提交案例，您必须有权支持相应的产品（例如，Adobe Commerce、Adobe Commerce Intelligence、Adobe Commerce支付服务、Experience Platform等）。 如果您无权获得支持，页面顶部将显示一个栏，告知您您您不是组织中有权获得支持的用户。
+>1. 如果您属于多个组织，或者有多个组织具有相似的名称（每个组织都表示该组织订阅的任何其他Adobe产品），则需要首先从左列（以&#x200B;*[!DNL (Commerce)]*&#x200B;结尾）的下拉菜单中选择相应的组织。
 >1. 如果在提交案例时&#x200B;**[!UICONTROL 选择产品]**&#x200B;下拉列表为空，则您可能使用Adobe Commerce合作伙伴帐户。 只有具有支持权利商家的[共享访问权限](#shared-access)的用户才能提交票证。 对于商家问题，请求共享访问权限。 有关合作伙伴问题，请联系spphelp@adobe.com。
 
 >[!NOTE]
@@ -116,7 +116,7 @@ Adobe Experience League支持案例管理允许通过案例与支持人员合作
 
 >[!NOTE]
 >
->如果您在云基础架构&#x200B;**[!DNL Commerce]上使用“**”提交票证，并且组织列出了多个项目，则将提示您选择适当的&#x200B;**[!UICONTROL 项目ID]**。 如果您找不到所需的&#x200B;**[!UICONTROL 项目ID]**，请确保在票证上添加一条注释，指明您正在为其他“项目X”寻求帮助。<br>如果您打算在Managed Services **[!DNL Commerce]”票证上提交“**”，并且在&#x200B;**[!DNL Commerce]上云基础架构**，但在云基础架构&#x200B;**[!DNL Commerce]上看不到**&#x200B;是可用的产品：<br>1。 在&#x200B;**[!UICONTROL 案例标题]**&#x200B;中输入问题的主题。<br>2. 在&#x200B;**[!UICONTROL 案例描述]**&#x200B;中输入问题的描述。<br>3. 输入这两个项目后，将显示下面的&#x200B;**[!UICONTROL 云项目URL]**&#x200B;字段。
+>如果您在云基础架构&#x200B;**上使用“**&#x200B;[!DNL Commerce]”提交票证，并且组织列出了多个项目，则将提示您选择适当的&#x200B;**[!UICONTROL 项目ID]**。 如果您找不到所需的&#x200B;**[!UICONTROL 项目ID]**，请确保在票证上添加一条注释，说明您正在寻求其他“项目X”的帮助。<br>如果您打算在Managed Services **”票证上提交“**&#x200B;[!DNL Commerce]”，并且位于基础架构的&#x200B;**[!DNL Commerce]上**，但是没有在云基础架构上将&#x200B;**[!DNL Commerce]显示为可用产品：<br>1。**&#x200B;在&#x200B;**&#x200B;[!UICONTROL 案例标题]**.<br>2中输入问题的主题。 在&#x200B;**[!UICONTROL 案例描述]**.<br>3中输入问题的描述。 输入这两个项目后，将显示下面的&#x200B;**[!UICONTROL 云项目URL]**&#x200B;字段。
 
 >[!IMPORTANT]
 >
@@ -186,7 +186,7 @@ Adobe Experience League支持案例管理允许通过案例与支持人员合作
 
 #### *请在Adobe Commerce帐户页面上验证您的电子邮件地址*&#x200B;错误 {#verify-email-address-error}
 
-如果您收到“请验证您的电子邮件地址”错误(类似于[Adobe Commerce帐户](https://account.magento.com/)页面上的以下错误)，您将无法提交支持票证。
+如果您收到“请验证您的电子邮件地址”错误（类似于[Adobe Commerce帐户](https://account.magento.com/)页面上的以下错误），您将无法提交支持票证。
 
 ![验证电子邮件地址错误](/help/adobe-support-tools-guide/assets/Verify_Email_Address_Error.png)
 
@@ -209,13 +209,9 @@ Adobe Experience League支持案例管理允许通过案例与支持人员合作
 
 ![查看支持案例](/help/adobe-support-tools-guide/assets/view_support_cases.png)
 
-#### 从Adobe Commerce帮助中心查看历史案例
-
-详细了解如何从Adobe Commerce知识库的&#x200B;**停用Adobe Commerce帮助中心**&#x200B;中的Adobe Commerce帮助中心[查看您的历史案例](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/announcements/news/decommissioning-of-adobe-commerce-help-center)。
-
 #### 查看您的观察案例
 
-通过单击左侧菜单中的&#x200B;*我的组织的案例*，您可以查看您作为观察者&#x200B;**[!UICONTROL 添加的Commerce案例]**。
+通过单击左侧菜单中的&#x200B;**[!UICONTROL 我的组织的案例]**，您可以查看您作为观察者&#x200B;*添加的Commerce案例*。
 
 <!-- TODO: Add image here -->
 
@@ -230,7 +226,7 @@ Adobe Experience League支持案例管理允许通过案例与支持人员合作
 
 如果您认为某个案例需要进一步关注，并且我们的初始响应时间已过，您可以升级该案例。 要做到这一点，
 
-1. 单击屏幕右侧&#x200B;**[!UICONTROL 案例详细信息]**&#x200B;面板右下角的&#x200B;*[!UICONTROL 呈报到管理]*。
+1. 单击屏幕右侧&#x200B;*[!UICONTROL 案例详细信息]*&#x200B;面板右下角的&#x200B;**[!UICONTROL 呈报到管理]**。
 
    ![升级至管理](/help/adobe-support-tools-guide/assets/escalate_to_management.png)
 
@@ -268,7 +264,7 @@ Adobe Experience League支持案例管理允许通过案例与支持人员合作
 
 ### 结案 {#close-case}
 
-要关闭案例，请单击&#x200B;**[!UICONTROL 案例详细信息]**&#x200B;面板右下角的&#x200B;*[!UICONTROL 关闭案例]*。
+要关闭案例，请单击&#x200B;*[!UICONTROL 案例详细信息]*&#x200B;面板右下角的&#x200B;**[!UICONTROL 关闭案例]**。
 
 ![close-case](/help/adobe-support-tools-guide/assets/close_case.png)
 
@@ -280,7 +276,7 @@ Adobe Experience League支持案例管理允许通过案例与支持人员合作
 
 >[!NOTE]
 >
->**您只能在案例关闭后的14天内重新打开案例。**&#x200B;如果您已超过案例关闭的14天，但仍想请求有关问题的帮助，则需要打开一个新案例。<br>有关关闭和重新打开案例的详细信息，请参阅[添加和删除观察者、关闭和重新打开票证视频](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)。
+>**您只能在案例关闭后的14天内重新打开案例。** 如果您已超过结案14天，但仍想请求关于问题的帮助，则需要打开新案例。<br>有关关闭和重新打开案例的详细信息，请参阅[添加和删除观察者、关闭和重新打开票证视频](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)。
 
 >[!NOTE]
 >
@@ -346,7 +342,7 @@ Adobe Experience League支持案例管理允许通过案例与支持人员合作
 
 1. 在[https://account.magento.com](https://account.magento.com/)登录到您的Adobe Commerce帐户。
 1. 在左侧面板中的“共享访问”下，选择&#x200B;**管理权限。**
-1. 找到要撤销其共享访问权限的用户，然后单击用户行（![操作](/help/adobe-support-tools-guide/assets/remove_icon.png){width="25"}列）中的&#x200B;**删除图标**。
+1. 找到要撤销其共享访问权限的用户，然后单击用户行（**操作**&#x200B;列）中的![删除图标](/help/adobe-support-tools-guide/assets/remove_icon.png){width="25"}。
 1. 单击&#x200B;**删除用户**&#x200B;以撤销访问权限，或者单击X在顶角取消撤销。
 
    ![revoke_shared_access](/help/adobe-support-tools-guide/assets/revoke_shared_access.png){width="800"}
@@ -367,7 +363,7 @@ Adobe Experience League支持案例管理允许通过案例与支持人员合作
 
 <u>原因</u>
 
-如果您拥有Adobe Commerce Cloud项目并且在该项目中添加了用户，则他们可能已自动获得对项目所有者的图像ID的共享访问权限。 这通常显示在&#x200B;**[!UICONTROL 共享名称]**&#x200B;列中，显示来自MAG *XYZ[的]*&#x200B;云共享访问。
+如果您拥有Adobe Commerce Cloud项目并且在该项目中添加了用户，则他们可能已自动获得对项目所有者的图像ID的共享访问权限。 这通常显示在&#x200B;**[!UICONTROL 共享名称]**&#x200B;列中，显示来自MAG[XYZ ]*的*&#x200B;云共享访问。
 
 >[!NOTE]
 >
@@ -375,13 +371,13 @@ Adobe Experience League支持案例管理允许通过案例与支持人员合作
 
 <u>解决方案</u>
 
-如果未在此页面&#x200B;*上添加/给定[，则无法从MAG]* XYZ[中删除共享名称为](https://account.magento.com/grantor/manage/)Cloud Shared Access的共享访问用户列表。 保留它们是为了提供信息/进行审核。
+如果未在此页面[&#128279;](https://account.magento.com/grantor/manage/)上添加/给定，则无法从MAG[XYZ ]*中删除共享名称为* Cloud Shared Access的共享访问用户列表。 保留它们是为了提供信息/进行审核。
 
 但是，一旦您撤销了这些共享访问用户的权限，他们将不再拥有该访问权限。
 
 1. 在[https://account.magento.com](https://account.magento.com/)登录到您的Adobe Commerce帐户。
 1. 在左侧面板的&#x200B;**[!UICONTROL 共享访问]**&#x200B;下，选择&#x200B;**[!UICONTROL 管理权限]**。
-1. 找到要撤销其共享访问权限的用户，然后单击用户行（**[!UICONTROL 操作]**&#x200B;列）中的&#x200B;*[!UICONTROL 编辑]*。
+1. 找到要撤销其共享访问权限的用户，然后单击用户行（*[!UICONTROL 操作]*&#x200B;列）中的&#x200B;**[!UICONTROL 编辑]**。
 1. 取消选中&#x200B;**[!UICONTROL 授予帐户权限]**&#x200B;下的所有资源。
 1. 为避免对用户是否仍具有&#x200B;**[!UICONTROL 云共享访问权限]**&#x200B;产生任何混淆，您应将&#x200B;**[!UICONTROL 共享名称]**&#x200B;修改为类似于&#x200B;*已撤消的云共享访问权限 — 无法删除*&#x200B;之类的名称。
 
