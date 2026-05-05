@@ -1,7 +1,8 @@
 ---
 title: 系统分析
 description: 系统分析可主动识别Adobe Commerce环境中的潜在问题。 在案例创建期间查看见解可减少解决时间，有助于防止中断，并支持稳定而安全的部署。
-source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
+hide: true
+source-git-commit: f9a38443243d230c76d968ca7a67c4ba29d07a26
 workflow-type: tm+mt
 source-wordcount: '738'
 ht-degree: 0%
