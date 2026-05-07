@@ -1,12 +1,12 @@
 ---
 keywords: Experience Platform支持；平台支持；智能服务支持；客户人工智能支持；归因人工智能支持；rtcdp支持；提交支持工单；客户支持
-title: Adobe Experience Cloud Customer One for Enterprise
+title: Adobe Experience Cloud Customer One企业版
 description: Adobe客户支持体验
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
+source-git-commit: 062166aa0fff76e070826855cba9aa57332baae8
 workflow-type: tm+mt
-source-wordcount: '1438'
+source-wordcount: '1499'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,9 @@ Experience League是一个自助服务支持门户，旨在为授权客户提供
 
 1. 通过&#x200B;**[!UICONTROL 主页]**&#x200B;菜单，您可以&#x200B;**[!UICONTROL 打开支持票证]**、**[!UICONTROL 查看和管理您的案例]**、**[!UICONTROL 请求回调]**&#x200B;或访问其他学习资源。
 
-   通过&#x200B;**[!UICONTROL 请求回调]**&#x200B;选项，您可以安排使用屏幕共享的Web会议，从而更快更高效地解决问题。 它适用于Adobe Experience Manager、Admin Console、Analytics、Audience Manager、Campaign、Marketo、Target和Workfront。 会议可以在客户方便时安排，并提供即时邀请。 对于Adobe Experience Manager P1案例，可以确保即时回调，以便在关键问题期间快速参与，从而帮助将停机时间和对业务的影响降至最低。
+通过&#x200B;**[!UICONTROL 请求回调]**&#x200B;选项，可安排在P2和P3案例中共享屏幕的Web会议，从而更快更高效地解决问题。 它适用于Adobe Experience Manager、Admin Console、Analytics、Audience Manager、Campaign、Commerce、GenStudio、Marketo、Target和Workfront。 会议可以在客户方便时安排。 此外，它还为上述除Adobe Commerce之外的所有产品中的P1案例提供即时电话回调。
 
-   ![Experience League主菜单](./assets/home-menu.png)
+![Experience League主菜单](./assets/home-menu.png)
 
 1. 要提交案例，请选择&#x200B;**[!UICONTROL 打开支持票证]**。 您还可以在侧栏菜单中选择&#x200B;**[!UICONTROL 打开票证]**。
 
