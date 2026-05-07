@@ -3,9 +3,9 @@ title: Experience League支持发行说明
 description: 有关Experience League支持的最新发行信息。
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 26a20998811059cf66d8609c0ae7ac2816df3337
+source-git-commit: eb474379539945e0bbfca35e9f83f1ece61a16b6
 workflow-type: tm+mt
-source-wordcount: '917'
+source-wordcount: '973'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,9 @@ ht-degree: 1%
 ![修复](../adobe-support-tools-guide/assets/fix.svg)修复和改进
 ![错误](../adobe-support-tools-guide/assets/bug.svg)已知问题
 
+## 2026年5月7日 — 扩展“请求回调”功能
+
+Adobe Commerce和Adobe GenStudio现在都可使用“请求回调”功能。 Adobe Commerce客户可以方便地安排在最适合自己的时间回调，而Adobe GenStudio客户可以选择请求立即回调或计划回调。
 
 ## 2026年4月27日 — Adobe Commerce的升级管理和系统分析增强功能
 
