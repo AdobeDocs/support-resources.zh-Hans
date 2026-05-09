@@ -1,21 +1,23 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/support-resources.zh-Hans
 index: true
-source-git-commit: c706a5d2479a8ea81c906277eae68316c1a5c754
+source-git-commit: 21a1a1c18b924fbc2413aa2dbff6232d61ddb0f3
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 100%
+source-wordcount: 71
+ht-degree: 92%
 
 ---
 
 
-# 内部使用的元数据
+# 供内部使用的元数据
 
-metadata.md 文件包括可传递给存储库中用户指南 TOC.md 文件的存储库级别元数据。如果要更改任何用户指南的 metadata.md 内容，请在任意 TOC.md 文件中进行更改。
+metadata.md 文件包含存储库级别的元数据，这些元数据会被传送到存储库中的用户指南 TOC.md 文件。 如果要更改任何用户指南的 metadata.md 内容，请在任何 TOC.md 文件中进行更改。
 
-请参阅[元数据](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en)以获取 **solution**、**product** 和 **type** 的有效值的列表。
+查看[元数据](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=zh-hans)以获取&#x200B;**解决方案**、**产品**&#x200B;和&#x200B;**类型**&#x200B;的有效值列表。
