@@ -3,7 +3,8 @@ title: Experience Cloud 客户支持指南
 description: 本客户支持指南可帮助您熟悉我们的 Experience Cloud 支持产品、计划、服务、程序，并告诉您如何在全球范围内联系我们。
 exl-id: 8128a504-708f-44d8-94be-a63fb6bb473f
 TQID: https://experienceleague.adobe.com/EeIsQd53EZtvNzuLo5M4Tgo6Q56cfQFvbpq0Mq-y2vo
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 142

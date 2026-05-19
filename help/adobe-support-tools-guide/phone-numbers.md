@@ -3,9 +3,13 @@ title: 指定首选支持电话号码
 description: Adobe支持电话号码更新。 指定您的首选支持电话号码。
 exl-id: 59017843-5989-4618-b7a6-6333bf9ccef4
 TQID: https://experienceleague.adobe.com/m0Q85GrXnxzxzAH3zOj07ik7WDSHFTEGBomdBTsttEI
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 152

@@ -3,9 +3,14 @@ title: 管理  [!DNL Adobe Success] 门户中的发现
 description: 本指南介绍如何访问、理解  [!DNL Adobe Success] 门户中的发现并据此采取行动，以帮助您主动管理产品性能、安全性和功能风险。
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
 TQID: https://experienceleague.adobe.com/tO1CHOXvHW2yrDt4Kq14NMvOeSv0GP4fOeR-9-S5H3o
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 862

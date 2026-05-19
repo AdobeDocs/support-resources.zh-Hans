@@ -3,9 +3,14 @@ title: 支持与洞察概述
 description: 通过 [!DNL Adobe Success/] 门户的[!UICONTROL 支持与洞察]仪表板可以访问技术资源、环境扫描结果以及案例管理工具。
 exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
 TQID: https://experienceleague.adobe.com/EcxUN-RE3KGahWT2LyBkJpUf5TrXun4NbLVFi7Y-SkM
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 413

@@ -3,9 +3,14 @@ title: 技术用户画像的主要功能
 description: /[!DNL Adobe Success/] 门户为技术用户画像提供的功能，使用户能够创建和管理支持案例、监控系统性能，并跟踪与安全性和功能相关的警报。
 exl-id: e233ccb8-8d51-4d42-9812-efedd070d45c
 TQID: https://experienceleague.adobe.com/1vFhEr2Mrz-QWoQq0P9L4zpObcHt7jomMoaO9M0AsXk
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 303
