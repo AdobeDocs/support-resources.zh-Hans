@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)中，选择要编辑的组织，并导航到&#x200B;**策略模板**&#x200B;选项卡，以简化设置并简化跨组织的一致策略管理。
+>在[Global Admin Console](https://helpx.adobe.com/cn/enterprise/global-admin-console/adopt-global-administration.html)中，选择要编辑的组织，并导航到&#x200B;**策略模板**&#x200B;选项卡，以简化设置并简化跨组织的一致策略管理。
 >
 > [登录到Global Admin Console](https://global-admin-console.adobe.com/)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->与Global Admin Console中的其他更改不同，对策略模板的编辑将立即生效，而无需执行&#x200B;**[!UICONTROL 审核待处理更改 — 提交]**&#x200B;流程。 但是，要在应用策略模板的组织中实施挂起的更改，需要[提交](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。
+>与Global Admin Console中的其他更改不同，对策略模板的编辑将立即生效，而无需执行&#x200B;**[!UICONTROL 审核待处理更改 — 提交]**&#x200B;流程。 但是，要在应用策略模板的组织中实施挂起的更改，需要[提交](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。
 
 ## 创建策略模板
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 对于模板中包含的每个策略，请配置两个设置：
 
-* **允许/不允许：**&#x200B;将滑块设置为所需的值。 了解[策略详细信息](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html#policy-details)。
+* **允许/不允许：**&#x200B;将滑块设置为所需的值。 了解[策略详细信息](https://helpx.adobe.com/cn/enterprise/global-admin-console/update-policies.html#policy-details)。
 * **锁定值：**&#x200B;使用以下选项之一修改策略的锁定状态：
    * **锁定** — 应用模板后将锁定策略。
    * **解锁** — 应用模板后将解锁策略。
@@ -80,7 +80,7 @@ ht-degree: 0%
    ![图片4](./assets/DXSKB-3209-4-bulk-apply-template.png)
    <br>
 1. 选择&#x200B;**[!UICONTROL 应用模板]**。
-1. 要在应用策略模板的组织中实施挂起的更改，请选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。
+1. 要在应用策略模板的组织中实施挂起的更改，请选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。
 
 如果所选组织中的所有策略值已经与模板中的值匹配，则会显示一条消息，通知未进行任何更改。 此外，如果没有其他待处理编辑，则不会启用&#x200B;**[!UICONTROL 审阅待处理更改]**。
 
@@ -91,7 +91,7 @@ ht-degree: 0%
    ![图片5](./assets/DXSKB-3209-5-ga_15-1.png)
    <br>
 1. 更新策略模板并选择&#x200B;**[!UICONTROL 立即更新]**。
-1. 要在应用策略模板的组织中实施挂起的更改，请选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。
+1. 要在应用策略模板的组织中实施挂起的更改，请选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。
 
 ## 删除模板
 
