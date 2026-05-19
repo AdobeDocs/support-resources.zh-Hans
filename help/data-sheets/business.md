@@ -2,9 +2,12 @@
 title: 商业支持
 description: 通过 Adobe Experience Cloud 商业支持服务，可以联系 Adobe 技术支持团队和帐户支持主管，以便进行帐户管理。
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: d9c68a402ce091063abf016bc4fd7e2eb9ca9644
+TQID: https://experienceleague.adobe.com/gocC4k5TByvM3L1jSyhOGMzibQQuBDMD-qSr0ETtZq8
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '882'
+source-wordcount: 905
 ht-degree: 100%
 
 ---
@@ -148,7 +151,7 @@ ht-degree: 100%
     <img alt="电话支持" src="assets/livetelephonesupport.png"/>
     <div>
     <p><b>实时电话支持</b></p>
-    <p>客户可以在区域支持时间内通过电话提交所有 P2、P3、P4 问题的支持案例。您拨打电话来获取支持的次数没有上限。客户还可以请求支持部门回电，或请求召开会议以使用共享远程桌面会话演示或解决问题。</p>
+    <p>客户可以在区域支持时间内通过电话提交所有 P2、P3、P4 问题的支持案例。 您拨打电话来获取支持的次数没有上限。 客户还可以请求支持部门回电，或请求召开会议以使用共享远程桌面会话演示或解决问题。</p>
     </div>
   </td>
   <td>
@@ -187,7 +190,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>社区论坛</p>
     <p><b>在线论坛</b></p>
-    <p>持续在线访问包括技术解决方案、产品文档、常见问题解答等的不断增长的数据库。数千名客户可以相互交流，分享最佳实践和经验教训。</p>
+    <p>持续在线访问包括技术解决方案、产品文档、常见问题解答等的不断增长的数据库。 数千名客户可以相互交流，分享最佳实践和经验教训。</p>
     </div>
   </td>
   <td>
@@ -203,7 +206,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>Experience League</p>
     <p><b>自助式历程</b></p>
-    <p>Experience Makers 是使用 Experience League 创建的。客户可以通过个性化学习来获得客户体验管理能力，从而培养技能、与全球同行社区互动并获得职业发展的认可。</p>
+    <p>Experience Makers 是使用 Experience League 创建的。 客户可以通过个性化学习来获得客户体验管理能力，从而培养技能、与全球同行社区互动并获得职业发展的认可。</p>
     </div>
   </td>
 </tr>
@@ -213,7 +216,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>办公室会议</p>
     <p><b>网络研讨会</b></p>
-    <p>“办公室会议”是 Adobe 客户支持团队发起的一项计划。这些讲座旨在指导并帮助参与者排除问题，并提供有助于 Adobe Experience Cloud 发挥成效的提示和技巧。</p>
+    <p>“办公室会议”是 Adobe 客户支持团队发起的一项计划。 这些讲座旨在指导并帮助参与者排除问题，并提供有助于 Adobe Experience Cloud 发挥成效的提示和技巧。</p>
     </div>
   </td>
   <td>
@@ -240,9 +243,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 | 资源 | 描述 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/zh-hans) | Experience League 是 Adobe 帮助企业实现预期的 Adobe 投资回报的方式。这是一个集中式位置，提供自助教程、产品文档、讲师指导的培训、社区和技术支持，客户可以在这里学习、建立联系和取得进步，并沿着个性化的路径迈向成功。 |
-| [培训](https://training.adobe.com/training/) | 可以从 Experience League 访问 Adobe Digital Learning Services 课程。学习课程同时包括按需课程和讲师指导的课程。在这里，您可以掌握具有公认市场价值的技能，并在组织中利用这些技能获得成功。 |
-| [生产问题和系统中断](https://status.adobe.com/zh-cn/) | Status.adobe.com 传达在多租户环境中部署的所有 Adobe 产品和服务的运行状况信息。客户可以选择他们的订阅偏好设置，以便在 Adobe 创建、更新或处理产品事件时收到电子邮件通知。这可能包括严重性不同的定期维护或服务问题。 |
+| [Experience League](https://experienceleague.adobe.com/) | Experience League 是 Adobe 帮助企业实现预期的 Adobe 投资回报的方式。 这是一个集中式位置，提供自助教程、产品文档、讲师指导的培训、社区和技术支持，客户可以在这里学习、建立联系和取得进步，并沿着个性化的路径迈向成功。 |
+| [培训](https://training.adobe.com/training/) | 可以从 Experience League 访问 Adobe Digital Learning Services 课程。 学习课程同时包括按需课程和讲师指导的课程。 在这里，您可以掌握具有公认市场价值的技能，并在组织中利用这些技能获得成功。 |
+| [生产问题和系统中断](https://status.adobe.com/) | Status.adobe.com 传达在多租户环境中部署的所有 Adobe 产品和服务的运行状况信息。 客户可以选择他们的订阅偏好设置，以便在 Adobe 创建、更新或处理产品事件时收到电子邮件通知。 这可能包括严重性不同的定期维护或服务问题。 |
 | [商业支持网站](https://helpx.adobe.com/cn/support/programs/enterprise-support-programs/premier-support-business.html) | Adobe 商业支持网站。 |
 | [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html) | 详细说明支持服务产品的条款和条件。 |
 

@@ -1,16 +1,21 @@
 ---
 title: Adobe Commerce支持票证生命周期策略更新
 description: 本文提供有关Adobe Commerce支持票证生命周期策略更新的信息。
-source-git-commit: 07cbbe6bd668849c89e5490e331569be8dbcbffe
+exl-id: 1d0da27f-4334-4f3a-a9b5-fca2eb16de4e
+TQID: https://experienceleague.adobe.com/InnjmzEbkWnGVY47P4F76Fb9l-ul0KMe5Kk377XUwiY
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '466'
-ht-degree: 46%
+source-wordcount: 546
+ht-degree: 39%
 
 ---
 
 # Adobe Commerce支持票证生命周期策略更新
 
-本文档概述了对 Adobe DX 支持案例生命周期的改进，旨在增加沟通并尽快为客户提供解决方案，以帮助确保客户成功。这还可以在[Adobe成功计划概述：支持案例生命周期](https://experienceleague.adobe.com/zh-hans/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)中找到。
+本文档概述了对 Adobe DX 支持案例生命周期的改进，旨在增加沟通并尽快为客户提供解决方案，以帮助确保客户成功。 这还可以在[Adobe成功计划概述：支持案例生命周期](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)中找到。
 以下是支持过程中遇到的各种情况的时间表和通知：
 
 ## 案例跟进提醒
@@ -32,7 +37,7 @@ ht-degree: 46%
 * 在状态设置为&#x200B;**待处理响应**&#x200B;后的第1、3和5天，会向客户发送跟进通知以请求其他信息。
 * 如果在状态设置为&#x200B;**待处理响应**&#x200B;后6天内客户没有响应，则案例将设置为“已关闭”，并发送关闭通知。
 
-客户可在 14 天内在 Experience League 上重新打开已关闭的案例，以继续沟通。超过 14 天后，可以新建一个支持案例，以继续与先前已关闭案例相关的沟通。请注意，回复关于已关闭工单的电子邮件不会重新打开该工单。
+客户可在 14 天内在 Experience League 上重新打开已关闭的案例，以继续沟通。 超过 14 天后，可以新建一个支持案例，以继续与先前已关闭案例相关的沟通。 请注意，回复关于已关闭工单的电子邮件不会重新打开该工单。
 
 ### 当工程师提供解决方案时
 
@@ -42,11 +47,11 @@ ht-degree: 46%
 * 在状态设置为&#x200B;**已提供解决方案**&#x200B;之后的第1、3和5天，会向客户发送跟进通知，请求确认提供的解决方案。
 * 如果在状态设置为&#x200B;**已提供解决方案**&#x200B;后6天内客户没有回应，则将案例设置为“已关闭”，并发送关闭通知。
 
-客户可在 14 天内重新打开已关闭的案例以继续沟通。14 天之后，可以打开新的支持案例以继续与之前关闭的案例相关的沟通。
+客户可在 14 天内重新打开已关闭的案例以继续沟通。 14 天之后，可以打开新的支持案例以继续与之前关闭的案例相关的沟通。
 
 ## 相关阅读
 
-* [提交支持票证](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#submit-ticket)
-* [“提交票证”链接未显示在Adobe Commerce帮助中心起始页](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)上
-* [票证提交表单：商家未显示在“组织”下拉列表中](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#merchant-not-displayed)
-* [Adobe成功计划概述：支持案例生命周期](https://experienceleague.adobe.com/zh-hans/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)
+* [提交支持服务单](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#submit-ticket)
+* [Adobe Commerce帮助中心起始页上未显示“提交票证”链接](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
+* [票证提交表单：商家未显示在“组织”下拉列表中](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#merchant-not-displayed)
+* [Adobe成功计划概述：支持案例生命周期](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)

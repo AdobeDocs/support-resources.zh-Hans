@@ -2,16 +2,19 @@
 title: '[!UICONTROL 参与计划]'
 description: 了解[!UICONTROL 参与计划]如何通过提供一个 Adobe 帐户团队和参与选项的集中视图来增强利益相关者的可见性和沟通情况。
 exl-id: 65a0ac9f-9103-4497-8e85-c471c2ffff51
-source-git-commit: 76f639e3764509ef2f30bbd98fedbf010075b400
-workflow-type: ht
-source-wordcount: '176'
+TQID: https://experienceleague.adobe.com/M9nZSIddX0t75QsdfRNR0arXCUxoDxcRTdShF3c6-co
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+workflow-type: tm+mt
+source-wordcount: 187
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL 参与计划]
 
-**[!UICONTROL 参与计划]**&#x200B;部分可以解决与利益相关者可见性和沟通情况相关的挑战。它在一个集中视图中提供了您的 Adobe 帐户团队以及您与他们的沟通方式。
+**[!UICONTROL 参与计划]**&#x200B;部分可以解决与利益相关者可见性和沟通情况相关的挑战。 它在一个集中视图中提供了您的 Adobe 帐户团队以及您与他们的沟通方式。
 
 要访问此部分，请点击门户主页左侧导航面板上的 ![engagement-icon](/help/adobe-success-portal/assets/engagement-icon.png) 图标。
 
@@ -19,7 +22,7 @@ ht-degree: 100%
 
 ## [!UICONTROL 战略合作伙伴]
 
-此选项卡显示您的 Adobe 帐户合作伙伴的列表。点击每个联系人可以查看他们的电子邮件、合适的联系时间以及他们参与的相应&#x200B;**[!UICONTROL 加速器]**&#x200B;和&#x200B;**[!UICONTROL 活动]**。
+此选项卡显示您的 Adobe 帐户合作伙伴的列表。 点击每个联系人可以查看他们的电子邮件、合适的联系时间以及他们参与的相应&#x200B;**[!UICONTROL 加速器]**&#x200B;和&#x200B;**[!UICONTROL 活动]**。
 
 ![engagement-plan-strategic-partner](/help/adobe-success-portal/assets/engagement-plan-strategic-partner.png)
 
@@ -31,6 +34,6 @@ ht-degree: 100%
 
 ## [!UICONTROL 加速器目录]
 
-此选项卡提供了您的订阅中包含的可用&#x200B;**[!UICONTROL 加速器]**&#x200B;的目录。查看产品并与您的 Adobe 帐户团队协调，以请求加速器参与。
+此选项卡提供了您的订阅中包含的可用&#x200B;**[!UICONTROL 加速器]**&#x200B;的目录。 查看产品并与您的 Adobe 帐户团队协调，以请求加速器参与。
 
 ![engagement-plan-accelerator-catalog](/help/adobe-success-portal/assets/engagement-plan-accelerator-catalog.png)
