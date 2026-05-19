@@ -11,10 +11,11 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: 6a0b2d9f-9e02-428c-a2be-bc457230f7e0
-source-git-commit: 976bfc44cdae61376e2da89019f7758518c6fadc
+TQID: https://experienceleague.adobe.com/lG0ZmW8ynu7tKpYa0JWoSeBDpeR1TaenUMNNCLcPSOI
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: 579
-ht-degree: 1%
+source-wordcount: 758
+ht-degree: 0%
 
 ---
 
@@ -80,7 +81,7 @@ ht-degree: 1%
 
 ## 相关阅读
 
-- [采用全局管理](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)
+- [采用全球管理](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)
 - [管理管理员](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)
 - [管理用户组](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-user-groups)
 - [将产品分配给子组织](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/allocate-products)

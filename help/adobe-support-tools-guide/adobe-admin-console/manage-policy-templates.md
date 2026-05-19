@@ -11,9 +11,10 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: e4dc5c35-1323-4894-bd47-b31c61a864bc
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+TQID: https://experienceleague.adobe.com/eA6HyH9bNWst49X3xVmzD6XyaEVdxL5VarET-kCQ7CI
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: 705
+source-wordcount: 758
 ht-degree: 0%
 
 ---
@@ -49,8 +50,8 @@ ht-degree: 0%
 ## 创建策略模板
 
 1. 在[Global Admin Console](https://global-admin-console.adobe.com/)中，选择要编辑的组织，然后导航到&#x200B;**[!UICONTROL 策略模板]**&#x200B;选项卡。
-1. 选择&#x200B;**[!UICONTROL 创建模板]**.<br>
-   ![Pic1](./assets/DXSKB-3209-1-ga_14.png)
+1. 选择&#x200B;**[!UICONTROL 创建模板]**。<br>
+   ![图片1](./assets/DXSKB-3209-1-ga_14.png)
    <br>
 1. 在&#x200B;**[!UICONTROL 创建策略模板]**&#x200B;对话框中，输入策略模板的&#x200B;**名称**&#x200B;和&#x200B;**描述**。<br>策略模板的名称最多可为100个字符。
 1. 选择要包含在模板中的策略。
@@ -73,10 +74,10 @@ ht-degree: 0%
 
 1. 在[Global Admin Console](https://global-admin-console.adobe.com/)中，选择要编辑的组织，然后导航到&#x200B;**[!UICONTROL 策略模板]**&#x200B;选项卡。
 1. 为相关策略模板选择&#x200B;**[!UICONTROL 更多选项]** ![更多选项](./assets/manage-product-profiles_more-options.png)图标，然后选择&#x200B;**[!UICONTROL 将模板应用到组织]**。<br>
-   ![Pic3](./assets/DXSKB-3209-3-ga_15.png)
+   ![图片3](./assets/DXSKB-3209-3-ga_15.png)
    <br>
 1. 选择要应用模板的组织。 您可以选择多个组织。<br>
-   ![Pic4](./assets/DXSKB-3209-4-bulk-apply-template.png)
+   ![图片4](./assets/DXSKB-3209-4-bulk-apply-template.png)
    <br>
 1. 选择&#x200B;**[!UICONTROL 应用模板]**。
 1. 要在应用策略模板的组织中实施挂起的更改，请选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。
@@ -87,7 +88,7 @@ ht-degree: 0%
 
 1. 在[Global Admin Console](https://global-admin-console.adobe.com/)中，选择要编辑的组织，然后导航到&#x200B;**[!UICONTROL 策略模板]**&#x200B;选项卡。
 1. 为相关模板选择&#x200B;**[!UICONTROL 更多选项]**&#x200B;图标![更多选项](./assets/manage-product-profiles_more-options.png)，然后选择&#x200B;**[!UICONTROL 编辑模板]**。<br>
-   ![Pic5](./assets/DXSKB-3209-5-ga_15-1.png)
+   ![图片5](./assets/DXSKB-3209-5-ga_15-1.png)
    <br>
 1. 更新策略模板并选择&#x200B;**[!UICONTROL 立即更新]**。
 1. 要在应用策略模板的组织中实施挂起的更改，请选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。
@@ -96,6 +97,6 @@ ht-degree: 0%
 
 1. 在[Global Admin Console](https://global-admin-console.adobe.com/)中，选择要编辑的组织，然后导航到&#x200B;**[!UICONTROL 策略模板]**&#x200B;选项卡。
 1. 为相关模板选择&#x200B;**[!UICONTROL 更多选项]** ![更多选项](./assets/manage-product-profiles_more-options.png)图标，然后选择&#x200B;**[!UICONTROL 删除模板]**。<br>
-   ![Pic6](./assets/DXSKB-3209-6-ga_15-2.png)
+   ![图片6](./assets/DXSKB-3209-6-ga_15-2.png)
    <br>
 1. 在出现的对话框中选择&#x200B;*是*。

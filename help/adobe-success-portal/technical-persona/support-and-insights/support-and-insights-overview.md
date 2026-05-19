@@ -2,16 +2,25 @@
 title: 支持与洞察概述
 description: 通过 [!DNL Adobe Success/] 门户的[!UICONTROL 支持与洞察]仪表板可以访问技术资源、环境扫描结果以及案例管理工具。
 exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
-source-git-commit: 7fffb0a2aae3afdd508a0ccbe0bafd3814c6b476
-workflow-type: ht
-source-wordcount: '375'
+TQID: https://experienceleague.adobe.com/EcxUN-RE3KGahWT2LyBkJpUf5TrXun4NbLVFi7Y-SkM
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+workflow-type: tm+mt
+source-wordcount: 413
 ht-degree: 100%
 
 ---
 
 # 支持与洞察概述
 
-通过 [!DNL Adobe Success] 门户的&#x200B;**[!UICONTROL 支持与洞察]**&#x200B;仪表板可以访问技术资源、环境扫描结果以及案例管理工具。它以独立的产品图块形式显示您所有的 Adobe 解决方案。
+通过 [!DNL Adobe Success] 门户的&#x200B;**[!UICONTROL 支持与洞察]**&#x200B;仪表板可以访问技术资源、环境扫描结果以及案例管理工具。 它以独立的产品图块形式显示您所有的 Adobe 解决方案。
 
 要访问此页面，请直接从门户主页左侧导航面板点击 ![support-and-insights-icon](/help/adobe-success-portal/assets/support-and-insight-icon.png) 图标。
 
@@ -19,11 +28,11 @@ ht-degree: 100%
 
 您可以使用页面顶部的&#x200B;*过滤器*&#x200B;下拉菜单关注某个特定产品。
 
-每个产品图块都显示关键量度，例如&#x200B;**[!UICONTROL 发现]**、**[!UICONTROL 未结和已关闭案例]**&#x200B;和&#x200B;**[!UICONTROL 主要问题]**。您可以点击任一量度，直接跳转到其专门的子分区，在那里深入查看与您的产品相关的详细支持洞察。
+每个产品图块都显示关键量度，例如&#x200B;**[!UICONTROL 发现]**、**[!UICONTROL 未结和已关闭案例]**&#x200B;和&#x200B;**[!UICONTROL 主要问题]**。 您可以点击任一量度，直接跳转到其专门的子分区，在那里深入查看与您的产品相关的详细支持洞察。
 
 ## [!UICONTROL 快照] {#snapshot}
 
-**[!UICONTROL 快照]**&#x200B;选项卡为您的案例、发现和警报提供可执行分析。要访问此选项卡，请点击任意图块上的&#x200B;*产品名称*。
+**[!UICONTROL 快照]**&#x200B;选项卡为您的案例、发现和警报提供可执行分析。 要访问此选项卡，请点击任意图块上的&#x200B;*产品名称*。
 
 ![snapshot-from-support-and-insights-card](/help/adobe-success-portal/assets/snapshot-from-support-insights-card.png)
 
@@ -33,9 +42,9 @@ ht-degree: 100%
 
 ## [!UICONTROL 发现] {#findings}
 
-**[!UICONTROL 发现]**&#x200B;选项卡突出显示检测到的性能、安全性和功能方面的问题。条目会根据风险等级、状态和上次扫描以来的时间进行标记。
+**[!UICONTROL 发现]**&#x200B;选项卡突出显示检测到的性能、安全性和功能方面的问题。 条目会根据风险等级、状态和上次扫描以来的时间进行标记。
 
-点击此列表中的条目，可查看其状态、风险等级、原因、症状以及我们对该问题提出的处理建议。有关更多信息，请参阅文档[在  [!DNL Adobe Success] 门户中管理发现](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)。
+点击此列表中的条目，可查看其状态、风险等级、原因、症状以及我们对该问题提出的处理建议。 有关更多信息，请参阅文档[在  [!DNL Adobe Success] 门户中管理发现](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)。
 
 ![findings-tab](/help/adobe-success-portal/assets/findings-tab-support-and-insights.png)
 
@@ -45,7 +54,7 @@ ht-degree: 100%
 
 ## [!UICONTROL 案例管理] {#case-management}
 
-**[!UICONTROL 案例管理]**&#x200B;选项卡中显示未结案例和已关闭案例的列表。您可以点击任一&#x200B;*[!UICONTROL 案例编号]*，查看该问题的更多详细信息，并直接管理与案例相关的操作。
+**[!UICONTROL 案例管理]**&#x200B;选项卡中显示未结案例和已关闭案例的列表。 您可以点击任一&#x200B;*[!UICONTROL 案例编号]*，查看该问题的更多详细信息，并直接管理与案例相关的操作。
 
 ![case-management-tab](/help/adobe-success-portal/assets/case-management-tab-support-and-insights.png)
 
@@ -55,7 +64,7 @@ ht-degree: 100%
 
 ## Adobe 状态警报 {#adobe-status-alert}
 
-**[!UICONTROL Adobe 状态警报]**&#x200B;选项卡显示基于当前和/或近期已关闭事件的警报，涵盖所有 Adobe Cloud 产品和服务。您可以订阅与自身需求最相关的警报，以便随时了解影响您环境的更新和问题。
+**[!UICONTROL Adobe 状态警报]**&#x200B;选项卡显示基于当前和/或近期已关闭事件的警报，涵盖所有 Adobe Cloud 产品和服务。 您可以订阅与自身需求最相关的警报，以便随时了解影响您环境的更新和问题。
 
 ![adobe-status-alert-tab](/help/adobe-success-portal/assets/status-alert-tab-support-and-insights.png)
 

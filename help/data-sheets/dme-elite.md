@@ -1,10 +1,17 @@
 ---
 title: 对 Creative Cloud 和 Adobe Document Cloud 的精英支持
-description: Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。ELITE 支持计划强化了此种支持。
+description: Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。 ELITE 支持计划强化了此种支持。
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+TQID: https://experienceleague.adobe.com/daL6pp7pxEL2mHoC8cpKMMQUXYVM3W-dsXldBeyjL3Q
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '1123'
+source-wordcount: 1122
 ht-degree: 100%
 
 ---
@@ -13,9 +20,9 @@ ht-degree: 100%
 
 ![图标](assets/Elitebanner.png)
 
-Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。ELITE 支持计划强化了此种支持。ELITE 客户可以联系指定支持工程师和技术客户经理，他们是您在 Adobe 支持团队中的指定技术联系人，与您合作提供同类最佳的主动和被动支持。
+Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。 ELITE 支持计划强化了此种支持。 ELITE 客户可以联系指定支持工程师和技术客户经理，他们是您在 Adobe 支持团队中的指定技术联系人，与您合作提供同类最佳的主动和被动支持。
 
-Adobe 支持团队在您适用的 Creative Cloud 和 Document Cloud 解决方案方面拥有丰富的经验，无论您的支持需求有多么复杂，都能始终与您并肩而行，确保实现最大的适用 Adobe 解决方案投资回报率，并帮助您杜绝问题的发生。此外，您可以使用我们详细而深入的技术产品文档和最新发行说明。
+Adobe 支持团队在您适用的 Creative Cloud 和 Document Cloud 解决方案方面拥有丰富的经验，无论您的支持需求有多么复杂，都能始终与您并肩而行，确保实现最大的适用 Adobe 解决方案投资回报率，并帮助您杜绝问题的发生。 此外，您可以使用我们详细而深入的技术产品文档和最新发行说明。
 
 [查看 PDF 版本](assets/DMeEliteSupportDatasheet_2022.pdf)
 
@@ -151,7 +158,7 @@ Adobe 支持团队在您适用的 Creative Cloud 和 Document Cloud 解决方案
   <tr>
     <td><strong>优先级 1</strong><br>客户的生产业务功能中断或发生重大数据丢失或服务降级，需要立即关注以恢复功能和可用性。</td>
     <td>全天候/<br>30 分钟</td>
-    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>为适用的 Adobe 产品和服务购买支持计划的客户将获得优先级案例路由，可快速跟踪案例，并将其发送给 Adobe 的支持工程师。</td>
+    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>为适用的 Adobe 产品和服务购买支持计划的客户将获得优先级案例路由，可快速跟踪案例，并将其发送给 Adobe 的支持工程师。</td>
   </tr>
   <tr>
     <td><strong>优先级 2</strong><br>客户的业务功能发生重大服务降级或潜在数据丢失，或主要功能受到影响。</td>
@@ -183,7 +190,7 @@ Adobe 支持团队在您适用的 Creative Cloud 和 Document Cloud 解决方案
     <img alt="指定的支持工程师" src="assets/dmenamedsupportengineer.png"/>
     <div>
     <p><b>指定的支持工程师</b></p>
-    <p>配备一名熟悉您的解决方案环境和业务目标的指定支持工程师。NSE 是指经验丰富的支持工程师，可帮助协调高级支持体验。</p>
+    <p>配备一名熟悉您的解决方案环境和业务目标的指定支持工程师。 NSE 是指经验丰富的支持工程师，可帮助协调高级支持体验。</p>
     </div>
   </td>
   <td>
@@ -212,7 +219,7 @@ Adobe 支持团队在您适用的 Creative Cloud 和 Document Cloud 解决方案
     <img alt="服务审查" src="assets/dmeservicereviews.png"/>
     <div>
     <p><b>服务审查</b></p>
-    <p>对企业计划服务、权益和支持表现进行一年两次的全面审查。可能与 Adobe 举办的其他战略性业务审查相结合。</p>
+    <p>对企业计划服务、权益和支持表现进行一年两次的全面审查。 可能与 Adobe 举办的其他战略性业务审查相结合。</p>
     </div>
   </td>
 </tr>
@@ -221,14 +228,14 @@ Adobe 支持团队在您适用的 Creative Cloud 和 Document Cloud 解决方案
     <img alt="区域内支持访问" src="assets/dmeinregionsupportaccess.png"/>
     <div>
     <p><b>区域内支持访问</b></p>
-    <p>从您所在的全球区域内 Adobe 支持团队成员处获得支持。这可能包括国内和/或语言支持。</p>
+    <p>从您所在的全球区域内 Adobe 支持团队成员处获得支持。 这可能包括国内和/或语言支持。</p>
     </div>
   </td>
   <td>
     <img alt="解决方案路线图审查" src="assets/dmesolutionandroadmapreview.png"/>
     <div>
     <p><b>解决方案和路线图审查</b></p>
-    <p>主动审查您的解决方案部署、配置和整体架构，包括集成。让您的解决方案与项目路线图保持一致，从而降低风险并为未来做好准备。</p>
+    <p>主动审查您的解决方案部署、配置和整体架构，包括集成。 让您的解决方案与项目路线图保持一致，从而降低风险并为未来做好准备。</p>
     </div>
   </td>
   <td>
@@ -244,7 +251,7 @@ Adobe 支持团队在您适用的 Creative Cloud 和 Document Cloud 解决方案
     <img alt="升级/迁移规划" src="assets/dmeupgrademigrationplanning.png"/>
     <div>
     <p><b>升级/迁移规划</b></p>
-    <p>为升级和迁移规划目的接受个性化指导和主动审查。得益于 Adobe 专家审查发布和升级计划。</p>
+    <p>为升级和迁移规划目的接受个性化指导和主动审查。 得益于 Adobe 专家审查发布和升级计划。</p>
     </div>
   </td>
   <td>
@@ -272,7 +279,7 @@ Adobe 支持团队在您适用的 Creative Cloud 和 Document Cloud 解决方案
     <img alt="论坛" src="assets/community-forums-icon.png"/>
     <div>
     <p><b>社区论坛</b></p>
-    <p>持续在线访问包括技术解决方案、产品文档、常见问题解答等的不断增长的数据库。在 Adobe 社区与从业人员和其他客户联系，分享最佳实践和经验教训。</p>
+    <p>持续在线访问包括技术解决方案、产品文档、常见问题解答等的不断增长的数据库。 在 Adobe 社区与从业人员和其他客户联系，分享最佳实践和经验教训。</p>
     </div>
   </td>
   <td>
@@ -316,7 +323,7 @@ Adobe 支持团队在您适用的 Creative Cloud 和 Document Cloud 解决方案
 |--- |--- |
 | [企业学习和支持](https://helpx.adobe.com/cn/enterprise.html) | 企业学习和支持为 Adobe 客户提供针对精选 Adobe Creative Cloud 和文档产品的自助教程、产品文档、讲师指导的培训、社区和技术支持。 |
 | [Adobe 支持社区](https://community.adobe.com/) | Adobe 支持社区是提出问题、找到答案、向专家学习和分享知识的场所。 |
-| [生产问题和系统中断](https://status.adobe.com/zh-cn/) | Status.adobe.com 传达在多租户环境中部署的所有 Adobe 产品和服务的运行状况信息。客户可以选择他们的订阅偏好设置，以便在 Adobe 创建、更新或处理产品事件时收到电子邮件通知。这可能包括严重性不同的定期维护或服务问题。 |
+| [生产问题和系统中断](https://status.adobe.com/zh-cn/) | Status.adobe.com 传达在多租户环境中部署的所有 Adobe 产品和服务的运行状况信息。 客户可以选择他们的订阅偏好设置，以便在 Adobe 创建、更新或处理产品事件时收到电子邮件通知。 这可能包括严重性不同的定期维护或服务问题。 |
 | [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html) | 详细说明支持服务产品的条款和条件。 |
 
 {style="table-layout:auto"}
