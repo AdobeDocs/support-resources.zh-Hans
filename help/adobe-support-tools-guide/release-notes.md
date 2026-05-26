@@ -4,16 +4,12 @@ description: 有关Experience League支持的最新发行信息。
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 TQID: https://experienceleague.adobe.com/deGe04hNuc2gsMLHx49aIihzTqQoUbFYCYiReOgzowk
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 7570e35edc9099a15556ce94a50904d4b402c042
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: bff5962913571b7bc192e634346c124985dc3609
 workflow-type: tm+mt
-source-wordcount: 973
+source-wordcount: 1177
 ht-degree: 1%
 
 ---
@@ -25,6 +21,24 @@ ht-degree: 1%
 ![新](../adobe-support-tools-guide/assets/new.svg)新功能
 ![修复](../adobe-support-tools-guide/assets/fix.svg)修复和改进
 ![错误](../adobe-support-tools-guide/assets/bug.svg)已知问题
+
+## 2026年5月26日 — Experience League支持门户UI更新
+
+1. 新的集中式主页在单个仪表板中提供了支持活动的概览，包括按优先级排列的案例计数、等待响应的案例、实时产品状态和系统警报。
+
+1. 通过左上角的&#x200B;**[!UICONTROL 组织切换器]**，您可以在组织之间切换，门户会自动更新所选组织的案例数据、产品状态和支持信息。
+
+1. 通过门户切换，您可以随时在重新设计的门户网站和当前Experience League支持门户网站之间切换，两个体验保持完全同步，以使您的案例数据保持最新。
+
+1. 您可以监测有权使用贵组织的所有Adobe产品的实时运行状态，并按事件类型（包括“主要”、“次要”、“潜在”、“维护”和“公告”）过滤系统警报。
+
+1. Ultimate Success plan客户现在可以访问专用的&#x200B;**[!UICONTROL 我的成功]**&#x200B;页面，其中包含有关其成功团队的详细信息和支持他们与Adobe互动的资源。
+
+1. 重新设计的支持门户适用于除Adobe Commerce以外的所有产品。
+
+>[!NOTE]
+>
+>计划在将来版本中更新案例创建、案例详细信息和我的案例页面。 在此之前，这些页面将仍可在当前的Experience League支持门户中使用。
 
 ## 2026年5月7日 — 扩展“请求回调”功能
 
