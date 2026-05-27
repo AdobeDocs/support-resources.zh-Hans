@@ -1,7 +1,7 @@
 ---
 title: Experience League支持门户 — 新用户界面
 description: 重新设计了Experience League支持门户，通过改进导航、分析和快速操作，以及无缝切换到当前门户以用于案例管理，该门户可简化支持工作流程、案例分析和产品监控。
-source-git-commit: c40672aed3df1f842cfd032b5a653b8fbf70876e
+source-git-commit: 693c4ee7852623006acd388d905b43bccab27730
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 **[!UICONTROL Home]**&#x200B;页面用作支持活动的中心中心。 它提供了支持环境的概述以及关键功能的快速访问。
 
-新EXL UI的![主页](/help/adobe-support-tools-guide/assets/home-page-new-ui.png)
+新EXL UI的![主页](/help/adobe-support-tools-guide/assets/home-page-new-ui-1.png)
 
 左侧导航面板提供对以下部分的访问：
 
@@ -60,7 +60,7 @@ ht-degree: 2%
 
 **[!UICONTROL 服务分析]**&#x200B;部分提供了支持案例活动的摘要。 在&#x200B;**[!UICONTROL 我的案例]**&#x200B;和&#x200B;**[!UICONTROL 我的组织案例]**&#x200B;视图之间切换。 **[!UICONTROL 我的案例]**&#x200B;视图显示个人特定的案例统计信息，而&#x200B;**[!UICONTROL 我的组织案例]**&#x200B;视图显示整个组织的案例统计信息。
 
-![服务分析部分](/help/adobe-support-tools-guide/assets/service-analytics.png)
+![服务分析部分](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
 
 可以使用以下量度：
 
@@ -71,7 +71,7 @@ ht-degree: 2%
 
 此部分按优先级显示支持案例的可视细分。
 
-![按优先级部分显示的案例数](/help/adobe-support-tools-guide/assets/case-count-by-priority.png)
+![按优先级部分显示的案例数](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
 
 **[!UICONTROL 我的用例]**&#x200B;和&#x200B;**[!UICONTROL 我的组织用例]**&#x200B;选择适用于此图表，允许在个人或组织级别查看。
 
@@ -85,15 +85,15 @@ ht-degree: 2%
 - 提交日期
 - 状态
 
-![我提交的案例部分](/help/adobe-support-tools-guide/assets/my-submitted-case.png)
+![我提交的案例部分](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
 选择&#x200B;**[!UICONTROL 案例ID]**&#x200B;可在当前的Experience League支持门户中查看案例详细信息。 选择&#x200B;**[!UICONTROL 查看所有案例]**&#x200B;以查看案例的完整列表。
 
 ## 产品状态警报
 
-部分显示分配给组织的Adobe产品的当前操作状态。 状态&#x200B;**[!UICONTROL 可用]**&#x200B;表示产品已完全运行且没有活动中断。 如果存在一个或多个问题，产品卡上将显示活动问题的总数。 选择产品卡以查看Adobe [状态网站](https://status.adobe.com/zh-cn/)上的其他详细信息。
+部分显示分配给组织的Adobe产品的当前操作状态。 状态&#x200B;**[!UICONTROL 可用]**&#x200B;表示产品已完全运行且没有活动中断。 如果存在一个或多个问题，产品卡上将显示活动问题的总数。 选择产品卡以查看Adobe [状态网站](https://status.adobe.com/)上的其他详细信息。
 
-![产品状态警报部分](/help/adobe-support-tools-guide/assets/product-status-alerts.png)
+![产品状态警报部分](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
 
 ## 您的系统状态警报
 
@@ -115,9 +115,9 @@ ht-degree: 2%
 
 选择警报以展开并查看其他详细信息。
 
-![您的系统状态警报部分](/help/adobe-support-tools-guide/assets/system-status-alerts.png)
+![您的系统状态警报部分](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-选择&#x200B;**[!UICONTROL 管理订阅]**&#x200B;以在Adobe [状态网站](https://status.adobe.com/zh-cn/)上为Adobe产品配置通知首选项。
+选择&#x200B;**[!UICONTROL 管理订阅]**&#x200B;以在Adobe [状态网站](https://status.adobe.com/)上为Adobe产品配置通知首选项。
 
 ## 您的计划信息
 
@@ -131,7 +131,7 @@ ht-degree: 2%
 >  
 >此页面仅适用于&#x200B;**[!UICONTROL Ultimate Success]**&#x200B;计划的客户。
 
-![我的成功页面](/help/adobe-support-tools-guide/assets/my-success-page.png)
+![我的成功页面](/help/adobe-support-tools-guide/assets/my-success-page-1.png)
 
 该页面包括：
 
@@ -148,4 +148,4 @@ ht-degree: 2%
 
 本部分将显示您专属的Adobe成功团队。 选择团队成员旁边的&#x200B;**[!UICONTROL 联系人]**&#x200B;以发送电子邮件。
 
-![Adobe成功团队部分](/help/adobe-support-tools-guide/assets/adobe-success-team.png)
+![Adobe成功团队部分](/help/adobe-support-tools-guide/assets/adobe-success-team-1.png)
