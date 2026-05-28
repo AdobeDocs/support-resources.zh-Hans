@@ -1,7 +1,7 @@
 ---
 title: Experience League支持门户 — 新用户界面
 description: 重新设计了Experience League支持门户，通过改进导航、分析和快速操作，以及无缝切换到当前门户以用于案例管理，该门户可简化支持工作流程、案例分析和产品监控。
-source-git-commit: 693c4ee7852623006acd388d905b43bccab27730
+source-git-commit: 06859737ce72b5350543f8e02c30a721884e2464
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
@@ -40,7 +40,7 @@ ht-degree: 2%
 
 使用门户中的切换开关可在重新设计的Experience League支持门户与当前门户之间切换。
 
-![新UI](/help/adobe-support-tools-guide/assets/new-toggle.png)
+![新UI](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
 两个门户保持同步，确保案例数据和支持信息在各体验之间保持一致。
 
@@ -91,7 +91,7 @@ ht-degree: 2%
 
 ## 产品状态警报
 
-部分显示分配给组织的Adobe产品的当前操作状态。 状态&#x200B;**[!UICONTROL 可用]**&#x200B;表示产品已完全运行且没有活动中断。 如果存在一个或多个问题，产品卡上将显示活动问题的总数。 选择产品卡以查看Adobe [状态网站](https://status.adobe.com/zh-cn/)上的其他详细信息。
+部分显示分配给组织的Adobe产品的当前操作状态。 状态&#x200B;**[!UICONTROL 可用]**&#x200B;表示产品已完全运行且没有活动中断。 如果存在一个或多个问题，产品卡上将显示活动问题的总数。 选择产品卡以查看Adobe [状态网站](https://status.adobe.com/)上的其他详细信息。
 
 ![产品状态警报部分](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
 
@@ -117,7 +117,7 @@ ht-degree: 2%
 
 ![您的系统状态警报部分](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-选择&#x200B;**[!UICONTROL 管理订阅]**&#x200B;以在Adobe [状态网站](https://status.adobe.com/zh-cn/)上为Adobe产品配置通知首选项。
+选择&#x200B;**[!UICONTROL 管理订阅]**&#x200B;以在Adobe [状态网站](https://status.adobe.com/)上为Adobe产品配置通知首选项。
 
 ## 您的计划信息
 
