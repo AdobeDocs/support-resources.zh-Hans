@@ -1,7 +1,7 @@
 ---
 title: Experience League支持门户 — 新用户界面
 description: 重新设计了Experience League支持门户，通过改进导航、分析和快速操作，以及无缝切换到当前门户以用于案例管理，该门户可简化支持工作流程、案例分析和产品监控。
-source-git-commit: 693c4ee7852623006acd388d905b43bccab27730
+source-git-commit: 06859737ce72b5350543f8e02c30a721884e2464
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
@@ -40,7 +40,7 @@ ht-degree: 2%
 
 使用门户中的切换开关可在重新设计的Experience League支持门户与当前门户之间切换。
 
-![新UI](/help/adobe-support-tools-guide/assets/new-toggle.png)
+![新UI](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
 两个门户保持同步，确保案例数据和支持信息在各体验之间保持一致。
 
