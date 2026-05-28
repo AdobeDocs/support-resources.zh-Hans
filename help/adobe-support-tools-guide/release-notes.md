@@ -11,9 +11,9 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: bff5962913571b7bc192e634346c124985dc3609
+source-git-commit: a279aba612b6a6c61e4df38ee42b76fca90d20ea
 workflow-type: tm+mt
-source-wordcount: 1177
+source-wordcount: 1209
 ht-degree: 1%
 
 ---
@@ -25,6 +25,10 @@ ht-degree: 1%
 ![新](../adobe-support-tools-guide/assets/new.svg)新功能
 ![修复](../adobe-support-tools-guide/assets/fix.svg)修复和改进
 ![错误](../adobe-support-tools-guide/assets/bug.svg)已知问题
+
+## 2026年5月28日 — 扩展[!UICONTROL 请求回调]功能
+
+**[!UICONTROL 请求回调]**&#x200B;功能现在可供Adobe Journey Optimizer、Customer Journey Analytics和Real-Time Customer Data Platform产品用户使用。
 
 ## 2026年5月26日 — Experience League支持门户UI更新
 
@@ -44,7 +48,7 @@ ht-degree: 1%
 >
 >计划在将来版本中更新案例创建、案例详细信息和我的案例页面。 在此之前，这些页面将仍可在当前的Experience League支持门户中使用。
 
-## 2026年5月7日 — 扩展“请求回调”功能
+## 2026年5月7日 — 扩展[!UICONTROL 请求回调]功能
 
 Adobe Commerce和Adobe GenStudio现在都可使用“请求回调”功能。 Adobe Commerce客户可以方便地安排在最适合自己的时间回调，而Adobe GenStudio客户可以选择请求立即回调或计划回调。
 
@@ -78,13 +82,13 @@ Adobe Commerce和Adobe GenStudio现在都可使用“请求回调”功能。 Ad
 
 1. 用户可以提交关于个人见解的反馈，以帮助Adobe持续改进System Insights的准确性和相关性。
 
-## 2026年4月23日 — 扩展“请求回调”功能
+## 2026年4月23日 — 扩展[!UICONTROL 请求回调]功能
 
-Analytics、Admin Console、Audience Manager和Target产品用户现在可以使用“请求回调”功能。
+**[!UICONTROL 请求回调]**&#x200B;功能现在可供Analytics、Admin Console、Audience Manager和Target产品用户使用。
 
-## 2026年4月8日 — 扩展“请求回调”功能
+## 2026年4月8日 — 扩展[!UICONTROL 请求回调]功能
 
-Marketo产品用户现在可以使用“请求回调”功能。
+**[!UICONTROL 请求回调]**&#x200B;功能现在可供Marketo产品用户使用。
 
 ## 2026年3月30日 — 增强型案例表单
 
@@ -143,9 +147,9 @@ Marketo产品用户现在可以使用“请求回调”功能。
 
 ![Fix](../adobe-support-tools-guide/assets/fix.svg)添加了星号(*)作为必填字段指示符，以确保完整性和减少提交错误。
 
-## 2026年3月18日 — 扩展“请求回调”功能
+## 2026年3月18日 — 扩展[!UICONTROL 请求回调]功能
 
-Experience League现在提供了一个“请求回调”选项，通过屏幕共享功能启用自助服务Web会议时间安排，以便更快地解决问题。
+Experience League现在提供了一个&#x200B;**[!UICONTROL 请求回调]**&#x200B;选项，该选项通过屏幕共享功能启用自助服务Web会议时间安排，以便更快地解决问题。
 
 - 此功能适用于Adobe Experience Manager、Campaign和Workfront。
 - 客户可以在方便的时候安排会议，并接收即时邀请。
