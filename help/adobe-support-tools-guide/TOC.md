@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 665fb88bb2240bcf414697ee415569dc083a9539
+source-git-commit: 7581e9c50ea6e63d7bbf3ca235c3df433b02420c
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '338'
 ht-degree: 2%
 
 ---
@@ -56,7 +56,6 @@ ht-degree: 2%
    - [针对云基础架构上的Adobe Commerce的假期激增容量请求](adobe-commerce-support/holiday-surge-capacity-requests-for-magento-commerce-cloud.md)
    - [Adobe Commerce P1通知热线](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Adobe Commerce Intelligence Essentials：更新支付方式或取消订阅](adobe-commerce-support/adobe-commerce-intelligence-essentials-update-payment-cancel-subscription.md)
-   - [Adobe支持客户数据访问和隐私](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
    - [Adobe Commerce支持票证生命周期策略更新](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
    - [在Cloud Pro基础架构上监控Adobe Commerce的情况说明书](adobe-commerce-support/monitoring-whitepaper.md)
    - [Adobe Commerce软件终止支持常见问题解答](adobe-commerce-support/adobe-commerce-eos-policy-faq.md)
