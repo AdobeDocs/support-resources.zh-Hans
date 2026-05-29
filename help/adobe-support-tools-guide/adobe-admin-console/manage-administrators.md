@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 41c00379-98ee-4922-8eba-cc373c23a019
-source-git-commit: e3179d567660c4960ce398062629ed1f695eab49
+source-git-commit: 174cc3f37780e28d7de9359071ebfebbf7f063da
 workflow-type: tm+mt
-source-wordcount: '1159'
+source-wordcount: '1244'
 ht-degree: 2%
 
 ---
@@ -18,8 +18,7 @@ ht-degree: 2%
 
 探索全局管理员功能，了解如何将用户、产品许可证和组的管理委派给每个组织的管理员，并将这些委派给管理员。
 
-在Global Admin Console中，您可以选择组织并导航到&#x200B;**[!UICONTROL 管理员]**&#x200B;选项卡以添加、编辑或删除管理员权限。 若要了解详细信息，请参阅[采用全局管理](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)。 转到此处[登录到Admin Console](https://adminconsole.adobe.com)。
-
+在Global Admin Console中，您可以选择组织并导航到&#x200B;**[!UICONTROL 管理员]**&#x200B;选项卡以添加、编辑或删除管理员权限。 层次结构中的每个组织都是一个Adobe Admin Console；请参阅[采用全局管理](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)，了解Global Admin Console如何对这些控制台进行分组。 登录到[Global Admin Console](https://global-admin-console.adobe.com)以执行层级范围任务，或登录到[Adobe Admin Console](https://adminconsole.adobe.com)执行单个组织中的任务。
 
 Global Admin Console引入了一个称为全局管理员的角色。 此角色不同于系统管理员，允许您执行以下操作：
 

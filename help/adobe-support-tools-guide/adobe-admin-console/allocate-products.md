@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: de6e785d-8965-40d5-ac78-7fbb2cd7afc7
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 174cc3f37780e28d7de9359071ebfebbf7f063da
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1100'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 适用于企业。
 
-了解全局管理员如何向子组织分配资源，从而实现每个组织内有效的资源管理和用户分配。
+了解全局管理员如何将资源分配给子组织（层次结构中的子Admin Console），使每个控制台中的系统管理员能够向用户分配许可证。
 
-在[Global Admin Console](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)中，转到&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡，然后选择要分配给子组织的产品。
+在[Global Admin Console](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)中，转到&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡，然后选择要分配给子组织的产品。 全局管理员在层次结构中分配产品；他们不会向最终用户分配许可证 — 最终用户的工作保留在每个子Adobe Admin Console中。
 
 登录到[Global Admin Console](https://global-admin-console.adobe.com)。
 
@@ -36,8 +36,8 @@ ht-degree: 0%
 
 这适用于在其Admin Console中具有“存储”选项卡的客户。 如果您看不到“存储”选项卡，则表示Admin Console尚未更新到企业存储模型。 在迁移组织后，您将看到以下更改：
 
-- 全局管理员可以跨层次结构获得对存储配额和使用情况的访问权限，并且可以使用&#x200B;**[!UICONTROL Global Admin Console]**&#x200B;中的[产品分配](https://adminconsole.adobe.com/)选项卡将存储分配给组织。
-- 系统管理员和存储管理员可以完全控制和查看整个组织的存储。 他们可以使用&#x200B;**[!UICONTROL Adobe Admin Console]**&#x200B;中的[存储](https://adminconsole.adobe.com/)选项卡跟踪和管理存储。
+- 全局管理员可以跨层次结构获得对存储配额和使用情况的访问权限，并且可以使用[Global Admin Console](https://adminconsole.adobe.com/)中的&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡将存储分配给组织。
+- 系统管理员和存储管理员可以完全控制和查看整个组织的存储。 他们可以使用[Adobe Admin Console](https://adminconsole.adobe.com/)中的&#x200B;**[!UICONTROL 存储]**&#x200B;选项卡跟踪和管理存储。
 
 随着对Adobe Creative Cloud存储的更新，存储配额对最终用户而言是灵活的，其数量取决于企业购买的存储容量。 [了解详情](https://helpx.adobe.com/cn/enterprise/using/manage-adobe-storage.html)。
 
@@ -56,7 +56,7 @@ Global Admin Console中的&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡
    >如果子组织已有采购合同，则父组织向该子组织的产品分配可能会受到限制。 [了解详情](https://helpx.adobe.com/cn/enterprise/global-admin-console/allocate-products.html#limited-product-allocation)。
 
 1. 要分配产品，请选择相关组织的&#x200B;**[!UICONTROL 添加+]**&#x200B;图标。\
-   某些产品包含多个可分配的资源；在这种情况下，对话框中列出了多个资源，您必须为每个资源提供值。 例如，Adobe Stock可以包含Adobe Stock图像积分和高级积分。
+   某些产品包含多个可分配的资源；在这种情况下，对话框中列出了多个资源，您必须为每个资源提供值。例如，Adobe Stock可以包含Adobe Stock图像积分和高级积分。
    ![Adobe Stock图像](/help/adobe-support-tools-guide/assets/adobe-stock-images.png)
 1. 在出现的对话框中，指定产品数量。
 1. 选择&#x200B;**[!UICONTROL 保存]**。
@@ -89,8 +89,8 @@ Global Admin Console中的&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡
 
 与产品和组织关联的分配[策略](https://helpx.adobe.com/cn/enterprise/global-admin-console/update-policies.html#update-policies)指示是否允许过度分配。
 
-过度分配允许授予子组织的产品资源多于父组织中的可用资源。 当分配已近似并且管理员不想负担使资源分配相加的负担时，此变量非常有用。
-如果对组织中的产品资源禁用过度分配，则子授权的总和不能超过父授权。 对于标记为已禁用过度分配的资源，将不会执行过度分配请求。
+过度分配允许授予子组织的产品资源多于父组织中的可用资源。当分配已近似并且管理员不想负担使资源分配相加的负担时，此变量非常有用。
+如果对组织中的产品资源禁用过度分配，则子授权的总和不能超过父授权。对于标记为已禁用过度分配的资源，将不会执行过度分配请求。
 当过度分配切换从启用切换到禁用时，如果资源的授权数量中存在过度分配情况，则必须调整授权值以消除过度分配，然后才能执行授权更新。
 
 ![过度分配](/help/adobe-support-tools-guide/assets/overallocation.png)
@@ -101,7 +101,7 @@ Global Admin Console中的&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡
 
 ![产品分配](/help/adobe-support-tools-guide/assets/product-allocation.png)
 
->[ !I重要信息]
+>[ !Important]
 >
 >属于层次结构的ETLA合同一旦停用，产品就会从&#x200B;**[!UICONTROL 概述]**&#x200B;和&#x200B;**[!UICONTROL 产品分配]**&#x200B;页面中删除。
 

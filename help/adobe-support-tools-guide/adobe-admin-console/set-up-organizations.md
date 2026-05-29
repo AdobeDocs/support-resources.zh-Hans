@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: e4d473130a577a7673aba981a42bcb7ac352c18c
 workflow-type: tm+mt
-source-wordcount: '1547'
+source-wordcount: '1872'
 ht-degree: 0%
 
 ---
@@ -20,16 +20,20 @@ ht-degree: 0%
 
 获得[对Global Admin Console](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console)的访问权限后，您可以创建新组织、将现有组织添加到层次结构、删除组织和更改父组织。 转到此处[登录到Global Admin Console](https://global-admin-console.adobe.com/)。
 
-组织是一种用于管理Adobe产品和用户的结构。 通过[Adobe Admin Console](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)，管理员可以管理其组织中产品和用户的部署和配置。 [Global Admin Console](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)允许全局管理员创建、管理和删除多个组织。
+在Global Admin Console中，组织是一个Adobe Admin Console — 一种用于为企业中的一个实体管理Adobe产品和用户的结构。 [Adobe Admin Console](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)允许系统管理员在该控制台中管理部署、用户和许可证。 [Global Admin Console](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)允许全局管理员在层次结构中创建、重新父级和删除子级管理控制台（子组织），并将产品从父级控制台分配到子级控制台。
 
 ## 创建子组织
+
+>[!NOTE]
+>
+> 子组织是子Adobe Admin Console。 创建一个控制台会将新控制台添加到您的Global Admin Console层级。
 
 作为[全局管理员](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)，您可以在层次结构中创建任何组织的子组织，并设置名称、国家/地区、用户组、产品、产品配置文件、管理员和策略。
 
 创建新子组织时，系统会自动从直接父项继承以下内容：
 
 - 组织的[策略](https://helpx.adobe.com/cn/enterprise/global-admin-console/update-policies.html)设置（如果存在，则包括锁定）。
-- 系统管理员列表（由创建&#x200B;**&#x200B;**&#x200B;策略[时继承系统管理员的](https://helpx.adobe.com/cn/enterprise/global-admin-console/update-policies.html)控制）。
+- 系统管理员列表（由创建&#x200B;**[策略](https://helpx.adobe.com/cn/enterprise/global-admin-console/update-policies.html)时继承系统管理员的**&#x200B;控制）。
 以下内容可能会阻止系统管理员被继承：
    - 缺少[域信任](https://helpx.adobe.com/cn/enterprise/using/directory-trust.html)。
    - 用户类型限制（添加Adobe ID / Enterprise ID / Federated ID用户策略）。 了解[策略详细信息](https://helpx.adobe.com/cn/enterprise/global-admin-console/update-policies.html)。
@@ -113,7 +117,7 @@ ht-degree: 0%
 
 您还可以将小组组织添加到组织层次结构。 团队组织不参与产品分配或产品使用汇总，并且Global Admin Console中的团队组织管理有限。 您可以将受众添加到组织层次结构中以跟踪受众，并可以查看他们购买的产品。 团队组织不能在其下具有子组织，并且不具有企业组织的许多功能。
 
-了解有关产品分配[的](https://helpx.adobe.com/cn/enterprise/global-admin-console/allocate-products.html#limitations)限制的更多信息。
+了解有关产品分配[&#128279;](https://helpx.adobe.com/cn/enterprise/global-admin-console/allocate-products.html#limitations)的限制的更多信息。
 
 >[!WARNING]
 >

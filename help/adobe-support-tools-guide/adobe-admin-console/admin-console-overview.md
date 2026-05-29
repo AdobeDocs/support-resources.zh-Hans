@@ -5,10 +5,10 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 34be803e-da0f-4968-bb54-171be200a875
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: f6a43012bc97ea73f8b2b42cfb7d0fe5e176bf56
 workflow-type: tm+mt
-source-wordcount: '1742'
-ht-degree: 1%
+source-wordcount: '2011'
+ht-degree: 3%
 
 ---
 
@@ -43,11 +43,11 @@ Admin Console上的每个选项卡都允许您执行各种任务。 选择链接
 
 ![Admin Console选择您的组织](assets/admin-console-select-your-org.png "组织选择器")
 
-如果组织是Global Admin Console的一部分，则组织名称旁边会显示一个层次结构图标。 您还可以查看组织的路径，并可确定组织在层次结构中的位置。 例如，在屏幕截图中，管理员是组织B的成员，该组织的Global Admin Console路径为A > B，其中B是组织A的子级。
+如果组织是Global Admin Console的一部分，则组织名称旁边会显示一个层次结构图标。 您还可以查看组织的路径，并可确定组织在层次结构中的位置。 例如，在屏幕截图中，管理员是顶级组织的成员，子组织具有Global Admin Console路径，如父组织>子组织，其中子组织嵌套在父组织下。 在此上下文中，路径中的每个组织都是一个Adobe Admin Console；子组织是层级中的子Admin Console。
 
 ![Admin Console选择您的子组织](assets/admin-console-select-your-org-hierarchy.png "Global Admin Console层次结构中的组织位置")
 
-如果您的组织结构复杂，拥有多个Admin Console，或者您要将主Admin Console拆分为多个控制台，您可以[采用Global Admin Console](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)。 例如，跨国公司、教育联合会、大型学区和大型政府机构。 Global Admin Console将现有的Admin Console嵌套到一个层次结构中（如组织结构图），以在分布式企业中提供透明度。
+如果您的组织结构复杂，拥有多个Admin Console，或者您要将主Admin Console拆分为多个控制台，您可以[采用Global Admin Console](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)。 Global Admin Console将这些Adobe Admin Console分组为一个层次结构，如组织结构图，因此，全局管理员可以管理子控制台并向其分配产品，同时系统管理员可以在每个控制台中继续日常管理。 例如，跨国公司、教育联合会、大型学区和大型政府机构。
 
 ## [!UICONTROL 产品] {#products}
 
@@ -55,7 +55,7 @@ Admin Console上的每个选项卡都允许您执行各种任务。 选择链接
 
 **企业**
 
-**[!UICONTROL Admin Console]**&#x200B;中的[产品](https://adminconsole.adobe.com)页面提供了用于管理产品和产品配置文件的选项。 通过产品配置文件，可启用计划中可用的所有Adobe应用程序和服务或其子集，并自定义与给定产品或计划关联的设置。 然后，您可以将管理员（称为产品管理员）分配给产品配置文件。 这些管理员将最终用户添加到他们管理的产品配置文件。
+[Admin Console](https://adminconsole.adobe.com)中的&#x200B;**[!UICONTROL 产品]**&#x200B;页面提供了用于管理产品和产品配置文件的选项。 通过产品配置文件，可启用计划中可用的所有Adobe应用程序和服务或其子集，并自定义与给定产品或计划关联的设置。 然后，您可以将管理员（称为产品管理员）分配给产品配置文件。 这些管理员将最终用户添加到他们管理的产品配置文件。
 
 有关更多信息，请参阅：
 
@@ -64,9 +64,9 @@ Admin Console上的每个选项卡都允许您执行各种任务。 选择链接
 
 **团队**
 
-通过&#x200B;**[!UICONTROL Admin Console]**&#x200B;中的[产品](https://adminconsole.adobe.com)页面，可将产品许可证分配给用户。 要将产品许可证分配给用户或组，请在&#x200B;**[!UICONTROL 产品]**&#x200B;页面上选择所需的产品，然后单击&#x200B;**[!UICONTROL 添加用户]**。
+通过[Admin Console](https://adminconsole.adobe.com)中的&#x200B;**[!UICONTROL 产品]**&#x200B;页面，可将产品许可证分配给用户。 要将产品许可证分配给用户或组，请在&#x200B;**[!UICONTROL 产品]**&#x200B;页面上选择所需的产品，然后单击&#x200B;**[!UICONTROL 添加用户]**。
 
-输入用户的名称或电子邮件地址。 您可以通过指定有效的电子邮件地址并在屏幕上填写信息来搜索现有用户或添加用户。 单击 **[!UICONTROL Save]**。将向用户或组发送一封电子邮件，确认对应用程序的访问权限。
+输入用户的名称或电子邮件地址。 您可以通过指定有效的电子邮件地址并在屏幕上填写信息来搜索现有用户或添加用户。 单击&#x200B;**[!UICONTROL 保存]**。 将向用户或组发送一封电子邮件，确认对应用程序的访问权限。
 
 有关更多信息，请参阅：
 
@@ -75,7 +75,7 @@ Admin Console上的每个选项卡都允许您执行各种任务。 选择链接
 
 ## [!UICONTROL 用户] {#users}
 
-通过&#x200B;**[!UICONTROL Admin Console]**&#x200B;中的[用户](https://adminconsole.adobe.com)页面，您可以创建、搜索、更新和移除用户帐户。 这些用户帐户授权贵组织中的最终用户使用Adobe产品和服务。 您还可以使用批量编辑工作流添加用户或修改用户详细信息和许可证分配。
+通过[Admin Console](https://adminconsole.adobe.com)中的&#x200B;**[!UICONTROL 用户]**&#x200B;页面，您可以创建、搜索、更新和移除用户帐户。 这些用户帐户授权贵组织中的最终用户使用Adobe产品和服务。 您还可以使用批量编辑工作流添加用户或修改用户详细信息和许可证分配。
 
 有关更多信息，请参阅：
 
@@ -120,7 +120,7 @@ Admin Console上的每个选项卡都允许您执行各种任务。 选择链接
 
 谁可以查看此选项卡：系统管理员和存储管理员（仅适用于迁移到[池化存储模型](https://helpx.adobe.com/cn/enterprise/using/manage-adobe-storage.html)的客户）。
 
-**[!UICONTROL Admin Console]**&#x200B;中的[存储页面](https://adminconsole.adobe.com)允许您查看整个Creative Cloud应用程序中的存储。 存储配额对最终用户而言是灵活的，最高可达组织购买的存储量。
+[Admin Console](https://adminconsole.adobe.com)中的&#x200B;**[!UICONTROL 存储页面]**&#x200B;允许您查看整个Creative Cloud应用程序中的存储。 存储配额对最终用户而言是灵活的，最高可达组织购买的存储量。
 
 您还可以查看单个用户使用了多少配额，以及所有用户使用的总配额。
 
@@ -130,7 +130,7 @@ Admin Console上的每个选项卡都允许您执行各种任务。 选择链接
 
 谁可以查看此选项卡：系统管理员和部署管理员。
 
-**[!UICONTROL Admin Console]**&#x200B;中的[包](https://adminconsole.adobe.com)页面提供了以下功能。 当您计划向组织中的最终用户部署桌面应用程序时，请使用它们。
+[Admin Console](https://adminconsole.adobe.com)中的&#x200B;**[!UICONTROL 包]**&#x200B;页面提供了以下功能。 当您计划向组织中的最终用户部署桌面应用程序时，请使用它们。
 
 - 使用[Adobe模板](https://helpx.adobe.com/cn/enterprise/using/package-templates.html)下载预配置的包。
 - 使用您希望最终用户拥有的配置和应用程序创建自定义的[指定用户许可](https://helpx.adobe.com/cn/enterprise/using/create-nul-packages.html)或[共享设备](https://helpx.adobe.com/cn/enterprise/using/create-sdl-packages.html)许可（适用于教育机构）打包程序。
