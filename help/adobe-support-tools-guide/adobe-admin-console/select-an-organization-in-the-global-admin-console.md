@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6a94922a-3343-433d-96e7-0af0f26581a1
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: d1ef19b7858bb0f7b81b88cdf5b72eddc2647ada
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '705'
 ht-degree: 1%
 
 ---
@@ -18,13 +18,13 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->在访问[Global Admin Console](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console)后，您可以首先选择一个组织来查看和管理组织的名称、用户组、产品配置文件、管理员和组织策略。 若要登录，请转到[Global Admin Console](https://global-admin-console.adobe.com/)。
+>在访问[Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console)后，您可以首先选择一个组织来查看和管理组织的名称、用户组、产品配置文件、管理员和组织策略。 若要登录，请转到[Global Admin Console](https://global-admin-console.adobe.com/)。
 
-Global Admin Console是组织中管理Adobe资源的中心枢纽。 全局管理员可以：
+Global Admin Console在层次结构中对Adobe Admin Console进行分组。 您选择的每个组织都是一个Adobe Admin Console。 全局管理员可以：
 
-- 在其组织下创建子组织
-- 分配系统管理员来管理他们
-- 将资源分配给子组织，以便对这些组织中的用户进行管理和分配
+- 在其组织下创建子Admin Console（子组织）
+- 分配系统管理员来管理每个子控制台
+- 将受支持的产品资源/许可证分配给子Admin Console，以便系统管理员分配给这些控制台中的用户
 
 >[!NOTE]
 >
@@ -79,6 +79,6 @@ Global Admin Console是组织中管理Adobe资源的中心枢纽。 全局管理
 
 - 组织路径名是唯一的，但简单名称在其同级中是唯一的。 在组织层次结构中的其他位置，可能会有具有相同简单名称的组织。
 
-- 您只能使用Global Admin Console查看链接到所选组织的域列表。 如果您是所选组织的系统管理员，请选择&#x200B;**[!UICONTROL 在Admin Console中打开]**&#x200B;以[管理域](https://helpx.adobe.com/cn/enterprise/using/manage-domains-directories.html)。 若要了解“域”选项卡中显示的信息，请参阅[导出和导入架构](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-and-import-schemas)。
+- 您只能使用Global Admin Console查看链接到所选组织的域列表。 如果您是所选组织的系统管理员，请选择&#x200B;**[!UICONTROL 在Admin Console中打开]**&#x200B;以[管理域](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html)。 若要了解“域”选项卡中显示的信息，请参阅[导出和导入架构](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-and-import-schemas)。
 
 - 全局管理访问不支持IE 11。 使用其他浏览器或更新版本的IE浏览器。
