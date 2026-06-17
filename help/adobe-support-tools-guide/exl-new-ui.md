@@ -12,10 +12,10 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2efca23d4302f4c6caf580a9ae3d3ffde70bfa36
+source-git-commit: cb188c0e7ac012dbe9ef83d805b1b5df7a1c69db
 workflow-type: tm+mt
-source-wordcount: 898
-ht-degree: 2%
+source-wordcount: 1083
+ht-degree: 1%
 
 ---
 
@@ -69,26 +69,37 @@ ht-degree: 2%
 
 ## 服务分析
 
-**[!UICONTROL 服务分析]**&#x200B;部分提供了支持案例活动的摘要。 在&#x200B;**[!UICONTROL 我的案例]**&#x200B;和&#x200B;**[!UICONTROL 我的组织案例]**&#x200B;视图之间切换。 **[!UICONTROL 我的案例]**&#x200B;视图显示个人特定的案例统计信息，而&#x200B;**[!UICONTROL 我的组织案例]**&#x200B;视图显示整个组织的案例统计信息。
+**[!UICONTROL 服务分析]**&#x200B;部分显示支持案例活动的摘要。 使用视图选择器在&#x200B;**[!UICONTROL 我的案例]**&#x200B;和&#x200B;**[!UICONTROL 我的组织案例]**&#x200B;之间切换：
 
-![服务分析部分](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+- **[!UICONTROL 我的案例]** — 显示个人特定的案例统计信息。
+- **[!UICONTROL 我的组织案例]** — 显示所选组织的案例统计数据。
 
-可以使用以下量度：
+所选视图适用于此部分中的所有量度和图表，包括[[!UICONTROL 按优先级列出的案例计数]](#cases-count-by-priority)和[[!UICONTROL 我已提交的案例]](#my-submitted-cases)部分。
 
-**[!UICONTROL 未决回应案例]** — 当前正在等待回应的案例数
-**[!UICONTROL 已提交的案例]** — 已提交的案例总数
+![服务分析](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+
+**[!UICONTROL 服务分析]**&#x200B;部分提供了以下量度：
+
+- **[!UICONTROL 未决回应案例]** — 显示等待回应的案例数。
+- **[!UICONTROL 已提交的案例]** — 显示已提交的案例总数。
 
 ## 按优先级列出的案例数
 
 此部分按优先级显示支持案例的可视细分。
 
-![按优先级部分显示的案例数](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
+按优先级![案例数](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
 
-**[!UICONTROL 我的用例]**&#x200B;和&#x200B;**[!UICONTROL 我的组织用例]**&#x200B;选择适用于此图表，允许在个人或组织级别查看。
+**[!UICONTROL 服务分析]**&#x200B;部分中的&#x200B;**[!UICONTROL 我的用例]**&#x200B;和&#x200B;**[!UICONTROL 我的组织用例]**&#x200B;选择适用于此图表，并允许在个人或组织级别查看。
+
+将鼠标悬停在优先级区段上可查看显示以下内容的工具提示：
+
+- 该优先级别的案例总数
+- 未结案例的数量
+- 结案数量
 
 ## 我已提交的案例
 
-此部分显示三个最新的支持案例，包括：
+此部分显示最近提交的三个支持案例，包括：
 
 - 案例ID
 - 案例标题
@@ -96,15 +107,38 @@ ht-degree: 2%
 - 提交日期
 - 状态
 
-![我提交的案例部分](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
+![我提交的案例](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
-选择&#x200B;**[!UICONTROL 案例ID]**&#x200B;可在当前的Experience League支持门户中查看案例详细信息。 选择&#x200B;**[!UICONTROL 查看所有案例]**&#x200B;以查看案例的完整列表。
+选择&#x200B;**[!UICONTROL 我的案例]**&#x200B;后，此部分将显示三个最近提交的案例。 在&#x200B;**[!UICONTROL 服务分析]**&#x200B;部分中选择&#x200B;**[!UICONTROL 我的组织案例]**&#x200B;时，将显示整个组织中最近提交的三个案例。
+
+![我的案例](/help/adobe-support-tools-guide/assets/my-case.png)
+
+选择&#x200B;**[!UICONTROL 案例ID]**&#x200B;可在当前的Experience League支持门户中查看案例详细信息。
+
+![选择案例ID](/help/adobe-support-tools-guide/assets/select-case-id.png)
+
+选择&#x200B;**[!UICONTROL 查看所有案例]**&#x200B;以打开当前Experience League支持门户上的&#x200B;**[!UICONTROL 我的案例]**&#x200B;页面。
+
+![查看所有案例](/help/adobe-support-tools-guide/assets/view-all-cases.png)
+
+在&#x200B;**[!UICONTROL Service Analytics]**&#x200B;中选择&#x200B;**[!UICONTROL 我的案例]**&#x200B;时，**[!UICONTROL 我的案例（全部）]**&#x200B;已预先选定并在Experience League支持门户中打开。 选择&#x200B;**[!UICONTROL 我的组织案例]**&#x200B;时，已在Experience League支持门户中预先选择&#x200B;**[!UICONTROL 我的组织案例（全部）]**。
 
 ## 产品状态警报
 
-部分显示分配给组织的Adobe产品的当前操作状态。 状态&#x200B;**[!UICONTROL 可用]**&#x200B;表示产品已完全运行且没有活动中断。 如果存在一个或多个问题，产品卡上将显示活动问题的总数。 选择产品卡以查看Adobe [状态网站](https://status.adobe.com/zh-cn/)上的其他详细信息。
+此部分显示分配给该组织的Adobe产品的当前操作状态。
 
-![产品状态警报部分](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+![产品状态警报](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+
+状态&#x200B;**[!UICONTROL 可用]**&#x200B;表示产品已完全运行且没有活动中断。 如果存在一个或多个问题，产品卡上将显示活动问题的总数。
+
+产品按以下顺序显示：
+
+1. 有活动问题的产品
+1. 其余产品，按字母顺序列出
+
+此优先级划分有助于快速识别需要注意的产品并确定其优先级。 您可以在&#x200B;**[!UICONTROL 主页]**&#x200B;页面上的&#x200B;**[!UICONTROL 您的系统状态警报]**&#x200B;中选择一个或多个产品卡以过滤警报。
+
+![警报过滤器](/help/adobe-support-tools-guide/assets/select-more-products.png)
 
 ## 您的系统状态警报
 
@@ -151,7 +185,7 @@ ht-degree: 2%
 - 该计划的主要组成部分，包括：
    - **[!UICONTROL 成功团队]**
    - **[!UICONTROL 成功加速器]**
-   - **[!UICONTROL 相互行动计划]**
+   - **[!UICONTROL Mutual Action Plan]**
 
 它还提供对学习资源（如Experience League、Experience League社区和Premium学习订阅）的访问权限。
 
