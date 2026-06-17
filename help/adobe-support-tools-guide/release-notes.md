@@ -3,20 +3,25 @@ title: Experience League支持发行说明
 description: 有关Experience League支持的最新发行信息。
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-TQID: https://experienceleague.adobe.com/deGe04hNuc2gsMLHx49aIihzTqQoUbFYCYiReOgzowk
+autotag-review: '2026-06-12T20:44:20.941Z'
+TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: a279aba612b6a6c61e4df38ee42b76fca90d20ea
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 3f934873bc3e6a2c81b8173b1f63333a5151af9a
 workflow-type: tm+mt
-source-wordcount: 1209
+source-wordcount: 1386
 ht-degree: 1%
 
 ---
+
 
 # Experience League支持发行说明
 
@@ -25,6 +30,18 @@ ht-degree: 1%
 ![新](../adobe-support-tools-guide/assets/new.svg)新功能
 ![修复](../adobe-support-tools-guide/assets/fix.svg)修复和改进
 ![错误](../adobe-support-tools-guide/assets/bug.svg)已知问题
+
+## 2026年6月17日 — 重新设计的Experience League支持门户中的更新
+
+1. 重新设计的Experience League支持门户现在可供Adobe Commerce用户使用。
+
+1. 在&#x200B;**[!UICONTROL 服务分析]**&#x200B;部分中选择&#x200B;**[!UICONTROL 我的组织案例]**&#x200B;切换后，**[!UICONTROL 我提交的案例]**&#x200B;部分将显示整个组织最近提交的三个案例。 选择&#x200B;**[!UICONTROL 查看所有案例]**&#x200B;会在Experience League支持门户中打开&#x200B;**[!UICONTROL 我的组织案例]**&#x200B;页面，并预先选择&#x200B;**[!UICONTROL 我的组织案例（全部）]**&#x200B;筛选器。
+
+1. 按优先级排列的&#x200B;**[!UICONTROL 案例数]**&#x200B;图表现在提供有关悬停的更详细细分。 将鼠标悬停在优先级区段上会显示工具提示，其中显示案例总数以及未结和已结案例的数量。
+
+1. **[!UICONTROL 产品状态]**&#x200B;构件现在支持交互式产品筛选。 通过直接从主页中选择一个或多个产品，可以过滤系统状态警报。 在此构件中选择产品时，不再重定向到[status.adobe.com](http://status.adobe.com/zh-cn)。
+
+1. **[!UICONTROL 产品状态]**&#x200B;构件现在会以更直观的顺序列出产品。 首先显示有活动问题的产品，然后显示其余产品（按字母排序）。
 
 ## 2026年5月28日 — 扩展[!UICONTROL 请求回调]功能
 
