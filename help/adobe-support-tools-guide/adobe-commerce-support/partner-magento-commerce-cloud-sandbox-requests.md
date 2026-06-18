@@ -34,7 +34,7 @@ ht-degree: 2%
 
 ## 解决方案合作伙伴或技术合作伙伴如何在何处提交支持请求？ {#wherehow-do-solution-partners-or-tech-partners-submit-a-support-request}
 
-具有Partner Sandbox Cloud项目的合作伙伴无法通过Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home)的[支持部分提交与沙盒相关的问题的票证。 请不要使用商户帐户提交这些票证，因为似乎代表他们提交这些票证，这样会造成混淆。
+具有Partner Sandbox Cloud项目的合作伙伴无法通过Experience League[&#128279;](https://experienceleague.adobe.com/en/support?support-tab=home#home)的支持部分提交与沙盒相关的问题的票证。 请不要使用商户帐户提交这些票证，因为似乎代表他们提交这些票证，这样会造成混淆。
 
 当合作伙伴在内部环境中工作而不是为特定客户工作时，此要求也适用。 合作伙伴不得在客户组织下提交支持请求，除非他们代表该客户积极参与。
 
