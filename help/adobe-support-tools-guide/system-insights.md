@@ -2,10 +2,11 @@
 title: 系统分析
 description: 系统分析可主动识别Adobe Commerce环境中的潜在问题。 在案例创建期间查看见解可减少解决时间，有助于防止中断，并支持稳定而安全的部署。
 hide: true
-source-git-commit: f9a38443243d230c76d968ca7a67c4ba29d07a26
+hold: true
+source-git-commit: d72c704d44f675d40c9c5b0ce2132957d5129df9
 workflow-type: tm+mt
 source-wordcount: '738'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -35,13 +36,13 @@ Adobe团队持续分析常见的支持问题和新趋势。 Adobe会根据这些
 
 系统分析当前仅适用于Adobe Commerce。 这些见解显示在Experience League支持的案例创建过程中，并可通过[站点范围分析工具(SWAT)](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/site-wide-analysis-tool/intro)获得。
 
->[ !N注意]
+>[!N注意]
 >
 >系统分析仅显示生产环境的数据。
 
 ## 访问系统分析
 
-系统分析会在整个案例创建工作流中显示。 输入问题详细信息后，**[!UICONTROL 系统分析]**&#x200B;面板将显示在屏幕右侧，AI支持的推荐部分下方。 要了解有关AI支持的推荐的更多信息，请参阅Adobe客户支持体验一文中的[填写支持工单](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)。
+系统分析会在整个案例创建工作流中显示。 输入问题详细信息后，**[!UICONTROL 系统分析]**&#x200B;面板将显示在屏幕右侧，AI支持的推荐部分下方。 要了解有关AI支持的推荐的更多信息，请参阅Adobe客户支持体验一文中的[填写支持工单](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)。
 
 该面板显示一个可滚动的见解列表，这些见解限于特定项目实例。 范围设定基于&#x200B;**[!UICONTROL 项目URL]**&#x200B;字段中输入的信息。 准确地输入&#x200B;**[!UICONTROL 项目URL]**&#x200B;以确保分析反映正确的环境。
 
