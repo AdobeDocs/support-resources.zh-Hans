@@ -36,7 +36,7 @@ Adobe团队持续分析常见的支持问题和新趋势。 Adobe会根据这些
 
 系统分析当前仅适用于Adobe Commerce。 这些见解显示在Experience League支持的案例创建过程中，并可通过[站点范围分析工具(SWAT)](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/site-wide-analysis-tool/intro)获得。
 
->[!N注意]
+>[ !N注意]
 >
 >系统分析仅显示生产环境的数据。
 
