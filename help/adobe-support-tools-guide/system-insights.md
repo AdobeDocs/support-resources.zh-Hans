@@ -42,7 +42,7 @@ Adobe团队持续分析常见的支持问题和新趋势。 Adobe会根据这些
 
 ## 访问系统分析
 
-系统分析会在整个案例创建工作流中显示。 输入问题详细信息后，**[!UICONTROL 系统分析]**&#x200B;面板将显示在屏幕右侧，AI支持的推荐部分下方。 要了解有关AI支持的推荐的更多信息，请参阅Adobe客户支持体验一文中的[填写支持工单](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)。
+系统分析会在整个案例创建工作流中显示。 输入问题详细信息后，**[!UICONTROL 系统分析]**&#x200B;面板将显示在屏幕右侧，AI支持的推荐部分下方。 要了解有关AI支持的推荐的更多信息，请参阅Adobe客户支持体验一文中的[填写支持工单](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)。
 
 该面板显示一个可滚动的见解列表，这些见解限于特定项目实例。 范围设定基于&#x200B;**[!UICONTROL 项目URL]**&#x200B;字段中输入的信息。 准确地输入&#x200B;**[!UICONTROL 项目URL]**&#x200B;以确保分析反映正确的环境。
 
