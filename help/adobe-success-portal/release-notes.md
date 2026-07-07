@@ -11,7 +11,7 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+source-git-commit: b701d905fa6fc5c837ec3bdd633504c65694f621
 workflow-type: tm+mt
 source-wordcount: 597
 ht-degree: 81%
@@ -43,6 +43,7 @@ _2025 年 11 月 11 日_
 _2025 年 10 月 9 日_
 
 ![新](../adobe-success-portal/assets/new.svg)在&#x200B;**[!UICONTROL 行动计划]**&#x200B;模块中新增了日程表视图，用于可视化与&#x200B;**[!UICONTROL 关键业务目标]**（KBO）关联的&#x200B;**[!UICONTROL 加速器]**&#x200B;和&#x200B;**[!UICONTROL 活动]**&#x200B;的时间线。
+
 * 您可以从“行动计划”的 KBO 页面，或从 **[!UICONTROL KBO]**/**[!UICONTROL 加速器]**/**[!UICONTROL 活动]**&#x200B;的详情页面访问该日程表（仅当其已关联到某个 KBO 时）。
 * 可在列表视图（默认）与日程表视图之间切换。
 * 日程表会为每个 KBO 显示可折叠的分区：
