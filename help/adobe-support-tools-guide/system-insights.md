@@ -12,7 +12,7 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: ada6c0ec0c6814e3176d3b6c953455be019bc703
+source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
 workflow-type: tm+mt
 source-wordcount: 738
 ht-degree: 1%
@@ -118,3 +118,4 @@ Adobe团队持续分析常见的支持问题和新趋势。 Adobe会根据这些
    - 如果insight没有帮助，请&#x200B;**向下缩略图**&#x200B;图标
 5. （可选）输入其他注释。
 6. 选择&#x200B;**[!UICONTROL 提交]**&#x200B;以发送反馈，或选择&#x200B;**[!UICONTROL 解除]**&#x200B;以关闭反馈部分而不提交。
+
