@@ -3,9 +3,15 @@ title: 系统分析
 description: 系统分析可主动识别Adobe Commerce环境中的潜在问题。 在案例创建期间查看见解可减少解决时间，有助于防止中断，并支持稳定而安全的部署。
 autotag-review: '2026-07-06T16:24:45.881Z'
 TQID: 'https://experienceleague.adobe.com/jSV4V0a4G9gPqbFSURQSP2ctdKob7eu71JB7am0ZwSo'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: ada6c0ec0c6814e3176d3b6c953455be019bc703
 workflow-type: tm+mt
 source-wordcount: 738
@@ -39,7 +45,7 @@ Adobe团队持续分析常见的支持问题和新趋势。 Adobe会根据这些
 
 系统分析当前仅适用于Adobe Commerce。 这些见解显示在Experience League支持的案例创建过程中，并可通过[站点范围分析工具(SWAT)](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/site-wide-analysis-tool/intro)获得。
 
->[!N注意]
+>[ !N注意]
 >
 >系统分析仅显示生产环境的数据。
 
