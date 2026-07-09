@@ -5,18 +5,12 @@ description: Adobe客户支持体验
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 08be6152d1f6395647c7eb04e39ed448dac86bba
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 8631501b570117aec52510142df2d9594366c00c
 workflow-type: tm+mt
-source-wordcount: 1510
+source-wordcount: 2033
 ht-degree: 0%
 
 ---
@@ -25,17 +19,17 @@ ht-degree: 0%
 
 ## Experience League支持票证
 
-支持票证现在通过[Experience League](https://experienceleague.adobe.com/home?lang=zh-Hans#support)提交。 有关如何提交支持票证的说明，请参阅[提交支持票证](#create-a-support-ticket-with-experience-league)一节。
+支持票证现在通过[Experience League](https://experienceleague.adobe.com/home#support)提交。 有关如何提交支持票证的说明，请参阅[提交支持票证](#create-a-support-ticket-with-experience-league)一节。
 
 我们正在努力改进您与Adobe客户支持部门的交互方式。 我们的愿景是通过使用Experience League转移到单一入口点来简化支持体验。 启用后，您的组织将能够轻松访问Adobe客户支持；通过跨产品的通用系统更深入地了解您的服务历史记录；以及通过电话、Web和通过单一门户聊天请求帮助。
 
-如果您是Adobe Commerce用户，请参阅《适用于Adobe Commerce的Experience League支持用户指南》中的[提交支持案例](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)。
+如果您是Adobe Commerce用户，请参阅《适用于Adobe Commerce的Experience League支持用户指南》中的[提交支持案例](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)。
 
 ## 支持案例提交所需的授权角色 {#submit-ticket}
 
-要在[Experience League](https://experienceleague.adobe.com/home?lang=zh-Hans#support)中提交支持工单，您需要具有系统管理员分配的支持管理员角色。 只有组织中的系统管理员才能分配此角色。 产品、产品配置文件和其他管理角色无法分配支持管理员角色，也无法查看用于提交支持票证的&#x200B;**[!UICONTROL 创建案例]**&#x200B;选项。 要了解有关不同类型的管理员角色及其权限的详细信息，请参阅[管理员角色](adobe-admin-console/admin-roles.md)。
+要在[Experience League](https://experienceleague.adobe.com/home#support)中提交支持工单，您需要具有系统管理员分配的支持管理员角色。 只有组织中的系统管理员才能分配此角色。 产品、产品配置文件和其他管理角色无法分配支持管理员角色，也无法查看用于提交支持票证的&#x200B;**[!UICONTROL 创建案例]**&#x200B;选项。 要了解有关不同类型的管理员角色及其权限的详细信息，请参阅[管理员角色](adobe-admin-console/admin-roles.md)。
 
-如果您使用Commerce，则共享访问权限以处理支持案例的流程会有所不同。 有关详细信息，请参阅Adobe Commerce的Experience League支持用户指南中的[共享访问权限：授予其他用户访问您的帐户的权限](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)。
+如果您使用Commerce，则共享访问权限以处理支持案例的流程会有所不同。 有关详细信息，请参阅Adobe Commerce的Experience League支持用户指南中的[共享访问权限：授予其他用户访问您的帐户的权限](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)。
 
 ### 添加支持使角色有权访问组织
 
@@ -82,11 +76,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 在提交支持票证之前，请检查[Adobe状态](https://status.adobe.com/zh-cn)网站上的Adobe系统性能、可用性和已知问题。
+> 在提交支持票证之前，请检查[Adobe状态](https://status.adobe.com)网站上的Adobe系统性能、可用性和已知问题。
 
 Experience League是一个自助服务支持门户，旨在为授权客户提供个性化帮助和易于使用的体验。
 
-1. 要在[Experience League](https://experienceleague.adobe.com/home?lang=zh-Hans#support)中创建票证，请在顶部导航中选择&#x200B;**[!UICONTROL 支持]**&#x200B;选项卡。
+1. 要在[Experience League](https://experienceleague.adobe.com/home#support)中创建票证，请在顶部导航中选择&#x200B;**[!UICONTROL 支持]**&#x200B;选项卡。
 
    ![Experience League支持选项卡](./assets/experience-league-support-tab.png)
 
@@ -167,7 +161,7 @@ Experience League是一个自助服务支持门户，旨在为授权客户提供
 
    ![Experience League优先级和业务影响](./assets/priority-business-impact.png)
 
-   有关案例优先级和业务影响如何影响支持响应时间的详细信息，请参阅成功计划资源文档中的[支持的目标初始响应时间](https://experienceleague.adobe.com/zh-hans/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
+   有关案例优先级和业务影响如何影响支持响应时间的详细信息，请参阅成功计划资源文档中的[支持的目标初始响应时间](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
 
 1. 在&#x200B;**[!UICONTROL 联系信息和观察者列表]**&#x200B;部分中，选择时区，输入电话号码，添加观察者，根据需要附加任何文件，然后单击&#x200B;**[!UICONTROL 下一步]**。
 
@@ -196,3 +190,78 @@ Experience League是一个自助服务支持门户，旨在为授权客户提供
 >[!NOTE]
 >
 > 如果问题导致生产系统中断或严重中断，则会提供电话号码以立即获得帮助。
+
+### 案例创建体验中的AI聊天
+
+Experience League支持提供AI支持的聊天界面，作为创建和管理支持案例的替代方式。 AI聊天体验为选择加入，不会取代传统的案例创建工作流。
+
+>[!NOTE]
+>
+> 人工智能聊天目前作为测试版功能提供。 经典案例创建表单将保持完全可用并随时可访问。
+
+要访问AI聊天，请执行以下步骤：
+
+1. 导航到&#x200B;**[!UICONTROL 主页]**&#x200B;并选择&#x200B;**[!UICONTROL 打开支持票证]**。 您还可以在侧栏菜单中选择&#x200B;**[!UICONTROL 打开票证]**。
+
+   ![Experience League选择产品](./assets/product-selection.png)
+
+1. 单击产品名称以选择受影响的产品，然后单击&#x200B;**[!UICONTROL 下一步]**。
+1. 在右上角，选择&#x200B;**[!UICONTROL AI Chat]**。
+
+   ![AI聊天](./assets/ai-chat.png)
+
+若要在&#x200B;**[!UICONTROL 传统表单]**&#x200B;和&#x200B;**[!UICONTROL AI聊天]**&#x200B;之间切换，请使用右上角的切换开关。 切换时，不会结转当前进度，但已完成的案例或操作不会受到影响。
+
+### 人工智能聊天入门
+
+打开AI聊天时，您会看到以下选项：
+
+* **[!UICONTROL 提问]**
+* **[!UICONTROL 处理现有案例]**
+* **[!UICONTROL 打开新案例]**
+
+  ![与我们聊天](./assets/chat-with-us.png)
+
+您可以通过键入文本字段或使用语音转文本来描述问题。
+
+#### 提出问题
+
+选择&#x200B;**[!UICONTROL 提问]**&#x200B;即可直接在聊天中即时获得产品、Adobe服务和支持相关问题的答案，而无需打开支持案例。
+
+AI利用Adobe知识库根据您的查询提供相关答案、文档链接和已知解决方案。
+
+如果AI无法直接在聊天中解析您的查询，它将引导您打开新的支持案例以与Adobe支持团队联系。
+
+#### 处理现有案例
+
+选择&#x200B;**[!UICONTROL 处理现有案例]**&#x200B;以直接在聊天中管理和获取现有支持案例的更新。
+
+AI将显示您的未决案例列表。 您可以按案例在列表中的位置或其案例编号来引用案例，以选择要处理的案例。
+
+选择案例后，您可以：
+
+* 请求摘要
+* 检查更新
+* 采取跟进措施，例如在同一聊天体验中上报案例或请求回调。
+
+#### 打开新案例
+
+选择&#x200B;**[!UICONTROL 打开新案例]**&#x200B;以您自己的文字描述您的问题，而不是填写结构化表单字段。
+
+AI通过提出有针对性的后续问题来收集所需的详细信息，并根据您的响应动态调整流程，从而指导您完成案例创建过程。
+
+AI会收集所需的信息，例如：
+
+* 产品详细信息
+* 问题类型
+* 复制步骤
+
+如果在提交信息时信息尚不可用，则可以跳过可选字段。
+
+收集到足够的信息后，AI会根据您的对话自动生成结构化案例摘要，包括：
+
+* 案例标题
+* 描述
+* 复制步骤
+
+您可以在提交之前查看草稿，以确保所有详细信息准确无误，还可以在案例创建对话期间或之后随时添加附件、日志、屏幕截图和其他补充详细信息，为支持团队提供他们所需的完整上下文。
