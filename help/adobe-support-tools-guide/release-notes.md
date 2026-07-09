@@ -5,20 +5,14 @@ feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 3f934873bc3e6a2c81b8173b1f63333a5151af9a
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 2c6c6384b7bbe59f477278b984d0a7ba5efe6682
 workflow-type: tm+mt
-source-wordcount: 1386
-ht-degree: 1%
+source-wordcount: 1686
+ht-degree: 0%
 
 ---
 
@@ -31,6 +25,28 @@ ht-degree: 1%
 ![修复](../adobe-support-tools-guide/assets/fix.svg)修复和改进
 ![错误](../adobe-support-tools-guide/assets/bug.svg)已知问题
 
+## 2026年7月9日 — Experience League支持人工智能聊天
+
+1. Experience League支持上提供了一个新的AI Chat界面，作为经典案例创建表单的选择加入替代，允许客户以对话方式描述他们的问题，而不是填写结构化字段。 经典表单将保持完全可用，并且不会被此体验取代。
+
+1. AI Chat支持键入式输入和语音转文本，实现免提互动，从而提供更易于访问且更灵活的案例创建体验。
+
+1. AI Chat通过提出有针对性的跟进问题来收集所需的详细信息（例如复制步骤），并根据用户响应动态调整对话流程，从而指导客户完成案例创建。
+
+1. 在创建案例之前，AI Chat会根据问题描述主动显示相关知识库文章和已知解决方案，从而实现更快的自助式解决。 如果未找到解决方案，则AI Chat会继续无缝地创建案例。
+
+1. 一旦收集了足够的信息，AI Chat将自动生成结构化案例草稿，包括标题、描述和复制步骤，供客户在提交之前查看。
+
+1. 通过AI Chat提交的所有案例都通过与通过经典表单提交的案例相同的后端工作流进行处理，从而确保支持团队接收或处理案例的方式不会发生任何变化。
+
+1. 客户可以通过对话方式管理现有支持案例，包括检索案例摘要、检查状态和优先级、查看按优先级分组的未结案例，以及请求跟进操作，如升级或回调。
+
+1. 经典门户中可用的所有支持操作（包括升级和回调请求）可通过AI Chat中的对话命令访问。
+
+>[!NOTE]
+>
+>这是AI Chat的早期测试版本。 它可供所有人使用，但在保持数据收集目标一致的情况下，不同会话之间的AI响应和对话流可能会略有不同。 在响应之前，请仔细检查所有AI生成的响应。
+
 ## 2026年6月17日 — 重新设计的Experience League支持门户中的更新
 
 1. 重新设计的Experience League支持门户现在可供Adobe Commerce用户使用。
@@ -39,7 +55,7 @@ ht-degree: 1%
 
 1. 按优先级排列的&#x200B;**[!UICONTROL 案例数]**&#x200B;图表现在提供有关悬停的更详细细分。 将鼠标悬停在优先级区段上会显示工具提示，其中显示案例总数以及未结和已结案例的数量。
 
-1. **[!UICONTROL 产品状态]**&#x200B;构件现在支持交互式产品筛选。 通过直接从主页中选择一个或多个产品，可以过滤系统状态警报。 在此构件中选择产品时，不再重定向到[status.adobe.com](http://status.adobe.com/zh-cn)。
+1. **[!UICONTROL 产品状态]**&#x200B;构件现在支持交互式产品筛选。 通过直接从主页中选择一个或多个产品，可以过滤系统状态警报。 在此构件中选择产品时，不再重定向到[status.adobe.com](http://status.adobe.com)。
 
 1. **[!UICONTROL 产品状态]**&#x200B;构件现在会以更直观的顺序列出产品。 首先显示有活动问题的产品，然后显示其余产品（按字母排序）。
 
