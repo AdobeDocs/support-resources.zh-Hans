@@ -5,9 +5,9 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: f0cf10d8d97b8e2c2925999061c115f6a5d3c81e
+source-git-commit: 6ac712151b002370eb84a3e3deb5480921cc40a6
 workflow-type: tm+mt
-source-wordcount: '3618'
+source-wordcount: '3602'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,9 @@ ht-degree: 0%
 * [登录到Experience League支持](#sign-in-experience-support)
 * [提交支持案例](#support-case)
 
-   * [Adobe Experience League起始页](#experience-league-start-page)
-   * [Adobe Commerce帐户页面](#submit-case-adobe-commerce-account-page)
-   * [*请在Adobe Commerce帐户页面上验证您的电子邮件地址*&#x200B;错误](#verify-email-address-error)
+  * [Adobe Experience League起始页](#experience-league-start-page)
+  * [Adobe Commerce帐户页面](#submit-case-adobe-commerce-account-page)
+  * [*请在Adobe Commerce帐户页面上验证您的电子邮件地址*&#x200B;错误](#verify-email-address-error)
 
 * [跟踪您的支持案例](#track-support-cases)
 * [您案例中的备注](#comments-in-your-case)
@@ -55,7 +55,7 @@ ht-degree: 0%
 * [提供共享访问](#provide-shared-access)
 * [撤销（删除）共享访问权限](#revoke-shared-access)
 
-   * [如何删除通过Cloud项目被授予共享访问权限的用户？](#remove-cloud-shared-access-users)
+  * [如何删除通过Cloud项目被授予共享访问权限的用户？](#remove-cloud-shared-access-users)
 
 * [访问共享帐户（切换帐户）](#switch-accounts)
 * [共享访问疑难解答](#troubleshooting-shared-access)
@@ -148,6 +148,8 @@ Adobe Experience League支持案例管理允许通过案例与支持人员合作
 >
 >如果贵组织有权使用Adobe Commerce Intelligence/Commerce报表(MBI)，但您需要有关高级报表的帮助，请不要选择&#x200B;**Commerce报表**&#x200B;作为产品。 Commerce报表团队不支持高级报表问题。
 >
+>如果您的问题与付款相关，则默认情况下请勿选择“付款服务”。 Payment Services专门指Adobe Payment Services模块。 一般情况下，选择支付问题时可能会混淆范围和相应调查路径中的产品。
+>
 >如果无法选择其他产品（例如，**[!UICONTROL 选择产品]**&#x200B;下拉列表为空或未显示），则通常是由以下原因之一造成的：
 >
 >* 您的Commerce授权已过期或处于非活动状态（例如，由于未解决的计费或许可问题）。
@@ -201,7 +203,7 @@ Adobe Experience League支持案例管理允许通过案例与支持人员合作
 >[!NOTE]
 >
 >如果您有在Commerce之外提交的其他Adobe产品支持案例，则无法从同一屏幕跟踪这些工单 — 您必须先切换到与产品权利关联的组织。
->例如，您之前选择了以“(Commerce)”结尾的组织来跟踪您的Commerce案例，同时您还具有AEP支持案例 — 这些案例不会显示在此处。
+>例如，您之前选择以“(Commerce)”结尾的组织来跟踪您的Commerce案例，而您还具有AEP支持案例 — 这些案例不会显示在此处。
 
 #### 查看您的案例
 
@@ -254,7 +256,7 @@ Adobe Experience League支持案例管理允许通过案例与支持人员合作
 
 ### 您案例中的备注 {#comments-in-your-case}
 
-您案例中的注释包含您或Adobe Commerce支持团队编写的所有注释。 注释按最新（顶部）到最早（底部）顺序显示。
+您案例中的注释包含您或Adobe Commerce支持团队编写的所有注释。注释按最新（顶部）到最早（底部）顺序显示。
 要添加评论，请执行以下步骤：
 
 1. 滚动到票证的底部。
