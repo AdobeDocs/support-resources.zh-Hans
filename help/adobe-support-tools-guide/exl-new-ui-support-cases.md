@@ -3,7 +3,8 @@ title: 创建和管理支持案例
 description: 了解如何在重新设计的Experience League支持门户中创建、查看和管理支持案例。
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 hold: true
 source-git-commit: df632069c153ca8215fcc75c9c73f7a67c11b0c6
 workflow-type: tm+mt
@@ -78,7 +79,7 @@ ht-degree: 0%
 
    ![问题描述步骤](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   选择右上角的&#x200B;**[!UICONTROL 经典表单]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**&#x200B;以切换案例创建体验。 有关AI聊天详细信息，请参阅案例创建体验](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)中的[AI聊天。
+   选择右上角的&#x200B;**[!UICONTROL 经典表单]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**&#x200B;以切换案例创建体验。 有关AI聊天详细信息，请参阅案例创建体验[&#128279;](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)中的AI聊天。
 
    ![AI聊天](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
