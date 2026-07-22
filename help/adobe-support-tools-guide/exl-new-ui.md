@@ -164,7 +164,7 @@ ht-degree: 1%
 
 ![您的系统状态警报部分](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-选择&#x200B;**[!UICONTROL 管理订阅]**&#x200B;以在Adobe [状态网站](https://status.adobe.com/)上为Adobe产品配置通知首选项。
+选择&#x200B;**[!UICONTROL 管理订阅]**&#x200B;以在Adobe [状态网站](https://status.adobe.com/zh-cn/)上为Adobe产品配置通知首选项。
 
 ## 您的计划信息
 
