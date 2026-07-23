@@ -12,10 +12,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-hold: true
-source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
+source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
 workflow-type: tm+mt
-source-wordcount: 1061
+source-wordcount: 1070
 ht-degree: 1%
 
 ---
@@ -26,10 +25,6 @@ ht-degree: 1%
 
 重新设计的Experience League支持门户为管理Adobe支持活动提供了统一且直观的体验。 它让您可以更快地访问基本功能，包括跟踪支持案例、监控产品状态、访问案例分析并与成功团队联系。
 
->[!NOTE]
->
->要在重新设计的门户中创建和管理支持案例，请参阅[创建和管理支持案例](exl-new-ui-support-cases.md)。
-
 ## 主页
 
 **[!UICONTROL Home]**&#x200B;页面用作支持活动的中心中心。 它提供了支持环境的概述以及关键功能的快速访问。
@@ -39,8 +34,8 @@ ht-degree: 1%
 左侧导航面板提供对以下部分的访问：
 
 - **[!UICONTROL 主页]**&#x200B;作为默认登录页面打开，并显示支持活动的集中视图。
-- **[!UICONTROL 打开案例]**&#x200B;在重新设计的门户中打开案例创建工作流。 请参阅[创建和管理支持案例](exl-new-ui-support-cases.md)。
-- **[!UICONTROL 我的案例]**&#x200B;在重新设计的门户中打开案例列表。 请参阅[创建和管理支持案例](exl-new-ui-support-cases.md)。
+- **[!UICONTROL 打开案例]**&#x200B;在当前Experience League支持门户中打开案例创建工作流。
+- **[!UICONTROL 我的案例]**&#x200B;在当前的Experience League支持门户中打开案例列表。
 - **[!UICONTROL 我的成功]**&#x200B;仅适用于Ultimate Success plan客户。
 
 ## 切换组织
@@ -59,13 +54,17 @@ ht-degree: 1%
 
 ![旧UI](/help/adobe-support-tools-guide/assets/old-ui.png)
 
+>[!NOTE]
+>
+>门户首选项会自动保存。 您上次使用的门户将成为您未来登录的默认门户。 如果您上次使用重新设计的门户，它将直接打开，而不加载旧版门户。 如果您上次使用旧版门户，则系统会打开旧版门户。
+
 主页包含带有全局搜索栏的个性化欢迎横幅，该栏支持在Experience League支持门户中进行搜索。
 
 **[!UICONTROL 主页]**&#x200B;页面顶部提供了以下快速操作：
 
-1. **[!UICONTROL 打开支持案例]** — 在重新设计的门户中打开案例创建工作流。 选择&#x200B;**[!UICONTROL 开始使用]**。
+1. **[!UICONTROL 打开支持案例]** — 在旧版支持门户中打开案例创建工作流。 选择&#x200B;**[!UICONTROL 开始使用]**。
 
-1. **[!UICONTROL 查看和管理您的案例]** — 在重新设计的门户中打开&#x200B;**[!UICONTROL 我的案例]**&#x200B;页面。 选择&#x200B;**[!UICONTROL 立即执行]**。
+1. **[!UICONTROL 查看和管理您的案例]** — 在旧版支持门户中打开&#x200B;**[!UICONTROL 我的案例]**&#x200B;页面。 选择&#x200B;**[!UICONTROL 立即执行]**。
 
 1. **[!UICONTROL 请求回调]** — 安排与Adobe专家进行案例相关通话。 对于P1（严重）情况，请求立即回调。 对于P2和P3案例，安排在方便的时间和日期与支持工程师举行Web会议。 选择&#x200B;**[!UICONTROL 立即请求]**&#x200B;开始。
 
@@ -115,11 +114,11 @@ ht-degree: 1%
 
 ![我的案例](/help/adobe-support-tools-guide/assets/my-case.png)
 
-选择&#x200B;**[!UICONTROL 案例ID]**&#x200B;以在重新设计的Experience League支持门户中查看案例详细信息。
+选择&#x200B;**[!UICONTROL 案例ID]**&#x200B;可在当前的Experience League支持门户中查看案例详细信息。
 
 ![选择案例ID](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-选择&#x200B;**[!UICONTROL 查看所有案例]**&#x200B;以在重新设计的Experience League支持门户中打开&#x200B;**[!UICONTROL 我的案例]**&#x200B;页面。
+选择&#x200B;**[!UICONTROL 查看所有案例]**&#x200B;以打开当前Experience League支持门户中的&#x200B;**[!UICONTROL 我的案例]**&#x200B;页面。
 
 ![查看所有案例](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -163,8 +162,6 @@ ht-degree: 1%
 选择警报以展开并查看其他详细信息。
 
 ![您的系统状态警报部分](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
-
-选择&#x200B;**[!UICONTROL 管理订阅]**&#x200B;以在Adobe [状态网站](https://status.adobe.com/zh-cn/)上为Adobe产品配置通知首选项。
 
 ## 您的计划信息
 
