@@ -5,19 +5,13 @@ feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2c6c6384b7bbe59f477278b984d0a7ba5efe6682
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d76226eb8ff1eecca20a67ef3ce9f62955152be1
 workflow-type: tm+mt
-source-wordcount: 1686
+source-wordcount: 1757
 ht-degree: 0%
 
 ---
@@ -30,6 +24,14 @@ ht-degree: 0%
 ![新](../adobe-support-tools-guide/assets/new.svg)新功能
 ![修复](../adobe-support-tools-guide/assets/fix.svg)修复和改进
 ![错误](../adobe-support-tools-guide/assets/bug.svg)已知问题
+
+## 2026年7月23日 — 重新设计的Experience League支持门户中的永久门户首选项
+
+1. 门户首选项现已根据您最后的&#x200B;**[!UICONTROL 尝试新主页]**&#x200B;切换选择自动保存。
+
+2. 如果在上次会话期间启用了切换，则下次登录时将直接转到重新设计的门户，并且不会加载旧版门户。
+
+3. 如果切换已关闭，则您会像往常一样继续登陆旧版门户。
 
 ## 2026年7月9日 — Experience League支持人工智能聊天
 
@@ -51,7 +53,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->这是AI Chat的早期测试版本。 它可供所有人使用，但在保持数据收集目标一致的情况下，不同会话之间的AI响应和对话流可能会略有不同。 在响应之前，请仔细检查所有AI生成的响应。
+>此AI Chat是早期测试版。 它可供所有人使用，但在保持数据收集目标一致的情况下，不同会话之间的AI响应和对话流可能会略有不同。 在响应之前，请仔细检查所有AI生成的响应。
 
 ## 2026年6月17日 — 重新设计的Experience League支持门户中的更新
 
@@ -61,7 +63,7 @@ ht-degree: 0%
 
 1. 按优先级排列的&#x200B;**[!UICONTROL 案例数]**&#x200B;图表现在提供有关悬停的更详细细分。 将鼠标悬停在优先级区段上会显示工具提示，其中显示案例总数以及未结和已结案例的数量。
 
-1. **[!UICONTROL 产品状态]**&#x200B;构件现在支持交互式产品筛选。 通过直接从主页中选择一个或多个产品，可以过滤系统状态警报。 在此构件中选择产品时，不再重定向到[status.adobe.com](http://status.adobe.com/zh-cn)。
+1. **[!UICONTROL 产品状态]**&#x200B;构件现在支持交互式产品筛选。 通过直接从主页中选择一个或多个产品，可以过滤系统状态警报。 在此构件中选择产品时，不再重定向到[status.adobe.com](http://status.adobe.com)。
 
 1. **[!UICONTROL 产品状态]**&#x200B;构件现在会以更直观的顺序列出产品。 首先显示有活动问题的产品，然后显示其余产品（按字母排序）。
 
@@ -149,30 +151,30 @@ Adobe Commerce和Adobe GenStudio现在都可使用“请求回调”功能。 Ad
 ![新](../adobe-support-tools-guide/assets/new.svg)已添加授权产品的&#x200B;**其他[!UICONTROL 环境上下文]字段**&#x200B;以捕获关键详细信息：
 
 - **Marketo**
-   - Munchkin ID
+  - Munchkin ID
 - **Adobe Target**
-   - 活动名称
-   - 站点URL（标记属性名称）
+  - 活动名称
+  - 站点URL（标记属性名称）
 - **Adobe Analytics**
-   - RSID
-   - 站点URL（标记属性名称） / cURL
-   - Workspace短链接
+  - RSID
+  - 站点URL（标记属性名称） / cURL
+  - Workspace短链接
 - **Adobe Journey Optimizer (AJO)**
-   - 历程ID或URL/促销活动ID或URL/渠道ID或URL/Offer Decisioning ID或URL
-   - 示例配置文件
-   - 沙盒名称
+  - 历程ID或URL/促销活动ID或URL/渠道ID或URL/Offer Decisioning ID或URL
+  - 示例配置文件
+  - 沙盒名称
 - **Real-Time Customer Data Platform (RTCDP)**
-   - 受影响的组件ID（目标ID/受众ID/数据集ID/数据流ID/合并策略ID/架构ID/Source ID/批处理ID）
-   - 示例配置文件
-   - 沙盒名称
+  - 受影响的组件ID（目标ID/受众ID/数据集ID/数据流ID/合并策略ID/架构ID/Source ID/批处理ID）
+  - 示例配置文件
+  - 沙盒名称
 - **Adobe Experience Platform (AEP)**
-   - 受影响的组件ID（目标ID/受众ID/数据集ID/数据流ID/合并策略ID/架构ID/Source ID/批处理ID）
-   - 示例配置文件
-   - 沙盒名称
+  - 受影响的组件ID（目标ID/受众ID/数据集ID/数据流ID/合并策略ID/架构ID/Source ID/批处理ID）
+  - 示例配置文件
+  - 沙盒名称
 - **Customer Journey Analytics (CJA)**
-   - Workspace项目URL
-   - 连接ID /错误消息/代码
-   - 数据视图ID
+  - Workspace项目URL
+  - 连接ID /错误消息/代码
+  - 数据视图ID
 
 ![New](../adobe-support-tools-guide/assets/new.svg)添加了&#x200B;**AI驱动的[!UICONTROL 推荐面板]**，以便在不中断案例创建流程的情况下显示有用的指导。
 
