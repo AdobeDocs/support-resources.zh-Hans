@@ -2,10 +2,16 @@
 title: Experience League支持门户 — 新用户界面
 description: 重新设计了Experience League支持门户，通过改进导航、分析和快速操作，以及无缝切换到当前门户以用于案例管理，该门户可简化支持工作流程、案例分析和产品监控。
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: fed8e553a6410a44b96b631d18ae1a71962a8ba1
 workflow-type: tm+mt
 source-wordcount: 1370
@@ -178,10 +184,10 @@ ht-degree: 0%
 1. 在&#x200B;**[!UICONTROL 请选择区域]**&#x200B;中，选择要监视的一个或多个区域。
 1. 在&#x200B;**[!UICONTROL 中选择事件类型]**&#x200B;中，选择以下一种或多种事件类型：
 
-   * 重大服务问题
-   * 轻微服务问题
-   * 服务维护
-   * 公告
+   &#x200B;* 重大服务问题
+   &#x200B;* 轻微服务问题
+   &#x200B;* 服务维护
+   &#x200B;* 公告
 
    ![创建订阅页面](assets/create-subscription-page.png)
 
@@ -206,9 +212,9 @@ ht-degree: 0%
 
 在此页中，您可以执行以下操作：
 
-* 选择&#x200B;**[!UICONTROL 编辑订阅]**&#x200B;以修改现有订阅。
-* 选择&#x200B;**[!UICONTROL 全部取消订阅]**&#x200B;以删除所有订阅。
-* 选择订阅旁边的删除图标可删除单个订阅。
+&#x200B;* 选择&#x200B;**[!UICONTROL 编辑订阅]**&#x200B;以修改现有订阅。
+&#x200B;* 选择&#x200B;**[!UICONTROL 全部取消订阅]**&#x200B;以删除所有订阅。
+&#x200B;* 选择订阅旁边的删除图标可删除单个订阅。
 
 ## 您的计划信息
 
