@@ -15,13 +15,13 @@ ht-degree: 0%
 
 # 创建和管理支持案例
 
-要在[Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home)中提交支持案例，您需要具有系统管理员分配的支持管理员角色。 有关支持权利和角色要求，请参阅[案例提交所需的支持授权角色](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)。
+要在[Experience League](https://experienceleague.adobe.com/zh-hans/support?support-tab=home#home)中提交支持案例，您需要具有系统管理员分配的支持管理员角色。 有关支持权利和角色要求，请参阅[案例提交所需的支持授权角色](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)。
 
 ## 使用新用户界面创建支持案例
 
 >[!NOTE]
 >
->在提交支持案例之前，请检查[Adobe状态网站](https://status.adobe.com/)上的Adobe系统性能、可用性和已知问题。
+>在提交支持案例之前，请检查[Adobe状态网站](https://status.adobe.com/zh-cn/)上的Adobe系统性能、可用性和已知问题。
 
 要在Experience League中创建支持案例，请执行以下步骤：
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    ![问题描述步骤](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   选择右上角的&#x200B;**[!UICONTROL 经典表单]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**&#x200B;以切换案例创建体验。 有关AI聊天详细信息，请参阅案例创建体验[&#128279;](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)中的AI聊天。
+   选择右上角的&#x200B;**[!UICONTROL 经典表单]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**&#x200B;以切换案例创建体验。 有关AI聊天详细信息，请参阅案例创建体验[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)中的AI聊天。
 
    ![AI聊天](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 
 4. 在&#x200B;**[!UICONTROL 优先级和业务影响]**&#x200B;部分中，选择案例优先级（P4 — 次要、P3 — 重要、P2 — 紧急、P1 — 严重）。 提供所选优先级为“P1 — 严重”时的“业务影响”详细信息，然后选择&#x200B;**[!UICONTROL 下一步]**。
 
-   有关案例优先级和业务影响如何影响支持响应时间的详细信息，请参阅[支持的目标初始响应时间](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
+   有关案例优先级和业务影响如何影响支持响应时间的详细信息，请参阅[支持的目标初始响应时间](https://experienceleague.adobe.com/zh-hans/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
 
    ![优先级和业务影响步骤](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
