@@ -2,6 +2,7 @@
 title: Experience League支持发行说明
 description: 有关Experience League支持的最新发行信息。
 feature: Release Notes
+hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
@@ -15,9 +16,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d76226eb8ff1eecca20a67ef3ce9f62955152be1
+source-git-commit: 474b37aa399674adc241780f8c0ab7b2e7c1abac
 workflow-type: tm+mt
-source-wordcount: 1757
+source-wordcount: 2140
 ht-degree: 0%
 
 ---
@@ -31,6 +32,36 @@ ht-degree: 0%
 ![修复](../adobe-support-tools-guide/assets/fix.svg)修复和改进
 ![错误](../adobe-support-tools-guide/assets/bug.svg)已知问题
 
+## 2026年8月19日 — 重新设计的Experience League支持门户中现在提供了案例创建、我的案例和案例详细信息
+
+1. 现在，可以直接在重新设计的Experience League支持门户中找到&#x200B;**[!UICONTROL 打开的案例]**。 客户无需离开重新设计的门户即可创建和提交案例。
+
+2. 重新设计的门户中的案例创建体验现在包括&#x200B;**[!UICONTROL 人工智能聊天]**，允许客户对话描述其问题并在创建案例时获得引导式帮助。 此AI Chat体验与以前在当前的Experience League支持门户中提供的体验相同（请参阅下面的2026年7月9日条目）。
+
+3. **[!UICONTROL 我的案例]**&#x200B;页面已使用新界面刷新，该界面不同于当前的Experience League支持门户。 通过两个切换 — **[!UICONTROL 我的案例]**&#x200B;和&#x200B;**[!UICONTROL 我的组织案例]** — 您可以在已提交的查看案例和组织内已提交的所有案例之间切换。
+
+4. **[!UICONTROL 我的案例]**&#x200B;页面上提供了多个新筛选器，这是对当前门户中可用的筛选选项的升级。
+
+5. 默认情况下，**[!UICONTROL 我的案例]**&#x200B;页面会显示所有案例。 使用可用的筛选器缩小范围，并根据需要甄选案例。
+
+6. 现在，**[!UICONTROL 我的案例]**&#x200B;页面提高了性能，并且缩短了加载时间。
+
+7. 已添加&#x200B;**[!UICONTROL 时间范围]**&#x200B;过滤器，并默认为过去3个月，以提高页面加载性能。 调整筛选器以查看超出此默认范围的大小写。
+
+8. 在重新设计的&#x200B;**[!UICONTROL 我的案例]**&#x200B;页面上，当前门户的组合&#x200B;**[!UICONTROL 打开/关闭日期]**&#x200B;列已被拆分为两个单独的列 — **[!UICONTROL 打开日期]**&#x200B;和&#x200B;**[!UICONTROL 关闭日期]**。
+
+9. 新的&#x200B;**[!UICONTROL 上次更新]**&#x200B;列已添加到&#x200B;**[!UICONTROL 我的案例]**&#x200B;页面，显示每个案例的最近活动的日期。
+
+10. 为了能够轻松地在案例活动信息源的顶部访问关键更新，您现在可以在&#x200B;**[!UICONTROL 案例详细信息]**&#x200B;页面上固定注释。
+
+>[!NOTE]
+>
+>这是重新设计的Experience League支持门户中[!UICONTROL AI Chat]的早期测试版本。 它可供所有人使用，但在保持数据收集目标一致的情况下，不同会话之间的AI响应和对话流可能会略有不同。 在响应之前，请仔细检查所有AI生成的响应。
+
+>[!NOTE]
+>
+>此更新实现了将[!UICONTROL 案例创建]、[!UICONTROL 我的案例]和[!UICONTROL 案例详细信息]引入重新设计的Experience League支持门户的计划（请参阅上述2026年5月26日条目）。 这些页面仅在当前的Experience League支持门户中可用。
+
 ## 2026年7月23日 — 重新设计的Experience League支持门户中的永久门户首选项
 
 1. 门户首选项现已根据您最后的&#x200B;**[!UICONTROL 尝试新主页]**&#x200B;切换选择自动保存。
@@ -41,7 +72,7 @@ ht-degree: 0%
 
 ## 2026年7月9日 — Experience League支持人工智能聊天
 
-1. Experience League支持上提供了一个新的AI Chat界面，作为经典案例创建表单的选择加入替代，允许客户以对话方式描述他们的问题，而不是填写结构化字段。 经典表单将保持完全可用，并且不会被此体验取代。
+1. Experience League支持上提供了一个新的AI Chat界面，作为经典案例创建表单的选择加入替代，允许客户以对话方式描述他们的问题，而不是填写结构化字段。 经典表单仍完全可用，此体验不会替换它。
 
 1. AI Chat支持键入式输入和语音转文本，实现免提互动，从而提供更易于访问且更灵活的案例创建体验。
 
