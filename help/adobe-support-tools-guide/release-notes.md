@@ -16,7 +16,7 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 474b37aa399674adc241780f8c0ab7b2e7c1abac
+source-git-commit: 10aa275ca5c6275f991de2aa7136f41f677e0700
 workflow-type: tm+mt
 source-wordcount: 2140
 ht-degree: 0%
@@ -232,3 +232,4 @@ Experience League现在提供了一个&#x200B;**[!UICONTROL 请求回调]**&#x20
 - 此功能适用于Adobe Experience Manager、Campaign和Workfront。
 - 客户可以在方便的时候安排会议，并接收即时邀请。
 - 对于Adobe Experience Manager P1案例，即时回调确保在关键问题期间更快地参与，从而帮助将停机时间和对业务的影响降至最低。
+
