@@ -94,9 +94,9 @@ Adobe强调强大的安全和治理实践，尤其是在高流量季节中，此
 ### 预测需求
 
 * 根据假日季节压缩和更大的促销活动量，预计：
-   * 实时事件激增并触发了历程（购物车放弃、最新优惠）
-   * 报文饱和度风险（更高的选择退出率、疲劳）
-   * 增加了跨渠道复杂性（电子邮件+推送+短信+应用程序内）
+  * 实时事件激增并触发了历程（购物车放弃、最新优惠）
+  * 报文饱和度风险（更高的选择退出率、疲劳）
+  * 增加了跨渠道复杂性（电子邮件+推送+短信+应用程序内）
 * 使用去年的指标（打开/点击/选择退出率、历程进入量）对预期负载进行建模，并设置消息传递系统的阈值。
 * 确定可能的“安静时段”或性能不佳时段（例如：周末、假日），并相应地规划发送量。
 
@@ -107,27 +107,27 @@ Adobe强调强大的安全和治理实践，尤其是在高流量季节中，此
 * 配置渠道/历程规则集：请参阅[使用规则集](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/conflict-prioritization/capping-rules/rule-sets)。
 * 准备数据卫生/实时事件流和分段框架。
 * 确保您为假日营销活动定义了目标受众，例如：
-   * 高价值客户
-   * 忠诚的区段
-   * 购物车放弃者
-   * 首次购买者
+  * 高价值客户
+  * 忠诚的区段
+  * 购物车放弃者
+  * 首次购买者
 * 为假期历程预加载或准备模板，利用决策逻辑（优惠/约束），以便您可以根据库存、对时间敏感的优惠和渠道首选项动态调整。 请参阅[将约束添加到优惠](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/configure-offers/add-constraints)文章中的示例。
 * 技术就绪性：确认API/端点加载能力、自定义操作的限制/上限规则以及外部集成。 请参阅[护栏和限制](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/get-started/guardrails)。
 
 ### 测试和验证
 
 * 使用试验框架测试关键变量更改：
-   * 发送时间
-   * 优惠类型
-   * 渠道组合
-请参阅[AJO Experimentation Accelerator最佳实践](https://experienceleague.adobe.com/zh-hans/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices)。
+  * 发送时间
+  * 优惠类型
+  * 渠道组合
+    请参阅[AJO Experimentation Accelerator最佳实践](https://experienceleague.adobe.com/zh-hans/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices)。
 * 进行端到端历程验证：
-   * 事件触发器
-   * 分段条目
-   * 历程路径流
-   * 个性化逻辑
-   * 优惠约束
-   * 退出条件
+  * 事件触发器
+  * 分段条目
+  * 历程路径流
+  * 个性化逻辑
+  * 优惠约束
+  * 退出条件
 * 验证上限和冲突规则。 请参阅[历程上限和仲裁](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/conflict-prioritization/journey-capping)文章。
 * 对峰值发送或峰值进行压力测试缩放的卷：模拟高触发卷，以验证系统在负载下的行为。
 * 验证可投放性：预热电子邮件域/发件人，确认移动推送配置，并检查短信/应用程序内消息的备用渠道。
@@ -209,7 +209,7 @@ Customer Journey Analytics使用5 P为假日/旺季做好准备。
 
 ### 准备扩展
 
-遵循[计划和透视：2025年高峰季战略方针](https://experienceleague.adobe.com/zh-hans/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025)指南中的建议，该指南使用Adobe Commerce（和可选的Adobe Experience Cloud工具）提供切实可行的战略，帮助您在一年中最繁忙的时间规划、透视和提供卓越的客户体验。
+遵循[计划和透视：2025年高峰季战略方针](https://experienceleague.adobe.com/zh-hans/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025)指南中的建议，该指南使用Adobe Commerce（和可选的Adobe Experience Cloud工具）提供切实可行的战略，帮助您规划、透视并在一年中最繁忙的时间提供卓越的客户体验。
 
 ### 最佳实践
 
@@ -232,8 +232,8 @@ Customer Journey Analytics使用5 P为假日/旺季做好准备。
 
 * 有关使用Adobe Experience Manager云服务为高流量做好准备的详细见解和指南，请参阅以下链接：
 
-   * [AEM as a Cloud Service 中的 CDN](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/implementing/content-delivery/cdn)
-   * [AEM as a Cloud Service缓存](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/caching/overview)
+  * [AEM as a Cloud Service 中的 CDN](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/implementing/content-delivery/cdn)
+  * [AEM as a Cloud Service缓存](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/caching/overview)
 
 * 如果您是Ultimate Success客户，并且最近与您的Adobe客户团队共享了流量预测信息，则无需再次将信息发送给我们，因为我们已经有了一个视图。
 
@@ -250,8 +250,8 @@ Customer Journey Analytics使用5 P为假日/旺季做好准备。
 Adobe设有预定的维护排除期，以确保在关键假日时段内服务不会中断：
 
 * **在下列时间之间不会发生自动更新**：
-   * 2025年11月24日至2025年12月2日
-   * 2025年12月15日至2026年1月2日
+  * 2025年11月24日至2025年12月2日
+  * 2025年12月15日至2026年1月2日
 
 这可以确保高流量期间的稳定性。 有关完整的发行计划和维护时段，请参阅[AEM发行路线图](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/update-releases-roadmap)。
 
@@ -289,9 +289,9 @@ Adobe设有预定的维护排除期，以确保在关键假日时段内服务不
 在点击&#x200B;**[!UICONTROL 发送]**&#x200B;之前，请确保您的电子邮件的外观和性能与预期完全一致。
 
 * Marketo提供了多种方法来测试电子邮件的外观，以确保其外观与您的预期完全相同。
-   * 使用&#x200B;**[!UICONTROL 预览]**&#x200B;函数通过按区段或单个潜在客户进行预览来确保您的动态内容和令牌正确呈现。 请参阅[预览包含动态内容的电子邮件](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content)文章。
-   * 快速轻松地向测试记录发送直接电子邮件，以了解您的电子邮件在不同客户端/设备上的显示方式。 请参阅[从智能列表中运行单流程步骤](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list)一文。
-   * 对于[!DNL Litmus]用户，现在可以比以往更轻松地集成您的帐户并直接从电子邮件编辑器启动渲染测试。 查看包含 [!DNL Litmus][&#128279;](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering)的测试电子邮件渲染文章。
+  * 使用&#x200B;**[!UICONTROL 预览]**&#x200B;函数通过按区段或单个潜在客户进行预览来确保您的动态内容和令牌正确呈现。 请参阅[预览包含动态内容的电子邮件](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content)文章。
+  * 快速轻松地向测试记录发送直接电子邮件，以了解您的电子邮件在不同客户端/设备上的显示方式。 请参阅[从智能列表中运行单流程步骤](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list)一文。
+  * 对于[!DNL Litmus]用户，现在可以比以往更轻松地集成您的帐户并直接从电子邮件编辑器启动渲染测试。 查看包含 [!DNL Litmus][&#128279;](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering)的测试电子邮件渲染文章。
 * 查看电子邮件垃圾邮件报告功能，该功能与[!DNL SpamAssassin]集成以审查您的电子邮件的内容，并为其分配一个分数，以表示其到达收件箱或标记为&#x200B;*垃圾邮件的可能性*。 请参阅[电子邮件垃圾邮件报告](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/spam-report)文章。
 * 请密切关注[!UICONTROL 营销活动队列]，以验证您的营销活动是否正在处理并正确优先处理紧急项目。 查看[我的营销活动是否正在运行？](https://nation.marketo.com/t5/knowledgebase/is-my-campaign-running/ta-p/248662) 文章。
 
@@ -325,7 +325,7 @@ Adobe设有预定的维护排除期，以确保在关键假日时段内服务不
 * [准备Adobe Workfront版本](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/release-readiness)
 * [Workfront发行说明存档](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases)
 * [2025年第一季度发行版概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview)
-* [Workfront发行版网络研讨会录像](https://experienceleague.adobe.com/zh-hans/docs/events/workfront-recordings/releases/25-1-release-webinar)
+* [Workfront发行版网络研讨会录像](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/releases/25-1-release-webinar)
 
 ### 最佳实践
 
@@ -347,7 +347,7 @@ Adobe设有预定的维护排除期，以确保在关键假日时段内服务不
 
 ### 专家提示让您的假日营销活动引人注目
 
-就像假日购物越早开始越好一样，计划火爆的假日营销活动也是越早开始越好。 借助Adobe Campaign，您可以设计、规划和执行营销活动，使贵组织的所有假日愿望都成真。 但是您知道让举行的营销活动圆满结束的小贴士吗？ 观看此视频，[专家提示让您的假日营销活动脱颖而出](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03)，其中讨论了可投放性和执行最佳实践，并将向您展示如何在Adobe Campaign中完成所有这些工作。
+就像假日购物越早开始越好一样，计划火爆的假日营销活动也是越早开始越好。 借助Adobe Campaign，您可以设计、规划和执行营销活动，使贵组织的所有假日愿望都成真。 但是您知道让举行的营销活动圆满结束的小贴士吗？ 观看此视频，[专家提示让您的假日营销活动脱颖而出](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03)，其中讨论了可投放性和执行最佳实践，并将向您展示如何在Adobe Campaign中完成所有这些工作。
 
 ### 假期时的注意事项和准备工作
 
