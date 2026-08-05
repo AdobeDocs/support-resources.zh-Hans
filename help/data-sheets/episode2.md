@@ -14,4 +14,4 @@ ht-degree: 100%
 
 # Ultimate Success 播客 - 第 2 集
 
->[!VIDEO](https://video.tv.adobe.com/v/3428674?quality=12learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451804?captions=chi_hans&quality=12learn=on)
