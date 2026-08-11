@@ -14,14 +14,18 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
+source-git-commit: 67a24fda4908c1856daabd6051eb453626c75a6c
 workflow-type: tm+mt
-source-wordcount: 2085
+source-wordcount: 2067
 ht-degree: 0%
 
 ---
 
 # Adobe客户支持体验
+
+>[!NOTE]
+>
+>本页介绍如何创建和管理Adobe Customer Experience Orchestration (CXO)解决方案的支持工单。 若要查看Adobe Creative Cloud解决方案的支持信息，请[单击此处](https://helpx.adobe.com/cn/support.html)。
 
 ## Experience League支持票证
 
@@ -82,7 +86,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 在提交支持票证之前，请检查[Adobe状态](https://status.adobe.com/zh-cn)网站上的Adobe系统性能、可用性和已知问题。
+>在提交支持票证之前，请检查[Adobe状态](https://status.adobe.com/zh-cn)网站上的Adobe系统性能、可用性和已知问题。
 
 Experience League是一个自助服务支持门户，旨在为授权客户提供个性化帮助和易于使用的体验。
 
