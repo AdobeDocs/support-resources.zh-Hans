@@ -14,9 +14,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 67a24fda4908c1856daabd6051eb453626c75a6c
+source-git-commit: 5e76b3d3c2a2b733805fece399b3cf276cc879ea
 workflow-type: tm+mt
-source-wordcount: 2067
+source-wordcount: 2113
 ht-degree: 0%
 
 ---
@@ -87,6 +87,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >在提交支持票证之前，请检查[Adobe状态](https://status.adobe.com/zh-cn)网站上的Adobe系统性能、可用性和已知问题。
+
+>[!NOTE]
+>
+>如果您使用重新设计的Experience League支持门户打开支持案例，请参阅[创建和管理支持案例](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/exl-new-ui/exl-new-ui-support-cases)。 以下步骤描述了当前（旧版）门户界面。
 
 Experience League是一个自助服务支持门户，旨在为授权客户提供个性化帮助和易于使用的体验。
 

@@ -5,11 +5,9 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-hold: true
-hide: true
-source-git-commit: 498f5c828603a24aaaaf8565941b0badbe0c405b
+source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
 workflow-type: tm+mt
-source-wordcount: 1170
+source-wordcount: 1220
 ht-degree: 0%
 
 ---
@@ -77,6 +75,8 @@ ht-degree: 0%
    >[!NOTE]
    >
    >不会为Adobe Admin Console产品显示AI支持的推荐。
+
+   输入问题详细信息时，系统分析面板将显示在屏幕右侧，AI支持的推荐部分的下方。 系统分析当前仅适用于Adobe Commerce。 有关详细信息，请参阅[系统分析](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/system-insights)。
 
    ![问题描述步骤](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
