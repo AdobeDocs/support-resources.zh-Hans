@@ -90,7 +90,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如果您使用重新设计的Experience League支持门户打开支持案例，请参阅[创建和管理支持案例](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/exl-new-ui/exl-new-ui-support-cases)。 以下步骤描述了当前（旧版）门户界面。
+>如果您使用重新设计的Experience League支持门户打开支持案例，请参阅[创建和管理支持案例](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/exl-new-ui/exl-new-ui-support-cases)。 以下步骤描述了当前（旧版）门户界面。
 
 Experience League是一个自助服务支持门户，旨在为授权客户提供个性化帮助和易于使用的体验。
 
