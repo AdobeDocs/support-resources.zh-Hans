@@ -2,6 +2,7 @@
 keywords: Experience Platform支持；平台支持；智能服务支持；客户人工智能支持；归因人工智能支持；rtcdp支持；提交支持工单；客户支持
 title: Adobe Experience Cloud Customer One企业版
 description: Adobe客户支持体验
+hold: true
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
@@ -14,9 +15,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 5e76b3d3c2a2b733805fece399b3cf276cc879ea
+source-git-commit: 917b0668639b4942a151c51af9bc0e8a6682a1dd
 workflow-type: tm+mt
-source-wordcount: 2113
+source-wordcount: 2122
 ht-degree: 0%
 
 ---
@@ -147,10 +148,6 @@ Experience League是一个自助服务支持门户，旨在为授权客户提供
 
    推荐面板会根据问题描述中的详细程度进行相应调整，并且会在不中断案例创建的情况下显示。 您可以随时查看建议并继续提交案例。 当问题描述&#x200B;**超过50个字符**&#x200B;时，系统会生成针对该问题定制的AI支持的推荐。
 
-   >[!NOTE]
-   >
-   >不会为Adobe Admin Console产品显示AI支持的推荐。
-
    ![Experience League问题详细信息](./assets/ai-recommendations.png)
 
    当描述包含&#x200B;**少于50个字符**&#x200B;时，系统显示推荐的指南文章。 内置字符计数器实时跟踪最低要求。
@@ -208,6 +205,10 @@ Experience League是一个自助服务支持门户，旨在为授权客户提供
 ### 案例创建体验中的AI聊天
 
 Experience League支持提供AI支持的聊天界面，作为创建和管理支持案例的替代方式。 AI聊天体验为选择加入，不会取代传统的案例创建工作流。
+
+>[!NOTE]
+&#x200B;>>
+门户现在将您选择的&#x200B;**[!UICONTROL AI Chat]**&#x200B;保存为首选案例创建体验，并记住它以供您下次访问。
 
 >[!NOTE]
 >
