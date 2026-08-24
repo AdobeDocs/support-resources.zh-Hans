@@ -4,9 +4,8 @@ description: 了解如何在重新设计的Experience League支持门户中创�
 hold: true
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 1214
 ht-degree: 0%
@@ -15,13 +14,13 @@ ht-degree: 0%
 
 # 创建和管理支持案例
 
-要在[Experience League](https://experienceleague.adobe.com/zh-hans/support?support-tab=home#home)中提交支持案例，您需要具有系统管理员分配的支持管理员角色。 有关支持权利和角色要求，请参阅[案例提交所需的支持授权角色](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)。
+要在[Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home)中提交支持案例，您需要具有系统管理员分配的支持管理员角色。 有关支持权利和角色要求，请参阅[案例提交所需的支持授权角色](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)。
 
 ## 使用新用户界面创建支持案例
 
 >[!NOTE]
 >
->在提交支持案例之前，请检查[Adobe状态网站](https://status.adobe.com/zh-cn/)上的Adobe系统性能、可用性和已知问题。
+>在提交支持案例之前，请检查[Adobe状态网站](https://status.adobe.com/)上的Adobe系统性能、可用性和已知问题。
 
 要在Experience League中创建支持案例，请执行以下步骤：
 
@@ -73,11 +72,11 @@ ht-degree: 0%
 
    当描述包含的字符少于50个时，系统显示推荐的指导文章。 内置字符计数器实时跟踪最低要求。
 
-   输入问题详细信息时，系统分析面板将显示在屏幕右侧，AI支持的推荐部分的下方。 系统分析当前仅适用于Adobe Commerce。 有关详细信息，请参阅[系统分析](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/system-insights)。
+   输入问题详细信息时，系统分析面板将显示在屏幕右侧，AI支持的推荐部分的下方。 系统分析当前仅适用于Adobe Commerce。 有关详细信息，请参阅[系统分析](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/system-insights)。
 
    ![问题描述步骤](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   选择右上角的&#x200B;**[!UICONTROL 经典表单]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**&#x200B;以切换案例创建体验。 有关AI聊天详细信息，请参阅案例创建体验[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)中的AI聊天。
+   选择右上角的&#x200B;**[!UICONTROL 经典表单]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**&#x200B;以切换案例创建体验。 有关AI聊天详细信息，请参阅案例创建体验](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)中的[AI聊天。
 
    ![AI聊天](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
@@ -91,7 +90,7 @@ ht-degree: 0%
 
 4. 在&#x200B;**[!UICONTROL 优先级和业务影响]**&#x200B;部分中，选择案例优先级（P4 — 次要、P3 — 重要、P2 — 紧急、P1 — 严重）。 提供所选优先级为“P1 — 严重”时的“业务影响”详细信息，然后选择&#x200B;**[!UICONTROL 下一步]**。
 
-   有关案例优先级和业务影响如何影响支持响应时间的详细信息，请参阅[支持的目标初始响应时间](https://experienceleague.adobe.com/zh-hans/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
+   有关案例优先级和业务影响如何影响支持响应时间的详细信息，请参阅[支持的目标初始响应时间](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
 
    ![优先级和业务影响步骤](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
@@ -148,3 +147,4 @@ ht-degree: 0%
 案例详细信息页面显示案例标题、案例ID、状态、上次更新日期、案例描述和重复性。 详细信息面板包括Adobe支持代理、请求者、产品、优先级、时区、观察者和案例附件。 若要添加评论，请在评论编辑器中输入您的消息，然后选择&#x200B;**[!UICONTROL 发送消息]**。 您可以使用附件图标附加文件并删除门户中的附件。 选择评论上的固定图标以将其固定到大小写。 您可以固定和取消固定多个注释。
 
 ![案例详细信息](/help/adobe-support-tools-guide/assets/case-details.png)
+
