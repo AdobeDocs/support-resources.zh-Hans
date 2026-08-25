@@ -44,7 +44,7 @@ ht-degree: 0%
    git push origin
    ```
 
-有关将修补程序应用到云项目的其他信息，请参阅[应用修补程序](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/upgrade/apply-patches)。
+有关将修补程序应用到云项目的其他信息，请参阅[应用修补程序](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/develop/upgrade/apply-patches)。
 
 ## 如何为Adobe Commerce内部部署和Magento Open Source应用独立的修补程序 {#commerce}
 
