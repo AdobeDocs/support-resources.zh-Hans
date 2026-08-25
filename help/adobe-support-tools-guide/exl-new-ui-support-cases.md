@@ -6,7 +6,7 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 1214
 ht-degree: 0%
@@ -148,3 +148,4 @@ ht-degree: 0%
 案例详细信息页面显示案例标题、案例ID、状态、上次更新日期、案例描述和重复性。 详细信息面板包括Adobe支持代理、请求者、产品、优先级、时区、观察者和案例附件。 若要添加评论，请在评论编辑器中输入您的消息，然后选择&#x200B;**[!UICONTROL 发送消息]**。 您可以使用附件图标附加文件并删除门户中的附件。 选择评论上的固定图标以将其固定到大小写。 您可以固定和取消固定多个注释。
 
 ![案例详细信息](/help/adobe-support-tools-guide/assets/case-details.png)
+
