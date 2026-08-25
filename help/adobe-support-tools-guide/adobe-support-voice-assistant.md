@@ -4,17 +4,13 @@ description: Adobe支持语音助手帮助日本客户获得日语下班后和�
 hold: true
 autotag-review: '2026-08-21T19:40:42.081Z'
 TQID: 'https://experienceleague.adobe.com/Xdln99z-GyG4G3-fI1RaSt-PaDxGATv0B526dLPmBwM'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: f84b2906-3ce9-4ef0-86f6-cda249273937
-subfeature_v2:
-  - id: f119e1e2-fccc-4e80-803e-64135196cccc
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: a8c37fa04996974f00b3bf3ab84e6aeb4a9ef2da
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: f84b2906-3ce9-4ef0-86f6-cda249273937
+subfeature_v2: id: f119e1e2-fccc-4e80-803e-64135196cccc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 3173ef352f66d8e6e2094eeae19da1e02ee2bca2
 workflow-type: tm+mt
-source-wordcount: 902
+source-wordcount: 907
 ht-degree: 0%
 
 ---
@@ -25,6 +21,9 @@ ht-degree: 0%
 >[!NOTE]
 >
 >本页介绍可在日本工作时间后和周末期间提供基于电话(IVR)支持的AI语音助手，此时实时座席不可用。 有关工作时间内提交的一般案例，请参阅标准的[Adobe客户支持体验](/help/adobe-support-tools-guide/adobe-customer-support-experience.md)文档。
+>
+>
+>该服务仅在日本提供。
 
 ## 概述
 
@@ -49,7 +48,7 @@ AI语音助手支持以下功能：
 
 ### 用日语理解和回答
 
-自然地用日语和助手说话，就像和现场支持代理说话一样。 无需按电话按键或使用特定的关键词 — 只需用自己的话解释您需要什么，助理就能用对话方式理解和回答。
+自然地用日语和助手说话，就像和现场支持代理说话一样。 无需按电话按键或使用特定的关键词 — 只需用自己的话解释一下您需要什么，助理就能用对话理解和回答。
 
 ### 立即检查案例状态
 
@@ -122,4 +121,4 @@ AI语音助手支持以下功能：
 
 >[!NOTE]
 >
->对于助理功能之外的任何内容，系统都将无缝指导您向Adobe支持工程师请求回调。
+>对于该助理功能之外的任何内容，系统都将无缝指导您向Adobe支持工程师请求回调。
