@@ -4,9 +4,10 @@ description: 在假日销售旺季（大约11月中旬至1月中旬），Adobe�
 feature: Support
 feature-set: Commerce
 role: Admin
-source-git-commit: e6ae0022bac9c91eb52c76a6b7a8d8f6c45257cb
+exl-id: 560fae4d-77f0-4618-a3a5-f549daa74402
+source-git-commit: 168b398944b55d94d31e22c452dbec45e0ed124a
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
@@ -43,13 +44,13 @@ ht-degree: 0%
 
 **更多帮助？**
 
-在准备高峰期流量时需要更多指导？ 云基础架构上的Adobe Commerce商家可以联系他们的Adobe客户团队，以获取帮助、策略和规划提示，为成功的旺季做准备。 我们还建议查看[Magento博客](https://magento.com/blog)以获取全年策略提示。
+在准备高峰期流量时需要更多指导？ 云基础架构上的Adobe Commerce商家可以联系他们的Adobe客户团队，以获取帮助、策略和规划提示，为成功的旺季做准备。 我们还建议查看[Adobe for Business博客](https://magento.com/blog)以获取全年策略提示。
 
 ## 有关审查产能的资源
 
 在我们的支持知识库中：
 
-* 云中Adobe Commerce的[CPU分配计算](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation.html?lang=zh-Hans)
-* [检查Adobe Commerce在云上是否需要为主机实例进行大小调整](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed.html?lang=zh-Hans)
-* [检查云中Adobe Commerce的主机的CPU配置](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration.html?lang=zh-Hans)
-* [识别和测量云中Adobe Commerce的中断](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages.html?lang=zh-Hans)
+* [适用于Adobe Commerce on cloud的CPU分配计算](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation.html?lang=zh-Hans)
+* [检查云上的Adobe Commerce是否需要针对主机实例进行大小调整](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed.html?lang=zh-Hans)
+* [检查主机上云中Adobe Commerce的CPU配置](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration.html?lang=zh-Hans)
+* [识别并测量Adobe Commerce on cloud的中断](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages.html?lang=zh-Hans)
