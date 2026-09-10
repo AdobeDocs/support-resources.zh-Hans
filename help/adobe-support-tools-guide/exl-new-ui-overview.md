@@ -2,19 +2,13 @@
 title: Experience League支持门户 — 新用户界面
 description: 重新设计了Experience League支持门户，通过改进导航、分析和快速操作，以及无缝切换到当前门户以用于案例管理，该门户可简化支持工作流程、案例分析和产品监控。
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1311
+source-wordcount: 1367
 ht-degree: 0%
 
 ---
@@ -23,7 +17,7 @@ ht-degree: 0%
 
 ## 概述
 
-重新设计的Experience League支持门户为管理Adobe支持活动提供了统一且直观的体验。 它让您可以更快地访问基本功能，包括跟踪支持案例、监控产品状态、访问案例分析并与成功团队联系。
+重新设计的Experience League支持门户现在是所有用户的默认体验。 访问支持应用程序时，系统会自动将您定向到重新设计的门户。 该门户为管理Adobe支持活动提供了统一且直观的体验，可更快地访问基本功能，如跟踪支持案例、监控产品状态、访问案例见解以及与Success团队联系。
 
 >[!NOTE]
 >
@@ -54,7 +48,7 @@ ht-degree: 0%
 
 ![新UI](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
-两个门户保持同步，确保案例数据和支持信息在各体验之间保持一致。
+两个门户体验保持同步，以确保支持案例数据和信息在各个体验中保持一致。 您的门户首选项已根据选择&#x200B;**[!UICONTROL 返回上一个体验]**&#x200B;切换器保存，并且每次访问时您都被定向到您最后选择的门户体验。
 
 ![旧UI](/help/adobe-support-tools-guide/assets/old-ui.png)
 
@@ -183,10 +177,10 @@ ht-degree: 0%
 5. 在&#x200B;**[!UICONTROL 请选择区域]**&#x200B;中，选择要监视的一个或多个区域。
 6. 在&#x200B;**[!UICONTROL 中选择事件类型]**&#x200B;中，选择以下一种或多种事件类型：
 
-   &#x200B;* 重大服务问题
-   &#x200B;* 轻微服务问题
-   &#x200B;* 服务维护
-   &#x200B;* 公告
+   * 重大服务问题
+   * 轻微服务问题
+   * 服务维护
+   * 公告
 
    ![创建订阅页面](assets/create-subscription-page.png)
 
@@ -211,9 +205,9 @@ ht-degree: 0%
 
 在此页中，您可以执行以下操作：
 
-&#x200B;* 选择&#x200B;**[!UICONTROL 编辑订阅]**&#x200B;以修改现有订阅。
-&#x200B;* 选择&#x200B;**[!UICONTROL 全部取消订阅]**&#x200B;以删除所有订阅。
-&#x200B;* 选择订阅旁边的删除图标可删除单个订阅。
+* 选择&#x200B;**[!UICONTROL 编辑订阅]**&#x200B;以修改现有订阅。
+* 选择&#x200B;**[!UICONTROL 全部取消订阅]**&#x200B;以删除所有订阅。
+* 选择订阅旁边的删除图标可删除单个订阅。
 
 ## 您的计划信息
 

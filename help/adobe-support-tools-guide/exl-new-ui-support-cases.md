@@ -3,24 +3,23 @@ title: 创建和管理支持案例
 description: 了解如何在重新设计的Experience League支持门户中创建、查看和管理支持案例。
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1214
+source-wordcount: 1239
 ht-degree: 0%
 
 ---
 
 # 创建和管理支持案例
 
-要在[Experience League](https://experienceleague.adobe.com/zh-hans/support?support-tab=home#home)中提交支持案例，您需要具有系统管理员分配的支持管理员角色。 有关支持权利和角色要求，请参阅[案例提交所需的支持授权角色](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)。
+要在[Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home)中提交支持案例，您需要具有系统管理员分配的支持管理员角色。 有关支持权利和角色要求，请参阅[案例提交所需的支持授权角色](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)。
 
 ## 使用新用户界面创建支持案例
 
 >[!NOTE]
 >
->在提交支持案例之前，请检查[Adobe状态网站](https://status.adobe.com/zh-cn/)上的Adobe系统性能、可用性和已知问题。
+>在提交支持案例之前，请检查[Adobe状态网站](https://status.adobe.com/)上的Adobe系统性能、可用性和已知问题。
 
 要在Experience League中创建支持案例，请执行以下步骤：
 
@@ -72,11 +71,11 @@ ht-degree: 0%
 
    当描述包含的字符少于50个时，系统显示推荐的指导文章。 内置字符计数器实时跟踪最低要求。
 
-   输入问题详细信息时，系统分析面板将显示在屏幕右侧，AI支持的推荐部分的下方。 系统分析当前仅适用于Adobe Commerce。 有关详细信息，请参阅[系统分析](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/system-insights)。
+   输入问题详细信息时，系统分析面板将显示在屏幕右侧，AI支持的推荐部分的下方。 系统分析当前仅适用于Adobe Commerce。 有关详细信息，请参阅[系统分析](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/system-insights)。
 
    ![问题描述步骤](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   选择右上角的&#x200B;**[!UICONTROL 经典表单]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**&#x200B;以切换案例创建体验。 有关AI聊天详细信息，请参阅案例创建体验[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)中的AI聊天。
+   选择右上角的&#x200B;**[!UICONTROL 经典表单]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**&#x200B;以切换案例创建体验。 有关AI聊天详细信息，请参阅案例创建体验](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)中的[AI聊天。
 
    ![AI聊天](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
@@ -90,7 +89,7 @@ ht-degree: 0%
 
 4. 在&#x200B;**[!UICONTROL 优先级和业务影响]**&#x200B;部分中，选择案例优先级（P4 — 次要、P3 — 重要、P2 — 紧急、P1 — 严重）。 提供所选优先级为“P1 — 严重”时的“业务影响”详细信息，然后选择&#x200B;**[!UICONTROL 下一步]**。
 
-   有关案例优先级和业务影响如何影响支持响应时间的详细信息，请参阅[支持的目标初始响应时间](https://experienceleague.adobe.com/zh-hans/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
+   有关案例优先级和业务影响如何影响支持响应时间的详细信息，请参阅[支持的目标初始响应时间](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
 
    ![优先级和业务影响步骤](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
@@ -125,7 +124,11 @@ ht-degree: 0%
 
 ![查看和管理您的案例入口点](/help/adobe-support-tools-guide/assets/my-cases-entry-points.png)
 
-将打开&#x200B;**[!UICONTROL 您的所有案例]**&#x200B;页面。 在&#x200B;**[!UICONTROL 我的案例]**&#x200B;和&#x200B;**[!UICONTROL 我的组织案例]**&#x200B;之间切换，以查看您整个组织的案例或案例。 使用&#x200B;**[!UICONTROL 搜索案例]**&#x200B;在选定的时间范围内搜索。 在右上角，选择一个时间范围以查看过去3、6、12、18或24个月的数据。 默认情况下，案例、搜索结果和过滤器会显示过去3个月的数据。
+将打开&#x200B;**[!UICONTROL 您的所有案例]**&#x200B;页面。 选择&#x200B;**[!UICONTROL 我的案例]**&#x200B;查看您的案例，或选择&#x200B;**[!UICONTROL 我的组织案例]**&#x200B;查看整个组织的案例。 使用&#x200B;**[!UICONTROL 搜索案例]**&#x200B;在选定的时间范围内搜索。
+
+在右上角，选择一个时间范围以查看过去3、6、12、18、24个月或全部时间的案例。 默认情况下，案例列表、搜索结果和过滤器显示过去3个月的数据。
+
+要查看完整的案例历史记录，包括超过24个月的案例，请从下拉列表中选择&#x200B;**[!UICONTROL 所有时间]**&#x200B;选项。
 
 ![我的案例页](/help/adobe-support-tools-guide/assets/my-cases-page.png)
 
