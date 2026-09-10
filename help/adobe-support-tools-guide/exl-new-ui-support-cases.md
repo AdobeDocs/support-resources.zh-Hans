@@ -5,9 +5,9 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1214
+source-wordcount: 1239
 ht-degree: 0%
 
 ---
@@ -125,7 +125,11 @@ ht-degree: 0%
 
 ![查看和管理您的案例入口点](/help/adobe-support-tools-guide/assets/my-cases-entry-points.png)
 
-将打开&#x200B;**[!UICONTROL 您的所有案例]**&#x200B;页面。 在&#x200B;**[!UICONTROL 我的案例]**&#x200B;和&#x200B;**[!UICONTROL 我的组织案例]**&#x200B;之间切换，以查看您整个组织的案例或案例。 使用&#x200B;**[!UICONTROL 搜索案例]**&#x200B;在选定的时间范围内搜索。 在右上角，选择一个时间范围以查看过去3、6、12、18或24个月的数据。 默认情况下，案例、搜索结果和过滤器会显示过去3个月的数据。
+将打开&#x200B;**[!UICONTROL 您的所有案例]**&#x200B;页面。 选择&#x200B;**[!UICONTROL 我的案例]**&#x200B;查看您的案例，或选择&#x200B;**[!UICONTROL 我的组织案例]**&#x200B;查看整个组织的案例。 使用&#x200B;**[!UICONTROL 搜索案例]**&#x200B;在选定的时间范围内搜索。
+
+在右上角，选择一个时间范围以查看过去3、6、12、18、24个月或全部时间的案例。 默认情况下，案例列表、搜索结果和过滤器显示过去3个月的数据。
+
+要查看完整的案例历史记录，包括超过24个月的案例，请从下拉列表中选择&#x200B;**[!UICONTROL 所有时间]**&#x200B;选项。
 
 ![我的案例页](/help/adobe-support-tools-guide/assets/my-cases-page.png)
 

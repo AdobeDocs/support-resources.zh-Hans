@@ -12,7 +12,7 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
+source-git-commit: f0bbc304947ddd88ef34ed98ea2c76686e04ffdb
 workflow-type: tm+mt
 source-wordcount: 738
 ht-degree: 1%
@@ -51,7 +51,7 @@ Adobe团队持续分析常见的支持问题和新趋势。 Adobe会根据这些
 
 ## 访问系统分析
 
-系统分析会在整个案例创建工作流中显示。 输入问题详细信息后，**[!UICONTROL 系统分析]**&#x200B;面板将显示在屏幕右侧，AI支持的推荐部分下方。 要了解有关AI支持的推荐的更多信息，请参阅Adobe客户支持体验一文中的[填写支持工单](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)。
+系统分析会在整个案例创建工作流中显示。 输入问题详细信息后，**[!UICONTROL 系统分析]**&#x200B;面板将显示在屏幕右侧，即AI支持的推荐部分的上方。 要了解有关AI支持的推荐的更多信息，请参阅Adobe客户支持体验一文中的[填写支持工单](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)。
 
 该面板显示一个可滚动的见解列表，这些见解限于特定项目实例。 范围设定基于&#x200B;**[!UICONTROL 项目URL]**&#x200B;字段中输入的信息。 准确地输入&#x200B;**[!UICONTROL 项目URL]**&#x200B;以确保分析反映正确的环境。
 
@@ -67,9 +67,9 @@ Adobe团队持续分析常见的支持问题和新趋势。 Adobe会根据这些
 - insight名称
 - 标记insight的Adobe产品
 - insight类型，分类为：
-   - [!UICONTROL 功能]
-   - [!UICONTROL 性能]
-   - [!UICONTROL 安全性]
+  - [!UICONTROL 功能]
+  - [!UICONTROL 性能]
+  - [!UICONTROL 安全性]
 - [!UICONTROL 风险级别]表示严重程度
 - [!UICONTROL 上次检查运行]指示何时检测到调查结果。
 - [!UICONTROL Insight Source]，由站点范围分析工具(SWAT)提供

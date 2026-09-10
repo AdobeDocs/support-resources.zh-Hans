@@ -1,40 +1,52 @@
 ---
-title: 将Frame.io用户管理迁移到Admin Console
+title: 将用户管理迁移到Adobe Admin Console
 description: 了解符合资格的企业帐户如何将用户管理迁移到Adobe Admin Console。
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: a6a7aab607abb90d94736d957d57cf4659237cd4
+TQID: 'https://experienceleague.adobe.com/l0jyxNyd32NYh6ggu2iNYz-7DgSsKSmgl1wgQAVskIc'
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: d1c959e9-891f-4624-8eb1-4d6658c0f72f
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 70691859da7915a2a4680ba19aca444ac9a94293
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: 286
 ht-degree: 0%
 
 ---
 
-# 将Frame.io用户管理迁移到Admin Console
+# 将用户管理迁移到Adobe Admin Console
 
-请与您的Frame.io客户团队联系，将符合条件的V4客户转换为集中式用户
-管理。
+请联系您的Adobe客户团队，讨论通过Adobe Admin Console将符合条件的解决方案转换为集中化用户管理。
 
->[!NOTE]
->
->Frame.io的Web和移动应用程序提供英语、日语、德语、俄语和英语版本。
->西班牙语、意大利语、法语和巴西葡萄牙语。
+在联系Adobe客户团队之前，请验证贵组织是否符合资格要求，并确定将参与迁移计划的利益相关者。
 
-在联系您的客户团队之前，验证您的组织是否符合资格要求，并确定需要参与迁移计划的利益相关者。
+迁移资格因解决方案而异。 在开始迁移过程之前，请确保贵组织已：
 
-- Frame.io V4企业帐户（创建于2024年10月或更高版本的帐户，或已迁移到V4的帐户）
-- Enterprise和Teams计划通过Adobe Admin Console和Global Admin Console管理Frame.io。
-- 系统管理员访问权限，以验证您当前的Frame.io帐户版本
-- 您的Frame.io客户团队的联系信息
+- 符合资格的企业解决方案或部署，支持迁移到基于Adobe Admin Console的用户管理。
+- 访问Adobe Admin Console （如果适用）。
+- 查看当前用户管理配置所需的管理权限。
+- 您的Adobe客户团队或实施代表的联系信息。
+- 满足所有特定于解决方案的先决条件（如果适用）。
 
 ## 验证资格并请求迁移
 
-1. 登录到您的Frame.io [enterprise帐户](https://accounts.frame.io/welcome)，并验证您的帐户是否在V4上。
-1. 请联系您的Frame.io客户团队，请求迁移到Adobe Admin Console用户管理。
-1. 与您的Adobe客户团队合作确定迁移时间并推出版本。
-1. 将任何登录或访问更改传达给受影响的管理员和用户。
+1. 查看您当前的解决方案配置，并确认该配置支持迁移到基于Adobe Admin Console的用户管理。
+2. 查看任何特定于解决方案的资格要求和先决条件。
+3. 请联系您的Adobe客户团队，并请求迁移到Adobe Admin Console用户管理。
+4. 与您的Adobe客户团队合作，审查迁移时间、实施要求和组织准备情况。
+5. 将任何登录或访问更改传达给受影响的管理员和用户。
 
-您的团队完成迁移后，您就可以在Adobe Admin Console中管理Frame.io用户并分配角色，而不是Frame.io的界面。 现有用户在过渡期间保留其访问和权限。
+## 迁移后
 
-如果帐户不符合资格标准，请联系您的Frame.io帐户团队以探索符合Adobe Admin Console用户管理资格的选项。
+迁移完成后：
+
+- 用户管理通过Adobe Admin Console进行管理。
+- 用户登录和访问体验可以根据组织的身份配置进行更新。
+- 除非针对解决方案另有说明，否则应通过Adobe Admin Console执行持续的用户生命周期管理活动。
+
+如果贵组织不符合资格标准，请联系您的Adobe客户团队以探索符合Adobe Admin Console用户管理资格的选项。

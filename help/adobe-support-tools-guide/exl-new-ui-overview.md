@@ -12,9 +12,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1311
+source-wordcount: 1367
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 概述
 
-重新设计的Experience League支持门户为管理Adobe支持活动提供了统一且直观的体验。 它让您可以更快地访问基本功能，包括跟踪支持案例、监控产品状态、访问案例分析并与成功团队联系。
+重新设计的Experience League支持门户现在是所有用户的默认体验。 访问支持应用程序时，系统会自动将您定向到重新设计的门户。 该门户为管理Adobe支持活动提供了统一且直观的体验，可更快地访问基本功能，如跟踪支持案例、监控产品状态、访问案例见解以及与Success团队联系。
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ![新UI](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
-两个门户保持同步，确保案例数据和支持信息在各体验之间保持一致。
+两个门户体验保持同步，以确保支持案例数据和信息在各个体验中保持一致。 您的门户首选项已根据选择&#x200B;**[!UICONTROL 返回上一个体验]**&#x200B;切换器保存，并且每次访问时您都被定向到您最后选择的门户体验。
 
 ![旧UI](/help/adobe-support-tools-guide/assets/old-ui.png)
 
