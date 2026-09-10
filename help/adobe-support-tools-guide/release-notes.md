@@ -5,10 +5,16 @@ feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 40dae33f96e82662fa91719d22690ee3b9002893
 workflow-type: tm+mt
 source-wordcount: 2410
@@ -29,13 +35,13 @@ ht-degree: 0%
 
 1. 重新设计的Experience League支持门户现在设置为所有用户的默认体验。 访问支持应用程序时，用户会自动定向到重新设计的门户。
 
-1. UI切换器标签已从&#x200B;**[UICONTROL尝试使用新主页]**&#x200B;更新为&#x200B;**[UICONTROL返回上一个体验]**，以便更加清晰明了。
+1. UI切换器标签已从&#x200B;**[!UICONTROL 尝试使用新主页]**&#x200B;更新为&#x200B;**[!UICONTROL 返回上一个体验]**，以便更加清晰明了。
 
-1. 基于&#x200B;**[UICONTROL返回到上一个体验]**&#x200B;切换器选择，将继续保存并应用门户首选项，因此用户每次访问时都会被定向到他们上次选择的门户体验。
+1. 基于&#x200B;**[!UICONTROL 返回到上一个体验]**&#x200B;切换器选择，将继续保存并应用门户首选项，因此用户每次访问时都会被定向到他们上次选择的门户体验。
 
-1. 已在&#x200B;**[UICONTROL我的案例]**&#x200B;页面的&#x200B;**[UICONTROL时间范围]**&#x200B;过滤器下拉列表中引入新的&#x200B;**[UICONTROL所有时间]**&#x200B;选项，以便查看过去24个月以外的完整案例历史记录。
+1. 已在&#x200B;**[!UICONTROL 我的案例]**&#x200B;页面的&#x200B;**[!UICONTROL 时间范围]**&#x200B;过滤器下拉列表中引入新的&#x200B;**[!UICONTROL 所有时间]**&#x200B;选项，以便查看过去24个月以外的完整案例历史记录。
 
-1. 案例创建窗体上的Adobe Commerce **[UICONTROL System Insights]**&#x200B;构件已重新定位，显示在右侧边栏中的&#x200B;**[UICONTROL AI推荐]**&#x200B;部分上方。
+1. 案例创建窗体上的Adobe Commerce **[!UICONTROL System Insights]**&#x200B;构件已重新定位，显示在右侧边栏中的&#x200B;**[!UICONTROL AI推荐]**&#x200B;部分上方。
 
 ## 2026年8月27日 — 重新设计的Experience League支持门户中的更新
 
