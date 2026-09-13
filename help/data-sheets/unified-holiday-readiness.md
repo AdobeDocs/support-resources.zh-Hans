@@ -328,7 +328,7 @@ Adobe设有预定的维护排除期，以确保在关键假日时段内服务不
 * [准备Adobe Workfront版本](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/release-readiness)
 * [Workfront发行说明存档](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases)
 * [2025年第一季度发行版概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview)
-* [Workfront发行版网络研讨会录像](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/releases/25-1-release-webinar)
+* [Workfront发行版网络研讨会录像](https://experienceleague.adobe.com/zh-hans/docs/events/workfront-recordings/releases/25-1-release-webinar)
 
 ### 最佳实践
 
@@ -350,7 +350,7 @@ Adobe设有预定的维护排除期，以确保在关键假日时段内服务不
 
 ### 专家提示让您的假日营销活动引人注目
 
-就像假日购物越早开始越好一样，计划火爆的假日营销活动也是越早开始越好。 借助Adobe Campaign，您可以设计、规划和执行营销活动，使贵组织的所有假日愿望都成真。 但是您知道让举行的营销活动圆满结束的小贴士吗？ 观看此视频，[专家提示让您的假日营销活动脱颖而出](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03)，其中讨论了可投放性和执行最佳实践，并将向您展示如何在Adobe Campaign中完成所有这些工作。
+就像假日购物越早开始越好一样，计划火爆的假日营销活动也是越早开始越好。 借助Adobe Campaign，您可以设计、规划和执行营销活动，使贵组织的所有假日愿望都成真。 但是您知道让举行的营销活动圆满结束的小贴士吗？ 观看此视频，[专家提示让您的假日营销活动脱颖而出](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03)，其中讨论了可投放性和执行最佳实践，并将向您展示如何在Adobe Campaign中完成所有这些工作。
 
 ### 假期时的注意事项和准备工作
 
