@@ -7,21 +7,25 @@ autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: bc8a6f909b97a103a097b7c683d41f56cc45b75c
+    internal-label: Insights
+source-git-commit: adf6f6cb51e5ae7636a5aa45e85196dda37920a0
 workflow-type: tm+mt
-source-wordcount: 2402
+source-wordcount: '2614'
 ht-degree: 0%
-
 ---
-
 
 # Experience League支持发行说明
 
@@ -30,6 +34,24 @@ ht-degree: 0%
 ![新](../adobe-support-tools-guide/assets/new.svg)新功能
 ![修复](../adobe-support-tools-guide/assets/fix.svg)修复和改进
 ![错误](../adobe-support-tools-guide/assets/bug.svg)已知问题
+
+## 2026年9月15日 — 日本非上班时间支持的更新
+
+1. 日本客户现在可以在晚上、晚上和周末从新的&#x200B;**AI语音助手**&#x200B;获得基于电话的(IVR)支持，但实时代理不可用。 支持日语自然语音 — 无需关键字或菜单导航。
+
+1. **AI语音助手**&#x200B;可以立即检查案件状态，告知您案件是否仍在调查中、等待更多信息或解决。
+
+1. **AI语音助手**&#x200B;可以共享案例上记录的最新笔记或进度，从而无需等待回调或电子邮件即可查看活动。
+
+1. 对于重大中断或严重业务影响，助理可以将您的案例升级至&#x200B;**[!UICONTROL P1 （严重）]**&#x200B;优先级。
+
+1. 您可以随时通过助手向Adobe支持工程师请求回调。
+
+1. 如果助理询问技术问题以了解您的问题（错误消息、重现步骤等），您的答案会自动保存到案例注释中，而无需将它们重复给下一个工程师。
+
+>[!NOTE]
+>
+>此服务仅在下班后和周末时段提供日语对话。 在助理共享案例信息之前，必须验证您的身份或案例详细信息。 复杂的技术故障排除或产品配置更改将通过callback发送给现场工程师。
 
 ## 2026年9月10日 — 重新设计的Experience League支持门户现在成为默认体验
 
@@ -42,6 +64,7 @@ ht-degree: 0%
 1. 已在&#x200B;**[!UICONTROL 我的案例]**&#x200B;页面上的&#x200B;**[!UICONTROL 时间范围]**&#x200B;筛选器下拉列表中引入新的&#x200B;**[!UICONTROL 所有时间]**&#x200B;选项，以便查看过去24个月以外的完整案例历史记录。
 
 1. 案例创建表单上的Adobe Commerce **[!UICONTROL 系统分析]**&#x200B;构件已重新定位，显示在右侧边栏中的&#x200B;**[!UICONTROL AI推荐]**&#x200B;部分上方。
+
 
 ## 2026年8月27日 — 重新设计的Experience League支持门户中的更新
 
