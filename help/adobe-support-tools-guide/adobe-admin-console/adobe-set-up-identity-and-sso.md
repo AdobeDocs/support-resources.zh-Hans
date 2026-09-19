@@ -4,13 +4,12 @@ description: 了解组织系统管理员如何使用Adobe ID、Enterprise ID或F
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 0c2992946f1cdbbcfb44a2baf37888bd05b2253b
+exl-id: 7b2bf2f5-d363-4132-9f42-761db1332ce5
+source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '1068'
 ht-degree: 1%
-
 ---
-
 # 设置身份和单点登录
 
 **应用于：**&#x200B;企业
@@ -48,13 +47,13 @@ Admin Console中的目录是一个实体，其中包含用户和身份验证等�
 
 ### Adobe ID
 
-由最终用户创建、拥有和管理。 Adobe执行身份验证，由最终用户管理身份。 根据[存储模型](https://helpx.adobe.com/cn/enterprise/using/storage-for-business.html)，用户或企业保留对文件和数据的控制。
+由最终用户创建、拥有和管理。 Adobe执行身份验证，由最终用户管理身份。 根据[存储模型](https://helpx.adobe.com/enterprise/using/storage-for-business.html)，用户或企业保留对文件和数据的控制。
 
 对于已更新为企业存储模型的组织，资产和数据由组织控制。 对于尚未更新的组织，个人将拥有并控制Adobe ID资源。
 
 ### Enterprise ID
 
-由组织创建、拥有和管理。 Adobe托管Enterprise ID并执行身份验证，但由组织维护Enterprise ID。 管理员创建一个Enterprise ID并将其颁发给用户。 管理员可以通过接管帐户或删除Enterprise ID永久阻止对关联数据的访问来撤销对产品和服务的访问权限。 要了解更多信息，请单击[此处](https://helpx.adobe.com/cn/enterprise/using/setup-enterprise-id.html)。
+由组织创建、拥有和管理。 Adobe托管Enterprise ID并执行身份验证，但由组织维护Enterprise ID。 管理员创建一个Enterprise ID并将其颁发给用户。 管理员可以通过接管帐户或删除Enterprise ID永久阻止对关联数据的访问来撤销对产品和服务的访问权限。 要了解更多信息，请单击[此处](https://helpx.adobe.com/enterprise/using/setup-enterprise-id.html)。
 
 ### Federated ID
 
@@ -72,7 +71,7 @@ Admin Console中的目录是一个实体，其中包含用户和身份验证等�
 
 ## 使用Adobe ID
 
-Adobe正在将所有组织更新到[企业存储模型](https://helpx.adobe.com/cn/enterprise/using/storage-for-business.html)。 这使您的组织能够更好地控制用户的资产和数据。
+Adobe正在将所有组织更新到[企业存储模型](https://helpx.adobe.com/enterprise/using/storage-for-business.html)。 这使您的组织能够更好地控制用户的资产和数据。
 
 开始使用[将用户](https://helpx.adobe.com/cn/enterprise/using/users.html)添加到Admin Console。
 
@@ -80,7 +79,7 @@ Adobe正在将所有组织更新到[企业存储模型](https://helpx.adobe.com/
 
 如果您希望在不使用SSO的情况下更好地控制用户数据，则可以设置Enterprise ID目录。 只有管理员可创建Enterprise ID并将其颁发给用户。
 
-有关创建Enterprise ID目录的要求和步骤，请参阅[使用Enterprise ID设置组织](https://helpx.adobe.com/cn/enterprise/using/setup-enterprise-id.html)。
+有关创建Enterprise ID目录的要求和步骤，请参阅[使用Enterprise ID设置组织](https://helpx.adobe.com/enterprise/using/setup-enterprise-id.html)。
 
 ## 设置单点登录身份
 
@@ -96,11 +95,11 @@ Adobe正在将所有组织更新到[企业存储模型](https://helpx.adobe.com/
 
 您可以使用常用的身份提供程序（如Microsoft Azure AD、Google）或使用其他基于SAML的IdP在您的组织和Adobe产品之间设置SSO。
 
-**Azure AD**（推荐） — [设置SSO并与Azure AD Connector进行用户同步](https://helpx.adobe.com/cn/enterprise/using/sso-setup-azure.html)
+**Azure AD**（推荐） — [设置SSO并与Azure AD Connector进行用户同步](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html)
 
-**其他SAML IdP** - [使用其他SAML提供程序设置SSO](https://helpx.adobe.com/cn/enterprise/using/create-directory.html)
+**其他SAML IdP** - [使用其他SAML提供程序设置SSO](https://helpx.adobe.com/enterprise/using/create-directory.html)
 
-**Google**（推荐） — [使用Google Connector设置SSO和用户同步](https://helpx.adobe.com/cn/enterprise/using/setup-sso-google.html)
+**Google**（推荐） — [使用Google Connector设置SSO和用户同步](https://helpx.adobe.com/enterprise/using/setup-sso-google.html)
 
 ## 管理现有SSO设置
 
@@ -108,16 +107,16 @@ Adobe正在将所有组织更新到[企业存储模型](https://helpx.adobe.com/
 
 了解如何管理域和目录：
 
-- [管理用户](https://helpx.adobe.com/cn/enterprise/using/users.html)和[组](https://helpx.adobe.com/cn/enterprise/using/user-groups..html)
-- [将域链接到目录](https://helpx.adobe.com/cn/enterprise/using/add-domains-directories.html#link-domains-to-directoies)以控制用户对应用、服务和设置的访问
-- [管理目录信任](https://helpx.adobe.com/cn/enterprise/using/directory-trust.html)以使用其他组织声明的域
+- [管理用户](https://helpx.adobe.com/cn/enterprise/using/users.html)和[组](https://helpx.adobe.com/enterprise/using/user-groups..html)
+- [将域链接到目录](https://helpx.adobe.com/enterprise/using/add-domains-directories.html#link-domains-to-directoies)以控制用户对应用、服务和设置的访问
+- [管理目录信任](https://helpx.adobe.com/enterprise/using/directory-trust.html)以使用其他组织声明的域
 
 了解如何更改您的身份提供程序：
 
-- [在不中断用户工作的情况下更改IdP](https://helpx.adobe.com/cn/enterprise/using/migrate-authentication-provider.html)
-- [跨目录移动域](https://helpx.adobe.com/cn/enterprise/using/manage-domains-directories.html#move-domains-across-directories)
-- [删除旧版目录用户](https://helpx.adobe.com/cn/enterprise/using/manage-directory-users.html)
-- [删除旧/无人认领的域和空目录](https://helpx.adobe.com/cn/enterprise/using/manage-domains-directories.html#delete)
+- [在不中断用户工作的情况下更改IdP](https://helpx.adobe.com/enterprise/using/migrate-authentication-provider.html)
+- [跨目录移动域](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories)
+- [删除旧版目录用户](https://helpx.adobe.com/enterprise/using/manage-directory-users.html)
+- [删除旧/无人认领的域和空目录](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#delete)
 
 ## 错误和常见问题
 
@@ -127,37 +126,37 @@ Adobe正在将所有组织更新到[企业存储模型](https://helpx.adobe.com/
 
 #### 常见问题解答
 
-- [Azure AD连接器常见问题解答](https://helpx.adobe.com/cn/enterprise/using/azure-ad-connector-faq.html)
-- [如何删除目录和域](https://helpx.adobe.com/cn/enterprise/using/sso-setup-azure.html#Deletedirectoriesandremovedomains)
+- [Azure AD连接器常见问题解答](https://helpx.adobe.com/enterprise/using/azure-ad-connector-faq.html)
+- [如何删除目录和域](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#Deletedirectoriesandremovedomains)
 
-#### 疑难解答
+#### 故障排除
 
-- [用户拒绝访问](https://helpx.adobe.com/cn/enterprise/using/sso-setup-azure.html#sync-issues)
-- [同步问题](https://helpx.adobe.com/cn/enterprise/using/sso-setup-azure.html#sync-issues)
+- [用户拒绝访问](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#sync-issues)
+- [同步问题](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#sync-issues)
 
 ### 其他SAML IdP — 常见问题解答和疑难解答
 
 #### 常见问题解答
 
-[SAML集成常见问题解答](https://helpx.adobe.com/cn/enterprise/using/sso-faq.html)
+[SAML集成常见问题解答](https://helpx.adobe.com/enterprise/using/sso-faq.html)
 
-#### 疑难解答
+#### 故障排除
 
-- [常规SSO故障排除](https://helpx.adobe.com/cn/enterprise/kb/tshoot-fed-id.html)
-- [“访问被拒绝”错误](https://helpx.adobe.com/cn/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
-- [“另一用户当前已登录”错误](https://helpx.adobe.com/cn/enterprise/kb/tshoot-fed-id.html#ErrorAnotheruseriscurrentlyloggedin)
-- [执行SAML跟踪](https://helpx.adobe.com/cn/enterprise/kb/perform-a-saml-trace.html)
+- [常规SSO故障排除](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html)
+- [“访问被拒绝”错误](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
+- [“另一用户当前已登录”错误](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#ErrorAnotheruseriscurrentlyloggedin)
+- [执行SAML跟踪](https://helpx.adobe.com/enterprise/kb/perform-a-saml-trace.html)
 
 ### Google — 常见问题解答
 
-- [Google连接器常见问题解答](https://helpx.adobe.com/cn/enterprise/using/google-federation-faq.html)
-- [如何删除目录和域](https://helpx.adobe.com/cn/enterprise/using/setup-sso-google.html#Deletedirectoriesandremovedomains)
+- [Google连接器常见问题解答](https://helpx.adobe.com/enterprise/using/google-federation-faq.html)
+- [如何删除目录和域](https://helpx.adobe.com/enterprise/using/setup-sso-google.html#Deletedirectoriesandremovedomains)
 
 ## 加入对话
 
-若要进行协作、提问并与其他管理员聊天，请使用[企业版和团队版](https://www.adobe.com/go/entcom_cn)。
+若要进行协作、提问并与其他管理员聊天，请使用[企业版和团队版](https://www.adobe.com/go/entcom)。
 
 ## 法律和隐私
 
-- [法律声明](https://helpx.adobe.com/cn/legal/legal-notices.html)
-- [联机隐私策略](https://www.adobe.com/cn/privacy.html)
+- [法律声明](https://helpx.adobe.com/legal/legal-notices.html)
+- [在线隐私政策](https://www.adobe.com/privacy.html)
