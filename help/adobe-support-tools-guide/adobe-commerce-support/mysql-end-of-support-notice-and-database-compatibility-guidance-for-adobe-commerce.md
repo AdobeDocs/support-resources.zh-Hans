@@ -2,13 +2,12 @@
 title: Adobe Commerce的MySQL支持终止通知和数据库兼容性指南
 description: 本文提供了有关支持的Adobe Commerce版本的MySQL支持终止时间表和数据库兼容性指导的信息。
 solution: Commerce
-source-git-commit: 2198e1882260ca17b8b99f7ed6d415791ec0d177
+exl-id: f4ef2b3b-316c-421e-a645-9445cdd13448
+source-git-commit: 6603038e6b5857c3bb34cc62002a0b860702f561
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 0%
-
+source-wordcount: '380'
+ht-degree: 1%
 ---
-
 # Adobe Commerce的MySQL支持终止通知和数据库兼容性指南
 
 本文提供了有关支持的Adobe Commerce版本的MySQL终止支持(EOS)和数据库兼容性的重要信息。

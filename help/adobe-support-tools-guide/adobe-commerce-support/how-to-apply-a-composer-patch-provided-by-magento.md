@@ -4,13 +4,12 @@ description: 本文指示如何对Adobe Commerce内部部署、Adobe Commerce on
 feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
-source-git-commit: fa46bb7187c55a0c7d75930868c74bf8ba072c41
+exl-id: 66d8df60-4c4a-49ef-8107-986e10d6e289
+source-git-commit: 32e69e55405db4f7bb78ef055e07175336401179
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '225'
 ht-degree: 0%
-
 ---
-
 # 如何应用Adobe提供的编辑器修补程序
 
 本文指示如何对Adobe Commerce内部部署、Adobe Commerce on cloud infrastructure和Magento Open Source应用编辑器修补程序。

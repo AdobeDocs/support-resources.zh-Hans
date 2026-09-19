@@ -4,13 +4,12 @@ description: 规划在Adobe Admin Console上管理用户的策略 — 添加管�
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: d92f4190b68a480409f4126a877de3469ed836f0
+exl-id: e0d9db48-d2cd-45cf-8751-5e91ba0aad75
+source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
 workflow-type: tm+mt
-source-wordcount: '842'
-ht-degree: 3%
-
+source-wordcount: '1173'
+ht-degree: 6%
 ---
-
 # Adobe Admin Console用户
 
 适用于企业和团队。
@@ -18,7 +17,7 @@ ht-degree: 3%
 面对这些问题吗？ 选择问题以查看解决方案。
 
 - [管理管理员角色](https://helpx.adobe.com/cn/enterprise/using/admin-roles.html)
-- [下载安装问题](https://helpx.adobe.com/cn/download-install.html)
+- [下载 — 安装问题](https://helpx.adobe.com/cn/download-install.html)
 - [重置Enterprise ID用户密码](https://helpx.adobe.com/cn/enterprise/kb/enterprise-id-faq.html#faq)
 - [解决Federated ID错误](https://helpx.adobe.com/cn/enterprise/kb/tshoot-fed-id.html)
 - [删除用户或恢复已删除的用户](https://helpx.adobe.com/cn/enterprise/using/manage-directory-users.html)
@@ -77,22 +76,22 @@ Adobe enterprise和teams大致定义了两种类型的用户：
 </tr>
 <tr>
 <th scope="row"><strong>添加用户</strong></th>
-<td><strong>Admin Console</strong>中的<strong>用户</strong>选项卡。 <a href="https://helpx.adobe.com/cn/enterprise/using/manage-users-individually.html#add-users">了解详情</a>。</td>
-<td>在<strong>Admin Console</strong>中使用<strong>通过CSV添加用户</strong>。 <a href="https://helpx.adobe.com/cn/enterprise/using/bulk-upload-users.html">阅读更多信息</a>。<em>（使用默认CSV模板。）</em></td>
+<td><strong>Admin Console</strong>中的<strong>用户</strong>选项卡。 <a href="https://helpx.adobe.com/cn/enterprise/using/manage-users-individually.html#add-users">了解更多信息</a>。</td>
+<td>在<strong>Admin Console</strong>中使用<strong>通过CSV添加用户</strong>。 <a href="https://helpx.adobe.com/cn/enterprise/using/bulk-upload-users.html">了解更多信息</a>。 <em>（使用默认CSV模板。）</em></td>
 <td>在<a href="https://helpx.adobe.com/cn/enterprise/using/sso-setup-azure.html">Azure</a>或<a href="https://helpx.adobe.com/cn/enterprise/using/setup-sso-google.html">Google</a>中添加用户。 或通过<strong>Admin Console</strong>。</td>
 <td colspan="2">应将用户添加到您组织的LDAP中。</td>
 </tr>
 <tr>
 <th scope="row"><strong>删除用户</strong></th>
-<td>在<strong>Admin Console</strong>中选择并移除用户。 <a href="https://helpx.adobe.com/cn/enterprise/using/manage-users-individually.html#remove-users">了解详情</a>。</td>
-<td>在<strong>Admin Console</strong>的<strong>用户</strong>选项卡中选择<strong>通过CSV删除用户</strong>。 <a href="https://helpx.adobe.com/cn/enterprise/using/bulk-upload-users.html#remove-users">阅读更多信息</a>。<em>（使用默认CSV模板。）</em></td>
+<td>在<strong>Admin Console</strong>中选择并移除用户。 <a href="https://helpx.adobe.com/cn/enterprise/using/manage-users-individually.html#remove-users">了解更多信息</a>。</td>
+<td>在<strong>Admin Console</strong>的<strong>用户</strong>选项卡中选择<strong>通过CSV删除用户</strong>。 <a href="https://helpx.adobe.com/cn/enterprise/using/bulk-upload-users.html#remove-users">了解更多信息</a>。 <em>（使用默认CSV模板。）</em></td>
 <td>必须在<a href="https://helpx.adobe.com/cn/enterprise/using/sso-setup-azure.html">Azure</a>或<a href="https://helpx.adobe.com/cn/enterprise/using/setup-sso-google.html">Google</a>中删除用户。</td>
 <td colspan="2">确保用户信息同步。 <strong>警告：</strong>从Admin Console中删除不在您组织的LDAP中的用户。</td>
 </tr>
 <tr>
 <th scope="row"><strong>编辑用户详细信息</strong></th>
-<td>选择该用户，然后在Admin Console中<strong>编辑用户详细信息</strong>。 <a href="https://helpx.adobe.com/cn/enterprise/using/manage-users-individually.html#edit-user-details">了解详情</a>。</td>
-<td>在<strong>Admin Console</strong>的<strong>用户</strong>选项卡中选择<strong>通过CSV编辑用户详细信息</strong>。 <a href="https://helpx.adobe.com/cn/enterprise/using/bulk-upload-users.html#edit-user-details">阅读更多信息</a>。<em>（使用默认CSV模板。）</em></td>
+<td>选择该用户，然后在Admin Console中<strong>编辑用户详细信息</strong>。 <a href="https://helpx.adobe.com/cn/enterprise/using/manage-users-individually.html#edit-user-details">了解更多信息</a>。</td>
+<td>在<strong>Admin Console</strong>的<strong>用户</strong>选项卡中选择<strong>通过CSV编辑用户详细信息</strong>。 <a href="https://helpx.adobe.com/cn/enterprise/using/bulk-upload-users.html#edit-user-details">了解更多信息</a>。 <em>（使用默认CSV模板。）</em></td>
 <td>必须在<a href="https://helpx.adobe.com/cn/enterprise/using/sso-setup-azure.html">Azure</a>或<a href="https://helpx.adobe.com/cn/enterprise/using/setup-sso-google.html">Google</a>中更改所有用户信息。</td>
 <td colspan="2">确保用户信息同步。</td>
 </tr>
@@ -131,7 +130,7 @@ Adobe enterprise和teams大致定义了两种类型的用户：
   <ul>
     <li>
       <a href="https://helpx.adobe.com/cn/enterprise/using/bulk-upload-users.html">
-        管理用户|批量上传CSV
+        管理用户 |批量上传CSV
       </a>
     </li>
     <li>
@@ -199,18 +198,18 @@ Adobe enterprise和teams大致定义了两种类型的用户：
 - 转到客户端计算机，然后双击包文件（Windows或macOS）。
 - 使用Windows命令提示符或macOS终端。
 - 使用第三方工具：
-   - [Microsoft Intune](https://helpx.adobe.com/cn/enterprise/kb/deploy-packages-using-ms-intune.html)
-   - [Microsoft System Center Configuration Manager (SCCM)](https://helpx.adobe.com/cn/enterprise/kb/deploy-packages-using-sccm.html)
-   - [Apple远程桌面(ARD)](https://helpx.adobe.com/cn/enterprise/kb/deploy-packages-using-ard.html)
-   - [JAMF Pro](https://helpx.adobe.com/cn/enterprise/kb/deploy-packages-using-jamf-pro.html)
-   - [Munki](https://helpx.adobe.com/cn/enterprise/kb/deploy-packages-using-munki.html)
+  - [Microsoft Intune](https://helpx.adobe.com/cn/enterprise/kb/deploy-packages-using-ms-intune.html)
+  - [Microsoft System Center Configuration Manager (SCCM)](https://helpx.adobe.com/cn/enterprise/kb/deploy-packages-using-sccm.html)
+  - [Apple远程桌面(ARD)](https://helpx.adobe.com/cn/enterprise/kb/deploy-packages-using-ard.html)
+  - [JAMF Pro](https://helpx.adobe.com/cn/enterprise/kb/deploy-packages-using-jamf-pro.html)
+  - [Munki](https://helpx.adobe.com/cn/enterprise/kb/deploy-packages-using-munki.html)
 
 ## 相关阅读
 
-- [管理用户|单独](https://helpx.adobe.com/cn/enterprise/using/manage-users-individually.html)
-- [管理用户|批量CSV上传](https://helpx.adobe.com/cn/enterprise/using/bulk-upload-users.html)
+- [管理用户 |单独](https://helpx.adobe.com/cn/enterprise/using/manage-users-individually.html)
+- [管理用户 |批量CSV上传](https://helpx.adobe.com/cn/enterprise/using/bulk-upload-users.html)
 - [管理目录用户](https://helpx.adobe.com/cn/enterprise/using/manage-directory-users.html)
-- [管理控制台](https://helpx.adobe.com/cn/enterprise/using/admin-console.html)
+- [Admin Console](https://helpx.adobe.com/cn/enterprise/using/admin-console.html)
 - [将用户分配给产品配置文件（适用于企业和机构）](https://helpx.adobe.com/cn/enterprise/using/manage-product-profiles.html#assign-users)
 - [将许可证分配给团队用户](https://helpx.adobe.com/cn/enterprise/using/assign-licenses-to-teams-users.html)
 - [业务存储模型](https://helpx.adobe.com/cn/enterprise/kb/business-storage-model-introduction.html)

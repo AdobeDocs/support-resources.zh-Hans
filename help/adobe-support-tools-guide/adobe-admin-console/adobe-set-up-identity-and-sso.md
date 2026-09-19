@@ -4,13 +4,12 @@ description: 了解组织系统管理员如何使用Adobe ID、Enterprise ID或F
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 0c2992946f1cdbbcfb44a2baf37888bd05b2253b
+exl-id: 7b2bf2f5-d363-4132-9f42-761db1332ce5
+source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '1068'
 ht-degree: 1%
-
 ---
-
 # 设置身份和单点登录
 
 **应用于：**&#x200B;企业
@@ -108,7 +107,7 @@ Adobe正在将所有组织更新到[企业存储模型](https://helpx.adobe.com/
 
 了解如何管理域和目录：
 
-- [管理用户](https://helpx.adobe.com/cn/enterprise/using/users.html)和[组](https://helpx.adobe.com/cn/enterprise/using/user-groups..html)
+- [管理用户](https://helpx.adobe.com/cn/enterprise/using/users.html)和[组](https://helpx.adobe.com/enterprise/using/user-groups..html)
 - [将域链接到目录](https://helpx.adobe.com/cn/enterprise/using/add-domains-directories.html#link-domains-to-directoies)以控制用户对应用、服务和设置的访问
 - [管理目录信任](https://helpx.adobe.com/cn/enterprise/using/directory-trust.html)以使用其他组织声明的域
 
@@ -130,7 +129,7 @@ Adobe正在将所有组织更新到[企业存储模型](https://helpx.adobe.com/
 - [Azure AD连接器常见问题解答](https://helpx.adobe.com/cn/enterprise/using/azure-ad-connector-faq.html)
 - [如何删除目录和域](https://helpx.adobe.com/cn/enterprise/using/sso-setup-azure.html#Deletedirectoriesandremovedomains)
 
-#### 疑难解答
+#### 故障排除
 
 - [用户拒绝访问](https://helpx.adobe.com/cn/enterprise/using/sso-setup-azure.html#sync-issues)
 - [同步问题](https://helpx.adobe.com/cn/enterprise/using/sso-setup-azure.html#sync-issues)
@@ -141,7 +140,7 @@ Adobe正在将所有组织更新到[企业存储模型](https://helpx.adobe.com/
 
 [SAML集成常见问题解答](https://helpx.adobe.com/cn/enterprise/using/sso-faq.html)
 
-#### 疑难解答
+#### 故障排除
 
 - [常规SSO故障排除](https://helpx.adobe.com/cn/enterprise/kb/tshoot-fed-id.html)
 - [“访问被拒绝”错误](https://helpx.adobe.com/cn/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
@@ -160,4 +159,4 @@ Adobe正在将所有组织更新到[企业存储模型](https://helpx.adobe.com/
 ## 法律和隐私
 
 - [法律声明](https://helpx.adobe.com/cn/legal/legal-notices.html)
-- [联机隐私策略](https://www.adobe.com/cn/privacy.html)
+- [在线隐私政策](https://www.adobe.com/privacy.html)
