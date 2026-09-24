@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
-source-git-commit: e4d473130a577a7673aba981a42bcb7ac352c18c
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1872'
+source-wordcount: '1881'
 ht-degree: 0%
-
 ---
-
 # 管理组织层次结构
 
 适用于企业。
@@ -35,8 +41,8 @@ ht-degree: 0%
 - 组织的[策略](https://helpx.adobe.com/cn/enterprise/global-admin-console/update-policies.html)设置（如果存在，则包括锁定）。
 - 系统管理员列表（由创建&#x200B;**[策略](https://helpx.adobe.com/cn/enterprise/global-admin-console/update-policies.html)时继承系统管理员的**&#x200B;控制）。
 以下内容可能会阻止系统管理员被继承：
-   - 缺少[域信任](https://helpx.adobe.com/cn/enterprise/using/directory-trust.html)。
-   - 用户类型限制（添加Adobe ID / Enterprise ID / Federated ID用户策略）。 了解[策略详细信息](https://helpx.adobe.com/cn/enterprise/global-admin-console/update-policies.html)。
+  - 缺少[域信任](https://helpx.adobe.com/cn/enterprise/using/directory-trust.html)。
+  - 用户类型限制（添加Adobe ID / Enterprise ID / Federated ID用户策略）。 了解[策略详细信息](https://helpx.adobe.com/cn/enterprise/global-admin-console/update-policies.html)。
 - 从父组织有权访问的域访问Federated ID或Enterprise ID用户。 这使父组织中的域用户可在子组织中使用。 用户访问权限的继承由&#x200B;**从父组织管理的目录继承用户** [策略](https://helpx.adobe.com/cn/enterprise/global-admin-console/update-policies.html)控制。
 - 共享策略、密码策略和安全联系人（在创建子组织时由&#x200B;**继承资产共享设置** [策略](https://helpx.adobe.com/cn/enterprise/global-admin-console/update-policies.html)控制）。
 
@@ -58,7 +64,7 @@ ht-degree: 0%
 - 组织中没有Sign帐户、Adobe Stock购买或存储库。
 - 组织中没有声明的域。
 - 组织中没有实例化的产品。
-- 组织中没有任何可包含实例化的Experience Cloud产品。
+- 没有可在组织中包含实例化的Experience Cloud产品。
 
 >[!WARNING]
 >

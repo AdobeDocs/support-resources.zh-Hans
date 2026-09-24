@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: aace5ed8-65a6-4cff-8542-bc50e9c765b7
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1151'
-ht-degree: 0%
-
+source-wordcount: '1258'
+ht-degree: 4%
 ---
-
 # 将现有用户迁移到Adobe Admin Console
 
 适用于企业和团队。
@@ -40,25 +46,25 @@ ht-degree: 0%
 
 * 产品是相同的
 
-   1. 续订窗口打开（VIP协议周年日期之前或之后30天）。
-   2. 订单上的企业产品是相当于当前术语中团队版本的新SKU。
-   3. 企业许可证订购数量大于或等于现有的团队许可证数量。
+  1. 续订窗口打开（VIP协议周年日期之前或之后30天）。
+  2. 订单上的企业产品是相当于当前术语中团队版本的新SKU。
+  3. 企业许可证订购数量大于或等于现有的团队许可证数量。
 
 * 产品价值更高
 
-   1. 续订窗口打开。
-   2. 订单上的企业产品是新的SKU，与当前术语中的团队产品相比，这些产品的价值更高。
-   3. 企业许可证订购数量大于或等于现有的团队许可证数量。
+  1. 续订窗口打开。
+  2. 订单上的企业产品是新的SKU，与当前术语中的团队产品相比，这些产品的价值更高。
+  3. 企业许可证订购数量大于或等于现有的团队许可证数量。
 
 * 在以下情况下，快速许可证分配不可用
 
-   * 订单上的企业许可证数量少于现有的团队许可证数量。
-   * 订购的是价值较高的企业产品，但订购的企业许可数量小于现有的团队许可数量。
-   * 无论数量如何，订单都会混合团队和企业产品。
-   * 客户在续订期间之前已购买团队和企业产品。
-   * 企业续订SKU用于新的企业订单。
-   * 企业产品订单适用于其他VIP协议编号。
-   * 当前的团队产品包括没有企业版本的项目。
+  * 订单上的企业许可证数量少于现有的团队许可证数量。
+  * 订购的是价值较高的企业产品，但订购的企业许可数量小于现有的团队许可数量。
+  * 无论数量如何，订单都会混合团队和企业产品。
+  * 客户在续订期间之前已购买团队和企业产品。
+  * 企业续订SKU用于新的企业订单。
+  * 企业产品订单适用于其他VIP协议编号。
+  * 当前的团队产品包括没有企业版本的项目。
 
 Adobe处理您的企业采购订单后，您会收到一封包含相关说明的确认电子邮件，其中包括必须在用户失去访问权限之前将其从团队许可证转移到Admin Console中的企业许可证的日期。
 
@@ -76,7 +82,7 @@ Adobe处理您的企业采购订单后，您会收到一封包含相关说明的
 
 在Admin Console中下载[结果报告](https://helpx.adobe.com/cn/enterprise/using/users.html#main-pars_header_1346350355)以确认已分配所有许可证。 如果您在确认电子邮件中的日期之前完成，最终用户将不会遇到服务中断。
 
-安排Adobe入门培训专家（如果没有）的1:1入门培训通话，了解有关Admin Console的更多信息，包括[管理角色](https://helpx.adobe.com/cn/enterprise/using/admin-roles.html)和[身份](https://helpx.adobe.com/cn/enterprise/using/identity.html)。
+安排Adobe入门培训专家（如果尚未安排）的1:1入门培训通话，了解有关Admin Console的更多信息，包括[管理角色](https://helpx.adobe.com/cn/enterprise/using/admin-roles.html)和[身份](https://helpx.adobe.com/cn/enterprise/using/identity.html)。
 
 >[!NOTE]
 >
@@ -90,7 +96,7 @@ Adobe处理您的企业采购订单后，您会收到一封包含相关说明的
 * 您需要在续订窗口之外分配许可证。
 
 1. 在访问[Adobe Admin Console](https://adminconsole.adobe.com/enterprise)并添加许可证后，转到&#x200B;**[!UICONTROL 用户]** > **[!UICONTROL 用户]**。
-2. 单击![用户](assets/migrate-more-options.png)页面右上角的&#x200B;**[!UICONTROL 更多选项菜单]**，然后选择&#x200B;**[!UICONTROL 通过CSV编辑用户详细信息]**。
+2. 单击&#x200B;**[!UICONTROL 用户]**&#x200B;页面右上角的![更多选项菜单](assets/migrate-more-options.png)，然后选择&#x200B;**[!UICONTROL 通过CSV编辑用户详细信息]**。
 3. 在&#x200B;**[!UICONTROL 通过CSV编辑用户]**&#x200B;对话框中，单击&#x200B;**[!UICONTROL 下载CSV模板]**&#x200B;并选择&#x200B;**[!UICONTROL 当前用户列表]**。
 
    ![通过CSV编辑用户](assets/migrate-edit-users-by-csv.png)

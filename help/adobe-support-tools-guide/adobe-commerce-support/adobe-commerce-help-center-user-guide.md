@@ -5,13 +5,37 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: 6ac712151b002370eb84a3e3deb5480921cc40a6
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: e439352c-5b67-587d-b34e-d2a0aa5a0242
+    internal-label: Roles/Permissions
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+subfeature_v2:
+  - id: a59f76dc-e003-5617-951e-dffa5bd3de81
+    internal-label: Support
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: df5e974b-6742-4873-a687-a6bedaafdaa2
+    internal-label: IaaS
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '3602'
+source-wordcount: '3662'
 ht-degree: 0%
-
 ---
-
 # 适用于Adobe Commerce的Experience League支持用户指南
 
 在本指南中，了解如何向[Experience League支持](https://experienceleague.adobe.com/home?lang=zh-Hans#support)提交支持票证，并提供对Adobe Commerce帐户的共享访问权限。
@@ -203,7 +227,7 @@ Adobe Experience League支持案例管理允许通过案例与支持人员合作
 >[!NOTE]
 >
 >如果您有在Commerce之外提交的其他Adobe产品支持案例，则无法从同一屏幕跟踪这些工单 — 您必须先切换到与产品权利关联的组织。
->例如，您之前选择以“(Commerce)”结尾的组织来跟踪您的Commerce案例，而您还具有AEP支持案例 — 这些案例不会显示在此处。
+>例如，您之前选择了以“(Commerce)”结尾的组织来跟踪您的Commerce案例，同时您还具有AEP支持案例 — 这些案例不会显示在此处。
 
 #### 查看您的案例
 
@@ -256,7 +280,7 @@ Adobe Experience League支持案例管理允许通过案例与支持人员合作
 
 ### 您案例中的备注 {#comments-in-your-case}
 
-您案例中的注释包含您或Adobe Commerce支持团队编写的所有注释。注释按最新（顶部）到最早（底部）顺序显示。
+您案例中的注释包含您或Adobe Commerce支持团队编写的所有注释。 注释按最新（顶部）到最早（底部）顺序显示。
 要添加评论，请执行以下步骤：
 
 1. 滚动到票证的底部。

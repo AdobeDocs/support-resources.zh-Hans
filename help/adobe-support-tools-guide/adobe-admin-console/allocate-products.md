@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: de6e785d-8965-40d5-ac78-7fbb2cd7afc7
-source-git-commit: 174cc3f37780e28d7de9359071ebfebbf7f063da
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1100'
+source-wordcount: '1192'
 ht-degree: 0%
-
 ---
-
 # 使用Global Admin Console将产品分配给子组织
 
 适用于企业。
@@ -56,7 +62,7 @@ Global Admin Console中的&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡
    >如果子组织已有采购合同，则父组织向该子组织的产品分配可能会受到限制。 [了解详情](https://helpx.adobe.com/cn/enterprise/global-admin-console/allocate-products.html#limited-product-allocation)。
 
 1. 要分配产品，请选择相关组织的&#x200B;**[!UICONTROL 添加+]**&#x200B;图标。\
-   某些产品包含多个可分配的资源；在这种情况下，对话框中列出了多个资源，您必须为每个资源提供值。例如，Adobe Stock可以包含Adobe Stock图像积分和高级积分。
+   某些产品包含多个可分配的资源；在这种情况下，对话框中列出了多个资源，您必须为每个资源提供值。 例如，Adobe Stock可以包含Adobe Stock图像积分和高级积分。
    ![Adobe Stock图像](/help/adobe-support-tools-guide/assets/adobe-stock-images.png)
 1. 在出现的对话框中，指定产品数量。
 1. 选择&#x200B;**[!UICONTROL 保存]**。
@@ -89,8 +95,8 @@ Global Admin Console中的&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡
 
 与产品和组织关联的分配[策略](https://helpx.adobe.com/cn/enterprise/global-admin-console/update-policies.html#update-policies)指示是否允许过度分配。
 
-过度分配允许授予子组织的产品资源多于父组织中的可用资源。当分配已近似并且管理员不想负担使资源分配相加的负担时，此变量非常有用。
-如果对组织中的产品资源禁用过度分配，则子授权的总和不能超过父授权。对于标记为已禁用过度分配的资源，将不会执行过度分配请求。
+过度分配允许授予子组织的产品资源多于父组织中的可用资源。 当分配已近似并且管理员不想负担使资源分配相加的负担时，此变量非常有用。
+如果对组织中的产品资源禁用过度分配，则子授权的总和不能超过父授权。 对于标记为已禁用过度分配的资源，将不会执行过度分配请求。
 当过度分配切换从启用切换到禁用时，如果资源的授权数量中存在过度分配情况，则必须调整授权值以消除过度分配，然后才能执行授权更新。
 
 ![过度分配](/help/adobe-support-tools-guide/assets/overallocation.png)

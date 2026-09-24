@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 1e20362a-0974-4b83-a083-9edaab04c255
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1333'
-ht-degree: 0%
-
+source-wordcount: '1505'
+ht-degree: 1%
 ---
-
 # 在Global Admin Console中管理用户组
 
 在Global Admin Console中创建、管理和共享用户组，通过对具有相同权限的用户进行分组、节省时间和确保一致性，从而简化用户管理。

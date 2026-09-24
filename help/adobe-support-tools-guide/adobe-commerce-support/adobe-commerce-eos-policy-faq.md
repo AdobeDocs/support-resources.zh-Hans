@@ -5,27 +5,39 @@ feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
 exl-id: d86356e7-863f-4da0-bd7e-5ea4ac38e3a3
-TQID: https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE
+TQID: 'https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+    internal-label: Compliance
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
 subfeature_v2:
   - id: f2261633-201d-46c5-8a66-999e70527a83
+    internal-label: PCI
+  - id: c4af0798-d497-5e6b-8380-19812c26d00a
+    internal-label: Console
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Security
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 1808
+source-wordcount: '1808'
 ht-degree: 0%
-
 ---
-
 # Adobe Commerce软件终止支持常见问题解答
 
 以下常见问题解答旨在帮助商家、开发人员和合作伙伴了解Adobe Commerce发布的终止支持(EOS)日期对受影响的Adobe Commerce版本的影响。
@@ -74,11 +86,11 @@ ht-degree: 0%
 
 * 除了通过最新的安全保护保持平台处于最新状态（包括PCI合规性）外，升级到受支持的版本还可以改进性能和可扩展性，让您获得最新的创新技术。
 * 即将于2022年4月12日推出的Adobe Commerce 2.4.4标志着在商业功能、性能和保护方面迈出了新的一步。 它为Adobe未来几年的创新奠定了基础，帮助提高商务灵活性。 最新版本基于最新版本的PHP 8.1，使商家能够通过以下方式未来证明其数字商业业务：
-   * 更快地访问作为SaaS服务提供的创新功能，如产品推荐、付费服务和实时搜索
-   * 更简单、更经济高效的维护和升级
-   * 持续灵活地自定义和满足独特的业务需求
-   * 显着提高了性能和可扩展性
-   * 更好的开发人员体验和工具来监控平台运行状况
+  * 更快地访问作为SaaS服务提供的创新功能，如产品推荐、付费服务和实时搜索
+  * 更简单、更经济高效的维护和升级
+  * 持续灵活地自定义和满足独特的业务需求
+  * 显着提高了性能和可扩展性
+  * 更好的开发人员体验和工具来监控平台运行状况
 
 ### 为避免软件支持终止问题，我应该怎么做？
 
