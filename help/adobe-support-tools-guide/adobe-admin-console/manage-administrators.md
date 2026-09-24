@@ -24,7 +24,7 @@ ht-degree: 2%
 
 探索全局管理员功能，了解如何将用户、产品许可证和组的管理委派给每个组织的管理员，并将这些委派给管理员。
 
-在Global Admin Console中，您可以选择组织并导航到&#x200B;**[!UICONTROL 管理员]**&#x200B;选项卡以添加、编辑或删除管理员权限。 层次结构中的每个组织都是一个Adobe Admin Console；请参阅[采用全局管理](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)，了解Global Admin Console如何对这些控制台进行分组。 登录到[Global Admin Console](https://global-admin-console.adobe.com)以执行层级范围任务，或登录到[Adobe Admin Console](https://adminconsole.adobe.com)执行单个组织中的任务。
+在Global Admin Console中，您可以选择组织并导航到&#x200B;**[!UICONTROL 管理员]**&#x200B;选项卡以添加、编辑或删除管理员权限。 层次结构中的每个组织都是一个Adobe Admin Console；请参阅[采用全局管理](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)，了解Global Admin Console如何对这些控制台进行分组。 登录到[Global Admin Console](https://global-admin-console.adobe.com)以执行层级范围任务，或登录到[Adobe Admin Console](https://adminconsole.adobe.com)执行单个组织中的任务。
 
 Global Admin Console引入了一个称为全局管理员的角色。 此角色不同于系统管理员，允许您执行以下操作：
 
@@ -159,7 +159,7 @@ Global Admin Console设计用于多个组织和Admin Console。 下表概述了�
 
    >[!NOTE]
    >
-   > 对于可以添加的帐户类型，组织可以有限制。 这些参数可以基于[策略](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)或组织的其他配置参数。 组织不允许同时添加AdobeID用户和业务ID用户。 通常，组织中不应同时存在这两种类型的用户，但根据设置规则的顺序，可能会存在某些特定帐户类型的用户，这些用户会提前应用策略或规则。
+   > 对于可以添加的帐户类型，组织可以有限制。 这些参数可以基于[策略](https://helpx.adobe.com/cn/enterprise/global-admin-console/update-policies.html)或组织的其他配置参数。 组织不允许同时添加AdobeID用户和业务ID用户。 通常，组织中不应同时存在这两种类型的用户，但根据设置规则的顺序，可能会存在某些特定帐户类型的用户，这些用户会提前应用策略或规则。
 
 1. 从&#x200B;**[!UICONTROL 管理员权限]**&#x200B;部分中选择一个或多个管理员角色。
 
@@ -169,7 +169,7 @@ Global Admin Console设计用于多个组织和Admin Console。 下表概述了�
 
 1. 选择&#x200B;**[!UICONTROL 保存]**。
 
-1. 编辑组织后，选择&#x200B;**[!UICONTROL 审阅挂起的更改]**，然后选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。
+1. 编辑组织后，选择&#x200B;**[!UICONTROL 审阅挂起的更改]**，然后选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。
 
 添加管理员角色后，用户会收到电子邮件通知，告知其角色发生了更改。
 
@@ -187,7 +187,7 @@ Global Admin Console设计用于多个组织和Admin Console。 下表概述了�
 
 1. 在编辑完组织后，选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。
 
-每个添加或删除的管理员角色的挂起更改列表中都会显示一个单独的命令。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。
+每个添加或删除的管理员角色的挂起更改列表中都会显示一个单独的命令。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。
 
 ## 删除管理员权限
 
@@ -199,6 +199,6 @@ Global Admin Console设计用于多个组织和Admin Console。 下表概述了�
 
 1. 在确认对话框中选择&#x200B;**[!UICONTROL 确定]**。
 
-1. 在编辑完组织后，选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。
+1. 在编辑完组织后，选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。
 
 删除管理员后，用户会收到电子邮件通知，告知他们该组织无法访问管理控制台。

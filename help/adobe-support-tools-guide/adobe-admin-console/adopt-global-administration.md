@@ -54,7 +54,7 @@ Global Admin Console不会替换或更改现有Admin Console中的日常功能�
 - 创建、编辑和删除产品配置文件和用户组。
 - 导出组织信息以供报告或用于其他流程。
 - 导入对组织的更新和对组织层次结构的更改。
-- 接收有关子组织中ETLA合同状态的通知，包括即将到期、已到期或无效的合同。 有关详细信息，请参阅[合同到期](https://helpx.adobe.com/enterprise/using/contract-expiry.html)文档。
+- 接收有关子组织中ETLA合同状态的通知，包括即将到期、已到期或无效的合同。 有关详细信息，请参阅[合同到期](https://helpx.adobe.com/cn/enterprise/using/contract-expiry.html)文档。
 
 ## 资格标准
 
