@@ -33,10 +33,10 @@ role_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
+source-git-commit: 61c5015c99b5a898f9aa0e8093f07d905f81dc7d
 workflow-type: tm+mt
-source-wordcount: '1808'
-ht-degree: 0%
+source-wordcount: '1855'
+ht-degree: 1%
 ---
 # Adobe Commerce软件终止支持常见问题解答
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 ### 可在何处找到所有Adobe Commerce版本的软件支持日期？
 
-您可以在[Adobe Commerce软件生命周期政策](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)中找到Adobe Commerce软件生命周期政策和软件支持日期。 我们还在[开发人员文档页面](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/versions)上发布支持结束(EOS)日期。
+您可以在[Adobe Commerce软件生命周期策略](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)中找到Adobe Commerce软件生命周期策略。 有关特定于版本的生命周期和软件支持日期，请参阅[Adobe Commerce生命周期政策和支持日期](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/planning/lifecycle-policy)。 我们还在[开发人员文档页面](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions)上发布支持结束(EOS)日期。
 
 ### 当Adobe终止支持某个Adobe Commerce软件版本时，这意味着什么？
 
@@ -96,7 +96,7 @@ ht-degree: 0%
 
 您的Commerce平台是贵公司的重要业务系统，及时了解最新信息是业务中一项关键的持续投资。 您的数字店面的最新技术和安全更新在许多层面上都很重要，有助于促进创新和增长。
 
-迁移到最新版本的Adobe Commerce软件可能需要时间和资源才能正常运行。 您最好在支持结束日期之前尽早进行规划，以帮助确保您有适当的时间和资源，按时在预算内实现您的战略目标。 为了帮助您进行下一次升级，Adobe已发布[2.4升级指南](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf?lang=zh-Hans)，其中包括要遵循的最佳实践和技术步骤，以及在执行升级时要使用的工具和资源。
+迁移到最新版本的Adobe Commerce软件可能需要时间和资源才能正常运行。 您最好在支持结束日期之前尽早进行规划，以帮助确保您有适当的时间和资源，按时在预算内实现您的战略目标。 为了帮助您进行下一次升级，Adobe已发布[2.4升级指南](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf)，其中包括要遵循的最佳实践和技术步骤，以及在执行升级时要使用的工具和资源。
 
 另一个重要的考虑是尽早预留开发人员和合作伙伴资源。 合作伙伴的时间和资源通常在支持日期结束之前提前预定，导致用于协助迁移项目的资源显着减少。 建议您制定为期三年的滚动计划，至少每年讨论一次，并确保为下一年制定计划和预算。 使用[Adobe的发布日历](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/planning/schedule)跟踪发布日期。
 
@@ -130,7 +130,7 @@ Adobe Commerce许可证过期后，您需要停止使用Adobe Commerce软件，�
 
 ### 对于在支持日期结束前打开的支持工单，是否有警报提醒商家即将结束支持？
 
-不会，不会出现提醒警报，通知支持票证用户支持日期即将结束。 票证打开者有责任知道他们所在的Adobe Commerce版本的终止支持日期，该日期可在我们的[Adobe Commerce软件生命周期策略](https://magento.com/sites/default/files/magento-software-lifecycle-policy.pdf)中找到。
+不会，不会出现提醒警报，通知支持票证用户支持日期即将结束。 票证打开者有责任知道他们所在的Adobe Commerce版本的终止支持日期，该日期可在[Adobe Commerce软件生命周期策略](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)和[Adobe Commerce生命周期策略和支持日期](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/planning/lifecycle-policy)中找到。
 
 ### 如果软件版本的支持票证在该版本的支持日期结束后打开，是否仍会处理该票证以解决问题？
 
