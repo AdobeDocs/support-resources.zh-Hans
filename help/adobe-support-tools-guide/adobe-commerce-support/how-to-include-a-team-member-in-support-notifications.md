@@ -9,20 +9,29 @@ exl-id: 392ef795-f710-401f-8b0e-3c8dfec7bb3a
 TQID: 'https://experienceleague.adobe.com/fWRfvDT8NCwPfzmAx1Zowo4T8KvKLKWqhDkZDfX8stU'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
 subfeature_v2:
   - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: a59f76dc-e003-5617-951e-dffa5bd3de81
+    internal-label: Support
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-source-git-commit: 9f1760d31cd80e0358aa341c3f6091b2a86b6d67
+    internal-label: Developer
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 305
-ht-degree: 12%
-
+source-wordcount: '305'
+ht-degree: 15%
 ---
-
 
 # 如何在支持通知中包含团队成员
 
@@ -44,14 +53,14 @@ ht-degree: 12%
 
 如果它们尚未添加到项目中，则需要将它们添加为[!DNL Project Admin]并授予[!DNL Shared Access]：
 
-* 在我们的用户指南中[管理用户访问权限](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=zh-Hans)。
-* [无法向Commerce知识库中的Adobe Commerce云项目](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html?lang=zh-Hans)添加用户。
-* [Adobe Commerce帮助中心用户指南：在我们的Commerce知识库中共享访问权限](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=zh-Hans#shared-access)。
+* 在我们的用户指南中[管理用户访问权限](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html)。
+* [无法向Commerce知识库中的Adobe Commerce云项目](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html)添加用户。
+* [Adobe Commerce帮助中心用户指南：在我们的Commerce知识库中共享访问权限](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html#shared-access)。
 
-如果他们已添加到[!DNL cloud project]，但没有该[!DNL Project Admin role]，请在[管理用户访问权限](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=zh-Hans)中相应地更新其[!DNL role]。
+如果他们已添加到[!DNL cloud project]，但没有该[!DNL Project Admin role]，请在[管理用户访问权限](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html)中相应地更新其[!DNL role]。
 
-如果您希望使团队成员成为您组织的所有已打开案例的关注者，请提交[支持票证](https://experienceleague.adobe.com/home?lang=zh-Hans&support-tab=home#support)。
+如果您希望使团队成员成为您组织的所有已打开案例的关注者，请提交[支持票证](https://experienceleague.adobe.com/home?lang=en&support-tab=home#support)。
 
 ## 相关阅读
 
-[以前的团队成员会收到Adobe Commerce Cloud通知电子邮件](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/former-teammembers-receive-cloud-notification-emails.html?lang=zh-Hans)
+[以前的团队成员会收到Adobe Commerce Cloud通知电子邮件](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/former-teammembers-receive-cloud-notification-emails.html)

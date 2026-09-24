@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: 817407268abec35b0b252ffb54540be29948f9b6
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '955'
 ht-degree: 0%
-
 ---
-
 # 采用全球管理
 
 适用于企业。
@@ -30,7 +36,7 @@ Global Admin Console适用于组织结构复杂、拥有多个Admin Console或�
 
 Global Admin Console不会替换或更改现有Admin Console中的日常功能。 该控制台采用层次结构运行，其顶部有一个根组织，其下方嵌套了所有链接的控制台。 根控制台根据采购和组织设置确定。
 
-要了解有关Global Admin Console的功能和优势的更多信息，请参阅Global Admin Console[&#128279;](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625)上的白皮书并观看以下[视频](https://youtu.be/FLBWR78wpok)。
+要了解有关Global Admin Console的功能和优势的更多信息，请参阅Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625)上的[白皮书并观看以下[视频](https://youtu.be/FLBWR78wpok)。
 
 此视频的内容和配音目前仅提供英语版本。
 
@@ -48,7 +54,7 @@ Global Admin Console不会替换或更改现有Admin Console中的日常功能�
 - 创建、编辑和删除产品配置文件和用户组。
 - 导出组织信息以供报告或用于其他流程。
 - 导入对组织的更新和对组织层次结构的更改。
-- 接收有关子组织中ETLA合同状态的通知，包括即将到期、已到期或无效的合同。 有关详细信息，请参阅[合同到期](https://helpx.adobe.com/cn/enterprise/using/contract-expiry.html)文档。
+- 接收有关子组织中ETLA合同状态的通知，包括即将到期、已到期或无效的合同。 有关详细信息，请参阅[合同到期](https://helpx.adobe.com/enterprise/using/contract-expiry.html)文档。
 
 ## 资格标准
 
@@ -82,7 +88,7 @@ Global Admin Console不会替换或更改现有Admin Console中的日常功能�
 1. 在&#x200B;**[!UICONTROL 中描述您面临的问题的性质]**，说明您的组织正在请求访问Global Admin Console，并包含以下详细信息：
 
    - **名称和控制台ID** （可在URL中找到，作为“@AdobeOrg”前的一系列数字和字母）指定为Admin Console的&#x200B;*根（顶部）*组织，或请求新控制台并指定所需的名称。
- — 在某些情况下，新控制台是首选选项。您的Adobe代表可以指导您。请仔细选择*root*&#x200B;组织，因为以后很难对其进行更改。
+      — 在某些情况下，新控制台是首选选项。 您的Adobe代表可以指导您。 请仔细选择*root*&#x200B;组织，因为以后很难对其进行更改。
    - 至少将一个当前系统管理员分配给全局管理员角色。 您可以稍后添加其他管理员。
    - Adobe代表或客户成功经理的姓名和电子邮件地址。
 

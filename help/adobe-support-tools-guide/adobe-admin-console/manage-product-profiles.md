@@ -4,21 +4,27 @@ description: 了解全局管理员如何在Global Admin Console中添加、编�
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: 6a0b2d9f-9e02-428c-a2be-bc457230f7e0
+TQID: 'https://experienceleague.adobe.com/lG0ZmW8ynu7tKpYa0JWoSeBDpeR1TaenUMNNCLcPSOI'
 product_v2:
   - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-exl-id: 6a0b2d9f-9e02-428c-a2be-bc457230f7e0
-TQID: https://experienceleague.adobe.com/lG0ZmW8ynu7tKpYa0JWoSeBDpeR1TaenUMNNCLcPSOI
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Administration
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 758
+source-wordcount: '758'
 ht-degree: 0%
-
 ---
-
 # 在Global Admin Console中管理产品配置文件
 
 **应用于：**&#x200B;企业
@@ -27,7 +33,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在[Global Admin Console](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console)中，选择一个组织并导航到&#x200B;**[!UICONTROL 产品]**。 您可以使用产品配置文件为产品激活所有或选定的服务。
+>在[Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console)中，选择一个组织并导航到&#x200B;**[!UICONTROL 产品]**。 您可以使用产品配置文件为产品激活所有或选定的服务。
 
 与标准Admin Console中一样，产品配置文件允许您微调组织内产品的使用情况。 您还可以将管理员（称为&#x200B;**[!UICONTROL 产品配置文件管理员]**）分配给产品配置文件。 这些管理员可以将最终用户添加到他们管理的产品配置文件。
 
@@ -35,7 +41,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->对于某些产品，您不能在Global Admin Console中创建或编辑产品配置文件。 在这种情况下，请改用[Admin Console](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)。
+>对于某些产品，您不能在Global Admin Console中创建或编辑产品配置文件。 在这种情况下，请改用[Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)。
 
 ## 添加产品配置文件
 
@@ -48,24 +54,24 @@ ht-degree: 0%
    |---|---|
    | **[!UICONTROL 名称]** | 组织中产品配置文件的唯一名称，与其他产品配置文件和用户组不同。 |
    | **[!UICONTROL 配额]** | 为此配置文件分配的目标许可证数量。 |
-   | **[!UICONTROL 用户组]** | 从下拉菜单中选择或键入用户组名称。 如果该用户组尚不存在，请首先通过[**[!UICONTROL 用户组&#x200B;]**](https://helpx.adobe.com/cn/enterprise/global-admin-console/manage-user-groups.html)选项卡创建它。 |
-   | **[!UICONTROL 管理员]** | 从下拉列表中选择，或输入管理员的电子邮件地址。 如果管理员尚不存在，请首先通过[**[!UICONTROL 管理员&#x200B;]**](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)选项卡创建管理员。 |
+   | **[!UICONTROL 用户组]** | 从下拉菜单中选择或键入用户组名称。 如果该用户组尚不存在，请首先通过[**[!UICONTROL 用户组&#x200B;]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html)选项卡创建它。 |
+   | **[!UICONTROL 管理员]** | 从下拉列表中选择，或输入管理员的电子邮件地址。 如果管理员尚不存在，请首先通过[**[!UICONTROL 管理员&#x200B;]**](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)选项卡创建管理员。 |
 
    为指定的[!UICONTROL 用户组]分配了产品配置文件。 指定的管理员成为&#x200B;**[!UICONTROL 产品配置文件管理员]**，他们可以通过Adobe Admin Console管理相关组织的配置文件。
 
    ![添加配置文件](./assets/manage-product-profiles_add-profile.png)
 
 1. 使用&#x200B;**[!UICONTROL 通知]**&#x200B;切换开关启用或禁用电子邮件通知。 启用后，当用户添加到用户档案或从用户档案中删除时，将会收到电子邮件通知。
-1. 使用单个&#x200B;**[!UICONTROL 服务]**&#x200B;切换为产品配置文件启用或禁用特定服务。 有关详细信息，请参阅[为产品配置文件启用/禁用服务](https://helpx.adobe.com/cn/enterprise/using/enable-disable-services.html)。
+1. 使用单个&#x200B;**[!UICONTROL 服务]**&#x200B;切换为产品配置文件启用或禁用特定服务。 有关详细信息，请参阅[为产品配置文件启用/禁用服务](https://helpx.adobe.com/enterprise/using/enable-disable-services.html)。
 1. 选择&#x200B;**[!UICONTROL 保存]**。
-1. 编辑完组织后，选择&#x200B;**[!UICONTROL 查看挂起的更改]**。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。
+1. 编辑完组织后，选择&#x200B;**[!UICONTROL 查看挂起的更改]**。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。
 
 ## 编辑产品配置文件
 
 1. 选择要编辑的组织，导航到&#x200B;**[!UICONTROL 产品]**&#x200B;选项卡，然后选择产品。
 1. 为相关产品配置文件选择&#x200B;**[!UICONTROL 更多选项]** ![更多选项](./assets/manage-product-profiles_more-options.png)图标，然后选择&#x200B;**[!UICONTROL 编辑配置文件]**。
 1. 根据需要更新产品配置文件详细信息，然后选择&#x200B;**[!UICONTROL 保存]**。
-1. 编辑完组织后，选择&#x200B;**[!UICONTROL 查看挂起的更改]**。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。
+1. 编辑完组织后，选择&#x200B;**[!UICONTROL 查看挂起的更改]**。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。
 
 ## 删除产品配置文件
 
@@ -76,15 +82,15 @@ ht-degree: 0%
 1. 选择要编辑的组织，导航到&#x200B;**[!UICONTROL 产品]**&#x200B;选项卡，然后选择产品。
 1. 为相关产品配置文件选择&#x200B;**[!UICONTROL 更多选项]** ![更多选项](./assets/manage-product-profiles_more-options.png)图标，然后选择&#x200B;**[!UICONTROL 删除配置文件]**。
 1. 在确认对话框中选择&#x200B;**[!UICONTROL 确定]**。
-1. 编辑完组织后，选择&#x200B;**[!UICONTROL 查看挂起的更改]**。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。
+1. 编辑完组织后，选择&#x200B;**[!UICONTROL 查看挂起的更改]**。 审阅后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。
 
 
 ## 相关阅读
 
-- [采用全球管理](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)
-- [管理管理员](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)
-- [管理用户组](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-user-groups)
-- [将产品分配给子组织](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/allocate-products)
-- [执行挂起的作业](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)
-- [启用/禁用服务](https://helpx.adobe.com/cn/enterprise/using/enable-disable-services.html)
-- [Admin Console概述](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
+- [采用全球管理](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)
+- [管理管理员](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)
+- [管理用户组](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-user-groups)
+- [将产品分配给子组织](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/allocate-products)
+- [执行挂起的作业](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)
+- [启用/禁用服务](https://helpx.adobe.com/enterprise/using/enable-disable-services.html)
+- [Admin Console概述](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)

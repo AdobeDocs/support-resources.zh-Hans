@@ -1,23 +1,31 @@
 ---
 title: Adobe Success 门户发行说明
-description: ' [!DNL Adobe Success portal] 的最新发布信息。'
+description: '[!DNL Adobe Success portal]的最新发行信息。'
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-TQID: https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA
+TQID: 'https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: e53834d3-a86e-47ae-8257-15f5f3639855
+    internal-label: Release notes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b701d905fa6fc5c837ec3bdd633504c65694f621
+    internal-label: Insights
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 597
-ht-degree: 81%
-
+source-wordcount: '597'
+ht-degree: 80%
 ---
-
 # [!DNL Adobe Success portal] 发行说明
 
 这些发行说明包含对 [!DNL Adobe Success portal] 的更新，包括：
@@ -45,12 +53,12 @@ _2025 年 10 月 9 日_
 ![新](../adobe-success-portal/assets/new.svg)在&#x200B;**[!UICONTROL 行动计划]**&#x200B;模块中新增了日程表视图，用于可视化与&#x200B;**[!UICONTROL 关键业务目标]**（KBO）关联的&#x200B;**[!UICONTROL 加速器]**&#x200B;和&#x200B;**[!UICONTROL 活动]**&#x200B;的时间线。
 
 * 您可以从“行动计划”的 KBO 页面，或从 **[!UICONTROL KBO]**/**[!UICONTROL 加速器]**/**[!UICONTROL 活动]**&#x200B;的详情页面访问该日程表（仅当其已关联到某个 KBO 时）。
-* 可在列表视图（默认）与日程表视图之间切换。
-* 日程表会为每个 KBO 显示可折叠的分区：
-   * 蓝色表示&#x200B;**[!UICONTROL 加速器]**
-   * 绿色表示&#x200B;**[!UICONTROL 活动]**
+* 可在列表视图（默认）与日历视图之间切换。
+* 日历会为每个 KBO 显示可折叠的分区：
+  * 蓝色表示&#x200B;**[!UICONTROL 加速器]**
+  * 绿色表示&#x200B;**[!UICONTROL 活动]**
 * 每个&#x200B;**[!UICONTROL 加速器]**/**[!UICONTROL 活动]**&#x200B;都会显示名称、状态以及开始/结束日期（格式为&#x200B;*月份 XX*、*YYYY*）。
-* 点击事件卡片可打开包含事件详细信息的页面。 点击“返回”按钮可返回到上一页面。
+* 点击事件信息卡可打开包含事件详细信息的页面。 点击“返回”按钮可返回到 。
 * 事件采用颜色区分：蓝色表示&#x200B;**[!UICONTROL 加速器]**，绿色表示&#x200B;**[!UICONTROL 活动]**。 可在 KBO 之间进行纵向滚动，并按周或按月进行横向滚动。
 * 当文本遭到截断时，工具提示会显示完整名称；滚动时，时间线会保持可见。
 * 默认视图为当前周；可通过导航箭头在不同周之间切换。

@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6a7b5650-c9bf-475b-b330-1f4dba5d659b
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1645'
-ht-degree: 0%
-
+source-wordcount: '1654'
+ht-degree: 1%
 ---
-
 # 管理角色
 
 通过使用Adobe Admin Console，组织可以定义灵活的管理层次结构，从而更精细地管理对Adobe产品的访问和使用。 在企业载入流程中配置的一个或多个系统管理员位于层次结构的顶部。 这些系统管理员可以将责任委派给其他管理员，同时仍保留总体控制权。
@@ -30,7 +36,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->管理层次结构不适用于团队客户。 团队客户具有单个&#x200B;**系统管理员**&#x200B;角色。 合同所有者（_以前称为&#x200B;**主要管理员**&#x200B;_）是系统管理员，有权访问合同详细信息和帐单历史记录。 如果您是当前合同所有者，则可以指定现有系统管理员（_&#x200B;以前称为&#x200B;**辅助管理员**&#x200B;_）作为合同所有者。
+>管理层次结构不适用于团队客户。 团队客户具有单个&#x200B;**系统管理员**&#x200B;角色。 合同所有者（_以前称为&#x200B;**主要管理员**_）是系统管理员，有权访问合同详细信息和帐单历史记录。 如果您是当前合同所有者，则可以指定现有系统管理员（_&#x200B;以前称为&#x200B;**辅助管理员**_）作为合同所有者。
 
 ![管理员映像](../assets/storage_admin.png)
 
@@ -113,7 +119,7 @@ _管理员角色层次结构_
 ![团队管理员图像](../assets/teams-admin.png)
 
 由于团队组织中的所有用户都是Business ID用户，因此他们会收到来自`message@adobe.com`的关于新管理权限的电子邮件邀请。
-用户必须单击电子邮件中的&#x200B;**[!UICONTROL 开始]**&#x200B;才能加入组织。
+用户必须单击电子邮件中的**[!UICONTROL 开始]**&#x200B;才能加入组织。
 
 作为登录过程的一部分，如果用户还没有Adobe配置文件，则可能会要求用户设置配置文件。 如果用户有多个与其电子邮件地址关联的用户档案，则用户必须选择“加入团队”（如果出现提示），然后选择与新组织关联的用户档案。
 
@@ -132,7 +138,7 @@ _管理员角色层次结构_
    或者，转到相关的产品、产品配置文件或用户组，然后导航到&#x200B;**[!UICONTROL 管理员]**&#x200B;选项卡。
 
 1. 单击要编辑的管理员的名称。
-1. 在&#x200B;**[!UICONTROL 用户详细信息]**&#x200B;中，单击![管理权限](../assets/one-console-ellipses.png)部分的&#x200B;**图标**，然后选择&#x200B;**[!UICONTROL 编辑管理权限]**。
+1. 在&#x200B;**[!UICONTROL 用户详细信息]**&#x200B;中，单击&#x200B;**管理权限**&#x200B;部分的![图标](../assets/one-console-ellipses.png)，然后选择&#x200B;**[!UICONTROL 编辑管理权限]**。
 
    ![编辑管理员权限](../assets/admin-rights-section.png)
 
@@ -150,7 +156,7 @@ _管理员角色层次结构_
 
    此时将显示现有管理员的列表。
 
-1. 在&#x200B;**[!UICONTROL 用户详细信息]**&#x200B;中，单击![管理权限](../assets/one-console-ellipses.png)部分右侧的&#x200B;**[!UICONTROL 图标]**，然后选择&#x200B;**[!UICONTROL 编辑管理权限]**。
+1. 在&#x200B;**[!UICONTROL 用户详细信息]**&#x200B;中，单击&#x200B;**[!UICONTROL 管理权限]**&#x200B;部分右侧的![图标](../assets/one-console-ellipses.png)，然后选择&#x200B;**[!UICONTROL 编辑管理权限]**。
 
    ![编辑管理员权限](../assets/admin-rights-section.png)
 

@@ -3,7 +3,15 @@ title: Adobe Commerce的MySQL支持终止通知和数据库兼容性指南
 description: 本文提供了有关支持的Adobe Commerce版本的MySQL支持终止时间表和数据库兼容性指导的信息。
 solution: Commerce
 exl-id: f4ef2b3b-316c-421e-a645-9445cdd13448
-source-git-commit: 6603038e6b5857c3bb34cc62002a0b860702f561
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 1%
@@ -12,7 +20,7 @@ ht-degree: 1%
 
 本文提供了有关支持的Adobe Commerce版本的MySQL终止支持(EOS)和数据库兼容性的重要信息。
 Adobe强烈建议商家查看此公告并采取措施来维护平台稳定性并保持遵守支持要求。
-在[MariaDB升级先决条件](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade)和[系统要求](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/installation-guide/system-requirements)中了解更多信息。
+在[MariaDB升级先决条件](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade)和[系统要求](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/system-requirements)中了解更多信息。
 
 ## MySQL 8.0终止支持(EOS)
 

@@ -5,23 +5,29 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
-source-git-commit: e563559180f239e828650859035bace80e7473a2
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '517'
 ht-degree: 0%
-
 ---
-
 # 执行挂起的作业
 
 此功能适用于使用[[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)的企业组织。
 
 - [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)中的更改分两个阶段完成：
 
-   1. **编辑阶段**：对组织进行更改或分配产品。
-   2. **执行阶段**：审阅并执行挂起的更改，以使它们生效。
+  1. **编辑阶段**：对组织进行更改或分配产品。
+  2. **执行阶段**：审阅并执行挂起的更改，以使它们生效。
 
-- 若要确保在[[!DNL Global Admin Console]](https://helpx.adobe.com/cn/enterprise/global-admin-console/adopt-global-administration.html)中所做的所有更改均已实施并生效，请选择&#x200B;**[!UICONTROL 作业执行]**&#x200B;选项卡，然后继续执行挂起的更改。
+- 若要确保在[[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)中所做的所有更改均已实施并生效，请选择&#x200B;**[!UICONTROL 作业执行]**&#x200B;选项卡，然后继续执行挂起的更改。
 
   登录到[[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)。
 
@@ -31,8 +37,8 @@ ht-degree: 0%
 
 - 您可以注销并在以后返回，而不会丢失挂起的更改。
 - 未执行的更改：
-   - 将在30天后丢弃。
-   - 会话结束时（例如关闭浏览器选项卡或窗口）会被清除。
+  - 将在30天后丢弃。
+  - 会话结束时（例如关闭浏览器选项卡或窗口）会被清除。
 
 >[!NOTE]
 >
@@ -41,10 +47,10 @@ ht-degree: 0%
 ### 多个管理员和冲突
 
 - 同一组织中的两名管理员：
-   - 不要看到彼此未执行的更改。
-   - 仅在以下时间后查看更改：
-      - 执行，以及
-      - 刷新显示或再次登录。
+  - 不要看到彼此未执行的更改。
+  - 仅在以下时间后查看更改：
+    - 执行，以及
+    - 刷新显示或再次登录。
 - 未执行的更改可能与已执行的更改冲突。
 
 ### 冲突处理
@@ -107,14 +113,14 @@ ht-degree: 0%
 
 - 要查看过去30天内执行的作业，请执行以下操作：
 
-   1. 登录到[!DNL Global Admin Console]。
-   2. 选择&#x200B;**[!UICONTROL 作业执行]**。
-   3. 滚动到页面底部。
-   4. 选择&#x200B;**[!UICONTROL 最近的作业]**。
+  1. 登录到[!DNL Global Admin Console]。
+  2. 选择&#x200B;**[!UICONTROL 作业执行]**。
+  3. 滚动到页面底部。
+  4. 选择&#x200B;**[!UICONTROL 最近的作业]**。
 
 - 最近的作业显示：
-   - 已提交&#x200B;**作业命令**。
-   - 与执行关联的&#x200B;**错误**&#x200B;和&#x200B;**警告**。
+  - 已提交&#x200B;**作业命令**。
+  - 与执行关联的&#x200B;**错误**&#x200B;和&#x200B;**警告**。
 
 >[!NOTE]
 >

@@ -5,24 +5,30 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
-source-git-commit: 063b67cf71db5b2dc4739b6c67623e9223ce1b28
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '4430'
+source-wordcount: '4528'
 ht-degree: 3%
-
 ---
-
 # 导出或导入组织结构和产品分配
 
 **应用于：**&#x200B;企业
 
 了解全局管理员如何通过Global Admin Console中的导出和导入功能简化组织和产品管理。
 
-访问&#x200B;**[!UICONTROL Global Admin Console]**&#x200B;中的[组织](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)选项卡以导出或导入组织结构。 转到&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡以查看分配数据。 选择&#x200B;**[!UICONTROL 更多选项]** (⋮)图标，然后选择&#x200B;**[!UICONTROL 导出]**&#x200B;或&#x200B;**[!UICONTROL 导入]**。 转到此处[登录到Global Admin Console](https://global-admin-console.adobe.com)。
+访问[Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)中的&#x200B;**[!UICONTROL 组织]**&#x200B;选项卡以导出或导入组织结构。 转到&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡以查看分配数据。 选择&#x200B;**[!UICONTROL 更多选项]** (⋮)图标，然后选择&#x200B;**[!UICONTROL 导出]**&#x200B;或&#x200B;**[!UICONTROL 导入]**。 转到此处[登录到Global Admin Console](https://global-admin-console.adobe.com)。
 
 ## 导出组织结构
 
-作为[全局管理员](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)，您可以导出组织层次结构。 您可以下载整个组织层次结构或其子集的JSON、CSV或XLSX表示形式。 然后，您可以使用此数据进行分析或修改。
+作为[全局管理员](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)，您可以导出组织层次结构。 您可以下载整个组织层次结构或其子集的JSON、CSV或XLSX表示形式。 然后，您可以使用此数据进行分析或修改。
 
 选择的导出格式会影响导出数据的结构：
 
@@ -51,7 +57,7 @@ ht-degree: 3%
 
 ## 导入组织结构
 
-作为[全局管理员](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)，您可以导入可能修改的数据。 上传后，新数据与当前数据进行比较，所有更改都应用于组织层次结构。 所有导入操作均在组织层次结构的更新副本上执行。 如果您有任何挂起的更改，则导入的更改将添加到层次结构中现有挂起的更改之上。
+作为[全局管理员](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)，您可以导入可能修改的数据。 上传后，新数据与当前数据进行比较，所有更改都应用于组织层次结构。 所有导入操作均在组织层次结构的更新副本上执行。 如果您有任何挂起的更改，则导入的更改将添加到层次结构中现有挂起的更改之上。
 
 ### 导入步骤
 
@@ -59,7 +65,7 @@ ht-degree: 3%
 2. 选择&#x200B;**[!UICONTROL 更多选项]** **⋮**&#x200B;图标并选择&#x200B;**[!UICONTROL 导入]**。 根据导入文件的大小和复杂性，处理过程可能需要几秒钟到几分钟的时间。
 3. 选择&#x200B;**[!UICONTROL 选择一个文件]**，然后选择要上载的JSON、CSV或XLSX文件。 对于CSV，一次只能导入一个组织详细信息，并且不支持导入产品。 导入的更改看起来就像是手动编辑数据一样。
 4. 选择&#x200B;**[!UICONTROL 关闭]**。
-5. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 然后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。 在执行更改之前，挂起的操作将以与在Global Admin Console中手动编辑时相同的方式显示。
+5. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 然后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。 在执行更改之前，挂起的操作将以与在Global Admin Console中手动编辑时相同的方式显示。
 
 ## 导出和导入架构
 
@@ -391,9 +397,9 @@ Adobe ID用户的名字和姓氏可在用户接受邀请时替换为用户提供
 - 要更新和删除的用户档案必须存在于组织中。
 - 配置文件中必须存在要更新和删除（已停用）的资源。
 - 对于要创建的用户档案，请确保以下各项：
-   - orgId应为新组织或现有组织。
-   - licenseId应为新产品或现有产品。
-   - 验证用户档案的资源。
+  - orgId应为新组织或现有组织。
+  - licenseId应为新产品或现有产品。
+  - 验证用户档案的资源。
 
 ### 产品配置文件中的资源
 
@@ -513,7 +519,7 @@ Adobe ID用户的名字和姓氏可在用户接受邀请时替换为用户提供
   </tr>
 
 <tr>
-    <td>轮廓</td>
+    <td>配置文件</td>
     <td>
       用户组关联的产品配置文件ID数组。
       XLSX的每个值有一行，其他字段的值相同。
@@ -547,9 +553,9 @@ Adobe ID用户的名字和姓氏可在用户接受邀请时替换为用户提供
 - 要更新和删除的用户组必须存在于组织中。
 - 要从用户组中删除的配置文件必须存在于用户组中。 无法对用户组的配置文件执行更新操作。
 - 对于要创建的用户组，请确保以下各项：
-   - orgId应为新组织或现有组织。
-   - 该licenseId （如果适用）应当为新产品或现有产品。
-   - productProfileId应该是新产品配置文件或现有产品配置文件。
+  - orgId应为新组织或现有组织。
+  - 该licenseId （如果适用）应当为新产品或现有产品。
+  - productProfileId应该是新产品配置文件或现有产品配置文件。
 
 ### 域
 
@@ -628,7 +634,7 @@ Adobe ID用户的名字和姓氏可在用户接受邀请时替换为用户提供
 
 ## 导入和导出产品分配数据
 
-作为[全局管理员](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)，您可以将产品分配数据导出为JSON或CSV文件。 然后，您可以修改此数据并将其上传以导入更改。 上传可能修改的数据后，将新数据与当前数据进行比较，所有更改都应用于产品分配数据。 然后，您可以查看并提交待定更改以使它们生效。
+作为[全局管理员](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)，您可以将产品分配数据导出为JSON或CSV文件。 然后，您可以修改此数据并将其上传以导入更改。 上传可能修改的数据后，将新数据与当前数据进行比较，所有更改都应用于产品分配数据。 然后，您可以查看并提交待定更改以使它们生效。
 
 ## 导出产品分配模型
 
@@ -644,7 +650,7 @@ Adobe ID用户的名字和姓氏可在用户接受邀请时替换为用户提供
 1. 登录到[Global Admin Console](https://global-admin-console.adobe.com/)，然后导航到&#x200B;**[!UICONTROL 产品分配]**&#x200B;选项卡。
 2. 选择&#x200B;**[!UICONTROL 更多选项]**⋮图标，然后选择&#x200B;**[!UICONTROL 导入]**。
 3. 选择要上载的JSON或CSV文件。
-4. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 查看更改后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/cn/enterprise/global-admin-console/execute-jobs.html)。
+4. 选择&#x200B;**[!UICONTROL 审阅挂起的更改]**。 查看更改后，选择&#x200B;**[!UICONTROL 提交更改]**&#x200B;以[执行更改](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。
 
 ## 导出和导入产品分配的格式
 
@@ -699,8 +705,8 @@ Adobe ID用户的名字和姓氏可在用户接受邀请时替换为用户提供
 - 产品导入数据属性的类型必须正确。
 - 不得为不同资源提供产品策略字段(overAllocation)。
 - grantedQuantity字段：
-   - 如果不是&#x200B;*unlimited*，则无法更改为&#x200B;*unlimited*。
-   - 必须为非负整数或字符串值&#x200B;*无限制。*
+  - 如果不是&#x200B;*unlimited*，则无法更改为&#x200B;*unlimited*。
+  - 必须为非负整数或字符串值&#x200B;*无限制。*
 
 **权限/可访问的验证**
 

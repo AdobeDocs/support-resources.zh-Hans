@@ -8,6 +8,12 @@ TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: e53834d3-a86e-47ae-8257-15f5f3639855
+    internal-label: Release notes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -21,7 +27,7 @@ topic_v2:
     internal-label: Customer journeys
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: adf6f6cb51e5ae7636a5aa45e85196dda37920a0
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '2614'
 ht-degree: 0%
@@ -141,7 +147,7 @@ ht-degree: 0%
 
 1. 按优先级排列的&#x200B;**[!UICONTROL 案例数]**&#x200B;图表现在提供有关悬停的更详细细分。 将鼠标悬停在优先级区段上会显示工具提示，其中显示案例总数以及未结和已结案例的数量。
 
-1. **[!UICONTROL 产品状态]**&#x200B;构件现在支持交互式产品筛选。 通过直接从主页中选择一个或多个产品，可以过滤系统状态警报。 在此构件中选择产品时，不再重定向到[status.adobe.com](http://status.adobe.com/zh-cn)。
+1. **[!UICONTROL 产品状态]**&#x200B;构件现在支持交互式产品筛选。 通过直接从主页中选择一个或多个产品，可以过滤系统状态警报。 在此构件中选择产品时，不再重定向到[status.adobe.com](http://status.adobe.com)。
 
 1. **[!UICONTROL 产品状态]**&#x200B;构件现在会以更直观的顺序列出产品。 首先显示有活动问题的产品，然后显示其余产品（按字母排序）。
 

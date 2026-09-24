@@ -6,13 +6,22 @@ solution: Commerce
 feature-set: Commerce
 role: Developer
 exl-id: 2dc52d5e-0930-48c4-986e-ce3f9f6f8221
-source-git-commit: 755c6dc9cff041b9ca9183fbecde21f90fbaee1a
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 00451af3-7b97-5414-9992-3a6c269e413f
+    internal-label: Paas
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 1%
-
+source-wordcount: '368'
+ht-degree: 0%
 ---
-
 # 无法将用户添加到Adobe Commerce云项目
 
 当您尝试将用户添加到云项目时，本文会为您提供解决方案，但失败并出现错误： *用户XXX不存在*。
@@ -33,13 +42,13 @@ ht-degree: 1%
 
 1. 要求用户在[https://accounts.magento.cloud](https://accounts.magento.cloud)登录。 用户必须已使用相同的电子邮件地址在Adobe中注册。
    >[!NOTE]
-   >在[https://account.adobe.com](https://account.adobe.com)处创建或拥有帐户并不自动意味着用户在[https://accounts.magento.cloud](https://accounts.magento.cloud)处拥有帐户。 用户必须先[创建其Commerce帐户](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/start/commerce-account/commerce-account-create?lang=en#create-a-commerce-account)。
+   >在[https://account.adobe.com](https://account.adobe.com)处创建或拥有帐户并不自动意味着用户在[https://accounts.magento.cloud](https://accounts.magento.cloud)处拥有帐户。 用户必须先[创建其Commerce帐户](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-create?lang=en#create-a-commerce-account)。
 
-1. 如果用户已有Adobe帐户但无法登录，请要求他们提交[支持请求](https://experienceleague.adobe.com/home?lang=zh-Hans#support)，并将[!UICONTROL 问题原因]设置为&#x200B;*用户管理*。
+1. 如果用户已有Adobe帐户但无法登录，请要求他们提交[支持请求](https://experienceleague.adobe.com/home#support)，并将[!UICONTROL 问题原因]设置为&#x200B;*用户管理*。
 
-1. 用户成功登录[https://accounts.magento.cloud](https://accounts.magento.cloud)后，您可以将该用户添加到项目中。 有关详细步骤，请参阅Commerce on Cloud Infrastructure指南中的[添加用户和管理访问权限](https://experienceleague.adobe.com/zh-hans/docs/commerce-cloud-service/user-guide/project/user-access#add-users-and-manage-access)。
+1. 用户成功登录[https://accounts.magento.cloud](https://accounts.magento.cloud)后，您可以将该用户添加到项目中。 有关详细步骤，请参阅Commerce on Cloud Infrastructure指南中的[添加用户和管理访问权限](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/project/user-access#add-users-and-manage-access)。
 
 ## 相关阅读：
 
-* 我们的Commerce on Cloud Infrastructure指南中的[管理用户访问权限](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=zh-Hans)。
-* [无法登录Adobe Commerce支持或云帐户](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-to-log-in-to-support-or-cloud-project.html?lang=zh-Hans)
+* 我们的Commerce on Cloud Infrastructure指南中的[管理用户访问权限](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html)。
+* [无法登录Adobe Commerce支持或云帐户](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-to-log-in-to-support-or-cloud-project.html)

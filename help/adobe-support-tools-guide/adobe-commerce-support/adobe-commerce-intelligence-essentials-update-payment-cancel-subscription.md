@@ -3,7 +3,15 @@ title: Adobe Commerce Intelligence Essentials：更新支付方式或取消订�
 description: 符合条件的Commerce Intelligence Essentials客户（独立、月度、通过account.magento.com计费）如何更新支付方式或取消。 不适用于Pro、Cloud、基于合同的订阅或发票订阅。
 solution: Commerce Intelligence
 exl-id: a176f4d6-819f-4328-b6bf-ea7373fcc7e9
-source-git-commit: b8de5546ce92930404f65555d656605581e0c8d0
+product_v2:
+  - id: cc9c1b69-d771-4a04-84d3-df2e3989418f
+    internal-label: Commerce Intelligence
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 3%
@@ -39,4 +47,4 @@ ht-degree: 3%
 
 ## 相关阅读
 
-* [Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=zh-Hans)
+* [Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)

@@ -5,13 +5,16 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 exl-id: e53ded7c-1ba3-4d98-bc20-792a252618ac
-source-git-commit: f20f8cfe6f9f31af953c089b9c5f4e76d0573f84
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '840'
+source-wordcount: '848'
 ht-degree: 5%
-
 ---
-
 # 身份概述
 
 适用于企业和团队。
@@ -25,7 +28,7 @@ Adobe identity management system可帮助管理员创建和管理用户对应用
 下表将指导您选择最适合贵组织的身份模型。
 
 >[!NOTE]
->如果您的组织尚未更新到Adobe的企业存储模型，并且您仍在使用Adobe ID作为个人，请参阅下面[身份类型表](https://helpx.adobe.com/cn/enterprise/using/identity.html#using-personal-adobe-id)中的描述。
+>如果您的组织尚未更新到Adobe的企业存储模型，并且您仍在使用Adobe ID作为个人，请参阅下面[身份类型表](https://helpx.adobe.com/enterprise/using/identity.html#using-personal-adobe-id)中的描述。
 
 <table>
 <thead>
@@ -51,7 +54,7 @@ Adobe identity management system可帮助管理员创建和管理用户对应用
 <th scope="row"><strong>关键产品/服务</strong></th>
 <td>由组织创建、拥有和管理。 该组织管理用户凭据并通过SAML2身份提供程序(IdP)使用单点登录(SSO)。</td>
 <td>由组织创建、拥有和管理。 组织保留在已验证域上创建用户帐户的独占权限。</td>
-<td>由最终用户创建、拥有和管理。 Adobe执行身份验证，由最终用户管理身份。 根据<a href="https://helpx.adobe.com/cn/enterprise/using/storage-for-business.html">存储模型</a>，用户或企业保留对文件和数据的控制。 Adobe ID帐户在未验证、公共或受信任的域上创建。 请参阅下面注释一节中的第2点。</td>
+<td>由最终用户创建、拥有和管理。 Adobe执行身份验证，由最终用户管理身份。 根据<a href="https://helpx.adobe.com/enterprise/using/storage-for-business.html">存储模型</a>，用户或企业保留对文件和数据的控制。 Adobe ID帐户在未验证、公共或受信任的域上创建。 请参阅下面注释一节中的第2点。</td>
 </tr>
 <tr>
 <th scope="row"><strong>帐户和数据所有权</strong></th>
@@ -81,7 +84,7 @@ Adobe identity management system可帮助管理员创建和管理用户对应用
 <tr>
 <th scope="row"><strong>重置密码</strong></th>
 <td colspan="2">不受支持</td>
-<td><a href="https://helpx.adobe.com/cn/manage-account/using/change-or-reset-password.html">重置帐户密码</a></td>
+<td><a href="https://helpx.adobe.com/manage-account/using/change-or-reset-password.html">重置帐户密码</a></td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud企业版和Document Cloud企业版</strong></th>
@@ -124,8 +127,8 @@ Adobe identity management system可帮助管理员创建和管理用户对应用
 <tr>
 <th scope="row"><strong>快速入门</strong></th>
 <td><a href="https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html">设置身份</a></td>
-<td><a href="https://helpx.adobe.com/cn/enterprise/using/add-domains-directories.html#claim-domains">声明域</a></td>
-<td><a href="https://helpx.adobe.com/cn/enterprise/using/users.html#add-users">添加用户</a></td>
+<td><a href="https://helpx.adobe.com/enterprise/using/add-domains-directories.html#claim-domains">声明域</a></td>
+<td><a href="https://helpx.adobe.com/enterprise/using/users.html#add-users">添加用户</a></td>
 </tr>
 </tbody>
 </table>
@@ -133,7 +136,7 @@ Adobe identity management system可帮助管理员创建和管理用户对应用
 >[!NOTE]
 >
 >1. Creative Cloud团队的密码策略与个人Creative Cloud的密码策略相同。
->1. Adobe ID用户使用其Adobe ID凭据或其所属组织的身份验证模型（SSO、2FA等）进行身份验证。 在这种情况下，用户将被重定向到所属组织的SSO页面。 验证后，用户可能需要[选择企业个人资料](https://helpx.adobe.com/cn/enterprise/kb/enterprise-id-faq.html#choose-profile)。
+>1. Adobe ID用户使用其Adobe ID凭据或其所属组织的身份验证模型（SSO、2FA等）进行身份验证。 在这种情况下，用户将被重定向到所属组织的SSO页面。 验证后，用户可能需要[选择企业个人资料](https://helpx.adobe.com/enterprise/kb/enterprise-id-faq.html#choose-profile)。
 
 ## 使用个人Adobe ID
 
@@ -167,7 +170,7 @@ Adobe正在更新所有团队和企业客户，以使用Adobe的企业存储模�
 </tr>
 <tr>
 <th scope="row"><strong>重置密码</strong></th>
-<td><a href="https://helpx.adobe.com/cn/manage-account/using/change-or-reset-password.html">重置帐户密码。</a>  请参阅下面注释部分中的要点2。</td>
+<td><a href="https://helpx.adobe.com/manage-account/using/change-or-reset-password.html">重置帐户密码。</a>  请参阅下面注释部分中的要点2。</td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud企业版和Document Cloud企业版</strong></th>
@@ -191,7 +194,7 @@ Adobe正在更新所有团队和企业客户，以使用Adobe的企业存储模�
 </tr>
 <tr>
 <th scope="row"><strong>快速入门</strong></th>
-<td><a href="https://helpx.adobe.com/cn/enterprise/using/users.html#add-users">添加用户</a></td>
+<td><a href="https://helpx.adobe.com/enterprise/using/users.html#add-users">添加用户</a></td>
 </tr>
 </tbody>
 </table>
@@ -199,13 +202,13 @@ Adobe正在更新所有团队和企业客户，以使用Adobe的企业存储模�
 >[!NOTE]
 >
 >1. Creative Cloud团队的密码策略与个人Creative Cloud的密码策略相同。
->1. 对于使用[企业存储](https://helpx.adobe.com/cn/enterprise/using/manage-adobe-storage.html)的企业版Creative Cloud客户，管理员可以将Adobe ID用户添加到Admin Console，但无法将其添加到产品配置文件。 管理员必须将Adobe ID用户迁移到另一种身份类型。
+>1. 对于使用[企业存储](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)的企业版Creative Cloud客户，管理员可以将Adobe ID用户添加到Admin Console，但无法将其添加到产品配置文件。 管理员必须将Adobe ID用户迁移到另一种身份类型。
 >1. 有一些产品和服务（如&#x200B;**Adobe授权网站）仅支持** Adobe ID。
 
 ## 更多此类内容
 
 - [设置身份](https://helpx.adobe.com/cn/enterprise/using/set-up-identity.html)
-- [切换用户身份](https://helpx.adobe.com/cn/enterprise/using/switch-user-identity.html)
-- [Admin Console概述](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
-- [教育常见问题解答](https://helpx.adobe.com/cn/x-productkb/policy-pricing/education-faq.html)
+- [切换用户身份](https://helpx.adobe.com/enterprise/using/switch-user-identity.html)
+- [Admin Console概述](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
+- [教育常见问题解答](https://helpx.adobe.com/x-productkb/policy-pricing/education-faq.html)
 - [添加和管理用户](https://helpx.adobe.com/cn/enterprise/using/users.html)

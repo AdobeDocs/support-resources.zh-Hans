@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '748'
 ht-degree: 1%
-
 ---
-
 # 为多个组织和产品创建许可证分配报告
 
 了解全局管理员如何针对特定日期范围生成和下载多个组织和产品的详细许可证报告，以促进对许可证配置的精确跟踪。
@@ -31,7 +37,7 @@ ht-degree: 1%
    >[!NOTE]
    >
    >**了解为什么不能选择某些组织**：
-   >如果子组织没有合同，或者与父组织的产品具有单独的企业合同，则子组织将无法创建许可证分配报表。 例如，如果父组织的合同具有Adobe Acrobat，而子组织与其他合同的一部分具有相同，则产品分配受到限制。 因此，在Global Admin Console中创建报表时也会受到限制。 [了解如何使用此类组织各自的Admin Console](https://helpx.adobe.com/cn/enterprise/using/assignment-reports.html)跟踪配置。
+   >如果子组织没有合同，或者与父组织的产品具有单独的企业合同，则子组织将无法创建许可证分配报表。 例如，如果父组织的合同具有Adobe Acrobat，而子组织与其他合同的一部分具有相同，则产品分配受到限制。 因此，在Global Admin Console中创建报表时也会受到限制。 [了解如何使用此类组织各自的Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html)跟踪配置。
 
    >[!NOTE]
    >
@@ -42,7 +48,7 @@ ht-degree: 1%
    >[!NOTE]
    >
    >**了解为什么不能选择某些产品**：
-   >在Global Admin Console中无法分配的产品不包括在报表创建中。 这目前包括一些数字体验产品，如Workfront、Adobe Experience Manager和Adobe Experience Platform，以及Adobe Firefly Services、Acrobat Sign和Adobe Stock等产品。 [您使用Adobe Admin Console查找这些产品的许可证配置数据](https://helpx.adobe.com/cn/enterprise/using/assignment-reports.html)。
+   >在Global Admin Console中无法分配的产品不包括在报表创建中。 这目前包括一些数字体验产品，如Workfront、Adobe Experience Manager和Adobe Experience Platform，以及Adobe Firefly Services、Acrobat Sign和Adobe Stock等产品。 [您使用Adobe Admin Console查找这些产品的许可证配置数据](https://helpx.adobe.com/enterprise/using/assignment-reports.html)。
 
 1. 选择是按月还是按年汇总报表。
 1. 选择自定义日期范围或从预设选项中进行选择。 您可以选取从2020年6月18日开始一直到前一天的任何开始日期，只要该日期不早于合同开始日期。
@@ -69,7 +75,7 @@ ht-degree: 1%
    | 名称 | 自动生成且无法编辑。 |
    | 创建者 | 生成报告的全局管理员。 |
    | 创建时间 | 创建报告时的系统时间。 |
-   | Date range | 为报表选择的日期范围。 |
+   | 日期范围 | 为报表选择的日期范围。 |
    | 状态 | 如果报告已可供下载，则返回&#x200B;**成功**；如果仍在生成报告，则返回&#x200B;**正在处理**。 |
 
 1. 要将报表导出为CSV文件，请选择报表旁边的&#x200B;**[!UICONTROL 下载]**&#x200B;图标。
