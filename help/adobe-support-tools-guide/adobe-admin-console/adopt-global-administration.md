@@ -36,7 +36,7 @@ Global Admin Console适用于组织结构复杂、拥有多个Admin Console或�
 
 Global Admin Console不会替换或更改现有Admin Console中的日常功能。 该控制台采用层次结构运行，其顶部有一个根组织，其下方嵌套了所有链接的控制台。 根控制台根据采购和组织设置确定。
 
-要了解有关Global Admin Console的功能和优势的更多信息，请参阅Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625)上的[白皮书并观看以下[视频](https://youtu.be/FLBWR78wpok)。
+要了解有关Global Admin Console的功能和优势的更多信息，请参阅Global Admin Console[&#128279;](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625)上的白皮书并观看以下[视频](https://youtu.be/FLBWR78wpok)。
 
 此视频的内容和配音目前仅提供英语版本。
 
