@@ -46,9 +46,9 @@ role_v2:
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-source-git-commit: ec060fad85a22f6d55c4de3dc2d7fbf8a1ecb8c7
+source-git-commit: 743b2b6ac4401c01df9590bb749d56734334a05b
 workflow-type: tm+mt
-source-wordcount: '4677'
+source-wordcount: '4653'
 ht-degree: 3%
 ---
 # Adobe CX解决方案统一假日准备指南
@@ -89,7 +89,7 @@ Adobe Experience Platform (AEP)在提供实时客户体验方面起着关键作�
 
 ### 预测季节性需求
 
-为了准备应对季节性流量尖峰，Adobe建议规划容量并监控流式配置文件摄取。 这包括预测数据量，并确保您的系统能够处理增加的吞吐量。 请参阅[容量和季节性流量的计划](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/dataflows/ui/monitor-streaming-profile#plan-for-capacity-and-seasonal-traffic){target="_blank"}以供参考。
+使用历史模式和计划的活动预测季节性数据量以及流式配置文件引入峰值。 审查摄取监控，以确定需求何时达到峰值以及容量是否可能是限制。 请参阅[容量和季节性流量的计划](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/dataflows/ui/monitor-streaming-profile#plan-for-capacity-and-seasonal-traffic){target="_blank"}以供参考。
 
 ### 准备扩展
 
@@ -108,7 +108,7 @@ Adobe提供了多种策略来确保您的环境为假期流量做好准备：
 * [流吞吐量最佳实践](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/landing/license/capacity){target="_blank"}
 * [数据引入的护栏](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/ingestion/guardrails){target="_blank"}
 * [实时客户个人资料数据和细分的默认护栏](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/profile/guardrails){target="_blank"}
-* [AEP蓝图：护栏](https://experienceleague.adobe.com/zh-hans/docs/blueprints-learn/architecture/architecture-overview/guardrails){target="_blank"}
+* [AEP蓝图：护栏](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/guardrails){target="_blank"}
 
 ### 安全和治理
 
@@ -200,7 +200,7 @@ Adobe强调强大的安全和治理实践，尤其是在高流量季节中，此
 
 +++**单击以查看Customer Journey Analytics (CJA)假日准备建议。**
 
-Customer Journey Analytics使用5 P为假日/旺季做好准备。
+Adobe建议执行以下步骤，为假期准备Customer Journey Analytics实例。
 
 ### 准备扩展
 
@@ -215,8 +215,7 @@ Customer Journey Analytics使用5 P为假日/旺季做好准备。
 
 ### 最佳实践
 
-* 安排在低流量期间导出/报告，以平滑加载并最大程度地减少延迟。 请参阅[计划报表](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-components/scheduled-projects-manager){target="_blank"}文章。
-* 分布请求：将报表安排在一天中的不同时间间隔。
+* 分散报告和导出在一天中运行，尽可能优先考虑非高峰时段，以分配负载并最大程度地减少延迟。 请参阅[计划报表](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-components/scheduled-projects-manager){target="_blank"}文章。
 * 减少面板、简化区段、缩短日期范围以及避免过多的并发作业。 有关详细信息，请参阅[优化CJA Workspace性能](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/cja-workspace/workspace-faq/optimizing-performance){target="_blank"}一文。
 
 ### 故障排除
@@ -241,7 +240,7 @@ Customer Journey Analytics使用5 P为假日/旺季做好准备。
 
 ### 预测需求
 
-* 在假日销售高峰期（11月中旬至1月中旬），Adobe建议所有托管在云基础架构中的Adobe Commerce商家通过提交假日激增容量请求来主动规划访客增长。 有关详细信息，请参阅云基础架构上的[Adobe Commerce的假期激增容量请求](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"}。
+在假日销售高峰期（11月中旬至1月中旬），Adobe建议所有托管在云基础架构中的Adobe Commerce商家通过提交假日激增容量请求来主动规划访客增长。 有关详细信息，请参阅云基础架构上的[Adobe Commerce的假期激增容量请求](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"}。
 
 ### 准备扩展
 
@@ -285,9 +284,9 @@ Customer Journey Analytics使用5 P为假日/旺季做好准备。
 
 Adobe设有预定的维护排除期，以确保在关键假日时段内服务不会中断：
 
-* **在以下时间范围内不发生自动AEMaaCS维护**，开始和结束于欧洲中部时间午夜(00:00)：
-  * 2026年11月23日星期一至2026年12月1日星期二。
-  * 2026年12月14日星期一至2027年1月3日星期日。
+**在以下时间范围内不发生自动AEMaaCS维护**，开始和结束于欧洲中部时间午夜(00:00)：
+* 2026年11月23日星期一至2026年12月1日星期二。
+* 2026年12月14日星期一至2027年1月3日星期日。
 
 这可以确保高流量期间的稳定性。 有关完整的发行计划和维护时段，请参阅[AEM发行路线图](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/update-releases-roadmap){target="_blank"}。
 
@@ -466,3 +465,4 @@ Adobe通常在假日高峰期执行&#x200B;**排除维护时段**&#x200B;以确�
 在个性化体验之前，请确认GDPR和CCPA下的同意合规性。 避免在配置文件参数中存储个人身份信息(PII)，并验证API安全性以保护客户数据。
 
 +++
+
