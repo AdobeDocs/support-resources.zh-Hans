@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 25fc32de197848e34e84db29113d17689442678f
+source-git-commit: 429c577f4b129f09a6298e7afb527e58ccea0530
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '385'
 ht-degree: 2%
 ---
 # Adobe支持和工具指南 {#adobe-support-tools-guide}
@@ -53,6 +53,13 @@ ht-degree: 2%
   - [常见问题](faq.md)
 - Adobe Commerce支持 {#adobe-commerce-support}
   - [Adobe Commerce支持概述](adobe-commerce-support/adobe-commerce-support-overview.md)
+  - [Adobe Commerce假日准备工作]{#adobe-commerce-holiday-readiness}
+    - [概述](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/holiday-readiness-overview.md)
+    - [性能优化](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/performance-optimization.md)
+    - [最佳实践和稳定性](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/best-practices-stability.md)
+    - [监控和可观察性](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/monitoring-observability.md)
+    - [可扩展性和容量规划](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md)
+    - [运行就绪](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/operational-readiness.md)
   - [Adobe Commerce的MySQL支持终止通知和数据库兼容性指南](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
   - [如何请求云基础架构扩展中的临时Adobe Commerce](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
   - [针对云基础架构上的Adobe Commerce的假期激增容量请求](adobe-commerce-support/holiday-surge-capacity-requests-for-magento-commerce-cloud.md)
