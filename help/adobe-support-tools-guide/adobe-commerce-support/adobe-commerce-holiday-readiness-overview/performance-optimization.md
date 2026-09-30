@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## 优化Fastly请求缓存（仅限云） {#optimize-fastly-request-caching}
 
-[!DNL Fastly]在边缘处缓存响应以减少原始服务器上的负载。 在旺季，一些配置检查可帮助您充分利用该缓存，尤其是在使用跟踪参数或Headless店面运行促销活动时。 有关完整配置引用，请参阅[自定义缓存配置](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration)。
+[!DNL Fastly]在边缘处缓存响应以减少原始服务器上的负载。 在旺季，一些配置检查可帮助您充分利用该缓存，尤其是在使用跟踪参数或Headless店面运行促销活动时。 有关完整配置引用，请参阅[自定义缓存配置](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration)。
 
 * 标准化跟踪参数：在假日季节期间，您可能会运行社交和付费营销活动（例如Google Ads、Facebook和X），这些营销活动会为每个URL附加唯一的跟踪字符串。 每个唯一字符串会为原本属于同一页面的内容创建一个单独的缓存条目，从而降低缓存命中率。 将这些参数添加到Adobe Commerce管理员的[!DNL Fastly]配置中的&#x200B;**[!UICONTROL 忽略的URL参数]**&#x200B;列表中，以便[!DNL Fastly]将它们视为等效参数。
 * 确认您的登陆页面可缓存：检查每个促销登陆页面上的`x-cache`响应标头。 可缓存的页面在后续加载时返回`HIT`或`HIT`/`MISS`对。 如果标头返回`MISS, MISS`，则表示该页面未缓存，需要调查。
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 启用Fastly IO（仅限云） {#enable-fastly-io}
 
-[!DNL Fastly] IO将图像大小调整和格式转换卸载到[!DNL Fastly]边缘网络，而不是Adobe Commerce源网络。 这减少了服务器负载并提高了图像密集型店面的页面渲染速度，这是高流量销售期间常见的瓶颈。 有关配置选项，请参阅[快速图像优化](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/fastly-image-optimization)。
+[!DNL Fastly] IO将图像大小调整和格式转换卸载到[!DNL Fastly]边缘网络，而不是Adobe Commerce源网络。 这减少了服务器负载并提高了图像密集型店面的页面渲染速度，这是高流量销售期间常见的瓶颈。 有关配置选项，请参阅[快速图像优化](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/cdn/fastly-image-optimization)。
 
 在开始之前，请确认已配置原点屏蔽。[!DNL Fastly] IO要求源屏蔽作为先决条件。 有关配置详细信息，请参阅[快速原点屏蔽](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md#fastly-origin-shielding)。
 
@@ -74,9 +74,9 @@ ht-degree: 0%
 
 ## 实施Redis二级缓存 {#implement-redis-l2-cache}
 
-实施有效的缓存做法，以便在流量高峰期可靠地执行存储。[!DNL Redis] L2缓存通过将缓存数据存储在每个Web节点的本地来将网络带宽减少到[!DNL Redis]。 有关二级缓存工作方式的背景，请参阅[二级缓存](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cache/level-two-cache)。
+实施有效的缓存做法，以便在流量高峰期可靠地执行存储。[!DNL Redis] L2缓存通过将缓存数据存储在每个Web节点的本地来将网络带宽减少到[!DNL Redis]。 有关二级缓存工作方式的背景，请参阅[二级缓存](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/configuration-guide/cache/level-two-cache)。
 
-在云基础架构上的Commerce上，通过设置`REDIS_BACKEND`部署变量来启用此功能。 有关配置步骤，请参阅Commerce on Cloud Infrastructure指南中的[REDIS_BACKEND](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_backend)。 内部部署，直接在`app/etc/env.php`中进行配置。
+在云基础架构上的Commerce上，通过设置`REDIS_BACKEND`部署变量来启用此功能。 有关配置步骤，请参阅Commerce on Cloud Infrastructure指南中的[REDIS_BACKEND](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_backend)。 内部部署，直接在`app/etc/env.php`中进行配置。
 
 >[!NOTE]
 >
@@ -84,7 +84,7 @@ ht-degree: 0%
 
 ## 启用MySQL和Redis从属连接（仅限云） {#enable-mysql-and-redis-slave-connections}
 
-[!DNL Redis]和[!DNL MySQL]从属连接将读取流量卸载到副本节点，从而减少高流量期间主连接上的负载。 有关配置步骤，请参阅[MYSQL_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#mysql_use_slave_connection)和[REDIS_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_use_slave_connection)或[VALKEY_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#valkey_use_slave_connection)，具体取决于您的Adobe Commerce版本。
+[!DNL Redis]和[!DNL MySQL]从属连接将读取流量卸载到副本节点，从而减少高流量期间主连接上的负载。 有关配置步骤，请参阅[MYSQL_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#mysql_use_slave_connection)和[REDIS_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_use_slave_connection)或[VALKEY_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#valkey_use_slave_connection)，具体取决于您的Adobe Commerce版本。
 
 ### Redis从属连接
 
@@ -104,7 +104,7 @@ ht-degree: 0%
 
 ## 启用异步订单和电子邮件处理 {#enable-asynchronous-order-and-email-processing}
 
-使用异步处理在后台对大量订单相关操作进行排队和执行，从而减少流量高峰期间的前端延迟。 这涵盖了三个相关但不同的设置 — 请参阅[配置最佳实践](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/configuration)以查看概述。
+使用异步处理在后台对大量订单相关操作进行排队和执行，从而减少流量高峰期间的前端延迟。 这涵盖了三个相关但不同的设置 — 请参阅[配置最佳实践](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/performance-best-practices/configuration)以查看概述。
 
 * 异步订单下达： “异步订单”模块将订单标记为已接收，并将其放入队列中，然后处理先入先出的订单。 默认情况下处于禁用状态。 从命令行启用它：
 
@@ -112,7 +112,7 @@ ht-degree: 0%
   bin/magento setup:config:set --checkout-async 1
   ```
 
-  启用后，无法立即获得订单详细信息 — 订单将保持排队状态，直到`placeOrderProcess`消费者根据库存验证订单（默认启用）并进行更新。 在禁用此模块之前，请验证所有正在进行的异步订单都已完成处理。 有关详细信息，请参阅[签出性能最佳实践](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/high-throughput-order-processing)。
+  启用后，无法立即获得订单详细信息 — 订单将保持排队状态，直到`placeOrderProcess`消费者根据库存验证订单（默认启用）并进行更新。 在禁用此模块之前，请验证所有正在进行的异步订单都已完成处理。 有关详细信息，请参阅[签出性能最佳实践](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/performance-best-practices/high-throughput-order-processing)。
 
 * 异步订单数据处理：密集的店面销售和密集的订单处理可能在数据库级别发生冲突。 启用此设置将区分这两种流量模式，因此订单会被放在临时存储中，并在没有冲突的情况下批量移动到Order Management网格。 此计划通过cron更新“订单”、“发票”、“发运”和“贷项通知单”网格，从而避免锁定并减少处理时间。 为了获得最佳结果，请将cron配置为每分钟运行一次。
 
@@ -120,13 +120,13 @@ ht-degree: 0%
 >
 >启用方式取决于您的部署模式。 默认情况下，云基础架构上的Adobe Commerce暂存和生产环境以生产模式运行，此设置不可通过管理员使用。 在生产模式下，请改为运行`bin/magento config:set dev/grid/async_indexing 1`。 在默认模式下，转到&#x200B;**[!UICONTROL 存储]** > **[!UICONTROL 配置]** > **[!UICONTROL 高级]** > **[!UICONTROL 开发人员]** > **[!UICONTROL 网格设置]**，并将&#x200B;**[!UICONTROL 异步索引]**&#x200B;设置为&#x200B;*[!UICONTROL 启用]*。
 
-有关详细信息，请参阅[计划订单工序](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations)。
+有关详细信息，请参阅[计划订单工序](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations)。
 
 * 异步电子邮件通知：此设置将结账和订单处理电子邮件通知移至后台。 在&#x200B;**[!UICONTROL 商店]** > **[!UICONTROL 配置]** > **[!UICONTROL 销售]** > **[!UICONTROL 销售电子邮件]** > **[!UICONTROL 常规设置]** > **[!UICONTROL 异步发送]**&#x200B;处启用它。
 
 ## 配置索引器以按计划更新 {#configure-indexers-for-update-on-schedule}
 
-将索引器设置为在计划模式下运行，以避免数据库锁定并提高频繁更新目录时的响应性。 有关详细信息，请参阅[索引器配置的最佳实践](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/indexer-configuration)。
+将索引器设置为在计划模式下运行，以避免数据库锁定并提高频繁更新目录时的响应性。 有关详细信息，请参阅[索引器配置的最佳实践](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/implementation-playbook/best-practices/maintenance/indexer-configuration)。
 
 索引器可以在&#x200B;**[!UICONTROL Update on Save]**&#x200B;或&#x200B;**[!UICONTROL Update on Schedule]**&#x200B;模式下运行。
 
@@ -141,7 +141,7 @@ ht-degree: 0%
 
 ## 禁用并评估目录平面表 {#disable-and-evaluate-catalog-flat-table}
 
-不建议将平面表用于产品和类别。 此已弃用的功能可能会导致性能下降和索引问题。 有关详细信息，请参阅[平面目录](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/catalog/catalog-flat)。
+不建议将平面表用于产品和类别。 此已弃用的功能可能会导致性能下降和索引问题。 有关详细信息，请参阅[平面目录](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/catalog/catalog/catalog-flat)。
 
 要禁用平面目录，请转到&#x200B;**[!UICONTROL 商店]** > **[!UICONTROL 配置]** > **[!UICONTROL 目录]** > **[!UICONTROL 目录]** > **[!UICONTROL 店面]**，将&#x200B;**[!UICONTROL 使用平面目录类别]**&#x200B;设置为&#x200B;*[!UICONTROL 否]*，将&#x200B;**[!UICONTROL 使用平面目录产品]**&#x200B;设置为&#x200B;*[!UICONTROL 否]*，然后单击&#x200B;**[!UICONTROL 保存配置]**。
 
@@ -149,7 +149,7 @@ ht-degree: 0%
 
 ## 考虑扩展（拆分）架构（仅限云） {#consider-scaled-split-architecture}
 
-如果在应用上述配置和代码级优化后，负载测试或实时基础架构性能仍显示CPU和其他资源已达到极限，请考虑迁移到扩展（拆分）架构。 有关详细信息，请参阅[缩放的体系结构](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/architecture/scaled-architecture)。
+如果在应用上述配置和代码级优化后，负载测试或实时基础架构性能仍显示CPU和其他资源已达到极限，请考虑迁移到扩展（拆分）架构。 有关详细信息，请参阅[缩放的体系结构](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/architecture/scaled-architecture)。
 
 >[!NOTE]
 >
