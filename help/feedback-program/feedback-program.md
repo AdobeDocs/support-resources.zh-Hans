@@ -6,9 +6,9 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: 7b5afccb698e3c1e1881b236aef077fb210d564e
+source-git-commit: 14fa448236c775550094555a844bde8d449c2371
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '536'
 ht-degree: 0%
 ---
 # Adobe反馈计划
@@ -73,7 +73,7 @@ Adobe反馈计划的参与完全是自愿的，旨在满足各种兴趣、产品
 
 +++
 
-<p> </p>
+<p>  </p>
 
 >[!BEGINSHADEBOX]
 
@@ -85,6 +85,6 @@ Adobe反馈计划的参与完全是自愿的，旨在满足各种兴趣、产品
 
 有关更多信息和资格要求，请立即联系您的Adobe客户代表。
 
-[!BADGE 立即加入]{type=信息性url=&quot;https://experienceleague.adobe.com/en/feedback-program&quot;{target="_blank"} tooltip=&quot;转到https://experienceleague.adobe.com/en/feedback-program&quot;}
+[!BADGE 立即加入]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="转到https://experienceleague.adobe.com/en/feedback-program"}
 
 >[!ENDSHADEBOX]
