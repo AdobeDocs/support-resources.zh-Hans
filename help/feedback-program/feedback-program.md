@@ -83,6 +83,6 @@ Adobe反馈计划的参与完全是自愿的，旨在满足各种兴趣、产品
 
 >[!BEGINSHADEBOX]
 
-[!BADGE 立即加入]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="转到https://experienceleague.adobe.com/en/feedback-program"}
+[!BADGE 立即加入]{type=Informative url="https://experienceleague.adobe.com/zh-hans/feedback-program" newtab=true tooltip="转到https://experienceleague.adobe.com/en/feedback-program"}
 
 >[!ENDSHADEBOX]
