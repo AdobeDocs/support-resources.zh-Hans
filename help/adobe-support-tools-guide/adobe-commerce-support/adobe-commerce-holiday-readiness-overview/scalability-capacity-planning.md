@@ -23,7 +23,7 @@ role_v2:
     internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
-source-git-commit: 71589dd124714805fbf844540fb2d272433631ee
+source-git-commit: b2220ea4cb5a301cbee6cea5fb90d6dc8a05eeff
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
@@ -47,9 +47,7 @@ ht-degree: 0%
 
 Adobe Commerce [!DNL Fastly]的原始防护旨在减少直接发往Adobe Commerce原始服务器的流量。 收到请求后，[!DNL Fastly]边缘位置(Point of Presence)会检查缓存的内容并将其交付。 如果未缓存，则将继续向Shield POP缓存，以检查是否将其缓存在此处 — 如果先前甚至从其他全局POP请求过内容，则将会缓存该内容。 最后，如果未在Shield POP上缓存它，则它只会继续到源服务器。
 
-可以在Adobe Commerce管理员的[!DNL Fastly]配置后端设置中启用[!DNL Fastly]源屏蔽。 选择最接近Adobe Commerce原始数据中心的屏蔽位置以获得最佳性能。 有关详细信息，请参阅[配置后端和源屏蔽](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration#configure-back-ends-and-origin-shielding)。
-
-默认情况下，[!DNL Fastly]源屏蔽未启用。
+可以在Adobe Commerce管理员的[!DNL Fastly]配置后端设置中启用[!DNL Fastly]源屏蔽。 选择最接近Adobe Commerce原始数据中心的屏蔽位置以获得最佳性能。 有关详细信息，请参阅[配置后端和源屏蔽](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration#configure-back-ends-and-origin-shielding)。 默认情况下，[!DNL Fastly]源屏蔽未启用。
 
 ## 执行加载和故障转移测试 {#conduct-load-and-failover-tests}
 

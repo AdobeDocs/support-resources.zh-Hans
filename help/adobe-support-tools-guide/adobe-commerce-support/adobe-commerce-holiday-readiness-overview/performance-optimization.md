@@ -23,7 +23,7 @@ role_v2:
     internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
-source-git-commit: 8b0e99848d1e5798cce52e21f9052b2b57c73b38
+source-git-commit: b2220ea4cb5a301cbee6cea5fb90d6dc8a05eeff
 workflow-type: tm+mt
 source-wordcount: '1698'
 ht-degree: 0%
@@ -116,11 +116,11 @@ ht-degree: 0%
 
 * 异步订单数据处理：密集的店面销售和密集的订单处理可能在数据库级别发生冲突。 启用此设置将区分这两种流量模式，因此订单会被放在临时存储中，并在没有冲突的情况下批量移动到Order Management网格。 此计划通过cron更新“订单”、“发票”、“发运”和“贷项通知单”网格，从而避免锁定并减少处理时间。 为了获得最佳结果，请将cron配置为每分钟运行一次。
 
->[!NOTE]
->
->启用方式取决于您的部署模式。 默认情况下，云基础架构上的Adobe Commerce暂存和生产环境以生产模式运行，此设置不可通过管理员使用。 在生产模式下，请改为运行`bin/magento config:set dev/grid/async_indexing 1`。 在默认模式下，转到&#x200B;**[!UICONTROL 存储]** > **[!UICONTROL 配置]** > **[!UICONTROL 高级]** > **[!UICONTROL 开发人员]** > **[!UICONTROL 网格设置]**，并将&#x200B;**[!UICONTROL 异步索引]**&#x200B;设置为&#x200B;*[!UICONTROL 启用]*。
+  >[!NOTE]
+  > 
+  >启用方式取决于您的部署模式。 默认情况下，云基础架构上的Adobe Commerce暂存和生产环境以生产模式运行，此设置不可通过管理员使用。 在生产模式下，请改为运行`bin/magento config:set dev/grid/async_indexing 1`。 在默认模式下，转到&#x200B;**[!UICONTROL 存储]** > **[!UICONTROL 配置]** > **[!UICONTROL 高级]** > **[!UICONTROL 开发人员]** > **[!UICONTROL 网格设置]**，并将&#x200B;**[!UICONTROL 异步索引]**&#x200B;设置为&#x200B;*[!UICONTROL 启用]*。
 
-有关详细信息，请参阅[计划订单工序](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations)。
+  有关详细信息，请参阅[计划订单工序](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations)。
 
 * 异步电子邮件通知：此设置将结账和订单处理电子邮件通知移至后台。 在&#x200B;**[!UICONTROL 商店]** > **[!UICONTROL 配置]** > **[!UICONTROL 销售]** > **[!UICONTROL 销售电子邮件]** > **[!UICONTROL 常规设置]** > **[!UICONTROL 异步发送]**&#x200B;处启用它。
 
