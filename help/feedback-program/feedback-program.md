@@ -6,7 +6,7 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: ca761100cdaf8c0b8ca23495393d3f03dafdb28b
+source-git-commit: 8534c0d14db31a8ab8ff75412433a6b9652e01fd
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -39,6 +39,14 @@ Adobe反馈计划的参与完全是自愿的，旨在满足各种兴趣、产品
 
 销售机会因产品领域、地区、客户个人资料和计划可用性等因素而异，并非所有参与者都会被邀请参加每个销售机会。 您的反馈可帮助Adobe改进产品、优先考虑未来的投资，并提供更好的客户体验。
 
+## 计划条款
+
+>[!BEGINSHADEBOX]
+
+参与可能需要接受Adobe反馈计划协议。 附加术语可能根据特定项目或活动而适用。
+
+>[!ENDSHADEBOX]
+
 ## 常见问题解答
 
 +++ 谁可以参与？
@@ -65,12 +73,6 @@ Adobe反馈计划的参与完全是自愿的，旨在满足各种兴趣、产品
 
 +++
 
-## 计划条款
-
-参与可能需要接受Adobe反馈计划协议。 附加术语可能根据特定项目或活动而适用。
-
->[!BEGINSHADEBOX]
-
 ## 加入Adobe反馈计划
 
 通过抢先体验机会、研究以及与我们的产品团队直接反馈，帮助塑造Adobe产品的未来。
@@ -78,6 +80,8 @@ Adobe反馈计划的参与完全是自愿的，旨在满足各种兴趣、产品
 作为体验创造者，您被视为专家。 通过此计划，您可以直接与Adobe产品开发专家联系，因为您的观点将影响Adobe的未来发展方向。
 
 有关更多信息和资格要求，请立即联系您的Adobe客户代表。
+
+>[!BEGINSHADEBOX]
 
 [!BADGE 立即加入]{type=Informative url="https://experienceleague.adobe.com/zh-hans/feedback-program" newtab=true tooltip="转到https://experienceleague.adobe.com/en/feedback-program"}
 
