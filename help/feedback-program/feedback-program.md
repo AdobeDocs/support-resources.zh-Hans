@@ -77,8 +77,8 @@ Adobe反馈计划的参与完全是自愿的，旨在满足各种兴趣、产品
 
 有关更多信息和资格要求，请立即联系您的Adobe客户代表。
 
-[![登录按钮](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/en/feedback-program){target="_blank"}
+[![登录按钮](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/zh-hans/feedback-program){target="_blank"}
 
 <!--
-[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/en/feedback-program"}
+[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/zh-hans/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/zh-hans/feedback-program"}
 -->
