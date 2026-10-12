@@ -1,24 +1,24 @@
 ---
 title: Creative Cloud 和 Adobe Document Cloud 的商业支持
-description: Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。 商业支持计划强化了此种支持。 商业支持包括优先转接支持案例，确保更快地连接到已提交案例的更高级支持资源。
+description: Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。 商业支持计划强化了此种支持。 商业支持包括对支持案例进行优先路由，以确保已提交的案例能够更快地联系到更高级别的支持资源。
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
-TQID: https://experienceleague.adobe.com/jYFjKBCdJyMEpfRufkgr6mYLpQLxjvIEh3cOFXEEWhs
+TQID: 'https://experienceleague.adobe.com/jYFjKBCdJyMEpfRufkgr6mYLpQLxjvIEh3cOFXEEWhs'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Customer experience
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 835
+source-wordcount: '835'
 ht-degree: 100%
-
 ---
-
 # Creative Cloud 和 Adobe Document Cloud 的商业支持
 
 ![图标](assets/Businessbanner.png)
 
-Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。 商业支持计划强化了此种支持。 商业支持包括优先转接支持案例，确保更快地连接到已提交案例的更高级支持资源。
+Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。 商业支持计划强化了此种支持。 商业支持包括对支持案例进行优先路由，以确保已提交的案例能够更快地联系到更高级别的支持资源。
 
 商业客户还可以通过电话或支持门户网站联系我们的技术支持团队以进行任何产品查询，以便在最关键的时刻帮助保护您的业务。 商业客户将能够借助其进行支持案例上报管理的客户支持主管，针对您最关键的支持请求定期接收通讯和最新消息。
 
@@ -242,7 +242,7 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
     <img alt="电话支持" src="assets/dmephone.png"/>
     <div>
     <p><b>电话支持</b></p>
-    <p>授权用户（管理员）可以通过电话调用 Adobe 支持以获取答案并帮助提交案例。</p>
+    <p>授权用户（管理员）可以通过电话联系 Adobe 支持，以获取解答并获得提交案例方面的帮助。</p>
     <p><i>以当地时间为准。</i></p>
     </div>
   </td>

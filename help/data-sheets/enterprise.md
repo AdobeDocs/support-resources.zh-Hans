@@ -2,26 +2,33 @@
 title: 企业支持
 description: Adobe Experience Cloud 企业支持服务增强了支持服务水平目标 (SLT)，提供的权益包括技术专业知识以及配备指定的支持工程师作为布道师。
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-TQID: https://experienceleague.adobe.com/7dJ79eoty0bp2vHc0RuZsrxQ2dmQpDjbLuBot9xnViI
+TQID: 'https://experienceleague.adobe.com/7dJ79eoty0bp2vHc0RuZsrxQ2dmQpDjbLuBot9xnViI'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Optimization
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 1230
+source-wordcount: '1230'
 ht-degree: 100%
-
 ---
-
 # 企业支持
 
 ![图标](assets/EnterpriseBanner.png)
@@ -123,7 +130,7 @@ Adobe Experience Cloud 企业支持服务增强了支持服务水平目标 (SLT)
   </tr>
   <tr>
     <td rowspan="2">现场服务</td>
-    <td>Launch Advisory Services - 新解决方案的第一年</td>
+    <td>发布咨询服务 - 新解决方案的第一年</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -161,14 +168,14 @@ Adobe Experience Cloud 企业支持服务增强了支持服务水平目标 (SLT)
     <img alt="指定的支持工程师" src="assets/namedsupportengineer.png"/>
     <div>
     <p><b>指定的支持工程师</b></p>
-    <p>配备一名熟悉您的解决方案环境和业务目标的指定支持工程师。 NSE 是指经验丰富的支持工程师，可帮助协调企业支持体验。</p>
+    <p>配备一名熟悉您的解决方案环境和业务目标的指定支持工程师。 NSE 是指经验丰富的支持工程师，可帮助协调您的企业支持体验。</p>
     </div>
   </td>
   <td>
     <img alt="专家讲座" src="assets/expertsessions.png"/>
     <div>
     <p><b>专家讲座</b></p>
-    <p>一个时长 60 分钟的讲座，重点介绍了一项特定的产品功能以及如何利用此功能来解决常见的业务问题。</p>
+    <p>一个时长 60 分钟的会议，重点介绍一项特定的产品功能以及如何利用此功能来解决常见的业务问题。</p>
     </div>
   </td>
 </tr>
@@ -246,7 +253,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>Experience League</p>
     <p><b>自助式历程</b></p>
-    <p>Experience Makers 是使用 Experience League 创建的。 客户可以通过个性化学习来获得客户体验管理能力，从而培养技能、与全球同行社区互动并获得职业发展的认可。</p>
+    <p>Experience Makers 因 Experience League 而成就。 客户可以通过个性化学习来获得客户体验管理能力，从而培养技能、与全球同行社区互动并获得职业发展的认可。</p>
     </div>
   </td>
 </tr>
@@ -256,7 +263,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>办公室会议</p>
     <p><b>网络研讨会</b></p>
-    <p>“办公室会议”是 Adobe 客户支持团队发起的一项计划。 这些讲座旨在指导并帮助参与者排除问题，并提供有助于 Adobe Experience Cloud 发挥成效的提示和技巧。</p>
+    <p>Office Hours 是 Adobe 客户支持团队发起的一项计划。 这些讲座旨在指导并帮助参与者排除问题，并提供有助于 Adobe Experience Cloud 发挥成效的提示和技巧。</p>
     </div>
   </td>
   <td>
@@ -264,7 +271,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>实时聊天支持*</p>
     <p><b>聊天支持</b></p>
-    <p>开始聊天会话以获取答案并帮助提交案例。</p>
+    <p>开始聊天会话，以获取解答和提交案例方面的帮助。</p>
     <p>*<i>并非所有产品都提供实时聊天支持。</i></p>
     </div>
   </td>
@@ -287,11 +294,11 @@ Adobe Customer Support offers access to online resources for documentation, enga
 ![Support implementation and operation](assets/support-implementation.png)
 -->
 
-Adobe 解决方案专家可为客户和实施合作伙伴提供基于最佳实践的指导，帮助验证需求、架构、开发过程和发布准备情况审查。
+Adobe 解决方案专家可为客户和实施合作伙伴提供基于最佳做法的指导，帮助验证需求、架构、开发流程，并审查发布就绪情况。
 
 Launch Advisory 将通过常见里程碑（启动、定义、设计、上线和发布后）与您的项目计划保持一致，以进行指导、验证、评估和提出建议。 主要可交付成果包括：
 
-* 启动（包括项目协作计划）包
+* 启动会（包括项目协作计划）演示文稿
 * 评估和建议文档
 * 参与摘要
 

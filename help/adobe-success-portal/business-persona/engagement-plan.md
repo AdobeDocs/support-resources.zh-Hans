@@ -2,26 +2,27 @@
 title: '[!UICONTROL 参与计划]'
 description: 了解[!UICONTROL 参与计划]如何通过提供一个 Adobe 帐户团队和参与选项的集中视图来增强利益相关者的可见性和沟通情况。
 exl-id: 65a0ac9f-9103-4497-8e85-c471c2ffff51
-TQID: https://experienceleague.adobe.com/M9nZSIddX0t75QsdfRNR0arXCUxoDxcRTdShF3c6-co
+TQID: 'https://experienceleague.adobe.com/M9nZSIddX0t75QsdfRNR0arXCUxoDxcRTdShF3c6-co'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Admin
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 187
+source-wordcount: '187'
 ht-degree: 100%
-
 ---
-
 # [!UICONTROL 参与计划]
 
 **[!UICONTROL 参与计划]**&#x200B;部分可以解决与利益相关者可见性和沟通情况相关的挑战。 它在一个集中视图中提供了您的 Adobe 帐户团队以及您与他们的沟通方式。
 
 要访问此部分，请点击门户主页左侧导航面板上的 ![engagement-icon](/help/adobe-success-portal/assets/engagement-icon.png) 图标。
 
-此页面包括以下子分区：
+此页面包括以下子部分：
 
 ## [!UICONTROL 战略合作伙伴]
 

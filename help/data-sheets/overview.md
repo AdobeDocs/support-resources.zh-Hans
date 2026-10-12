@@ -1,29 +1,36 @@
 ---
-title: Adobe Success Plan 概述
+title: Adobe Success Plans 概述
 description: 本文概述 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客户支持选项。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 hide: true
-TQID: https://experienceleague.adobe.com/jyd4rXuRngHrYK9F6QAUMiOT-toNmxV1t-eAMTRwLWA
+TQID: 'https://experienceleague.adobe.com/jyd4rXuRngHrYK9F6QAUMiOT-toNmxV1t-eAMTRwLWA'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: fb55ad86463b17ab2808e2e1d658156ead606ec9
+    internal-label: Personalization
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 1845
+source-wordcount: '1845'
 ht-degree: 97%
-
 ---
-
-# Adobe Success Plan 概述
+# Adobe Success Plans 概述
 
 >[!NOTE]
 >
@@ -66,7 +73,7 @@ Adobe Success Plan 超越了被动解决问题的模式，为您带来一种全�
 
 ## Ultimate 支持：任命的支持联系人
 
-根据 Ultimate 支持，客户有权扩充容量，（从 Expert 支持的所有 AEC 产品间共四 (4) 名任命的支持联系人增加）到每个 AEC 产品最多十五 (15) 名任命的支持联系人。
+根据 Ultimate 支持，客户有权将每个 AEC 产品的指定支持联系人容量扩展至最多十五 (15) 名（高于 Expert 支持下每个 AEC 产品四 (4) 名的容量）。
 
 任命的支持联系人可通过所有可用的渠道提交问题，并代表客户根据需要与 Adobe 的技术支持团队交流。 还可委派一 (1) 名此类任命的支持联系人作为客户的帐户管理员，从而可通过 Adobe 提供的支持门户自助更新任命的支持联系人的列表并作出有限的权限设置。
 
@@ -143,7 +150,7 @@ Adobe Commerce 的标准支持：由客户许可或续订且许可期限开始�
   <tr>
     <td>启动 </td>
     <td>项目启动、调整目标和时间线、项目协作计划、识别资源、利益相关者并设置项目节奏 </td>
-    <td>包括项目合作计划在内的启动平台 </td>
+    <td>包括项目协作计划在内的启动演示文稿 </td>
   </tr>
   <tr>
     <td>定义 </td>
@@ -152,7 +159,7 @@ Adobe Commerce 的标准支持：由客户许可或续订且许可期限开始�
   </tr>
   <tr>
     <td>设计 </td>
-    <td>解决方案设计的最佳做法咨询、技术规范和架构审查，以及多解决方案审查（如果需要）。 验证实施是否会以最好的方式工作 </td>
+    <td>解决方案设计的最佳做法咨询、技术规范和架构审查，以及多解决方案审查（如果需要）。 验证实施能否达到最佳效果 </td>
     <td></td>
   </tr>
   <tr>
@@ -183,4 +190,4 @@ Adobe Commerce 的标准支持：由客户许可或续订且许可期限开始�
 
 >[!NOTE]
 >
->现场服务并不意味着取代 Adobe 咨询服务。 现场服务支持客户在 LAS 后实施并补充任何更大的咨询参与。
+>现场服务并非旨在取代 Adobe 咨询服务。 现场服务支持客户在 LAS 后实施并补充任何更大的咨询参与。

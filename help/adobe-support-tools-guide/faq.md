@@ -3,19 +3,20 @@ keywords: 常见问题解答；常见问题解答
 title: Adobe商业平台和Admin Console常见问题解答
 description: Adobe Workfront常见问题解答
 exl-id: 533d7a19-1bb2-4823-860f-d2c66412bb3d
-TQID: https://experienceleague.adobe.com/9vMmY3Kkuy1AuXuGvdqjOwq-eOtL54YaUr1jMVuR-Tw
+TQID: 'https://experienceleague.adobe.com/9vMmY3Kkuy1AuXuGvdqjOwq-eOtL54YaUr1jMVuR-Tw'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Admin
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 484
+source-wordcount: '484'
 ht-degree: 11%
-
 ---
-
 # [!DNL Adobe Business Platform]和Admin Console常见问题解答
 
 +++**什么是Adobe标识和Admin Console？**

@@ -1,23 +1,26 @@
 ---
-title: 管理  [!DNL Adobe Success] 门户中的发现
-description: 本指南介绍如何访问、理解  [!DNL Adobe Success] 门户中的发现并据此采取行动，以帮助您主动管理产品性能、安全性和功能风险。
+title: 管理 [!DNL Adobe Success] 门户中的发现
+description: 本指南介绍如何访问、解释和处理[!DNL Adobe Success]门户中的发现结果，以帮助您主动管理产品性能、安全性和功能风险。
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
-TQID: https://experienceleague.adobe.com/tO1CHOXvHW2yrDt4Kq14NMvOeSv0GP4fOeR-9-S5H3o
+TQID: 'https://experienceleague.adobe.com/tO1CHOXvHW2yrDt4Kq14NMvOeSv0GP4fOeR-9-S5H3o'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Insights
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 862
-ht-degree: 100%
-
+source-wordcount: '864'
+ht-degree: 97%
 ---
-
 # 管理 [!DNL Adobe Success] 门户中的发现
 
 本指南介绍如何访问、理解 [!DNL Adobe Success] 门户中的发现并据此采取行动，以帮助您主动管理产品性能、安全性和功能风险。
@@ -30,7 +33,7 @@ ht-degree: 100%
 
 **发现是如何产生的？**
 
-Adobe 团队定期研究最常见的支持问题和趋势。 根据这些洞察，他们在系统中添加新的检查。 [!DNL Adobe Success] 门户每天扫描一次产品数据以检测问题，例如配置错误、卡住的任务或者任何可能导致系统中断的问题。 如果检查发现某个情况超出了（由 Adobe 的产品和支持团队定义的）安全范围，就会显示有一个发现。
+Adobe 团队定期研究最常见的支持问题和趋势。 根据这些洞察，他们在系统中添加新的检查。 [!DNL Adobe Success] 门户每天扫描一次产品数据以检测问题，例如配置错误、卡住的任务或者任何可能导致系统中断的问题。 如果检查发现某个情况超出了（由 Adobe 的产品和支持团队定义的）安全范围，就会将其显示为一个发现项。
 
 **为什么发现非常重要**
 
@@ -69,9 +72,10 @@ Adobe 团队定期研究最常见的支持问题和趋势。 根据这些洞察�
 
 ## 关于发现的操作
 
-按照以下步骤验证每个发现问题是否仍然存在，还是可以忽略。
+按照以下步骤验证每个发现是否仍然适用，或者是否可以将其忽略。
 
->[!NOTE]：
+>[!NOTE]
+>：
 >
 >在您的实例上会运行标准检查。 如果检查后未发现您的实例中存在此问题，状态就是&#x200B;**[!UICONTROL 未检测到]**。
 
