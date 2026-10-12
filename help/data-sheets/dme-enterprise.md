@@ -2,18 +2,18 @@
 title: 对 Creative Cloud 和 Adobe Document Cloud 的企业支持
 description: Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。 企业支持计划强化了此种支持。
 exl-id: 38467d5a-02b8-496f-ac2b-4d54ac3c5ffc
-TQID: https://experienceleague.adobe.com/-kPhYGpfGdZIP8Is1A-WWfHq6uJzSLNwCei4D8TO8A4
+TQID: 'https://experienceleague.adobe.com/-kPhYGpfGdZIP8Is1A-WWfHq6uJzSLNwCei4D8TO8A4'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Customer experience
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 958
+source-wordcount: '958'
 ht-degree: 100%
-
 ---
-
 # 对 Creative Cloud 和 Adobe Document Cloud 的企业支持
 
 ![图标](assets/EnterpriseBanner.png)
@@ -227,14 +227,14 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
     <img alt="服务审查" src="assets/dmeservicereviews.png"/>
     <div>
     <p><b>服务审查</b></p>
-    <p>对企业计划服务、权益和支持表现进行一年两次的全面审查。 可能与 Adobe 举办的其他战略性业务审查相结合。</p>
+    <p>对企业计划服务、权益和支持绩效进行一年两次的全面审查。 可能与 Adobe 举办的其他战略性业务审查相结合。</p>
     </div>
   </td>
   <td>
     <img alt="区域内支持访问" src="assets/dmeinregionsupportaccess.png"/>
     <div>
     <p><b>区域内支持访问</b></p>
-    <p>从您所在的全球区域内 Adobe 支持团队成员处获得支持。 这可能包括国内和/或语言支持。</p>
+    <p>从您所在的全球区域内 Adobe 支持团队成员处获得支持。 这可能包括在您所在国家/地区提供的支持和/或以您的语言提供的支持。</p>
     </div>
   </td>
 </tr>
@@ -272,7 +272,7 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
     <img alt="电话支持" src="assets/dmephone.png"/>
     <div>
     <p><b>电话支持</b></p>
-    <p>授权用户（管理员）可以通过电话调用 Adobe 支持以获取答案并帮助提交案例。</p>
+    <p>授权用户（管理员）可以通过电话联系 Adobe 支持，以获取解答并获得提交案例方面的帮助。</p>
     <p><i>以当地时间为准。</i></p>
     </div>
   </td>
@@ -292,7 +292,7 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
 |--- |--- |
 | [企业学习和支持](https://helpx.adobe.com/cn/enterprise.html) | 企业学习和支持为 Adobe 客户提供针对精选 Adobe Creative Cloud 和文档产品的自助教程、产品文档、讲师指导的培训、社区和技术支持。 |
 | [Adobe 支持社区](https://community.adobe.com/) | Adobe 支持社区是提出问题、找到答案、向专家学习和分享知识的场所。 |
-| [生产问题和系统中断](https://status.adobe.com/zh-cn/) | Status.adobe.com 传达在多租户环境中部署的所有 Adobe 产品和服务的运行状况信息。 客户可以选择他们的订阅偏好设置，以便在 Adobe 创建、更新或处理产品事件时收到电子邮件通知。 这可能包括严重性不同的定期维护或服务问题。 |
+| [生产问题和系统中断](https://status.adobe.com/) | Status.adobe.com 传达在多租户环境中部署的所有 Adobe 产品和服务的运行状况信息。 客户可以选择他们的订阅偏好设置，以便在 Adobe 创建、更新或处理产品事件时收到电子邮件通知。 这可能包括严重性不同的定期维护或服务问题。 |
 | [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html) | 详细说明支持服务产品的条款和条件。 |
 
 {style="table-layout:auto"}

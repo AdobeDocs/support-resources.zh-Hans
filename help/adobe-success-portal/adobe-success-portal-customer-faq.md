@@ -1,30 +1,32 @@
 ---
 title: '[!DNL Adobe Success] 门户：客户常见问题解答'
-description: 这篇常见问题解答文章解答了有关  [!DNL Adobe Success] 门户的问题。
+description: 此常见问题解答文章回答了有关[!DNL Adobe Success]门户的常见问题。
 exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
-TQID: https://experienceleague.adobe.com/sIIr9uo3-K1N44AG-k0uhHcfwb9J93r0RbzVz0NRMhk
+TQID: 'https://experienceleague.adobe.com/sIIr9uo3-K1N44AG-k0uhHcfwb9J93r0RbzVz0NRMhk'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Privacy
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 661
-ht-degree: 93%
-
+source-wordcount: '662'
+ht-degree: 91%
 ---
-
 # [!DNL Adobe Success] 门户：客户常见问题解答
 
  
-
 ## [!DNL Adobe Success] 门户包括哪些范围？
 
-[!DNL Adobe Success] 门户是 Adobe 新推出的面向客户的集中平台，将支持、成功和参与等各方面的售后体验统一起来。 Alpha 版本专注于提供聚合式体验，将以前分散在多个平台的工具和工作流合并在一起（例如支持门户、手动 Ultimate Success 工件）。 目标是简化客户在从加入到续订的整个生命周期中与 Adobe 的互动方式，增强透明度、自助服务和价值实现。
+[!DNL Adobe Success] 门户是 Adobe 新推出的面向客户的集中平台，将支持、成功和参与等各方面的售后体验统一起来。 Alpha 版本专注于提供连贯一致的体验，将以前分散在多个平台的工具和工作流整合在一起（例如支持门户、手动 Ultimate Success 工件）。 目标是简化客户在从加入到续订的整个生命周期中与 Adobe 的互动方式，增强透明度、自助服务和价值实现。
 
 Alpha中的&#x200B;**主要功能**
 Alpha范围包括一组针对Ultimate客户精心设计的功能，主要有两个体验路径：
@@ -50,7 +52,7 @@ Alpha 版本的门户访问权限仅限于已确定参与 Alpha 计划的预定�
 
 ## 我还需要访问 Experience League 吗？
 
-Experience League 仍是主页，可供访问所有文档、学习内容和社区功能。 在 Alpha 使用期间，您仍然能够直接在 Experience League 中打开和管理您的支持案例，但是作为测试计划的一部分，我们请您使用 [!DNL Adobe Success] 门户作为提交支持案例的主要目标并进行管理。
+Experience League 仍将是主页，所有文档、学习内容和社区功能都应通过它访问。 在 Alpha 使用期间，您仍然能够直接在 Experience League 中打开和管理您的支持案例，但是作为测试计划的一部分，我们请您使用 [!DNL Adobe Success] 门户作为提交支持案例的主要目标并进行管理。
 
 ## 从哪里提取我的数据？ 数据受到哪些保护？
 
@@ -66,4 +68,4 @@ Experience League 仍是主页，可供访问所有文档、学习内容和社�
 
 ## 我有关于新功能或增强功能的建议。 我应该在哪里提交？
 
-关于功能改进的请求应通过 [!DNL Adobe Success] 门户中的[!UICONTROL &#x200B; Alpha 反馈工具]提交。 您可以随时使用其他可用的渠道，包括您的帐户团队，还可以使用 [Alpha Teams 渠道](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)。
+关于功能改进的请求应通过 [!DNL Adobe Success] 门户中的[!UICONTROL  Alpha 反馈工具]提交。 您可以随时使用其他可用的渠道，包括您的帐户团队，还可以使用 [Alpha Teams 渠道](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)。

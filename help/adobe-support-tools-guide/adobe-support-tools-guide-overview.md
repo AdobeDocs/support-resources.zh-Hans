@@ -2,24 +2,29 @@
 title: Adobe支持和工具指南概述
 description: Adobe支持和工具指南 — 您关于Experience League中的案例管理、支持权利、Adobe Admin Console任务和产品特定支持的中心资源。
 exl-id: 8a2832e8-d3c0-465c-b32e-52b3f0ac13d4
-TQID: https://experienceleague.adobe.com/tU02jQ-jAGNsnDEsyiXzBs-rs0poCZostwyaiDDDEpY
+TQID: 'https://experienceleague.adobe.com/tU02jQ-jAGNsnDEsyiXzBs-rs0poCZostwyaiDDDEpY'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Privacy
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: '218'
 ht-degree: 0%
-
 ---
-
 # Adobe支持和工具指南概述
 
 **Adobe支持和工具指南**&#x200B;可帮助您在一个位置使用Adobe Digital Experience支持。 它支持Adobe向&#x200B;**Experience League**&#x200B;的转变，让授权客户能够打开并跟踪案例，跨产品使用一致的历史记录，以及通过协议中包含的渠道访问Adobe。

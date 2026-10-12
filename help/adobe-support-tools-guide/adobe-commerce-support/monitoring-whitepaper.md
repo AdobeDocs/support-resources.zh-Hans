@@ -1,22 +1,24 @@
 ---
-title: 正在监视 [!DNL Adobe Commerce on cloud pro infrastructure]的情况说明书
+title: 正在监视[!DNL Adobe Commerce on cloud pro infrastructure]的情况说明书
 description: 本文档提供有关Adobe Commerce基础架构监控和通知的信息。
 exl-id: 0dd3239f-de10-48df-b3f4-ac2b8cbc6c72
-TQID: https://experienceleague.adobe.com/H7CvXHTRGGHEh079EB2rOZV2yc7BoFMQgdq5-yLkjF4
+TQID: 'https://experienceleague.adobe.com/H7CvXHTRGGHEh079EB2rOZV2yc7BoFMQgdq5-yLkjF4'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Troubleshooting
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 511
+source-wordcount: '511'
 ht-degree: 0%
-
 ---
-
 # 正在监视[!DNL Adobe Commerce on cloud pro infrastructure]的情况说明书
 
 本文档提供有关Adobe Commerce基础架构监控和通知的信息。
@@ -42,7 +44,7 @@ Adobe Commerce实例通常包含自定义代码和配置。 Adobe不支持或解
 | **描述** | 站点可用性是根据围绕度量配置的阈值确定的。 如果检查失败10分钟并且没有正在进行的活动部署，则会触发站点中断通知。 |
 | **通知收件人** | 商家/合作伙伴和Adobe。 |
 | 由Adobe执行的&#x200B;**操作** | 负责对Adobe Commerce基础架构是否存在问题进行分类和修复。 |
-| **商家执行的操作** | 负责修复由商家/合作伙伴引入的更改或自定义代码导致的问题。 有关疑难解答，请参阅： [Site Down Troubleshooter](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/site-down-or-unresponsive/magento-site-down-troubleshooter.html?lang=zh-Hans)。 |
+| **商家执行的操作** | 负责修复由商家/合作伙伴引入的更改或自定义代码导致的问题。 有关疑难解答，请参阅： [Site Down Troubleshooter](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/site-down-or-unresponsive/magento-site-down-troubleshooter.html)。 |
 
 ## Diskspace监控
 
@@ -54,4 +56,4 @@ Adobe Commerce实例通常包含自定义代码和配置。 Adobe不支持或解
 | **描述** | 根据针对主机的可用磁盘空间配置的阈值发送通知。 自动向相关装载（[!DNL MySQL]或介质）添加一次额外的磁盘空间，以防止站点中断，并给商家留出时间来清除磁盘空间和/或识别并解决导致磁盘使用率快速增加的任何代码或日志。 |
 | **通知收件人** | 商家/合作伙伴和Adobe。 |
 | 由Adobe执行的&#x200B;**操作** | 自动提高支持票证，并将额外的磁盘空间自动添加到相关装载（[!DNL MySQL]或媒体）以防止站点中断。 |
-| **商家执行的操作** | 要接收持续的警告级别磁盘空间警报，请参阅： <ul><li>[[!DNL Managed alerts for Adobe Commerce]：磁盘警告警报](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-warning-alert)</li><li>[[!DNL Managed alerts for Adobe Commerce]：磁盘严重警报](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-critical-alert) </li></ul> |
+| **商家执行的操作** | 要接收持续的警告级别磁盘空间警报，请参阅： <ul><li>[[!DNL Managed alerts for Adobe Commerce]：磁盘警告警报](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-warning-alert)</li><li>[[!DNL Managed alerts for Adobe Commerce]：磁盘严重警报](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-critical-alert) </li></ul> |

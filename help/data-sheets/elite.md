@@ -2,26 +2,33 @@
 title: 高级支持
 description: Adobe Experience Cloud 高级支持服务提供同类最佳的服务水平目标 (SLT) 和主动支持，并且让客户能够与技术客户经理和指定支持工程师开展合作。
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
-TQID: https://experienceleague.adobe.com/iF7FcpFJB-kViSwkHmyGYF9fnUKAOdV0s6BcnLpvXWQ
+TQID: 'https://experienceleague.adobe.com/iF7FcpFJB-kViSwkHmyGYF9fnUKAOdV0s6BcnLpvXWQ'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Optimization
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 1406
+source-wordcount: '1406'
 ht-degree: 100%
-
 ---
-
 # 高级支持
 
 ![图标](assets/Elitebanner.png)
@@ -123,7 +130,7 @@ Adobe Experience Cloud 高级支持服务提供同类最佳的服务水平目标
   </tr>
   <tr>
     <td rowspan="2">现场服务</td>
-    <td>Launch Advisory Services - 新解决方案的第一年</td>
+    <td>发布咨询服务 - 新解决方案的第一年</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -214,7 +221,7 @@ Adobe Experience Cloud 高级支持服务提供同类最佳的服务水平目标
     <img alt="维护和监控" src="assets/MaintenanceMonitoring.png"/>
     <div>
     <p><b>维护和监控</b></p>
-    <p>接收维护最佳实践和最新修复（SP、MR、补丁、FP）以在所有维护检查中保持最新状态</p>
+    <p>接收维护最佳做法和最新修复（SP、MR、补丁、FP），以确保所有维护检查都保持最新状态</p>
     </div>
   </td>
 </tr>
@@ -223,14 +230,14 @@ Adobe Experience Cloud 高级支持服务提供同类最佳的服务水平目标
     <img alt="发布准备和审查" src="assets/releasepreview.png"/>
     <div>
     <p><b>发布准备和审查</b></p>
-    <p>接收有关新产品功能的个性化指导以利用最新创新，并让 Adobe 专家审查发布和升级计划。</p>
+    <p>接收有关新产品功能的个性化指导以利用最新创新，并让 Adobe 专家审查版本和升级计划。</p>
     </div>
   </td>
   <td>
     <img alt="知识转移" src="assets/KnowledgeTransfer.png"/>
     <div>
     <p><b>知识转移</b></p>
-    <p>来自 Adobe 支持团队的持续知识转移，可提供有关解决方案使用的最佳实践。</p>
+    <p>Adobe 支持团队持续进行知识传递，提供有关解决方案使用的最佳做法。</p>
     </div>
   </td>
   <td>
@@ -272,7 +279,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>Experience League</p>
     <p><b>自助式历程</b></p>
-    <p>Experience Makers 是使用 Experience League 创建的。 客户可以通过个性化学习来获得客户体验管理能力，从而培养技能、与全球同行社区互动并获得职业发展的认可。</p>
+    <p>Experience Makers 因 Experience League 而成就。 客户可以通过个性化学习来获得客户体验管理能力，从而培养技能、与全球同行社区互动并获得职业发展的认可。</p>
     </div>
   </td>
 </tr>
@@ -282,7 +289,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>办公室会议</p>
     <p><b>网络研讨会</b></p>
-    <p>“办公室会议”是 Adobe 客户支持团队发起的一项计划。 这些讲座旨在指导并帮助参与者排除问题，并提供有助于 Adobe Experience Cloud 发挥成效的提示和技巧。</p>
+    <p>Office Hours 是 Adobe 客户支持团队发起的一项计划。 这些讲座旨在指导并帮助参与者排除问题，并提供有助于 Adobe Experience Cloud 发挥成效的提示和技巧。</p>
     </div>
   </td>
   <td>
@@ -290,7 +297,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>实时聊天支持*</p>
     <p><b>聊天支持</b></p>
-    <p>开始聊天会话以获取答案并帮助提交案例。</p>
+    <p>开始聊天会话，以获取解答和提交案例方面的帮助。</p>
     <p>*<i>并非所有产品都提供实时聊天支持。</i></p>
     </div>
   </td>
@@ -338,11 +345,11 @@ Adobe Customer Support offers access to online resources for documentation, enga
 ![Support implementation and operation](assets/support-implementation.png)
 -->
 
-Adobe 解决方案专家可为客户和实施合作伙伴提供基于最佳实践的指导，帮助验证需求、架构、开发过程和发布准备情况审查。
+Adobe 解决方案专家可为客户和实施合作伙伴提供基于最佳做法的指导，帮助验证需求、架构、开发流程，并审查发布就绪情况。
 
 Launch Advisory 将通过常见里程碑（启动、定义、设计、上线和发布后）与您的项目计划保持一致，以进行指导、验证、评估和提出建议。 主要可交付成果包括：
 
-* 启动（包括项目协作计划）包
+* 启动会（包括项目协作计划）演示文稿
 * 评估和建议文档
 * 参与摘要
 
@@ -380,9 +387,9 @@ Launch Advisory 将通过常见里程碑（启动、定义、设计、上线和�
 
 | 资源 | 描述 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/zh-hans) | Experience League 是 Adobe 帮助企业实现预期的 Adobe 投资回报的方式。 这是一个集中式位置，提供自助教程、产品文档、讲师指导的培训、社区和技术支持，客户可以在这里学习、建立联系和取得进步，并沿着个性化的路径迈向成功。 |
+| [Experience League](https://experienceleague.adobe.com/) | Experience League 是 Adobe 帮助企业实现预期的 Adobe 投资回报的方式。 这是一个集中式位置，提供自助教程、产品文档、讲师指导的培训、社区和技术支持，客户可以在这里学习、建立联系和取得进步，并沿着个性化的路径迈向成功。 |
 | [培训](https://training.adobe.com/training/) | 可以从 Experience League 访问 Adobe Digital Learning Services 课程。 学习课程同时包括按需课程和讲师指导的课程。 在这里，您可以掌握具有公认市场价值的技能，并在组织中利用这些技能获得成功。 |
-| [生产问题和系统中断](https://status.adobe.com/zh-cn/) | Status.adobe.com 传达在多租户环境中部署的所有 Adobe 产品和服务的运行状况信息。 客户可以选择他们的订阅偏好设置，以便在 Adobe 创建、更新或处理产品事件时收到电子邮件通知。 这可能包括严重性不同的定期维护或服务问题。 |
+| [生产问题和系统中断](https://status.adobe.com/) | Status.adobe.com 传达在多租户环境中部署的所有 Adobe 产品和服务的运行状况信息。 客户可以选择他们的订阅偏好设置，以便在 Adobe 创建、更新或处理产品事件时收到电子邮件通知。 这可能包括严重性不同的定期维护或服务问题。 |
 | [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html) | 详细说明支持服务产品的条款和条件。 |
 
 ## Adobe 支持的区域范围、当地营业时间和语言支持

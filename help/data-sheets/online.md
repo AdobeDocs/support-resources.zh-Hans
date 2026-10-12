@@ -2,19 +2,20 @@
 title: 在线支持
 description: Adobe Experience Cloud 在线支持服务提供有限的电话支持。
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
-TQID: https://experienceleague.adobe.com/eaI-iDJEaAM5WNfN8wH7mZ4NHcQD99neOiONYevP79I
+TQID: 'https://experienceleague.adobe.com/eaI-iDJEaAM5WNfN8wH7mZ4NHcQD99neOiONYevP79I'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Troubleshooting
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 791
+source-wordcount: '791'
 ht-degree: 100%
-
 ---
-
 # 在线支持
 
 ![图标](assets/OnlineBanner.png)
@@ -148,7 +149,7 @@ Adobe Experience Cloud 在线支持服务提供有限的电话支持。
   </tr>
   <tr>
     <td rowspan="2">现场服务</td>
-    <td>Launch Advisory Services - 新解决方案的第一年</td>
+    <td>发布咨询服务 - 新解决方案的第一年</td>
     <td></td>
     <td></td>
     <td>✔</td>
@@ -204,7 +205,7 @@ Adobe 客户支持提供对各种在线资源的访问，让客户能够获取�
     <div>
     <p>Experience League</p>
     <p><b>自助式历程</b></p>
-    <p>Experience Makers 是使用 Experience League 创建的。 客户可以通过个性化学习来获得客户体验管理能力，从而培养技能、与全球同行社区互动并获得职业发展的认可。</p>
+    <p>Experience Makers 因 Experience League 而成就。 客户可以通过个性化学习来获得客户体验管理能力，从而培养技能、与全球同行社区互动并获得职业发展的认可。</p>
     </div>
   </td>
   <td>
@@ -222,7 +223,7 @@ Adobe 客户支持提供对各种在线资源的访问，让客户能够获取�
     <div>
     <p>实时聊天支持*</p>
     <p><b>聊天支持</b></p>
-    <p>开始聊天会话以获取答案并帮助提交案例。</p>
+    <p>开始聊天会话，以获取解答和提交案例方面的帮助。</p>
     <p>*<i>并非所有产品都提供实时聊天支持。</i></p>
     </div>
   </td>
@@ -241,9 +242,9 @@ Adobe 客户支持提供对各种在线资源的访问，让客户能够获取�
 
 | 资源 | 描述 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/zh-hans) | Experience League 是 Adobe 帮助企业实现预期的 Adobe 投资回报的方式。 这是一个集中式位置，提供自助教程、产品文档、讲师指导的培训、社区和技术支持，客户可以在这里学习、建立联系和取得进步，并沿着个性化的路径迈向成功。 |
+| [Experience League](https://experienceleague.adobe.com/) | Experience League 是 Adobe 帮助企业实现预期的 Adobe 投资回报的方式。 这是一个集中式位置，提供自助教程、产品文档、讲师指导的培训、社区和技术支持，客户可以在这里学习、建立联系和取得进步，并沿着个性化的路径迈向成功。 |
 | [培训](https://training.adobe.com/training/) | 可以从 Experience League 访问 Adobe Digital Learning Services 课程。 学习课程同时包括按需课程和讲师指导的课程。 在这里，您可以掌握具有公认市场价值的技能，并在组织中利用这些技能获得成功。 |
-| [生产问题和系统中断](https://status.adobe.com/zh-cn/) | Status.adobe.com 传达在多租户环境中部署的所有 Adobe 产品和服务的运行状况信息。 客户可以选择他们的订阅偏好设置，以便在 Adobe 创建、更新或处理产品事件时收到电子邮件通知。 这可能包括严重性不同的定期维护或服务问题。 |
+| [生产问题和系统中断](https://status.adobe.com/) | Status.adobe.com 传达在多租户环境中部署的所有 Adobe 产品和服务的运行状况信息。 客户可以选择他们的订阅偏好设置，以便在 Adobe 创建、更新或处理产品事件时收到电子邮件通知。 这可能包括严重性不同的定期维护或服务问题。 |
 | [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html) | 详细说明支持服务产品的条款和条件。 |
 
 ## Adobe 支持的区域范围、当地营业时间和语言支持
@@ -269,7 +270,7 @@ Adobe 客户支持提供对各种在线资源的访问，让客户能够获取�
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>语言支持只有英语和日语版本。</i></p>
-      <p><i>Adobe Commerce 不包括日语支持。</i></p>
+      <p><i>Adobe Commerce 不提供日语支持。</i></p>
       <p><i>P2、P3、P4 案例仅限于日本的营业时间。</i></p>
     </td>
   </tr>
