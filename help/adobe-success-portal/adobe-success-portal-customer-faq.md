@@ -24,6 +24,7 @@ ht-degree: 91%
 # [!DNL Adobe Success] 门户：客户常见问题解答
 
  
+
 ## [!DNL Adobe Success] 门户包括哪些范围？
 
 [!DNL Adobe Success] 门户是 Adobe 新推出的面向客户的集中平台，将支持、成功和参与等各方面的售后体验统一起来。 Alpha 版本专注于提供连贯一致的体验，将以前分散在多个平台的工具和工作流整合在一起（例如支持门户、手动 Ultimate Success 工件）。 目标是简化客户在从加入到续订的整个生命周期中与 Adobe 的互动方式，增强透明度、自助服务和价值实现。
@@ -68,4 +69,4 @@ Experience League 仍将是主页，所有文档、学习内容和社区功能�
 
 ## 我有关于新功能或增强功能的建议。 我应该在哪里提交？
 
-关于功能改进的请求应通过 [!DNL Adobe Success] 门户中的[!UICONTROL  Alpha 反馈工具]提交。 您可以随时使用其他可用的渠道，包括您的帐户团队，还可以使用 [Alpha Teams 渠道](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)。
+关于功能改进的请求应通过 [!DNL Adobe Success] 门户中的[!UICONTROL &#x200B; Alpha 反馈工具]提交。 您可以随时使用其他可用的渠道，包括您的帐户团队，还可以使用 [Alpha Teams 渠道](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)。
