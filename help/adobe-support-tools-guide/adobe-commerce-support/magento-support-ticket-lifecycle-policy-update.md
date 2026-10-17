@@ -60,6 +60,6 @@ ht-degree: 39%
 ## 相关阅读
 
 * [提交支持服务单](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#submit-ticket)
-* [Adobe Commerce帮助中心起始页上未显示“提交票证”链接](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
+* [Adobe Commerce帮助中心起始页上未显示“提交票证”链接](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
 * [票证提交表单：商家未显示在“组织”下拉列表中](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#merchant-not-displayed)
 * [Adobe成功计划概述：支持案例生命周期](https://experienceleague.adobe.com/zh-hans/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)
