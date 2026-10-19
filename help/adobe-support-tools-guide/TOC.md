@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: ca0c06009bbd0bc7d6cdb24a28eb3d99bb9ac6b7
+source-git-commit: 5c224ff05365a96b1259adcde2bea70061fe27e5
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '397'
 ht-degree: 2%
 ---
 # Adobe支持和工具指南 {#adobe-support-tools-guide}
@@ -76,4 +76,5 @@ ht-degree: 2%
   - [无法将用户添加到Adobe Commerce云项目](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
   - [如何应用Adobe提供的编辑器修补程序](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
   - [如何应用Adobe提供的独立修补程序](adobe-commerce-support/how-to-apply-an-isolated-security-patch-file-provided-by-adobe.md)
+  - [如何报告第三方安全机构发现的漏洞](/help/adobe-support-tools-guide/adobe-commerce-support/third-party-test-reports-are-handled-by-integriti.md)
   - [支持工具概述](adobe-commerce-support/overview.md)
