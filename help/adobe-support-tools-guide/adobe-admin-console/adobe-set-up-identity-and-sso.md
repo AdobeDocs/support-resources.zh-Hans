@@ -167,4 +167,4 @@ Adobe正在将所有组织更新到[企业存储模型](https://helpx.adobe.com/
 ## 法律和隐私
 
 - [法律声明](https://helpx.adobe.com/cn/legal/legal-notices.html)
-- [在线隐私政策](https://www.adobe.com/privacy.html)
+- [在线隐私政策](https://www.adobe.com/cn/privacy.html)
