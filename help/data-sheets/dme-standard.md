@@ -1,21 +1,19 @@
 ---
 title: 对 Adobe Creative Cloud 和 Adobe Document Cloud 的标准支持
-description: Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。标准支持包括全天均可访问我们的自助支持资源（包括 HelpX 上的文章）以及在 Adobe 社区上与其他客户交流。
+description: Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。 标准支持包括全天均可访问我们的自助支持资源（包括 HelpX 上的文章）以及在 Adobe 社区上与其他客户交流。
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
 source-git-commit: ddaeba7f5e8c2e6d4c7fc2112425ee83ee7eccd3
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '756'
 ht-degree: 100%
-
 ---
-
 # 对 Creative Cloud 和 Adobe Document Cloud 的标准支持
 
 ![图标](assets/StandardBanner.png)
 
-Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。标准支持包括全天均可访问我们的自助支持资源（包括 HelpX 上的文章）以及在 Adobe 社区上与其他客户交流。
+Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技术资源作为您的 Adobe 企业订阅的一部分包括在内。 标准支持包括全天均可访问我们的自助支持资源（包括 HelpX 上的文章）以及在 Adobe 社区上与其他客户交流。
 
-可充分利用我们在 <https://www.adobe.com/cn> 上发布的详细而深入的技术产品文档和当前版本发行说明。我们的标准支持还包括授权用户（管理员）全天均可通过聊天或电话联系我们的技术支持团队，并可通过我们的支持门户网站记录对协助的申请。
+可充分利用我们在 <https://www.adobe.com> 上发布的详细而深入的技术产品文档和当前版本发行说明。 我们的标准支持还包括授权用户（管理员）全天均可通过聊天或电话联系我们的技术支持团队，并可通过我们的支持门户网站记录对协助的申请。
 
 [查看 PDF 版本](assets/DMeStandardSupportDatasheet_2022.pdf)
 
@@ -191,7 +189,7 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
   <tr>
     <td><strong>优先级 1</strong><br>客户的生产业务功能中断或发生重大数据丢失或服务降级，需要立即关注以恢复功能和可用性。</td>
     <td>全天候/<br>30 分钟</td>
-    <td colspan="3" rowspan="4" align="center" valign="middle"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>为适用的 Adobe 产品和服务购买支持计划的客户将获得优先级案例路由，可快速跟踪案例，并将其发送给 Adobe 的支持工程师。</td>
+    <td colspan="3" rowspan="4" align="center" valign="middle"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>为适用的 Adobe 产品和服务购买支持计划的客户将获得优先级案例路由，可快速跟踪案例，并将其发送给 Adobe 的支持工程师。</td>
   </tr>
   <tr>
     <td><strong>优先级 2</strong><br>客户的业务功能发生重大服务降级或潜在数据丢失，或主要功能受到影响。</td>
@@ -214,7 +212,7 @@ Adobe 提供多种多样的技术资源以帮助支持您的业务，这些技�
 
 ## 标准支持 {#standard-support-options}
 
-Adobe 客户支持提供资源访问权限 以获取文档，并与其他专家和客户互动以获得最佳实践。此外，还可通过几个渠道来提交问题和案例
+Adobe 客户支持提供资源访问权限 以获取文档，并与其他专家和客户互动以获得最佳实践。 此外，还可通过几个渠道来提交问题和案例
 
 <table style="table-layout:fixed">
 <tr>
@@ -222,7 +220,7 @@ Adobe 客户支持提供资源访问权限 以获取文档，并与其他专家�
     <img alt="论坛" src="assets/community-forums-icon.png"/>
     <div>
     <p><b>社区论坛</b></p>
-    <p>持续在线访问包括技术解决方案、产品文档、常见问题解答等的不断增长的数据库。在 Adobe 社区与从业人员和其他客户联系，分享最佳实践和经验教训。</p>
+    <p>持续在线访问包括技术解决方案、产品文档、常见问题解答等的不断增长的数据库。 在 Adobe 社区与从业人员和其他客户联系，分享最佳实践和经验教训。</p>
     </div>
   </td>
   <td>
@@ -246,7 +244,7 @@ Adobe 客户支持提供资源访问权限 以获取文档，并与其他专家�
     <img alt="电话支持" src="assets/dmephone.png"/>
     <div>
     <p><b>电话支持</b></p>
-    <p>授权用户（管理员）可以通过电话调用 Adobe 支持以获取答案并帮助提交案例。</p>
+    <p>授权用户（管理员）可以通过电话联系 Adobe 支持，以获取解答并获得提交案例方面的帮助。</p>
     <p><i>以当地时间为准。</i></p>
     </div>
   </td>
@@ -266,9 +264,9 @@ Adobe 客户支持提供资源访问权限 以获取文档，并与其他专家�
 
 | 资源 | 描述 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/zh-hans) | Experience League 为 Adobe 客户提供针对精选 Adobe Creative Cloud 和文档产品的自助教程、产品文档、讲师指导的培训、社区和技术支持。 |
+| [Experience League](https://experienceleague.adobe.com/) | Experience League 为 Adobe 客户提供针对精选 Adobe Creative Cloud 和文档产品的自助教程、产品文档、讲师指导的培训、社区和技术支持。 |
 | [Adobe 支持社区](https://community.adobe.com/) | Adobe 支持社区是提出问题、找到答案、向专家学习和分享知识的场所。 |
-| [生产问题和系统中断](https://status.adobe.com/zh-cn/) | Status.adobe.com 传达在多租户环境中部署的所有 Adobe 产品和服务的运行状况信息。客户可以选择他们的订阅偏好设置，以便在 Adobe 创建、更新或处理产品事件时收到电子邮件通知。这可能包括严重性不同的定期维护或服务问题。 |
+| [生产问题和系统中断](https://status.adobe.com/) | Status.adobe.com 传达在多租户环境中部署的所有 Adobe 产品和服务的运行状况信息。 客户可以选择他们的订阅偏好设置，以便在 Adobe 创建、更新或处理产品事件时收到电子邮件通知。 这可能包括严重性不同的定期维护或服务问题。 |
 | [条款和条件](https://helpx.adobe.com/cn/support/programs/support-policies-terms-conditions.html) | 详细说明支持服务产品的条款和条件。 |
 
 {style="table-layout:auto"}
