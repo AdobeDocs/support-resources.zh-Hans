@@ -45,7 +45,7 @@ role_v2:
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-source-git-commit: 9f49cf28acb39f62f0ec29c620c4d8ef2034f378
+source-git-commit: bdf7e388b52a7a70f1f3673e630f1cb154898b2f
 workflow-type: tm+mt
 source-wordcount: '4693'
 ht-degree: 3%
@@ -243,7 +243,7 @@ Adobe建议执行以下步骤，为假期准备Customer Journey Analytics实例�
 
 ### 准备扩展
 
-遵循[计划和透视：2025年高峰季战略方针](https://experienceleague.adobe.com/zh-hans/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025){target="_blank"}指南中的建议，该指南使用Adobe Commerce（和可选的Adobe Experience Cloud工具）提供切实可行的战略，帮助您规划、透视并在一年中最繁忙的时间提供卓越的客户体验。
+遵循[计划和透视：2026年高峰季战略方针](https://experienceleague.adobe.com/en/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2026){target="_blank"}指南中的建议，该指南使用Adobe Commerce（和可选的Adobe Experience Cloud工具）提供切实可行的战略，帮助您规划、透视并在一年中最繁忙的时间提供卓越的客户体验。
 
 ### 最佳实践
 
