@@ -101,7 +101,7 @@ AAC将在未来的Workfront体验中为客户提供最佳更新和增强功能�
 
 +++**哪些培训资源可用于AAC？**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/cn/enterprise/using/admin-console.html >
 
 +++
 
