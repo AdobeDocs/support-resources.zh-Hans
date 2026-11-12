@@ -20,7 +20,7 @@ topic_v2:
     internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -31,8 +31,9 @@ ht-degree: 0%
 
 本指南还介绍了&#x200B;**[!UICONTROL 支持管理员]**&#x200B;以及&#x200B;**Adobe Admin Console**&#x200B;中的相关设置如何影响可以联系支持人员的用户，以及在需要更深入的步骤或策略时如何影响以产品为中心的文章。 使用本指南的目录可打开指南级别的主题（例如，Experience League中的客户支持体验、支持权利配置、首选支持电话号码和Experience League支持发行说明）。
 
-本指南的主要部分：
+## 本指南的主要部分
 
 - **[Adobe Admin Console](adobe-admin-console/admin-console-overview.md)** — 组织和Global Admin Console的管理：角色、用户、产品、策略、报表和相关任务。
 - **[Adobe Commerce支持](adobe-commerce-support/adobe-commerce-support-overview.md)** — Experience League中的Commerce支持，以及有关工具、云操作、安全和修补、票证实践、隐私和平台生命周期的文章。
 - **[Adobe Workfront支持](faq.md)** — Workfront上下文中Adobe业务平台和Admin Console的常见问题解答。
+

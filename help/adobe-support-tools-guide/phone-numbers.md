@@ -14,12 +14,14 @@ role_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 0%
+source-wordcount: '155'
+ht-degree: 1%
 ---
 # 指定首选支持电话号码
+
+## 开始之前
 
 当您被分配了&#x200B;**管理员**&#x200B;角色（如&#x200B;**产品支持管理员**）时，您将收到一封电子邮件，确认您具有管理实例的管理员权限。
 
@@ -27,17 +29,14 @@ ht-degree: 0%
 
 ![首选支持编号](assets/admin-console-1.png)
 
-要指定首选电话号码，请执行以下操作：
+## 设置您的首选支持电话号码
 
 1. 单击&#x200B;**[!UICONTROL 帐户配置文件]**&#x200B;链接打开一个新窗口以使用`account.adobe.com`登录。
-
    ![登录](assets/sign-in.png)
-
 1. 完成登录过程并在`account.adobe.com`上的以下屏幕上登陆。
 1. 选择&#x200B;**[!UICONTROL 帐户和安全]** > **[!UICONTROL 帐户]**&#x200B;以查看支持电话号码字段。
 1. 在此处添加一个电话号码，以便我们识别您的支持需求。
-
-![指定详细信息](assets/account-info.png)
+   ![指定详细信息](assets/account-info.png)
 
 ![添加电话号码](assets/enter-phone-number.png)
 
